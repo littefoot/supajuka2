@@ -1,0 +1,19 @@
+{
+  "id": "flac_74fe02bee241",
+  "source": "local",
+  "title": "American Idiot",
+  "artist": "Green Day",
+  "album": "American Idiot (20th Anniversary Deluxe Edition)",
+  "duration": 175,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 192000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_74fe02bee241/cover.jpg",
+  "cachedAt": 1789500488284,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_74fe02bee241/original.flac",
+  "instrumentalUrl": "/audio/flac_74fe02bee241/instrumental.flac",
+  "vocalsUrl": "/audio/flac_74fe02bee241/vocals.flac"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "supajuka2",
+  "version": "2.0.0",
+  "private": true,
+  "description": "SupaJuka 2: High-Fidelity Lossless FLAC & WASM Karaoke Engine",
+  "scripts": {
+    "dev": "concurrently \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm --prefix server run build && npm --prefix client run build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

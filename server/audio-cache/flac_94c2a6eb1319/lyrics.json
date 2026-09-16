@@ -1,0 +1,1334 @@
+{
+  "language": "en",
+  "language_probability": 0.99,
+  "duration": 252.52,
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 18.32,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 1.0,
+          "end": 18.32,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 21.42,
+      "end": 26.4,
+      "text": "Thought I ran into you down on the street",
+      "words": [
+        {
+          "text": "Thought",
+          "start": 21.42,
+          "end": 21.6,
+          "probability": 0.78
+        },
+        {
+          "text": "I",
+          "start": 21.6,
+          "end": 21.86,
+          "probability": 1.0
+        },
+        {
+          "text": "ran",
+          "start": 21.86,
+          "end": 22.18,
+          "probability": 0.99
+        },
+        {
+          "text": "into",
+          "start": 22.18,
+          "end": 22.82,
+          "probability": 1.0
+        },
+        {
+          "text": "you",
+          "start": 22.82,
+          "end": 23.48,
+          "probability": 1.0
+        },
+        {
+          "text": "down",
+          "start": 23.64,
+          "end": 24.08,
+          "probability": 0.94
+        },
+        {
+          "text": "on",
+          "start": 24.42,
+          "end": 24.94,
+          "probability": 0.97
+        },
+        {
+          "text": "the",
+          "start": 24.94,
+          "end": 25.58,
+          "probability": 1.0
+        },
+        {
+          "text": "street",
+          "start": 25.88,
+          "end": 26.4,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "start": 29.38,
+      "end": 34.24,
+      "text": "Then it turned out to only be a dream",
+      "words": [
+        {
+          "text": "Then",
+          "start": 29.38,
+          "end": 29.58,
+          "probability": 0.37
+        },
+        {
+          "text": "it",
+          "start": 29.58,
+          "end": 29.88,
+          "probability": 0.99
+        },
+        {
+          "text": "turned",
+          "start": 29.88,
+          "end": 30.14,
+          "probability": 1.0
+        },
+        {
+          "text": "out",
+          "start": 30.14,
+          "end": 30.5,
+          "probability": 1.0
+        },
+        {
+          "text": "to",
+          "start": 30.6,
+          "end": 30.94,
+          "probability": 0.99
+        },
+        {
+          "text": "only",
+          "start": 31.18,
+          "end": 31.88,
+          "probability": 0.99
+        },
+        {
+          "text": "be",
+          "start": 32.44,
+          "end": 32.68,
+          "probability": 0.98
+        },
+        {
+          "text": "a",
+          "start": 32.68,
+          "end": 33.64,
+          "probability": 1.0
+        },
+        {
+          "text": "dream",
+          "start": 33.64,
+          "end": 34.24,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 37.38,
+      "end": 42.4,
+      "text": "I made a point to burn all of the photographs",
+      "words": [
+        {
+          "text": "I",
+          "start": 37.38,
+          "end": 37.54,
+          "probability": 0.79
+        },
+        {
+          "text": "made",
+          "start": 37.54,
+          "end": 37.92,
+          "probability": 1.0
+        },
+        {
+          "text": "a",
+          "start": 37.92,
+          "end": 38.16,
+          "probability": 0.99
+        },
+        {
+          "text": "point",
+          "start": 38.16,
+          "end": 38.56,
+          "probability": 1.0
+        },
+        {
+          "text": "to",
+          "start": 38.56,
+          "end": 38.98,
+          "probability": 1.0
+        },
+        {
+          "text": "burn",
+          "start": 39.18,
+          "end": 39.62,
+          "probability": 1.0
+        },
+        {
+          "text": "all",
+          "start": 39.62,
+          "end": 40.22,
+          "probability": 0.92
+        },
+        {
+          "text": "of",
+          "start": 40.22,
+          "end": 40.9,
+          "probability": 0.99
+        },
+        {
+          "text": "the",
+          "start": 40.9,
+          "end": 41.26,
+          "probability": 1.0
+        },
+        {
+          "text": "photographs",
+          "start": 41.46,
+          "end": 42.4,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 45.26,
+      "end": 50.76,
+      "text": "She went away and then I took a different path",
+      "words": [
+        {
+          "text": "She",
+          "start": 45.26,
+          "end": 45.54,
+          "probability": 0.99
+        },
+        {
+          "text": "went",
+          "start": 45.54,
+          "end": 45.96,
+          "probability": 1.0
+        },
+        {
+          "text": "away",
+          "start": 45.96,
+          "end": 46.5,
+          "probability": 1.0
+        },
+        {
+          "text": "and",
+          "start": 46.5,
+          "end": 47.14,
+          "probability": 0.96
+        },
+        {
+          "text": "then",
+          "start": 47.14,
+          "end": 47.46,
+          "probability": 0.99
+        },
+        {
+          "text": "I",
+          "start": 47.46,
+          "end": 48.0,
+          "probability": 1.0
+        },
+        {
+          "text": "took",
+          "start": 48.12,
+          "end": 48.62,
+          "probability": 1.0
+        },
+        {
+          "text": "a",
+          "start": 48.92,
+          "end": 49.32,
+          "probability": 1.0
+        },
+        {
+          "text": "different",
+          "start": 49.7,
+          "end": 49.84,
+          "probability": 1.0
+        },
+        {
+          "text": "path",
+          "start": 50.22,
+          "end": 50.76,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 53.38,
+      "end": 55.62,
+      "text": "I remember the face",
+      "words": [
+        {
+          "text": "I",
+          "start": 53.38,
+          "end": 53.54,
+          "probability": 0.72
+        },
+        {
+          "text": "remember",
+          "start": 53.54,
+          "end": 54.26,
+          "probability": 0.97
+        },
+        {
+          "text": "the",
+          "start": 54.26,
+          "end": 54.94,
+          "probability": 0.99
+        },
+        {
+          "text": "face",
+          "start": 55.2,
+          "end": 55.62,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "start": 55.74,
+      "end": 58.7,
+      "text": "But I can't recall the name",
+      "words": [
+        {
+          "text": "But",
+          "start": 55.74,
+          "end": 55.9,
+          "probability": 0.16
+        },
+        {
+          "text": "I",
+          "start": 55.9,
+          "end": 56.16,
+          "probability": 1.0
+        },
+        {
+          "text": "can't",
+          "start": 56.26,
+          "end": 56.92,
+          "probability": 1.0
+        },
+        {
+          "text": "recall",
+          "start": 57.42,
+          "end": 57.66,
+          "probability": 0.99
+        },
+        {
+          "text": "the",
+          "start": 57.66,
+          "end": 58.04,
+          "probability": 0.95
+        },
+        {
+          "text": "name",
+          "start": 58.04,
+          "end": 58.7,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 60.9,
+      "end": 64.7,
+      "text": "Now I wonder how what's her name has been",
+      "words": [
+        {
+          "text": "Now",
+          "start": 60.9,
+          "end": 61.14,
+          "probability": 0.95
+        },
+        {
+          "text": "I",
+          "start": 61.14,
+          "end": 61.4,
+          "probability": 1.0
+        },
+        {
+          "text": "wonder",
+          "start": 61.4,
+          "end": 61.9,
+          "probability": 1.0
+        },
+        {
+          "text": "how",
+          "start": 61.9,
+          "end": 62.16,
+          "probability": 0.48
+        },
+        {
+          "text": "what's",
+          "start": 62.16,
+          "end": 62.84,
+          "probability": 0.82
+        },
+        {
+          "text": "her",
+          "start": 62.84,
+          "end": 63.2,
+          "probability": 0.91
+        },
+        {
+          "text": "name",
+          "start": 63.2,
+          "end": 63.68,
+          "probability": 1.0
+        },
+        {
+          "text": "has",
+          "start": 63.68,
+          "end": 64.22,
+          "probability": 0.94
+        },
+        {
+          "text": "been",
+          "start": 64.22,
+          "end": 64.7,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 65.7,
+      "end": 78.76,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 65.7,
+          "end": 78.76,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 81.28,
+      "end": 86.54,
+      "text": "Seems that she disappeared without a trace",
+      "words": [
+        {
+          "text": "Seems",
+          "start": 81.28,
+          "end": 81.68,
+          "probability": 0.69
+        },
+        {
+          "text": "that",
+          "start": 81.68,
+          "end": 81.92,
+          "probability": 0.91
+        },
+        {
+          "text": "she",
+          "start": 81.92,
+          "end": 82.16,
+          "probability": 1.0
+        },
+        {
+          "text": "disappeared",
+          "start": 82.16,
+          "end": 83.3,
+          "probability": 0.99
+        },
+        {
+          "text": "without",
+          "start": 83.3,
+          "end": 84.14,
+          "probability": 0.94
+        },
+        {
+          "text": "a",
+          "start": 84.48,
+          "end": 85.72,
+          "probability": 1.0
+        },
+        {
+          "text": "trace",
+          "start": 85.72,
+          "end": 86.54,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 89.48,
+      "end": 94.96,
+      "text": "Did she ever marry, oh what's his face",
+      "words": [
+        {
+          "text": "Did",
+          "start": 89.48,
+          "end": 89.6,
+          "probability": 0.4
+        },
+        {
+          "text": "she",
+          "start": 89.6,
+          "end": 89.9,
+          "probability": 1.0
+        },
+        {
+          "text": "ever",
+          "start": 89.9,
+          "end": 90.42,
+          "probability": 1.0
+        },
+        {
+          "text": "marry,",
+          "start": 90.42,
+          "end": 91.46,
+          "probability": 0.99
+        },
+        {
+          "text": "oh",
+          "start": 91.9,
+          "end": 92.06,
+          "probability": 0.95
+        },
+        {
+          "text": "what's",
+          "start": 92.06,
+          "end": 93.34,
+          "probability": 0.79
+        },
+        {
+          "text": "his",
+          "start": 93.34,
+          "end": 93.84,
+          "probability": 0.72
+        },
+        {
+          "text": "face",
+          "start": 93.98,
+          "end": 94.96,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 97.46,
+      "end": 102.64,
+      "text": "I made a point to burn all of the photographs",
+      "words": [
+        {
+          "text": "I",
+          "start": 97.46,
+          "end": 97.62,
+          "probability": 0.51
+        },
+        {
+          "text": "made",
+          "start": 97.62,
+          "end": 97.96,
+          "probability": 0.65
+        },
+        {
+          "text": "a",
+          "start": 97.96,
+          "end": 98.22,
+          "probability": 0.96
+        },
+        {
+          "text": "point",
+          "start": 98.22,
+          "end": 98.62,
+          "probability": 1.0
+        },
+        {
+          "text": "to",
+          "start": 98.62,
+          "end": 99.06,
+          "probability": 1.0
+        },
+        {
+          "text": "burn",
+          "start": 99.22,
+          "end": 99.68,
+          "probability": 0.99
+        },
+        {
+          "text": "all",
+          "start": 99.68,
+          "end": 100.3,
+          "probability": 0.99
+        },
+        {
+          "text": "of",
+          "start": 100.3,
+          "end": 100.94,
+          "probability": 0.98
+        },
+        {
+          "text": "the",
+          "start": 100.94,
+          "end": 101.34,
+          "probability": 1.0
+        },
+        {
+          "text": "photographs",
+          "start": 102.22,
+          "end": 102.64,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 105.32,
+      "end": 110.72,
+      "text": "She went away and then I took a different path",
+      "words": [
+        {
+          "text": "She",
+          "start": 105.32,
+          "end": 105.58,
+          "probability": 0.58
+        },
+        {
+          "text": "went",
+          "start": 105.58,
+          "end": 106.04,
+          "probability": 0.98
+        },
+        {
+          "text": "away",
+          "start": 106.04,
+          "end": 106.52,
+          "probability": 1.0
+        },
+        {
+          "text": "and",
+          "start": 106.52,
+          "end": 107.2,
+          "probability": 0.86
+        },
+        {
+          "text": "then",
+          "start": 107.2,
+          "end": 107.6,
+          "probability": 0.98
+        },
+        {
+          "text": "I",
+          "start": 107.6,
+          "end": 108.06,
+          "probability": 1.0
+        },
+        {
+          "text": "took",
+          "start": 108.2,
+          "end": 108.64,
+          "probability": 1.0
+        },
+        {
+          "text": "a",
+          "start": 109.0,
+          "end": 109.36,
+          "probability": 0.99
+        },
+        {
+          "text": "different",
+          "start": 109.48,
+          "end": 109.86,
+          "probability": 1.0
+        },
+        {
+          "text": "path",
+          "start": 110.24,
+          "end": 110.72,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 113.46,
+      "end": 119.0,
+      "text": "I remember the face but I can't recall the name",
+      "words": [
+        {
+          "text": "I",
+          "start": 113.46,
+          "end": 113.64,
+          "probability": 0.6
+        },
+        {
+          "text": "remember",
+          "start": 113.64,
+          "end": 114.32,
+          "probability": 0.94
+        },
+        {
+          "text": "the",
+          "start": 114.72,
+          "end": 114.98,
+          "probability": 0.99
+        },
+        {
+          "text": "face",
+          "start": 115.26,
+          "end": 115.68,
+          "probability": 0.98
+        },
+        {
+          "text": "but",
+          "start": 115.68,
+          "end": 115.98,
+          "probability": 0.77
+        },
+        {
+          "text": "I",
+          "start": 115.98,
+          "end": 116.22,
+          "probability": 0.99
+        },
+        {
+          "text": "can't",
+          "start": 116.22,
+          "end": 116.88,
+          "probability": 0.96
+        },
+        {
+          "text": "recall",
+          "start": 117.48,
+          "end": 117.72,
+          "probability": 1.0
+        },
+        {
+          "text": "the",
+          "start": 117.72,
+          "end": 118.14,
+          "probability": 0.97
+        },
+        {
+          "text": "name",
+          "start": 118.14,
+          "end": 119.0,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 120.98,
+      "end": 124.78,
+      "text": "Now I wonder what her name has been",
+      "words": [
+        {
+          "text": "Now",
+          "start": 120.98,
+          "end": 121.24,
+          "probability": 0.98
+        },
+        {
+          "text": "I",
+          "start": 121.24,
+          "end": 121.48,
+          "probability": 1.0
+        },
+        {
+          "text": "wonder",
+          "start": 121.74,
+          "end": 121.9,
+          "probability": 1.0
+        },
+        {
+          "text": "what",
+          "start": 121.9,
+          "end": 122.36,
+          "probability": 0.41
+        },
+        {
+          "text": "her",
+          "start": 122.74,
+          "end": 123.16,
+          "probability": 0.94
+        },
+        {
+          "text": "name",
+          "start": 123.16,
+          "end": 123.62,
+          "probability": 1.0
+        },
+        {
+          "text": "has",
+          "start": 123.62,
+          "end": 124.26,
+          "probability": 1.0
+        },
+        {
+          "text": "been",
+          "start": 124.26,
+          "end": 124.78,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 125.78,
+      "end": 154.18,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 125.78,
+          "end": 154.18,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 157.32,
+      "end": 159.82,
+      "text": "Remember, whatever",
+      "words": [
+        {
+          "text": "Remember,",
+          "start": 157.32,
+          "end": 157.58,
+          "probability": 0.76
+        },
+        {
+          "text": "whatever",
+          "start": 159.02,
+          "end": 159.82,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "start": 159.82,
+      "end": 164.3,
+      "text": "Remember, it seems like forever ago",
+      "words": [
+        {
+          "text": "Remember,",
+          "start": 159.82,
+          "end": 161.02,
+          "probability": 0.31
+        },
+        {
+          "text": "it",
+          "start": 161.02,
+          "end": 161.24,
+          "probability": 0.9
+        },
+        {
+          "text": "seems",
+          "start": 161.68,
+          "end": 161.78,
+          "probability": 0.99
+        },
+        {
+          "text": "like",
+          "start": 161.78,
+          "end": 162.16,
+          "probability": 0.99
+        },
+        {
+          "text": "forever",
+          "start": 162.16,
+          "end": 162.9,
+          "probability": 0.99
+        },
+        {
+          "text": "ago",
+          "start": 163.3,
+          "end": 164.3,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 165.32,
+      "end": 167.62,
+      "text": "Remember, whatever",
+      "words": [
+        {
+          "text": "Remember,",
+          "start": 165.32,
+          "end": 165.44,
+          "probability": 0.86
+        },
+        {
+          "text": "whatever",
+          "start": 166.88,
+          "end": 167.62,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "start": 168.96,
+      "end": 172.52,
+      "text": "It seems like forever ago",
+      "words": [
+        {
+          "text": "It",
+          "start": 168.96,
+          "end": 169.24,
+          "probability": 0.61
+        },
+        {
+          "text": "seems",
+          "start": 169.24,
+          "end": 169.78,
+          "probability": 1.0
+        },
+        {
+          "text": "like",
+          "start": 169.78,
+          "end": 170.18,
+          "probability": 1.0
+        },
+        {
+          "text": "forever",
+          "start": 170.3,
+          "end": 170.94,
+          "probability": 1.0
+        },
+        {
+          "text": "ago",
+          "start": 171.32,
+          "end": 172.52,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 172.86,
+      "end": 177.06,
+      "text": "No regrets, no regrets in my mind",
+      "words": [
+        {
+          "text": "No",
+          "start": 172.86,
+          "end": 173.26,
+          "probability": 0.39
+        },
+        {
+          "text": "regrets,",
+          "start": 173.26,
+          "end": 174.36,
+          "probability": 0.99
+        },
+        {
+          "text": "no",
+          "start": 175.08,
+          "end": 175.34,
+          "probability": 0.1
+        },
+        {
+          "text": "regrets",
+          "start": 175.34,
+          "end": 175.82,
+          "probability": 0.14
+        },
+        {
+          "text": "in",
+          "start": 175.82,
+          "end": 176.32,
+          "probability": 0.88
+        },
+        {
+          "text": "my",
+          "start": 176.32,
+          "end": 176.56,
+          "probability": 0.99
+        },
+        {
+          "text": "mind",
+          "start": 176.56,
+          "end": 177.06,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 177.38,
+      "end": 180.46,
+      "text": "She's in my head and my head can pass",
+      "words": [
+        {
+          "text": "She's",
+          "start": 177.38,
+          "end": 177.88,
+          "probability": 0.99
+        },
+        {
+          "text": "in",
+          "start": 177.88,
+          "end": 178.08,
+          "probability": 0.99
+        },
+        {
+          "text": "my",
+          "start": 178.08,
+          "end": 178.4,
+          "probability": 0.98
+        },
+        {
+          "text": "head",
+          "start": 178.4,
+          "end": 178.62,
+          "probability": 0.67
+        },
+        {
+          "text": "and",
+          "start": 178.62,
+          "end": 179.34,
+          "probability": 0.78
+        },
+        {
+          "text": "my",
+          "start": 179.34,
+          "end": 179.6,
+          "probability": 0.42
+        },
+        {
+          "text": "head",
+          "start": 179.6,
+          "end": 179.82,
+          "probability": 0.12
+        },
+        {
+          "text": "can",
+          "start": 179.82,
+          "end": 180.06,
+          "probability": 0.18
+        },
+        {
+          "text": "pass",
+          "start": 180.06,
+          "end": 180.46,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "start": 180.46,
+      "end": 185.04,
+      "text": "No regrets, no regrets in my mind",
+      "words": [
+        {
+          "text": "No",
+          "start": 180.46,
+          "end": 181.26,
+          "probability": 0.96
+        },
+        {
+          "text": "regrets,",
+          "start": 181.26,
+          "end": 182.36,
+          "probability": 1.0
+        },
+        {
+          "text": "no",
+          "start": 183.06,
+          "end": 183.26,
+          "probability": 1.0
+        },
+        {
+          "text": "regrets",
+          "start": 183.26,
+          "end": 183.76,
+          "probability": 1.0
+        },
+        {
+          "text": "in",
+          "start": 183.76,
+          "end": 184.3,
+          "probability": 0.97
+        },
+        {
+          "text": "my",
+          "start": 184.3,
+          "end": 184.52,
+          "probability": 1.0
+        },
+        {
+          "text": "mind",
+          "start": 184.52,
+          "end": 185.04,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "start": 185.4,
+      "end": 188.36,
+      "text": "She's in my head so long ago",
+      "words": [
+        {
+          "text": "She's",
+          "start": 185.4,
+          "end": 185.92,
+          "probability": 1.0
+        },
+        {
+          "text": "in",
+          "start": 185.92,
+          "end": 186.12,
+          "probability": 1.0
+        },
+        {
+          "text": "my",
+          "start": 186.12,
+          "end": 186.42,
+          "probability": 0.92
+        },
+        {
+          "text": "head",
+          "start": 186.42,
+          "end": 186.66,
+          "probability": 0.97
+        },
+        {
+          "text": "so",
+          "start": 186.66,
+          "end": 187.18,
+          "probability": 0.97
+        },
+        {
+          "text": "long",
+          "start": 187.18,
+          "end": 187.8,
+          "probability": 1.0
+        },
+        {
+          "text": "ago",
+          "start": 188.02,
+          "end": 188.36,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 189.36,
+      "end": 202.14,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 189.36,
+          "end": 202.14,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 204.9,
+      "end": 207.92,
+      "text": "And in the darkest night",
+      "words": [
+        {
+          "text": "And",
+          "start": 204.9,
+          "end": 205.3,
+          "probability": 0.26
+        },
+        {
+          "text": "in",
+          "start": 205.3,
+          "end": 205.74,
+          "probability": 0.93
+        },
+        {
+          "text": "the",
+          "start": 205.74,
+          "end": 206.2,
+          "probability": 1.0
+        },
+        {
+          "text": "darkest",
+          "start": 206.8,
+          "end": 206.94,
+          "probability": 0.99
+        },
+        {
+          "text": "night",
+          "start": 206.94,
+          "end": 207.92,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "start": 208.88,
+      "end": 212.48,
+      "text": "If my memory serves me high",
+      "words": [
+        {
+          "text": "If",
+          "start": 208.88,
+          "end": 209.36,
+          "probability": 0.74
+        },
+        {
+          "text": "my",
+          "start": 209.36,
+          "end": 209.76,
+          "probability": 0.98
+        },
+        {
+          "text": "memory",
+          "start": 209.76,
+          "end": 210.94,
+          "probability": 0.89
+        },
+        {
+          "text": "serves",
+          "start": 210.94,
+          "end": 211.7,
+          "probability": 0.99
+        },
+        {
+          "text": "me",
+          "start": 211.7,
+          "end": 212.06,
+          "probability": 0.43
+        },
+        {
+          "text": "high",
+          "start": 212.06,
+          "end": 212.48,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "start": 213.0,
+      "end": 215.84,
+      "text": "I'll never turn back, dive",
+      "words": [
+        {
+          "text": "I'll",
+          "start": 213.0,
+          "end": 213.36,
+          "probability": 0.96
+        },
+        {
+          "text": "never",
+          "start": 213.36,
+          "end": 213.94,
+          "probability": 1.0
+        },
+        {
+          "text": "turn",
+          "start": 213.94,
+          "end": 214.74,
+          "probability": 1.0
+        },
+        {
+          "text": "back,",
+          "start": 214.74,
+          "end": 215.24,
+          "probability": 0.8
+        },
+        {
+          "text": "dive",
+          "start": 215.4,
+          "end": 215.84,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "start": 217.3,
+      "end": 220.54,
+      "text": "Forgetting you but not the time",
+      "words": [
+        {
+          "text": "Forgetting",
+          "start": 217.3,
+          "end": 218.26,
+          "probability": 0.95
+        },
+        {
+          "text": "you",
+          "start": 218.26,
+          "end": 218.74,
+          "probability": 1.0
+        },
+        {
+          "text": "but",
+          "start": 218.74,
+          "end": 219.22,
+          "probability": 0.65
+        },
+        {
+          "text": "not",
+          "start": 219.22,
+          "end": 219.76,
+          "probability": 1.0
+        },
+        {
+          "text": "the",
+          "start": 219.86,
+          "end": 220.08,
+          "probability": 1.0
+        },
+        {
+          "text": "time",
+          "start": 220.08,
+          "end": 220.54,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 221.54,
+      "end": 244.5,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 221.54,
+          "end": 244.5,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 246.5,
+      "end": 246.56,
+      "text": "Thank you.",
+      "words": [
+        {
+          "text": "Thank",
+          "start": 246.5,
+          "end": 246.54,
+          "probability": 0.13
+        },
+        {
+          "text": "you.",
+          "start": 246.54,
+          "end": 246.56,
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "text": "Thought I ran into you down on the street Then it turned out to only be a dream I made a point to burn all of the photographs She went away and then I took a different path I remember the face But I can't recall the name Now I wonder how what's her name has been Seems that she disappeared without a trace Did she ever marry, oh what's his face I made a point to burn all of the photographs She went away and then I took a different path I remember the face but I can't recall the name Now I wonder what her name has been Remember, whatever Remember, it seems like forever ago Remember, whatever It seems like forever ago No regrets, no regrets in my mind She's in my head and my head can pass No regrets, no regrets in my mind She's in my head so long ago And in the darkest night If my memory serves me high I'll never turn back, dive Forgetting you but not the time Thank you."
+}

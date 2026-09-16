@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Build outputs
+dist/
+*/dist/
+build/
+*/build/
+*.tsbuildinfo
+
+# Audio & Media Binaries (keep heavy audio out of git)
+*.flac
+*.wav
+*.mp3
+*.m4a
+*.webm
+*.ogg
+*.opus
+*.aac
+server/audio-cache/**/*.flac
+server/audio-cache/**/*.mp3
+server/audio-cache/**/*.wav
+server/audio-cache/**/*.jpg
+server/audio-cache/**/*.jpeg
+server/audio-cache/**/*.png
+server/audio-cache/**/*.webm
+
+# Local Environment & Secrets
+.env
+.env.local
+*.env
+*.env.production
+
+# Python artifacts
+__pycache__/
+*/__pycache__/
+*.pyc
+*.pyo
+*.bak*
+.venv/
+venv/
+*.egg-info/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,19 @@
+{
+  "id": "flac_94c2a6eb1319",
+  "source": "local",
+  "title": "Whatsername",
+  "artist": "Green Day",
+  "album": "American Idiot (20th Anniversary Deluxe Edition)",
+  "duration": 253,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 192000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_94c2a6eb1319/cover.jpg",
+  "cachedAt": 1789499479817,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_94c2a6eb1319/original.flac",
+  "instrumentalUrl": "/audio/flac_94c2a6eb1319/instrumental.flac",
+  "vocalsUrl": "/audio/flac_94c2a6eb1319/vocals.flac"
+}

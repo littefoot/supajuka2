@@ -1,0 +1,2227 @@
+{
+  "language": "en",
+  "language_probability": 0.95,
+  "duration": 260.94,
+  "segments": [
+    {
+      "start": 1,
+      "end": 9.12,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 1,
+          "end": 9.12,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 11.92,
+      "end": 14.1,
+      "text": "I walk a lonely road",
+      "words": [
+        {
+          "text": "I",
+          "start": 11.92,
+          "end": 12.27,
+          "probability": 0.54,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 11.92,
+              "end": 12.27
+            }
+          ]
+        },
+        {
+          "text": "walk",
+          "start": 12.27,
+          "end": 12.64,
+          "probability": 0.84,
+          "syllables": [
+            {
+              "text": "walk",
+              "start": 12.27,
+              "end": 12.64
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 12.64,
+          "end": 12.9,
+          "probability": 0.95
+        },
+        {
+          "text": "lonely",
+          "start": 12.9,
+          "end": 13.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "lo",
+              "start": 12.9,
+              "end": 13.07
+            },
+            {
+              "text": "ne",
+              "start": 13.07,
+              "end": 13.25
+            },
+            {
+              "text": "ly",
+              "start": 13.25,
+              "end": 13.6
+            }
+          ]
+        },
+        {
+          "text": "road",
+          "start": 13.72,
+          "end": 14.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "road",
+              "start": 13.72,
+              "end": 14.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 14.29,
+      "end": 17.58,
+      "text": "The only one that I have ever known",
+      "words": [
+        {
+          "text": "The",
+          "start": 14.29,
+          "end": 14.4,
+          "probability": 0.42,
+          "syllables": [
+            {
+              "text": "The",
+              "start": 14.29,
+              "end": 14.4
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 14.4,
+          "end": 14.9,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 14.9,
+          "end": 15.42,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 15.52,
+          "end": 15.72,
+          "probability": 0.97,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 15.52,
+              "end": 15.72
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 15.72,
+          "end": 16.14,
+          "probability": 0.99
+        },
+        {
+          "text": "have",
+          "start": 16.14,
+          "end": 16.6,
+          "probability": 0.99
+        },
+        {
+          "text": "ever",
+          "start": 16.6,
+          "end": 17.02,
+          "probability": 0.99
+        },
+        {
+          "text": "known",
+          "start": 17.19,
+          "end": 17.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "known",
+              "start": 17.19,
+              "end": 17.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 18.03,
+      "end": 19.96,
+      "text": "Don't know where it goes",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 18.03,
+          "end": 18.34,
+          "probability": 0.95,
+          "syllables": [
+            {
+              "text": "Don't",
+              "start": 18.03,
+              "end": 18.34
+            }
+          ]
+        },
+        {
+          "text": "know",
+          "start": 18.42,
+          "end": 18.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "know",
+              "start": 18.42,
+              "end": 18.62
+            }
+          ]
+        },
+        {
+          "text": "where",
+          "start": 18.62,
+          "end": 19.06,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 19.06,
+          "end": 19.32,
+          "probability": 1
+        },
+        {
+          "text": "goes",
+          "start": 19.42,
+          "end": 19.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 19.96,
+      "end": 23.48,
+      "text": "But it's only me and I walk alone",
+      "words": [
+        {
+          "text": "But",
+          "start": 19.96,
+          "end": 20.38,
+          "probability": 0.89
+        },
+        {
+          "text": "it's",
+          "start": 20.76,
+          "end": 20.96,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 20.96,
+          "end": 21.3,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 21.3,
+          "end": 21.8,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 21.8,
+          "end": 22.04,
+          "probability": 0.93
+        },
+        {
+          "text": "I",
+          "start": 22.04,
+          "end": 22.26,
+          "probability": 1
+        },
+        {
+          "text": "walk",
+          "start": 22.26,
+          "end": 22.76,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 22.76,
+          "end": 23.48,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "start": 29.15,
+      "end": 31.39,
+      "text": "I walk this empty street",
+      "words": [
+        {
+          "text": "I",
+          "start": 29.15,
+          "end": 29.32,
+          "probability": 0.89,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 29.15,
+              "end": 29.32
+            }
+          ]
+        },
+        {
+          "text": "walk",
+          "start": 29.35,
+          "end": 29.72,
+          "probability": 0.96,
+          "syllables": [
+            {
+              "text": "walk",
+              "start": 29.35,
+              "end": 29.72
+            }
+          ]
+        },
+        {
+          "text": "this",
+          "start": 29.91,
+          "end": 30.25,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "this",
+              "start": 29.91,
+              "end": 30.25
+            }
+          ]
+        },
+        {
+          "text": "empty",
+          "start": 30.27,
+          "end": 30.8,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "emp",
+              "start": 30.27,
+              "end": 30.58
+            },
+            {
+              "text": "ty",
+              "start": 30.6,
+              "end": 30.8
+            }
+          ]
+        },
+        {
+          "text": "street",
+          "start": 30.8,
+          "end": 31.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "street",
+              "start": 30.8,
+              "end": 31.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 31.69,
+      "end": 34.88,
+      "text": "On the boulevard of broken dreams",
+      "words": [
+        {
+          "text": "On",
+          "start": 31.69,
+          "end": 32,
+          "probability": 0.36,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 31.69,
+              "end": 32
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 32,
+          "end": 32.3,
+          "probability": 1
+        },
+        {
+          "text": "boulevard",
+          "start": 32.42,
+          "end": 33.48,
+          "probability": 0.99
+        },
+        {
+          "text": "of",
+          "start": 33.48,
+          "end": 33.76,
+          "probability": 0.82
+        },
+        {
+          "text": "broken",
+          "start": 34.2,
+          "end": 34.3,
+          "probability": 1
+        },
+        {
+          "text": "dreams",
+          "start": 34.28,
+          "end": 34.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.32,
+      "end": 37.18,
+      "text": "Where the city sleeps",
+      "words": [
+        {
+          "text": "Where",
+          "start": 35.32,
+          "end": 35.56,
+          "probability": 0.98,
+          "syllables": [
+            {
+              "text": "Where",
+              "start": 35.32,
+              "end": 35.56
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 35.56,
+          "end": 35.88,
+          "probability": 1
+        },
+        {
+          "text": "city",
+          "start": 35.88,
+          "end": 36.46,
+          "probability": 1
+        },
+        {
+          "text": "sleeps",
+          "start": 36.46,
+          "end": 37.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 37.18,
+      "end": 39.06,
+      "text": "And I'm the only one",
+      "words": [
+        {
+          "text": "And",
+          "start": 37.18,
+          "end": 37.5,
+          "probability": 0.64
+        },
+        {
+          "text": "I'm",
+          "start": 37.5,
+          "end": 37.8,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 37.8,
+          "end": 38.08,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 38.08,
+          "end": 38.62,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 38.62,
+          "end": 39.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 39.06,
+      "end": 40.68,
+      "text": "And I walk alone",
+      "words": [
+        {
+          "text": "And",
+          "start": 39.06,
+          "end": 39.32,
+          "probability": 0.87
+        },
+        {
+          "text": "I",
+          "start": 39.32,
+          "end": 39.54,
+          "probability": 1
+        },
+        {
+          "text": "walk",
+          "start": 39.54,
+          "end": 40.02,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 40.02,
+          "end": 40.68,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "start": 43.56,
+      "end": 44.88,
+      "text": "I walk alone",
+      "words": [
+        {
+          "text": "I",
+          "start": 43.56,
+          "end": 43.74,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 43.56,
+              "end": 43.74
+            }
+          ]
+        },
+        {
+          "text": "walk",
+          "start": 43.74,
+          "end": 44.3,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 44.3,
+          "end": 44.88,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 44.88,
+      "end": 46.61,
+      "text": "I walk alone",
+      "words": [
+        {
+          "text": "I",
+          "start": 44.88,
+          "end": 45.26,
+          "probability": 0.7
+        },
+        {
+          "text": "walk",
+          "start": 45.26,
+          "end": 45.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "walk",
+              "start": 45.26,
+              "end": 45.68
+            }
+          ]
+        },
+        {
+          "text": "alone",
+          "start": 45.74,
+          "end": 46.61,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 45.74,
+              "end": 45.96
+            },
+            {
+              "text": "lo",
+              "start": 45.96,
+              "end": 46.39
+            },
+            {
+              "text": "ne",
+              "start": 46.39,
+              "end": 46.61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 49.33,
+      "end": 50.71,
+      "text": "I walk alone",
+      "words": [
+        {
+          "text": "I",
+          "start": 49.33,
+          "end": 49.54,
+          "probability": 0.87,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 49.33,
+              "end": 49.54
+            }
+          ]
+        },
+        {
+          "text": "walk",
+          "start": 49.58,
+          "end": 50.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "walk",
+              "start": 49.58,
+              "end": 50.01
+            }
+          ]
+        },
+        {
+          "text": "alone",
+          "start": 50.06,
+          "end": 50.71,
+          "probability": 0.84,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 50.06,
+              "end": 50.19
+            },
+            {
+              "text": "lo",
+              "start": 50.25,
+              "end": 50.37
+            },
+            {
+              "text": "ne",
+              "start": 50.4,
+              "end": 50.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 52.41,
+      "end": 57.54,
+      "text": "My shadow's only one that walks beside me",
+      "words": [
+        {
+          "text": "My",
+          "start": 52.41,
+          "end": 52.74,
+          "probability": 0.98,
+          "syllables": [
+            {
+              "text": "My",
+              "start": 52.41,
+              "end": 52.74
+            }
+          ]
+        },
+        {
+          "text": "shadow's",
+          "start": 52.74,
+          "end": 54.42,
+          "probability": 0.96
+        },
+        {
+          "text": "only",
+          "start": 54.42,
+          "end": 55.22,
+          "probability": 0.6
+        },
+        {
+          "text": "one",
+          "start": 55.22,
+          "end": 55.68,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 55.68,
+          "end": 55.96,
+          "probability": 0.95
+        },
+        {
+          "text": "walks",
+          "start": 55.96,
+          "end": 56.42,
+          "probability": 1
+        },
+        {
+          "text": "beside",
+          "start": 56.42,
+          "end": 57.12,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 57.12,
+          "end": 57.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 58.26,
+      "end": 63.59,
+      "text": "My shadow heart's the only thing that's fading",
+      "words": [
+        {
+          "text": "My",
+          "start": 58.26,
+          "end": 58.5,
+          "probability": 0.89,
+          "syllables": [
+            {
+              "text": "My",
+              "start": 58.26,
+              "end": 58.5
+            }
+          ]
+        },
+        {
+          "text": "shadow",
+          "start": 58.65,
+          "end": 59.98,
+          "probability": 0.57,
+          "syllables": [
+            {
+              "text": "sha",
+              "start": 58.65,
+              "end": 58.94
+            },
+            {
+              "text": "dow",
+              "start": 59.34,
+              "end": 59.98
+            }
+          ]
+        },
+        {
+          "text": "heart's",
+          "start": 59.98,
+          "end": 60.94,
+          "probability": 0.98,
+          "syllables": [
+            {
+              "text": "heart's",
+              "start": 59.98,
+              "end": 60.94
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 60.94,
+          "end": 61.16,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 61.16,
+          "end": 61.62,
+          "probability": 1
+        },
+        {
+          "text": "thing",
+          "start": 61.62,
+          "end": 62,
+          "probability": 0.75
+        },
+        {
+          "text": "that's",
+          "start": 62,
+          "end": 62.6,
+          "probability": 1
+        },
+        {
+          "text": "fading",
+          "start": 62.6,
+          "end": 63.59,
+          "probability": 0.8,
+          "syllables": [
+            {
+              "text": "fa",
+              "start": 62.6,
+              "end": 62.81
+            },
+            {
+              "text": "ding",
+              "start": 63.04,
+              "end": 63.59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 63.99,
+      "end": 69.06,
+      "text": "Sometimes I wish someone out there will find me",
+      "words": [
+        {
+          "text": "Sometimes",
+          "start": 63.99,
+          "end": 65.12,
+          "probability": 0.98,
+          "syllables": [
+            {
+              "text": "So",
+              "start": 63.99,
+              "end": 64.16
+            },
+            {
+              "text": "me",
+              "start": 64.16,
+              "end": 64.47
+            },
+            {
+              "text": "ti",
+              "start": 64.47,
+              "end": 64.7
+            },
+            {
+              "text": "mes",
+              "start": 64.76,
+              "end": 65.12
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 65.12,
+          "end": 65.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 65.12,
+              "end": 65.84
+            }
+          ]
+        },
+        {
+          "text": "wish",
+          "start": 65.88,
+          "end": 66.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wish",
+              "start": 65.88,
+              "end": 66.42
+            }
+          ]
+        },
+        {
+          "text": "someone",
+          "start": 66.42,
+          "end": 67.02,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 67.02,
+          "end": 67.46,
+          "probability": 0.54
+        },
+        {
+          "text": "there",
+          "start": 67.46,
+          "end": 67.86,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 67.86,
+          "end": 68.2,
+          "probability": 0.97
+        },
+        {
+          "text": "find",
+          "start": 68.2,
+          "end": 68.64,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 68.64,
+          "end": 69.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.76,
+      "end": 73.44,
+      "text": "Till then I walk and run",
+      "words": [
+        {
+          "text": "Till",
+          "start": 69.76,
+          "end": 70.02,
+          "probability": 0.94,
+          "syllables": [
+            {
+              "text": "Till",
+              "start": 69.76,
+              "end": 70.02
+            }
+          ]
+        },
+        {
+          "text": "then",
+          "start": 70.17,
+          "end": 70.62,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "then",
+              "start": 70.17,
+              "end": 70.62
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 70.88,
+          "end": 71.34,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 70.88,
+              "end": 71.34
+            }
+          ]
+        },
+        {
+          "text": "walk",
+          "start": 71.59,
+          "end": 72.34,
+          "probability": 0.97,
+          "syllables": [
+            {
+              "text": "walk",
+              "start": 71.59,
+              "end": 72.34
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 72.34,
+          "end": 72.7,
+          "probability": 0.51
+        },
+        {
+          "text": "run",
+          "start": 72.7,
+          "end": 73.44,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 74.44,
+      "end": 84,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 74.44,
+          "end": 84,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 86.68,
+      "end": 92.5,
+      "text": "I'm walking down the line that divides me somewhere in my mind",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 86.68,
+          "end": 87,
+          "probability": 0.72
+        },
+        {
+          "text": "walking",
+          "start": 87.4,
+          "end": 87.52,
+          "probability": 0.92
+        },
+        {
+          "text": "down",
+          "start": 87.52,
+          "end": 88.02,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 88.02,
+          "end": 88.36,
+          "probability": 0.99
+        },
+        {
+          "text": "line",
+          "start": 88.36,
+          "end": 89.04,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 89.04,
+          "end": 89.46,
+          "probability": 0.54
+        },
+        {
+          "text": "divides",
+          "start": 89.56,
+          "end": 90.08,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 90.2,
+          "end": 90.44,
+          "probability": 1
+        },
+        {
+          "text": "somewhere",
+          "start": 90.44,
+          "end": 91.1,
+          "probability": 0.96
+        },
+        {
+          "text": "in",
+          "start": 91.1,
+          "end": 91.7,
+          "probability": 0.99
+        },
+        {
+          "text": "my",
+          "start": 91.7,
+          "end": 92,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 92,
+          "end": 92.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.84,
+      "end": 98.28,
+      "text": "On the borderline, up the edge and where I walk along",
+      "words": [
+        {
+          "text": "On",
+          "start": 92.84,
+          "end": 93.1,
+          "probability": 0.68,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 92.84,
+              "end": 93.1
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 93.1,
+          "end": 93.44,
+          "probability": 1
+        },
+        {
+          "text": "borderline,",
+          "start": 93.54,
+          "end": 94.86,
+          "probability": 0.93
+        },
+        {
+          "text": "up",
+          "start": 94.9,
+          "end": 95.28,
+          "probability": 0.98
+        },
+        {
+          "text": "the",
+          "start": 95.28,
+          "end": 95.62,
+          "probability": 1
+        },
+        {
+          "text": "edge",
+          "start": 95.98,
+          "end": 96.12,
+          "probability": 0.99
+        },
+        {
+          "text": "and",
+          "start": 96.12,
+          "end": 96.3,
+          "probability": 0.83
+        },
+        {
+          "text": "where",
+          "start": 96.3,
+          "end": 96.66,
+          "probability": 0.99
+        },
+        {
+          "text": "I",
+          "start": 96.76,
+          "end": 97.02,
+          "probability": 0.99
+        },
+        {
+          "text": "walk",
+          "start": 97.02,
+          "end": 97.56,
+          "probability": 1
+        },
+        {
+          "text": "along",
+          "start": 97.56,
+          "end": 98.28,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "start": 104.35,
+      "end": 109.52,
+      "text": "Read between the lines, what's fucked up and everything's alright",
+      "words": [
+        {
+          "text": "Read",
+          "start": 104.35,
+          "end": 104.54,
+          "probability": 0.74,
+          "syllables": [
+            {
+              "text": "Read",
+              "start": 104.35,
+              "end": 104.54
+            }
+          ]
+        },
+        {
+          "text": "between",
+          "start": 104.92,
+          "end": 105.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bet",
+              "start": 104.92,
+              "end": 105.05
+            },
+            {
+              "text": "ween",
+              "start": 105.05,
+              "end": 105.18
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 105.4,
+          "end": 105.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 105.4,
+              "end": 105.62
+            }
+          ]
+        },
+        {
+          "text": "lines,",
+          "start": 105.62,
+          "end": 106.3,
+          "probability": 1
+        },
+        {
+          "text": "what's",
+          "start": 106.34,
+          "end": 106.9,
+          "probability": 0.99
+        },
+        {
+          "text": "fucked",
+          "start": 106.9,
+          "end": 107.12,
+          "probability": 0.97
+        },
+        {
+          "text": "up",
+          "start": 107.12,
+          "end": 107.58,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 107.58,
+          "end": 107.92,
+          "probability": 0.97
+        },
+        {
+          "text": "everything's",
+          "start": 108.58,
+          "end": 109.04,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 109.04,
+          "end": 109.52,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "start": 110.05,
+      "end": 113.88,
+      "text": "Check my vital signs and know I'm still alive",
+      "words": [
+        {
+          "text": "Check",
+          "start": 110.05,
+          "end": 110.24,
+          "probability": 0.48,
+          "syllables": [
+            {
+              "text": "Check",
+              "start": 110.05,
+              "end": 110.24
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 110.46,
+          "end": 110.66,
+          "probability": 0.95,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 110.46,
+              "end": 110.66
+            }
+          ]
+        },
+        {
+          "text": "vital",
+          "start": 110.82,
+          "end": 111.28,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "vi",
+              "start": 110.82,
+              "end": 110.97
+            },
+            {
+              "text": "tal",
+              "start": 110.97,
+              "end": 111.28
+            }
+          ]
+        },
+        {
+          "text": "signs",
+          "start": 111.5,
+          "end": 112.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "signs",
+              "start": 111.5,
+              "end": 112.04
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 112.04,
+          "end": 112.3,
+          "probability": 0.71
+        },
+        {
+          "text": "know",
+          "start": 112.3,
+          "end": 112.58,
+          "probability": 0.99
+        },
+        {
+          "text": "I'm",
+          "start": 112.58,
+          "end": 112.86,
+          "probability": 0.97
+        },
+        {
+          "text": "still",
+          "start": 112.86,
+          "end": 113.2,
+          "probability": 1
+        },
+        {
+          "text": "alive",
+          "start": 113.2,
+          "end": 113.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 113.88,
+      "end": 115.46,
+      "text": "And I walk alone",
+      "words": [
+        {
+          "text": "And",
+          "start": 113.88,
+          "end": 114.1,
+          "probability": 0.37
+        },
+        {
+          "text": "I",
+          "start": 114.1,
+          "end": 114.32,
+          "probability": 1
+        },
+        {
+          "text": "walk",
+          "start": 114.32,
+          "end": 114.8,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 114.8,
+          "end": 115.46,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 118.35,
+      "end": 121.28,
+      "text": "I walk alone, I walk alone",
+      "words": [
+        {
+          "text": "I",
+          "start": 118.35,
+          "end": 118.54,
+          "probability": 0.91,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 118.35,
+              "end": 118.54
+            }
+          ]
+        },
+        {
+          "text": "walk",
+          "start": 118.79,
+          "end": 119.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "walk",
+              "start": 118.79,
+              "end": 119.1
+            }
+          ]
+        },
+        {
+          "text": "alone,",
+          "start": 119.1,
+          "end": 119.62,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 119.62,
+          "end": 120.04,
+          "probability": 0.99
+        },
+        {
+          "text": "walk",
+          "start": 120.04,
+          "end": 120.54,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 120.54,
+          "end": 121.28,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 124.14,
+      "end": 126.72,
+      "text": "I walk alone, I walk up",
+      "words": [
+        {
+          "text": "I",
+          "start": 124.14,
+          "end": 124.3,
+          "probability": 0.94,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 124.14,
+              "end": 124.3
+            }
+          ]
+        },
+        {
+          "text": "walk",
+          "start": 124.45,
+          "end": 124.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "walk",
+              "start": 124.45,
+              "end": 124.86
+            }
+          ]
+        },
+        {
+          "text": "alone,",
+          "start": 124.86,
+          "end": 125.26,
+          "probability": 0.99
+        },
+        {
+          "text": "I",
+          "start": 125.71,
+          "end": 125.82,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 125.71,
+              "end": 125.82
+            }
+          ]
+        },
+        {
+          "text": "walk",
+          "start": 125.97,
+          "end": 126.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "walk",
+              "start": 125.97,
+              "end": 126.28
+            }
+          ]
+        },
+        {
+          "text": "up",
+          "start": 126.28,
+          "end": 126.72,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "start": 127.18,
+      "end": 132.3,
+      "text": "Like shadows, the only one that walks beside me",
+      "words": [
+        {
+          "text": "Like",
+          "start": 127.18,
+          "end": 127.58,
+          "probability": 0.63
+        },
+        {
+          "text": "shadows,",
+          "start": 127.58,
+          "end": 128.74,
+          "probability": 0.76
+        },
+        {
+          "text": "the",
+          "start": 129.2,
+          "end": 129.42,
+          "probability": 0.81
+        },
+        {
+          "text": "only",
+          "start": 129.42,
+          "end": 129.94,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 129.94,
+          "end": 130.5,
+          "probability": 0.99
+        },
+        {
+          "text": "that",
+          "start": 130.5,
+          "end": 130.78,
+          "probability": 0.91
+        },
+        {
+          "text": "walks",
+          "start": 130.78,
+          "end": 131.2,
+          "probability": 0.98
+        },
+        {
+          "text": "beside",
+          "start": 131.2,
+          "end": 131.92,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 131.92,
+          "end": 132.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 132.9,
+      "end": 137.86,
+      "text": "My shallow heart's the only thing that's beating",
+      "words": [
+        {
+          "text": "My",
+          "start": 132.9,
+          "end": 133.28,
+          "probability": 0.98
+        },
+        {
+          "text": "shallow",
+          "start": 133.28,
+          "end": 134.28,
+          "probability": 0.98
+        },
+        {
+          "text": "heart's",
+          "start": 134.28,
+          "end": 135.68,
+          "probability": 0.94
+        },
+        {
+          "text": "the",
+          "start": 135.68,
+          "end": 135.94,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 135.94,
+          "end": 136.38,
+          "probability": 1
+        },
+        {
+          "text": "thing",
+          "start": 136.38,
+          "end": 136.8,
+          "probability": 0.87
+        },
+        {
+          "text": "that's",
+          "start": 136.8,
+          "end": 137.4,
+          "probability": 0.99
+        },
+        {
+          "text": "beating",
+          "start": 137.4,
+          "end": 137.86,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "start": 138.68,
+      "end": 143.88,
+      "text": "Sometimes I wish someone out there will find me",
+      "words": [
+        {
+          "text": "Sometimes",
+          "start": 138.68,
+          "end": 139.32,
+          "probability": 0.69
+        },
+        {
+          "text": "I",
+          "start": 139.32,
+          "end": 140.42,
+          "probability": 0.98
+        },
+        {
+          "text": "wish",
+          "start": 140.42,
+          "end": 141.2,
+          "probability": 0.98
+        },
+        {
+          "text": "someone",
+          "start": 141.2,
+          "end": 141.88,
+          "probability": 0.95
+        },
+        {
+          "text": "out",
+          "start": 141.88,
+          "end": 142.28,
+          "probability": 0.85
+        },
+        {
+          "text": "there",
+          "start": 142.28,
+          "end": 142.66,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 142.66,
+          "end": 143.02,
+          "probability": 0.93
+        },
+        {
+          "text": "find",
+          "start": 143.02,
+          "end": 143.48,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 143.48,
+          "end": 143.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 144.56,
+      "end": 148.06,
+      "text": "Till then I walk alone",
+      "words": [
+        {
+          "text": "Till",
+          "start": 144.56,
+          "end": 144.84,
+          "probability": 0.75
+        },
+        {
+          "text": "then",
+          "start": 144.84,
+          "end": 145.4,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 145.4,
+          "end": 146.18,
+          "probability": 0.94
+        },
+        {
+          "text": "walk",
+          "start": 146.18,
+          "end": 147.16,
+          "probability": 0.98
+        },
+        {
+          "text": "alone",
+          "start": 147.16,
+          "end": 148.06,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "start": 157.52,
+      "end": 161.38,
+      "text": "I walk alone, I walk alone",
+      "words": [
+        {
+          "text": "I",
+          "start": 157.52,
+          "end": 158.2,
+          "probability": 0.88
+        },
+        {
+          "text": "walk",
+          "start": 158.62,
+          "end": 159.36,
+          "probability": 0.98
+        },
+        {
+          "text": "alone,",
+          "start": 159.36,
+          "end": 159.84,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 159.86,
+          "end": 160.32,
+          "probability": 1
+        },
+        {
+          "text": "walk",
+          "start": 160.32,
+          "end": 160.8,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 160.8,
+          "end": 161.38,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "start": 162.38,
+      "end": 184.54,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 162.38,
+          "end": 184.54,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 187.44,
+      "end": 189.54,
+      "text": "I walk this empty street",
+      "words": [
+        {
+          "text": "I",
+          "start": 187.44,
+          "end": 187.6,
+          "probability": 0.74
+        },
+        {
+          "text": "walk",
+          "start": 187.6,
+          "end": 188.08,
+          "probability": 0.88
+        },
+        {
+          "text": "this",
+          "start": 188.08,
+          "end": 188.4,
+          "probability": 0.99
+        },
+        {
+          "text": "empty",
+          "start": 188.4,
+          "end": 188.94,
+          "probability": 0.99
+        },
+        {
+          "text": "street",
+          "start": 188.94,
+          "end": 189.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 189.88,
+      "end": 193.1,
+      "text": "On the boulevard of broken dreams",
+      "words": [
+        {
+          "text": "On",
+          "start": 189.88,
+          "end": 190.18,
+          "probability": 0.3
+        },
+        {
+          "text": "the",
+          "start": 190.18,
+          "end": 190.48,
+          "probability": 0.99
+        },
+        {
+          "text": "boulevard",
+          "start": 191.16,
+          "end": 191.66,
+          "probability": 0.97
+        },
+        {
+          "text": "of",
+          "start": 191.66,
+          "end": 191.98,
+          "probability": 0.89
+        },
+        {
+          "text": "broken",
+          "start": 191.98,
+          "end": 192.5,
+          "probability": 0.99
+        },
+        {
+          "text": "dreams",
+          "start": 192.5,
+          "end": 193.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 193.46,
+      "end": 195.38,
+      "text": "Where the city sleeps",
+      "words": [
+        {
+          "text": "Where",
+          "start": 193.46,
+          "end": 193.72,
+          "probability": 0.97
+        },
+        {
+          "text": "the",
+          "start": 193.84,
+          "end": 194.06,
+          "probability": 1
+        },
+        {
+          "text": "city",
+          "start": 194.06,
+          "end": 194.64,
+          "probability": 1
+        },
+        {
+          "text": "sleeps",
+          "start": 194.64,
+          "end": 195.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 195.38,
+      "end": 197.3,
+      "text": "And I'm the only one",
+      "words": [
+        {
+          "text": "And",
+          "start": 195.38,
+          "end": 195.68,
+          "probability": 0.55
+        },
+        {
+          "text": "I'm",
+          "start": 195.68,
+          "end": 196,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 196,
+          "end": 196.26,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 196.26,
+          "end": 196.84,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 196.84,
+          "end": 197.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 197.3,
+      "end": 198.56,
+      "text": "And I walk up",
+      "words": [
+        {
+          "text": "And",
+          "start": 197.3,
+          "end": 197.5,
+          "probability": 0.7
+        },
+        {
+          "text": "I",
+          "start": 197.5,
+          "end": 197.74,
+          "probability": 0.99
+        },
+        {
+          "text": "walk",
+          "start": 197.74,
+          "end": 198.2,
+          "probability": 0.96
+        },
+        {
+          "text": "up",
+          "start": 198.2,
+          "end": 198.56,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 199.14,
+      "end": 204.22,
+      "text": "My shadow's the only one that walks beside me",
+      "words": [
+        {
+          "text": "My",
+          "start": 199.14,
+          "end": 199.44,
+          "probability": 0.81
+        },
+        {
+          "text": "shadow's",
+          "start": 199.44,
+          "end": 201.18,
+          "probability": 0.97
+        },
+        {
+          "text": "the",
+          "start": 201.18,
+          "end": 201.4,
+          "probability": 0.9
+        },
+        {
+          "text": "only",
+          "start": 201.4,
+          "end": 201.96,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 201.96,
+          "end": 202.42,
+          "probability": 0.99
+        },
+        {
+          "text": "that",
+          "start": 202.42,
+          "end": 202.64,
+          "probability": 0.74
+        },
+        {
+          "text": "walks",
+          "start": 202.64,
+          "end": 203.1,
+          "probability": 1
+        },
+        {
+          "text": "beside",
+          "start": 203.1,
+          "end": 203.78,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 203.78,
+          "end": 204.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 204.82,
+      "end": 209.76,
+      "text": "My shallow heart's the only thing that's beating",
+      "words": [
+        {
+          "text": "My",
+          "start": 204.82,
+          "end": 205.2,
+          "probability": 1
+        },
+        {
+          "text": "shallow",
+          "start": 205.2,
+          "end": 205.96,
+          "probability": 0.8
+        },
+        {
+          "text": "heart's",
+          "start": 205.96,
+          "end": 207.62,
+          "probability": 0.98
+        },
+        {
+          "text": "the",
+          "start": 207.62,
+          "end": 207.86,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 207.86,
+          "end": 208.32,
+          "probability": 1
+        },
+        {
+          "text": "thing",
+          "start": 208.32,
+          "end": 208.74,
+          "probability": 0.7
+        },
+        {
+          "text": "that's",
+          "start": 208.74,
+          "end": 209.3,
+          "probability": 1
+        },
+        {
+          "text": "beating",
+          "start": 209.3,
+          "end": 209.76,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "start": 210.58,
+      "end": 215.84,
+      "text": "Sometimes I wish someone out there will find me",
+      "words": [
+        {
+          "text": "Sometimes",
+          "start": 210.58,
+          "end": 211.22,
+          "probability": 0.99
+        },
+        {
+          "text": "I",
+          "start": 211.22,
+          "end": 212.26,
+          "probability": 1
+        },
+        {
+          "text": "wish",
+          "start": 212.26,
+          "end": 213.08,
+          "probability": 1
+        },
+        {
+          "text": "someone",
+          "start": 213.08,
+          "end": 213.78,
+          "probability": 0.99
+        },
+        {
+          "text": "out",
+          "start": 213.78,
+          "end": 214.18,
+          "probability": 0.89
+        },
+        {
+          "text": "there",
+          "start": 214.18,
+          "end": 214.54,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 214.54,
+          "end": 214.92,
+          "probability": 0.99
+        },
+        {
+          "text": "find",
+          "start": 214.92,
+          "end": 215.36,
+          "probability": 0.98
+        },
+        {
+          "text": "me",
+          "start": 215.36,
+          "end": 215.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 216.44,
+      "end": 219.82,
+      "text": "Till then I walk alone",
+      "words": [
+        {
+          "text": "Till",
+          "start": 216.44,
+          "end": 216.9,
+          "probability": 0.83
+        },
+        {
+          "text": "then",
+          "start": 216.9,
+          "end": 217.28,
+          "probability": 0.55
+        },
+        {
+          "text": "I",
+          "start": 217.28,
+          "end": 218.04,
+          "probability": 0.97
+        },
+        {
+          "text": "walk",
+          "start": 218.04,
+          "end": 219.06,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 219.06,
+          "end": 219.82,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "start": 220.82,
+      "end": 238.7,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 220.82,
+          "end": 238.7,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 240.7,
+      "end": 240.82,
+      "text": "We'll be right back.",
+      "words": [
+        {
+          "text": "We'll",
+          "start": 240.7,
+          "end": 240.74,
+          "probability": 0.4
+        },
+        {
+          "text": "be",
+          "start": 240.74,
+          "end": 240.78,
+          "probability": 0.61
+        },
+        {
+          "text": "right",
+          "start": 240.78,
+          "end": 240.8,
+          "probability": 0.92
+        },
+        {
+          "text": "back.",
+          "start": 240.8,
+          "end": 240.82,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 241.82,
+      "end": 255.3,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 241.82,
+          "end": 255.3,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 257.3,
+      "end": 258.26,
+      "text": "You",
+      "words": [
+        {
+          "text": "You",
+          "start": 257.3,
+          "end": 258.26,
+          "probability": 0.08
+        }
+      ]
+    }
+  ],
+  "text": "I walk a lonely road The only one that I have ever known Don't know where it goes But it's only me and I walk alone I walk this empty street On the boulevard of broken dreams Where the city sleeps And I'm the only one And I walk alone I walk alone I walk alone I walk alone My shadow's only one that walks beside me My shadow heart's the only thing that's fading Sometimes I wish someone out there will find me Till then I walk and run I'm walking down the line that divides me somewhere in my mind On the borderline, up the edge and where I walk along Read between the lines, what's fucked up and everything's alright Check my vital signs and know I'm still alive And I walk alone I walk alone, I walk alone I walk alone, I walk up Like shadows, the only one that walks beside me My shallow heart's the only thing that's beating Sometimes I wish someone out there will find me Till then I walk alone I walk alone, I walk alone I walk this empty street On the boulevard of broken dreams Where the city sleeps And I'm the only one And I walk up My shadow's the only one that walks beside me My shallow heart's the only thing that's beating Sometimes I wish someone out there will find me Till then I walk alone We'll be right back. You"
+}
