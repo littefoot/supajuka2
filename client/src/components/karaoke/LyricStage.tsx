@@ -5,6 +5,7 @@ import { audioEngine } from '../../audio/WasmAudioEngine';
 
 interface Props {
   lyrics: LyricResult | null;
+  isLyricsLoading?: boolean;
   currentTime: number;
   currentSong: SongMetadata | null;
   pitch: number;
@@ -63,6 +64,7 @@ export function syllabifyWord(word: string): string[] {
 
 export const LyricStage: React.FC<Props> = ({
   lyrics,
+  isLyricsLoading = false,
   currentTime,
   currentSong,
   pitch,
@@ -814,6 +816,22 @@ export const LyricStage: React.FC<Props> = ({
   }
 
   if (segments.length === 0) {
+    if (isLyricsLoading) {
+      return (
+        <div className="flex-1 flex flex-col items-center justify-center p-8 text-center min-h-[450px]">
+          <div className="w-14 h-14 rounded-xl bg-[#1e1e1e] border border-[#2d2d2d] flex items-center justify-center text-blue-400 mb-4 animate-pulse">
+            <Music size={28} />
+          </div>
+          <h3 className="text-lg font-bold text-white mb-1 font-mono">{currentSong.title}</h3>
+          <p className="text-[#858585] text-xs font-mono">{currentSong.artist}</p>
+          <div className="flex items-center gap-2 mt-4 px-3 py-1.5 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-400 text-xs font-mono">
+            <span className="w-2 h-2 rounded-full bg-blue-400 animate-ping" />
+            Synchronizing syllables...
+          </div>
+        </div>
+      );
+    }
+
     return (
       <div className="flex-1 flex flex-col items-center justify-center p-8 text-center min-h-[450px]">
         <div className="w-14 h-14 rounded-xl bg-[#1e1e1e] border border-[#2d2d2d] flex items-center justify-center text-blue-400 mb-4">

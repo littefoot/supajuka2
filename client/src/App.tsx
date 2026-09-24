@@ -22,10 +22,12 @@ export default function App() {
   const [songs, setSongs] = useState<SongMetadata[]>([]);
   const [currentSong, setCurrentSong] = useState<SongMetadata | null>(null);
   const [lyrics, setLyrics] = useState<LyricResult | null>(null);
+  const [isLyricsLoading, setIsLyricsLoading] = useState(false);
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [currentUser, setCurrentUser] = useState<User | null>(null);
   const [authLoading, setAuthLoading] = useState(true);
   const defaultSongLoadedRef = useRef(false);
+  const activeSongRequestIdRef = useRef<string | null>(null);
 
   const [isUploadOpen, setIsUploadOpen] = useState(false);
   const [isYouTubeOpen, setIsYouTubeOpen] = useState(false);
@@ -120,47 +122,87 @@ export default function App() {
   }, [refreshLibrary, currentSong]);
 
   const handleSelectSong = async (song: SongMetadata, autoPlay: boolean = true) => {
+    // 1. Tag this request to prevent out-of-order race conditions when switching songs quickly
+    activeSongRequestIdRef.current = song.id;
+
+    // 2. Immediately update active song, switch to stage, and reset lyrics
     setCurrentSong(song);
-    await audioEngine.loadSong(song);
     setActiveTab('stage');
-    if (autoPlay) {
+    setLyrics(null);
+    setIsLyricsLoading(true);
+
+    // 3. Instant load from localStorage if user-saved edits exist
+    const localCustom = localStorage.getItem(`supajuka_lyrics_${song.id}`);
+    if (localCustom) {
       try {
-        await audioEngine.play();
-      } catch (e) {
-        console.warn('Autoplay gesture required or play deferred:', e);
-      }
+        const parsed = JSON.parse(localCustom);
+        if (activeSongRequestIdRef.current === song.id) {
+          setLyrics(parsed);
+          setIsLyricsLoading(false);
+        }
+      } catch (e) {}
     }
 
-    // Fetch lyrics if available
-    try {
-      // 1. Check localStorage for on-the-fly user saved edits:
-      const localCustom = localStorage.getItem(`supajuka_lyrics_${song.id}`);
-      if (localCustom) {
-        setLyrics(JSON.parse(localCustom));
-        return;
-      }
+    // 4. Concurrently fetch lyrics in parallel with audio stem buffering (do NOT block lyrics on audio!)
+    const lyricsPromise = (async () => {
+      if (localCustom) return;
 
-      const res = await fetch(`/api/audio/song/${song.id}`);
-      if (res.ok) {
-        const lyrRes = await fetch(`/audio/${song.id}/lyrics.json?t=${Date.now()}`);
-        if (lyrRes.ok) {
-          const lData = await lyrRes.json();
-          setLyrics(lData);
-          return;
+      try {
+        // Direct static JSON fetch first (fastest on static CDN / Firebase Hosting)
+        const staticLyr = await fetch(`/audio/${song.id}/lyrics.json?t=${Date.now()}`);
+        if (staticLyr.ok) {
+          const lData = await staticLyr.json();
+          if (activeSongRequestIdRef.current === song.id) {
+            setLyrics(lData);
+            setIsLyricsLoading(false);
+            return;
+          }
+        }
+      } catch (e) {}
+
+      // Fallback: Check local backend API if available
+      try {
+        const res = await fetch(`/api/audio/song/${song.id}`);
+        if (res.ok) {
+          const cType = res.headers.get('content-type');
+          if (cType && cType.includes('application/json')) {
+            const apiSong = await res.json();
+            if (apiSong.hasLyrics) {
+              const lyrRes = await fetch(`/audio/${song.id}/lyrics.json?t=${Date.now()}`);
+              if (lyrRes.ok) {
+                const lData = await lyrRes.json();
+                if (activeSongRequestIdRef.current === song.id) {
+                  setLyrics(lData);
+                  setIsLyricsLoading(false);
+                  return;
+                }
+              }
+            }
+          }
+        }
+      } catch (e) {}
+
+      if (activeSongRequestIdRef.current === song.id) {
+        setLyrics(null);
+        setIsLyricsLoading(false);
+      }
+    })();
+
+    // 5. Concurrently load audio stems into WasmAudioEngine
+    try {
+      await audioEngine.loadSong(song);
+      if (autoPlay && activeSongRequestIdRef.current === song.id) {
+        try {
+          await audioEngine.play();
+        } catch (e) {
+          console.warn('Autoplay gesture required or play deferred:', e);
         }
       }
-
-      // 2. Direct static fallback (Firebase Hosting)
-      const staticLyr = await fetch(`/audio/${song.id}/lyrics.json?t=${Date.now()}`);
-      if (staticLyr.ok) {
-        const lData = await staticLyr.json();
-        setLyrics(lData);
-      } else {
-        setLyrics(null);
-      }
     } catch (e) {
-      setLyrics(null);
+      console.warn('Failed to load audio stems for song:', e);
     }
+
+    await lyricsPromise;
   };
 
   // Automatically set 'Give Me Novacaine' as the default loaded track on stage
@@ -339,6 +381,7 @@ export default function App() {
         {activeTab === 'stage' ? (
           <LyricStage
             lyrics={lyrics}
+            isLyricsLoading={isLyricsLoading}
             currentTime={audioState.currentTime}
             currentSong={currentSong}
             pitch={audioState.pitch}

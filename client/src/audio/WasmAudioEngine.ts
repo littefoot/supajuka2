@@ -113,12 +113,78 @@ export class WasmAudioEngine {
     console.log('🎧 WasmAudioEngine Initialized with Dynamic Key Shifting (Half Steps)');
   }
 
+  private lastHardResyncTime = 0;
+
+  private waitForReady(audio: HTMLAudioElement, timeoutMs = 2500): Promise<void> {
+    if (audio.readyState >= 3) return Promise.resolve();
+    return new Promise((resolve) => {
+      let resolved = false;
+      const cleanup = () => {
+        if (resolved) return;
+        resolved = true;
+        audio.removeEventListener('canplay', onReady);
+        audio.removeEventListener('canplaythrough', onReady);
+        audio.removeEventListener('error', onReady);
+        clearTimeout(timer);
+        resolve();
+      };
+      const onReady = () => cleanup();
+      audio.addEventListener('canplay', onReady, { once: true });
+      audio.addEventListener('canplaythrough', onReady, { once: true });
+      audio.addEventListener('error', onReady, { once: true });
+      const timer = setTimeout(cleanup, timeoutMs);
+    });
+  }
+
+  private syncStems() {
+    if (!this.instrumentalAudio || !this.vocalsAudio || !this.vocalsAudio.src) return;
+    if (this.instrumentalAudio.paused || this.vocalsAudio.paused) return;
+
+    const instTime = this.instrumentalAudio.currentTime;
+    const vocTime = this.vocalsAudio.currentTime;
+    const drift = vocTime - instTime; // negative means vocals is lagging behind instrumental
+    const absDrift = Math.abs(drift);
+    const baseSpeed = this.state.speed;
+
+    // 1. Catastrophic drift (> 300ms) - hard seek, throttled to at most once per 2 seconds
+    if (absDrift > 0.3) {
+      const now = performance.now();
+      if (now - this.lastHardResyncTime > 2000) {
+        this.lastHardResyncTime = now;
+        this.vocalsAudio.currentTime = instTime;
+        this.vocalsAudio.playbackRate = baseSpeed;
+      }
+      return;
+    }
+
+    // 2. Phase-Lock Loop (PLL) micro-adjustments for drift between 35ms and 300ms
+    // If vocals is lagging, speed up vocals slightly (1.05x). If ahead, slow down slightly (0.95x).
+    // This closes phase drift seamlessly without audio dropouts or hard seeking buffer flushes.
+    if (absDrift > 0.035) {
+      if (drift < 0) {
+        this.vocalsAudio.playbackRate = baseSpeed * 1.05;
+      } else {
+        this.vocalsAudio.playbackRate = baseSpeed * 0.95;
+      }
+    } else {
+      // Within tolerance (< 35ms): lock to base speed
+      if (this.vocalsAudio.playbackRate !== baseSpeed) {
+        this.vocalsAudio.playbackRate = baseSpeed;
+      }
+    }
+  }
+
   private setupEventListeners() {
     if (!this.instrumentalAudio) return;
 
     this.instrumentalAudio.addEventListener('timeupdate', () => {
       if (!this.instrumentalAudio) return;
-      this.updateState({ currentTime: this.instrumentalAudio.currentTime });
+      const cur = this.instrumentalAudio.currentTime;
+
+      // Phase-Lock Sync: keep vocal stem sample-accurate with instrumental stem
+      this.syncStems();
+
+      this.updateState({ currentTime: cur });
     });
 
     this.instrumentalAudio.addEventListener('durationchange', () => {
@@ -131,10 +197,17 @@ export class WasmAudioEngine {
     });
 
     this.instrumentalAudio.addEventListener('waiting', () => {
+      if (this.vocalsAudio && !this.vocalsAudio.paused) {
+        this.vocalsAudio.pause();
+      }
       this.updateState({ isLoading: true });
     });
 
     this.instrumentalAudio.addEventListener('playing', () => {
+      if (this.vocalsAudio && this.vocalsAudio.src && this.vocalsAudio.paused && this.state.isPlaying) {
+        this.vocalsAudio.currentTime = this.instrumentalAudio!.currentTime;
+        this.vocalsAudio.play().catch(() => {});
+      }
       this.updateState({ isLoading: false, isPlaying: true });
     });
   }
@@ -151,8 +224,16 @@ export class WasmAudioEngine {
 
     this.updateState({ isLoading: true, isPlaying: false });
 
-    if (this.instrumentalAudio) this.instrumentalAudio.pause();
-    if (this.vocalsAudio) this.vocalsAudio.pause();
+    if (this.instrumentalAudio) {
+      this.instrumentalAudio.pause();
+      this.instrumentalAudio.currentTime = 0;
+      this.instrumentalAudio.playbackRate = this.state.speed;
+    }
+    if (this.vocalsAudio) {
+      this.vocalsAudio.pause();
+      this.vocalsAudio.currentTime = 0;
+      this.vocalsAudio.playbackRate = this.state.speed;
+    }
 
     const instUrl = song.instrumentalUrl || song.originalUrl;
     const vocalsUrl = song.vocalsUrl || '';
@@ -215,16 +296,41 @@ export class WasmAudioEngine {
       await this.ctx.resume();
     }
 
-    if (this.instrumentalAudio) {
-      const p1 = this.instrumentalAudio.play();
-      let p2 = Promise.resolve();
-      if (this.vocalsAudio && this.vocalsAudio.src) {
-        this.vocalsAudio.currentTime = this.instrumentalAudio.currentTime;
-        p2 = this.vocalsAudio.play();
-      }
-      await Promise.all([p1, p2]);
-      this.updateState({ isPlaying: true });
+    if (!this.instrumentalAudio) return;
+
+    const curTime = this.instrumentalAudio.currentTime;
+    const hasVocals = Boolean(this.vocalsAudio && this.vocalsAudio.src);
+
+    // 1. Prime both elements so neither plays while the other is still buffering
+    if (hasVocals) {
+      await Promise.all([
+        this.waitForReady(this.instrumentalAudio),
+        this.waitForReady(this.vocalsAudio!),
+      ]);
+    } else {
+      await this.waitForReady(this.instrumentalAudio);
     }
+
+    // 2. Align timestamps and speeds before firing play
+    this.instrumentalAudio.currentTime = curTime;
+    this.instrumentalAudio.playbackRate = this.state.speed;
+
+    if (hasVocals) {
+      this.vocalsAudio!.currentTime = curTime;
+      this.vocalsAudio!.playbackRate = this.state.speed;
+    }
+
+    // 3. Fire playback concurrently
+    if (hasVocals) {
+      await Promise.all([
+        this.instrumentalAudio.play(),
+        this.vocalsAudio!.play(),
+      ]);
+    } else {
+      await this.instrumentalAudio.play();
+    }
+
+    this.updateState({ isPlaying: true });
   }
 
   public pause() {
@@ -236,9 +342,11 @@ export class WasmAudioEngine {
   public seek(timeSeconds: number) {
     if (this.instrumentalAudio) {
       this.instrumentalAudio.currentTime = timeSeconds;
+      this.instrumentalAudio.playbackRate = this.state.speed;
     }
     if (this.vocalsAudio && this.vocalsAudio.src) {
       this.vocalsAudio.currentTime = timeSeconds;
+      this.vocalsAudio.playbackRate = this.state.speed;
     }
     this.updateState({ currentTime: timeSeconds });
   }

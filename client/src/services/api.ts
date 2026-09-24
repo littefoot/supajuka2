@@ -52,12 +52,29 @@ export async function transcribeLyrics(songId: string): Promise<LyricResult> {
 }
 
 export async function getLibrary(): Promise<SongMetadata[]> {
+  const isStaticHosting = typeof window !== 'undefined' && (
+    window.location.hostname.includes('web.app') ||
+    window.location.hostname.includes('firebaseapp.com')
+  );
+
+  if (isStaticHosting) {
+    try {
+      const staticRes = await fetch(`/audio/library.json?t=${Date.now()}`);
+      if (staticRes.ok) return await staticRes.json();
+    } catch (e) {}
+  }
+
   try {
     const res = await fetch('/api/audio/library');
-    if (res.ok) return await res.json();
+    if (res.ok) {
+      const cType = res.headers.get('content-type');
+      if (cType && cType.includes('application/json')) {
+        return await res.json();
+      }
+    }
   } catch (e) {}
 
-  // Fallback to static bundled library on Firebase Hosting:
+  // Fallback to static bundled library:
   try {
     const staticRes = await fetch(`/audio/library.json?t=${Date.now()}`);
     if (staticRes.ok) return await staticRes.json();
