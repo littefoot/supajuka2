@@ -31,6 +31,8 @@ server/audio-cache/**/*.webm
 .env.local
 *.env
 *.env.production
+!.env.example
+!*.env.example
 
 # Python artifacts
 __pycache__/

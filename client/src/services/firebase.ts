@@ -9,13 +9,13 @@ import {
 } from 'firebase/auth';
 
 const firebaseConfig = {
-  projectId: 'supa-juka',
-  appId: '1:328453931925:web:14fbdedd4b806fe387ac9c',
-  storageBucket: 'supa-juka.firebasestorage.app',
-  apiKey: 'AIzaSyBDeDLI_n4IrIcNMaKErgvEsZYUY3UOGoE',
-  authDomain: 'supa-juka.firebaseapp.com',
-  messagingSenderId: '328453931925',
-  measurementId: 'G-JSZXMRXY1Q',
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID || 'supa-juka',
+  appId: import.meta.env.VITE_FIREBASE_APP_ID || '1:328453931925:web:14fbdedd4b806fe387ac9c',
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET || 'supa-juka.firebasestorage.app',
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY || '',
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN || 'supa-juka.firebaseapp.com',
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID || '328453931925',
+  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID || 'G-JSZXMRXY1Q',
 };
 
 // Initialize Firebase App singleton

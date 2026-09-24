@@ -834,14 +834,23 @@ export const LyricStage: React.FC<Props> = ({
     return `${p} ST`;
   };
 
+  // Dynamic font scaling for active lyrics to keep lines on a single row on mobile
+  const getActiveLineFontSize = (text: string) => {
+    const len = text.length;
+    if (len > 34) return 'text-[13px] xs:text-sm sm:text-2xl md:text-4xl lg:text-5xl';
+    if (len > 24) return 'text-[15px] xs:text-base sm:text-3xl md:text-5xl lg:text-6xl';
+    if (len > 16) return 'text-base xs:text-xl sm:text-3xl md:text-5xl lg:text-6xl';
+    return 'text-lg xs:text-2xl sm:text-3xl md:text-5xl lg:text-6xl';
+  };
+
   return (
     <div className="flex-1 flex flex-col h-full min-h-0 relative overflow-hidden bg-[#181818]">
       
       {/* Stage Key Shift Toolbar - Rugged Studio Rackmount */}
-      <div className="flex items-center justify-between px-2.5 sm:px-5 py-1 sm:py-1.5 bg-[#1b1b1b] border-b border-[#2d2d2d] gap-2 flex-shrink-0 shadow-sm overflow-x-auto scrollbar-none">
+      <div className="flex items-center justify-center md:justify-between px-2.5 sm:px-5 py-1 sm:py-1.5 bg-[#1b1b1b] border-b border-[#2d2d2d] gap-2 flex-shrink-0 shadow-sm overflow-x-auto scrollbar-none">
         
-        {/* Left: Key Indicator & Controls */}
-        <div className="flex items-center gap-1.5 sm:gap-2.5 flex-shrink-0">
+        {/* Left: Key Indicator & Controls (Hidden on mobile) */}
+        <div className="hidden md:flex items-center gap-1.5 sm:gap-2.5 flex-shrink-0">
           <Music2 size={14} className="text-blue-400" />
           <span className="text-[10px] sm:text-xs font-mono font-semibold text-[#858585] uppercase tracking-wider hidden xs:inline">KEY:</span>
           <span className={`text-[10px] sm:text-xs font-mono font-bold px-1.5 sm:px-2 py-0.5 rounded border ${
@@ -988,7 +997,7 @@ export const LyricStage: React.FC<Props> = ({
             paddingBottom: '35vh',
             WebkitMaskImage: 'linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%)',
           }}
-          className="flex-1 w-full h-full min-h-0 overflow-y-auto relative px-3 sm:px-6 md:px-8 scrollbar-none"
+          className="flex-1 w-full h-full min-h-0 overflow-y-auto relative px-1.5 sm:px-6 md:px-8 scrollbar-none"
         >
           <div className="flex flex-col items-center space-y-3 sm:space-y-5 md:space-y-7 text-center">
             {segments.map((segment, sIdx) => {
@@ -1047,21 +1056,21 @@ export const LyricStage: React.FC<Props> = ({
                     else lineEls.current.delete(sIdx);
                   }}
                   onClick={() => onSeek && onSeek(segment.start)}
-                  className={`relative inline-block max-w-[94vw] text-center cursor-pointer select-none transition-all duration-300 ${
+                  className={`relative inline-block max-w-[98vw] sm:max-w-[94vw] text-center cursor-pointer select-none transition-all duration-300 whitespace-nowrap sm:whitespace-normal ${
                     isActive
-                      ? 'text-xl sm:text-3xl md:text-5xl lg:text-6xl font-black py-2 px-3 sm:py-3.5 sm:px-7 md:py-5 md:px-9 text-white opacity-100 bg-[#212121]/95 border border-[#3c3c3c] shadow-xl md:shadow-2xl rounded-xl tracking-normal ring-1 ring-white/5'
+                      ? `${getActiveLineFontSize(segment.text)} font-black py-1.5 px-2.5 sm:py-3.5 sm:px-7 md:py-5 md:px-9 text-white opacity-100 bg-[#212121]/95 border border-[#3c3c3c] shadow-xl md:shadow-2xl rounded-xl tracking-tight sm:tracking-normal ring-1 ring-white/5`
                       : isNext
-                      ? 'text-base sm:text-2xl md:text-3xl font-bold py-1 px-3 sm:py-2.5 sm:px-6 text-white opacity-90 border border-transparent'
+                      ? 'text-xs xs:text-sm sm:text-2xl md:text-3xl font-bold py-1 px-2.5 sm:py-2.5 sm:px-6 text-white opacity-90 border border-transparent'
                       : isPast
-                      ? 'text-xs sm:text-base md:text-xl font-medium py-0.5 px-2 text-[#555555] opacity-25 hover:opacity-50 border border-transparent'
-                      : 'text-xs sm:text-base md:text-xl font-medium py-0.5 px-2 text-[#666666] opacity-35 hover:opacity-60 border border-transparent'
+                      ? 'text-[11px] sm:text-base md:text-xl font-medium py-0.5 px-2 text-[#555555] opacity-25 hover:opacity-50 border border-transparent'
+                      : 'text-[11px] sm:text-base md:text-xl font-medium py-0.5 px-2 text-[#666666] opacity-35 hover:opacity-60 border border-transparent'
                   }`}
                 >
                   {/* Word Spans with Syllables and Syllable Rhythm Indicators */}
                   {segment.words.map((w, wIdx) => {
                     const syls = (w.syllables && w.syllables.length > 0) ? w.syllables.map(s => s.text) : syllabifyWord(w.text);
                     return (
-                      <span key={wIdx} className="inline-flex mx-1 sm:mx-1.5 relative whitespace-nowrap align-bottom my-0.5">
+                      <span key={wIdx} className="inline-flex mx-0.5 sm:mx-1.5 relative whitespace-nowrap align-bottom my-0.5">
                         {syls.map((sylText, s) => {
                           const sylKey = `${sIdx}_${wIdx}_${s}`;
                           return (

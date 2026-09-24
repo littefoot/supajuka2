@@ -68,8 +68,8 @@ export const AudioControlsBar: React.FC<Props> = ({ state }) => {
         {/* Row 2 (Mobile) / Right (Desktop): Key Shift & Vocal Balance Pods */}
         <div className="flex items-center gap-2 w-full md:w-auto justify-between md:justify-end flex-shrink-0">
           
-          {/* Key Shift (Half Steps) */}
-          <div className="flex-1 md:flex-initial flex items-center gap-2 bg-[#141414] px-2.5 py-1.5 rounded-lg border border-[#2d2d2d]">
+          {/* Key Shift (Half Steps) - Hidden on Mobile */}
+          <div className="hidden md:flex flex-1 md:flex-initial items-center gap-2 bg-[#141414] px-2.5 py-1.5 rounded-lg border border-[#2d2d2d]">
             <Music2 size={14} className={state.pitch === 0 ? 'text-[#858585]' : 'text-blue-400'} />
             <div className="flex-1 flex flex-col">
               <div className="flex justify-between text-[10px] text-[#858585] font-mono uppercase font-semibold gap-1">

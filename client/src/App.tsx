@@ -231,15 +231,15 @@ export default function App() {
       
       {/* Top Header - Google Antigravity Matte Theme */}
       <header className="border-b border-[#2d2d2d] bg-[#1e1e1e] px-2.5 sm:px-4 md:px-6 py-1.5 sm:py-2 sticky top-0 z-30 flex items-center justify-between shadow-sm flex-shrink-0">
-        <div className="flex items-center gap-2 sm:gap-3">
+        <div className="flex items-center gap-2 sm:gap-2.5">
           <div className="w-7 h-7 sm:w-8 sm:h-8 rounded-lg bg-blue-600 flex items-center justify-center text-white shadow-sm border border-blue-500/40 flex-shrink-0">
             <Mic2 size={16} />
           </div>
-          <div>
-            <h1 className="text-sm sm:text-base font-bold tracking-tight text-white flex items-center gap-1.5 sm:gap-2 font-mono">
-              SUPAJUKA <span className="text-[9px] sm:text-[10px] px-1.5 sm:px-2 py-0.2 sm:py-0.5 rounded bg-[#252526] text-blue-400 border border-[#333333] font-mono font-semibold tracking-wider">{isPartyMode ? 'PARTY STATION' : 'v2.0 LOSSLESS'}</span>
+          <div className="flex flex-col justify-center leading-none">
+            <h1 className="flex flex-col font-mono font-black tracking-wider leading-none select-none">
+              <span className="text-[11px] sm:text-xs text-white uppercase">SUPA</span>
+              <span className="text-[11px] sm:text-xs text-blue-400 uppercase mt-0.5">JUKA</span>
             </h1>
-            <p className="text-[9px] sm:text-[10px] text-[#858585] font-mono tracking-wide hidden sm:block">{isPartyMode ? 'FLAC AUDIO // WASM KEY SHIFT // LIVE LYRICS' : 'FLAC // MEL-BAND ROFORMER // FASTER-WHISPER // WSOLA'}</p>
           </div>
         </div>
 
