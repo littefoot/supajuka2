@@ -29,12 +29,14 @@ export async function transcribeSong(songId: string, force = false): Promise<Lyr
     }
   }
 
-  // If already transcribed and not forced, return cached
+  // If already transcribed and not forced, return cached ONLY if it has valid segments
   if (!force && fs.existsSync(lyricsPath)) {
     try {
       const cached: LyricResult = JSON.parse(fs.readFileSync(lyricsPath, 'utf-8'));
-      appEvents.emitStatusUpdate(songId, 'transcribed', 100, 'Lyrics cached.');
-      return cached;
+      if (cached && Array.isArray(cached.segments) && cached.segments.length > 0) {
+        appEvents.emitStatusUpdate(songId, 'transcribed', 100, 'Lyrics cached.');
+        return cached;
+      }
     } catch (e) {}
   }
 

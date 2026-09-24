@@ -138,6 +138,15 @@ export class WasmAudioEngine {
 
   private syncStems() {
     if (!this.instrumentalAudio || !this.vocalsAudio || !this.vocalsAudio.src) return;
+
+    // Critical fix: If instrumental is actively playing but vocals was paused/stalled, immediately wake and resume vocals!
+    if (!this.instrumentalAudio.paused && this.vocalsAudio.paused) {
+      this.vocalsAudio.currentTime = this.instrumentalAudio.currentTime;
+      this.vocalsAudio.playbackRate = this.state.speed;
+      this.vocalsAudio.play().catch(() => {});
+      return;
+    }
+
     if (this.instrumentalAudio.paused || this.vocalsAudio.paused) return;
 
     const instTime = this.instrumentalAudio.currentTime;
@@ -204,8 +213,9 @@ export class WasmAudioEngine {
     });
 
     this.instrumentalAudio.addEventListener('playing', () => {
-      if (this.vocalsAudio && this.vocalsAudio.src && this.vocalsAudio.paused && this.state.isPlaying) {
+      if (this.vocalsAudio && this.vocalsAudio.src && this.vocalsAudio.paused) {
         this.vocalsAudio.currentTime = this.instrumentalAudio!.currentTime;
+        this.vocalsAudio.playbackRate = this.state.speed;
         this.vocalsAudio.play().catch(() => {});
       }
       this.updateState({ isLoading: false, isPlaying: true });
@@ -385,7 +395,13 @@ export class WasmAudioEngine {
     const clamped = Math.max(0, Math.min(100, balancePercent));
     const vocalVol = clamped / 100.0;
     if (this.vocalsGain) {
-      this.vocalsGain.gain.setTargetAtTime(vocalVol, this.ctx?.currentTime || 0, 0.05);
+      this.vocalsGain.gain.value = vocalVol;
+    }
+    // Proactively wake and sync vocals if user raises balance while song is playing
+    if (this.instrumentalAudio && !this.instrumentalAudio.paused && this.vocalsAudio && this.vocalsAudio.src && this.vocalsAudio.paused) {
+      this.vocalsAudio.currentTime = this.instrumentalAudio.currentTime;
+      this.vocalsAudio.playbackRate = this.state.speed;
+      this.vocalsAudio.play().catch(() => {});
     }
     this.updateState({ vocalBalance: clamped });
   }

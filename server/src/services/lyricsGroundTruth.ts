@@ -279,8 +279,9 @@ export function cleanSongTitle(title: string, rawArtist?: string): string {
   // 3. Strip trailing YouTube / release tags in parentheses, brackets, or after vertical pipes
   cleaned = cleaned
     .replace(/\s*\|.*$/g, '') // Strip "| Official Video", "| Vevo", etc.
-    .replace(/\s*[\(\[](?:official\s+(?:music\s+|lyric\s+)?video|official\s+audio|lyric\s+video|lyrics?|visualizer|audio|hd|4k|hq|remaster(?:ed)?|deluxe(?: edition)?|bonus track|anniversary(?: edition)?)[^\)\]]*[\)\]]/gi, '')
+    .replace(/\s*[\(\[](?:official(?:\s+(?:music\s+|lyric\s+)?video|\s+audio)?|lyric\s+video|lyrics?|visualizer|audio|hd|4k|hq|remaster(?:ed)?|deluxe(?: edition)?|bonus track|anniversary(?: edition)?)[^\)\]]*[\)\]]/gi, '')
     .replace(/\s*[\(\[]video\s+officiel[^\)\]]*[\)\]]/gi, '')
+    .replace(/\s*[\(\[]?(?:ft\.?|feat\.?|featuring)\s+[^()\]]+[\)\]]?/gi, '') // Strip "ft. Lil Baby, DaBaby"
     .replace(/^["'“”‘’]+|["'“”‘’]+$/g, '') // Strip quotes around title
     .replace(/\s+/g, ' ')
     .trim();
