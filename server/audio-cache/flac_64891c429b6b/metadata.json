@@ -1,0 +1,19 @@
+{
+  "id": "flac_64891c429b6b",
+  "source": "local",
+  "title": "Ob-La-Di, Ob-La-Da (2018 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 191,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_64891c429b6b/cover.jpg",
+  "cachedAt": 1790184294408,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_64891c429b6b/original.flac",
+  "instrumentalUrl": "/audio/flac_64891c429b6b/instrumental.flac",
+  "vocalsUrl": "/audio/flac_64891c429b6b/vocals.flac"
+}

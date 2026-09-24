@@ -1,0 +1,926 @@
+{
+  "language": "en",
+  "duration": 141,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 4.43,
+      "end": 7.84,
+      "text": "Blackbird singing in the dead of night",
+      "words": [
+        {
+          "text": "Blackbird",
+          "start": 4.43,
+          "end": 5.39,
+          "probability": 1
+        },
+        {
+          "text": "singing",
+          "start": 5.39,
+          "end": 6.14,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 6.14,
+          "end": 6.35,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 6.35,
+          "end": 6.67,
+          "probability": 1
+        },
+        {
+          "text": "dead",
+          "start": 6.67,
+          "end": 7.1,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 7.1,
+          "end": 7.31,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 7.31,
+          "end": 7.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 8.98,
+      "end": 13.15,
+      "text": "Take these broken wings and learn to fly",
+      "words": [
+        {
+          "text": "Take",
+          "start": 8.98,
+          "end": 9.49,
+          "probability": 1
+        },
+        {
+          "text": "these",
+          "start": 9.49,
+          "end": 10.12,
+          "probability": 1
+        },
+        {
+          "text": "broken",
+          "start": 10.12,
+          "end": 10.88,
+          "probability": 1
+        },
+        {
+          "text": "wings",
+          "start": 10.88,
+          "end": 11.51,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 11.51,
+          "end": 11.89,
+          "probability": 1
+        },
+        {
+          "text": "learn",
+          "start": 11.89,
+          "end": 12.52,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 12.52,
+          "end": 12.77,
+          "probability": 1
+        },
+        {
+          "text": "fly",
+          "start": 12.77,
+          "end": 13.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 14.05,
+      "end": 15.56,
+      "text": "All your life",
+      "words": [
+        {
+          "text": "All",
+          "start": 14.05,
+          "end": 14.46,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 14.46,
+          "end": 15.01,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 15.01,
+          "end": 15.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 18.04,
+      "end": 23.74,
+      "text": "You were only waiting for this moment to arise",
+      "words": [
+        {
+          "text": "You",
+          "start": 18.04,
+          "end": 18.49,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 18.49,
+          "end": 19.09,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 19.09,
+          "end": 19.69,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 19.69,
+          "end": 20.74,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 20.74,
+          "end": 21.19,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 21.19,
+          "end": 21.79,
+          "probability": 1
+        },
+        {
+          "text": "moment",
+          "start": 21.79,
+          "end": 22.69,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 22.69,
+          "end": 22.99,
+          "probability": 1
+        },
+        {
+          "text": "arise",
+          "start": 22.99,
+          "end": 23.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 28.17,
+      "end": 31.78,
+      "text": "Black bird singing in the dead of night",
+      "words": [
+        {
+          "text": "Black",
+          "start": 28.17,
+          "end": 28.73,
+          "probability": 1
+        },
+        {
+          "text": "bird",
+          "start": 28.73,
+          "end": 29.18,
+          "probability": 1
+        },
+        {
+          "text": "singing",
+          "start": 29.18,
+          "end": 29.97,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 29.97,
+          "end": 30.2,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 30.2,
+          "end": 30.54,
+          "probability": 1
+        },
+        {
+          "text": "dead",
+          "start": 30.54,
+          "end": 30.99,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 30.99,
+          "end": 31.22,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 31.22,
+          "end": 31.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 32.57,
+      "end": 36.73,
+      "text": "Take these sunken eyes and learn to see",
+      "words": [
+        {
+          "text": "Take",
+          "start": 32.57,
+          "end": 33.09,
+          "probability": 1
+        },
+        {
+          "text": "these",
+          "start": 33.09,
+          "end": 33.74,
+          "probability": 1
+        },
+        {
+          "text": "sunken",
+          "start": 33.74,
+          "end": 34.52,
+          "probability": 1
+        },
+        {
+          "text": "eyes",
+          "start": 34.52,
+          "end": 35.04,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 35.04,
+          "end": 35.43,
+          "probability": 1
+        },
+        {
+          "text": "learn",
+          "start": 35.43,
+          "end": 36.08,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 36.08,
+          "end": 36.34,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 36.34,
+          "end": 36.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 37.25,
+      "end": 38.76,
+      "text": "All your life",
+      "words": [
+        {
+          "text": "All",
+          "start": 37.25,
+          "end": 37.66,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 37.66,
+          "end": 38.21,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 38.21,
+          "end": 38.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 41.86,
+      "end": 46.42,
+      "text": "You were only waiting for this moment to be free",
+      "words": [
+        {
+          "text": "You",
+          "start": 41.86,
+          "end": 42.21,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 42.21,
+          "end": 42.68,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 42.68,
+          "end": 43.15,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 43.15,
+          "end": 43.97,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 43.97,
+          "end": 44.32,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 44.32,
+          "end": 44.79,
+          "probability": 1
+        },
+        {
+          "text": "moment",
+          "start": 44.79,
+          "end": 45.49,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 45.49,
+          "end": 45.72,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 45.72,
+          "end": 45.95,
+          "probability": 1
+        },
+        {
+          "text": "free",
+          "start": 45.95,
+          "end": 46.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 46.66,
+      "end": 48.93,
+      "text": "Blackbird fly, blackbird fly",
+      "words": [
+        {
+          "text": "Blackbird",
+          "start": 46.66,
+          "end": 47.48,
+          "probability": 1
+        },
+        {
+          "text": "fly,",
+          "start": 47.48,
+          "end": 47.84,
+          "probability": 1
+        },
+        {
+          "text": "blackbird",
+          "start": 47.84,
+          "end": 48.66,
+          "probability": 1
+        },
+        {
+          "text": "fly",
+          "start": 48.66,
+          "end": 48.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 48.93,
+      "end": 56.35,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 48.93,
+          "end": 56.35,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 56.35,
+      "end": 59.94,
+      "text": "Into the light of the dark black night",
+      "words": [
+        {
+          "text": "Into",
+          "start": 56.35,
+          "end": 56.81,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 56.81,
+          "end": 57.16,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 57.16,
+          "end": 57.74,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 57.74,
+          "end": 57.97,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 57.97,
+          "end": 58.32,
+          "probability": 1
+        },
+        {
+          "text": "dark",
+          "start": 58.32,
+          "end": 58.78,
+          "probability": 1
+        },
+        {
+          "text": "black",
+          "start": 58.78,
+          "end": 59.36,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 59.36,
+          "end": 59.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 59.94,
+      "end": 76.97,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 59.94,
+          "end": 76.97,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 76.97,
+      "end": 79.24,
+      "text": "Blackbird fly, blackbird fly",
+      "words": [
+        {
+          "text": "Blackbird",
+          "start": 76.97,
+          "end": 77.79,
+          "probability": 1
+        },
+        {
+          "text": "fly,",
+          "start": 77.79,
+          "end": 78.15,
+          "probability": 1
+        },
+        {
+          "text": "blackbird",
+          "start": 78.15,
+          "end": 78.97,
+          "probability": 1
+        },
+        {
+          "text": "fly",
+          "start": 78.97,
+          "end": 79.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 86.22,
+      "end": 89.81,
+      "text": "Into the light of the dark black night",
+      "words": [
+        {
+          "text": "Into",
+          "start": 86.22,
+          "end": 86.68,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 86.68,
+          "end": 87.03,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 87.03,
+          "end": 87.61,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 87.61,
+          "end": 87.84,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 87.84,
+          "end": 88.19,
+          "probability": 1
+        },
+        {
+          "text": "dark",
+          "start": 88.19,
+          "end": 88.65,
+          "probability": 1
+        },
+        {
+          "text": "black",
+          "start": 88.65,
+          "end": 89.23,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 89.23,
+          "end": 89.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 89.81,
+      "end": 107.79,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 89.81,
+          "end": 107.79,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 107.79,
+      "end": 110.99,
+      "text": "Blackbird singing in the dead of night",
+      "words": [
+        {
+          "text": "Blackbird",
+          "start": 107.79,
+          "end": 108.69,
+          "probability": 1
+        },
+        {
+          "text": "singing",
+          "start": 108.69,
+          "end": 109.39,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 109.39,
+          "end": 109.59,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 109.59,
+          "end": 109.89,
+          "probability": 1
+        },
+        {
+          "text": "dead",
+          "start": 109.89,
+          "end": 110.29,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 110.29,
+          "end": 110.49,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 110.49,
+          "end": 110.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 111.23,
+      "end": 115.4,
+      "text": "Take these broken wings and learn to fly",
+      "words": [
+        {
+          "text": "Take",
+          "start": 111.23,
+          "end": 111.74,
+          "probability": 1
+        },
+        {
+          "text": "these",
+          "start": 111.74,
+          "end": 112.37,
+          "probability": 1
+        },
+        {
+          "text": "broken",
+          "start": 112.37,
+          "end": 113.13,
+          "probability": 1
+        },
+        {
+          "text": "wings",
+          "start": 113.13,
+          "end": 113.76,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 113.76,
+          "end": 114.14,
+          "probability": 1
+        },
+        {
+          "text": "learn",
+          "start": 114.14,
+          "end": 114.77,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 114.77,
+          "end": 115.02,
+          "probability": 1
+        },
+        {
+          "text": "fly",
+          "start": 115.02,
+          "end": 115.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 116.25,
+      "end": 117.76,
+      "text": "All your life",
+      "words": [
+        {
+          "text": "All",
+          "start": 116.25,
+          "end": 116.66,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 116.66,
+          "end": 117.21,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 117.21,
+          "end": 117.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 120.14,
+      "end": 125.02,
+      "text": "You were only waiting for this moment to arise",
+      "words": [
+        {
+          "text": "You",
+          "start": 120.14,
+          "end": 120.53,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 120.53,
+          "end": 121.04,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 121.04,
+          "end": 121.55,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 121.55,
+          "end": 122.45,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 122.45,
+          "end": 122.84,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 122.84,
+          "end": 123.35,
+          "probability": 1
+        },
+        {
+          "text": "moment",
+          "start": 123.35,
+          "end": 124.12,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 124.12,
+          "end": 124.38,
+          "probability": 1
+        },
+        {
+          "text": "arise",
+          "start": 124.38,
+          "end": 125.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.28,
+      "end": 129.97,
+      "text": "You were only waiting for this moment to arise",
+      "words": [
+        {
+          "text": "You",
+          "start": 125.28,
+          "end": 125.65,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 125.65,
+          "end": 126.14,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 126.14,
+          "end": 126.63,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 126.63,
+          "end": 127.5,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 127.5,
+          "end": 127.87,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 127.87,
+          "end": 128.36,
+          "probability": 1
+        },
+        {
+          "text": "moment",
+          "start": 128.36,
+          "end": 129.1,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 129.1,
+          "end": 129.35,
+          "probability": 1
+        },
+        {
+          "text": "arise",
+          "start": 129.35,
+          "end": 129.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 130.23,
+      "end": 133.97,
+      "text": "You were only waiting for this moment to arise",
+      "words": [
+        {
+          "text": "You",
+          "start": 130.23,
+          "end": 130.53,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 130.53,
+          "end": 130.92,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 130.92,
+          "end": 131.31,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 131.31,
+          "end": 132,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 132,
+          "end": 132.3,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 132.3,
+          "end": 132.69,
+          "probability": 1
+        },
+        {
+          "text": "moment",
+          "start": 132.69,
+          "end": 133.28,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 133.28,
+          "end": 133.48,
+          "probability": 1
+        },
+        {
+          "text": "arise",
+          "start": 133.48,
+          "end": 133.97,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Blackbird singing in the dead of night Take these broken wings and learn to fly All your life You were only waiting for this moment to arise Black bird singing in the dead of night Take these sunken eyes and learn to see All your life You were only waiting for this moment to be free Blackbird fly, blackbird fly Into the light of the dark black night Blackbird fly, blackbird fly Into the light of the dark black night Blackbird singing in the dead of night Take these broken wings and learn to fly All your life You were only waiting for this moment to arise You were only waiting for this moment to arise You were only waiting for this moment to arise"
+}

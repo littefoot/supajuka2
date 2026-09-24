@@ -1,0 +1,19 @@
+{
+  "id": "flac_2f512f12941f",
+  "source": "local",
+  "title": "Hello, Goodbye (2015 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 210,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_2f512f12941f/cover.jpg",
+  "cachedAt": 1790184144953,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_2f512f12941f/original.flac",
+  "instrumentalUrl": "/audio/flac_2f512f12941f/instrumental.flac",
+  "vocalsUrl": "/audio/flac_2f512f12941f/vocals.flac"
+}

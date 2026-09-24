@@ -1,0 +1,19 @@
+{
+  "id": "flac_d02feb70cde9",
+  "source": "local",
+  "title": "01 Baby Got Back (Album Version)",
+  "artist": "Sir Mix-A-Lot",
+  "album": "Baby Got Back Maxi CD (CDM)",
+  "duration": 266,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_d02feb70cde9/cover.jpg",
+  "cachedAt": 1790184903730,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_d02feb70cde9/original.flac",
+  "instrumentalUrl": "/audio/flac_d02feb70cde9/instrumental.flac",
+  "vocalsUrl": "/audio/flac_d02feb70cde9/vocals.flac"
+}

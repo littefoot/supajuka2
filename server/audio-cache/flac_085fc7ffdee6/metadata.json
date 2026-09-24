@@ -1,0 +1,19 @@
+{
+  "id": "flac_085fc7ffdee6",
+  "source": "local",
+  "title": "Shine On You Crazy Diamond (Part One)",
+  "artist": "Pink Floyd",
+  "album": "Wish You Were Here (TOCP-53808)",
+  "duration": 820,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_085fc7ffdee6/cover.jpg",
+  "cachedAt": 1789625799603,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_085fc7ffdee6/original.flac",
+  "instrumentalUrl": "/audio/flac_085fc7ffdee6/instrumental.flac",
+  "vocalsUrl": "/audio/flac_085fc7ffdee6/vocals.flac"
+}

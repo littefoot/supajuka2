@@ -1,0 +1,4485 @@
+{
+  "language": "en",
+  "duration": 228,
+  "source": "canonical_synced_lrc_aligned",
+  "segments": [
+    {
+      "start": 0,
+      "end": 10.58,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 10.58,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 10.58,
+      "end": 14.12,
+      "text": "Comin' out of my cage and I've been doin' just fine",
+      "words": [
+        {
+          "text": "Comin'",
+          "start": 10.58,
+          "end": 10.83,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Co",
+              "start": 10.58,
+              "end": 10.78
+            },
+            {
+              "text": "min'",
+              "start": 10.78,
+              "end": 10.98
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 10.88,
+          "end": 11.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 10.88,
+              "end": 11.13
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 11.28,
+          "end": 11.53,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 11.28,
+              "end": 11.53
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 11.62,
+          "end": 11.67,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 11.62,
+              "end": 11.82
+            }
+          ]
+        },
+        {
+          "text": "cage",
+          "start": 11.67,
+          "end": 11.95,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cage",
+              "start": 11.67,
+              "end": 11.95
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 12.02,
+          "end": 12.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 12.02,
+              "end": 12.23
+            }
+          ]
+        },
+        {
+          "text": "I've",
+          "start": 12.23,
+          "end": 12.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I've",
+              "start": 12.23,
+              "end": 12.51
+            }
+          ]
+        },
+        {
+          "text": "been",
+          "start": 12.62,
+          "end": 12.87,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "been",
+              "start": 12.62,
+              "end": 12.87
+            }
+          ]
+        },
+        {
+          "text": "doin'",
+          "start": 13,
+          "end": 13.07,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "doin'",
+              "start": 13,
+              "end": 13.2
+            }
+          ]
+        },
+        {
+          "text": "just",
+          "start": 13.42,
+          "end": 13.7,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "just",
+              "start": 13.42,
+              "end": 13.7
+            }
+          ]
+        },
+        {
+          "text": "fine",
+          "start": 13.84,
+          "end": 14.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fine",
+              "start": 13.84,
+              "end": 14.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 14.12,
+      "end": 17.15,
+      "text": "Gotta, gotta be down because I want it all",
+      "words": [
+        {
+          "text": "Gotta,",
+          "start": 14.12,
+          "end": 14.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Got",
+              "start": 14.12,
+              "end": 14.32
+            },
+            {
+              "text": "ta,",
+              "start": 14.32,
+              "end": 14.52
+            }
+          ]
+        },
+        {
+          "text": "gotta",
+          "start": 14.33,
+          "end": 14.83,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "got",
+              "start": 14.33,
+              "end": 14.58
+            },
+            {
+              "text": "ta",
+              "start": 14.58,
+              "end": 14.83
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 14.88,
+          "end": 15.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 14.88,
+              "end": 15.08
+            }
+          ]
+        },
+        {
+          "text": "down",
+          "start": 15.08,
+          "end": 15.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "down",
+              "start": 15.08,
+              "end": 15.33
+            }
+          ]
+        },
+        {
+          "text": "because",
+          "start": 15.33,
+          "end": 16.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 15.33,
+              "end": 15.58
+            },
+            {
+              "text": "cau",
+              "start": 15.58,
+              "end": 15.83
+            },
+            {
+              "text": "se",
+              "start": 15.83,
+              "end": 16.08
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 16.08,
+          "end": 16.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 16.08,
+              "end": 16.33
+            }
+          ]
+        },
+        {
+          "text": "want",
+          "start": 16.38,
+          "end": 16.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "want",
+              "start": 16.38,
+              "end": 16.58
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 16.58,
+          "end": 16.83,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 16.58,
+              "end": 16.83
+            }
+          ]
+        },
+        {
+          "text": "all",
+          "start": 16.9,
+          "end": 17.15,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "all",
+              "start": 16.9,
+              "end": 17.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 17.15,
+      "end": 20.55,
+      "text": "It started out with a kiss, how did it end up like this?",
+      "words": [
+        {
+          "text": "It",
+          "start": 17.15,
+          "end": 17.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "It",
+              "start": 17.15,
+              "end": 17.35
+            }
+          ]
+        },
+        {
+          "text": "started",
+          "start": 17.32,
+          "end": 17.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "star",
+              "start": 17.32,
+              "end": 17.56
+            },
+            {
+              "text": "ted",
+              "start": 17.56,
+              "end": 17.79
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 17.79,
+          "end": 18.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 17.79,
+              "end": 18.04
+            }
+          ]
+        },
+        {
+          "text": "with",
+          "start": 18.08,
+          "end": 18.29,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 18.08,
+              "end": 18.29
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 18.44,
+          "end": 18.69,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 18.44,
+              "end": 18.69
+            }
+          ]
+        },
+        {
+          "text": "kiss,",
+          "start": 18.74,
+          "end": 18.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "kiss,",
+              "start": 18.74,
+              "end": 18.94
+            }
+          ]
+        },
+        {
+          "text": "how",
+          "start": 18.79,
+          "end": 19.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "how",
+              "start": 18.79,
+              "end": 19.04
+            }
+          ]
+        },
+        {
+          "text": "did",
+          "start": 19.14,
+          "end": 19.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "did",
+              "start": 19.14,
+              "end": 19.34
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 19.34,
+          "end": 19.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 19.34,
+              "end": 19.54
+            }
+          ]
+        },
+        {
+          "text": "end",
+          "start": 19.54,
+          "end": 19.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "end",
+              "start": 19.54,
+              "end": 19.79
+            }
+          ]
+        },
+        {
+          "text": "up",
+          "start": 19.92,
+          "end": 20.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "up",
+              "start": 19.92,
+              "end": 20.12
+            }
+          ]
+        },
+        {
+          "text": "like",
+          "start": 20.1,
+          "end": 20.3,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "like",
+              "start": 20.1,
+              "end": 20.3
+            }
+          ]
+        },
+        {
+          "text": "this?",
+          "start": 20.3,
+          "end": 20.55,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "this?",
+              "start": 20.3,
+              "end": 20.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 20.19,
+      "end": 24.23,
+      "text": "It was only a kiss, it was only a kiss",
+      "words": [
+        {
+          "text": "It",
+          "start": 20.19,
+          "end": 20.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "It",
+              "start": 20.19,
+              "end": 20.46
+            }
+          ]
+        },
+        {
+          "text": "was",
+          "start": 20.48,
+          "end": 20.73,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "was",
+              "start": 20.48,
+              "end": 20.73
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 20.73,
+          "end": 21.27,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 20.73,
+              "end": 21
+            },
+            {
+              "text": "ly",
+              "start": 21,
+              "end": 21.27
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 21.32,
+          "end": 21.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 21.32,
+              "end": 21.54
+            }
+          ]
+        },
+        {
+          "text": "kiss,",
+          "start": 21.54,
+          "end": 21.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "kiss,",
+              "start": 21.54,
+              "end": 21.81
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 21.98,
+          "end": 22.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 21.98,
+              "end": 22.18
+            }
+          ]
+        },
+        {
+          "text": "was",
+          "start": 22.12,
+          "end": 22.35,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "was",
+              "start": 22.12,
+              "end": 22.35
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 22.35,
+          "end": 22.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 22.35,
+              "end": 22.63
+            },
+            {
+              "text": "ly",
+              "start": 22.63,
+              "end": 22.9
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 22.92,
+          "end": 23.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 22.92,
+              "end": 23.17
+            }
+          ]
+        },
+        {
+          "text": "kiss",
+          "start": 23.96,
+          "end": 24.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "kiss",
+              "start": 23.96,
+              "end": 24.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 23.81,
+      "end": 26.71,
+      "text": "Now I'm falling asleep and she's calling a cab",
+      "words": [
+        {
+          "text": "Now",
+          "start": 23.81,
+          "end": 23.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Now",
+              "start": 23.81,
+              "end": 24.01
+            }
+          ]
+        },
+        {
+          "text": "I'm",
+          "start": 23.96,
+          "end": 24.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I'm",
+              "start": 23.96,
+              "end": 24.21
+            }
+          ]
+        },
+        {
+          "text": "falling",
+          "start": 24.22,
+          "end": 24.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fal",
+              "start": 24.22,
+              "end": 24.47
+            },
+            {
+              "text": "ling",
+              "start": 24.47,
+              "end": 24.71
+            }
+          ]
+        },
+        {
+          "text": "asleep",
+          "start": 24.71,
+          "end": 25.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "as",
+              "start": 24.71,
+              "end": 24.96
+            },
+            {
+              "text": "leep",
+              "start": 24.96,
+              "end": 25.21
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 25.22,
+          "end": 25.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 25.22,
+              "end": 25.47
+            }
+          ]
+        },
+        {
+          "text": "she's",
+          "start": 25.62,
+          "end": 25.87,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "she's",
+              "start": 25.62,
+              "end": 25.87
+            }
+          ]
+        },
+        {
+          "text": "calling",
+          "start": 26.06,
+          "end": 26.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cal",
+              "start": 26.06,
+              "end": 26.26
+            },
+            {
+              "text": "ling",
+              "start": 26.26,
+              "end": 26.46
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 26.22,
+          "end": 26.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 26.22,
+              "end": 26.46
+            }
+          ]
+        },
+        {
+          "text": "cab",
+          "start": 26.46,
+          "end": 26.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cab",
+              "start": 26.46,
+              "end": 26.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 26.88,
+      "end": 30.33,
+      "text": "While he's having a smoke and she's taking a drag",
+      "words": [
+        {
+          "text": "While",
+          "start": 26.88,
+          "end": 27.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Whi",
+              "start": 26.88,
+              "end": 27.13
+            },
+            {
+              "text": "le",
+              "start": 27.13,
+              "end": 27.38
+            }
+          ]
+        },
+        {
+          "text": "he's",
+          "start": 27.38,
+          "end": 27.63,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "he's",
+              "start": 27.38,
+              "end": 27.63
+            }
+          ]
+        },
+        {
+          "text": "having",
+          "start": 27.9,
+          "end": 28.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ha",
+              "start": 27.9,
+              "end": 28.1
+            },
+            {
+              "text": "ving",
+              "start": 28.1,
+              "end": 28.3
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 28.22,
+          "end": 28.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 28.22,
+              "end": 28.47
+            }
+          ]
+        },
+        {
+          "text": "smoke",
+          "start": 28.5,
+          "end": 28.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "smoke",
+              "start": 28.5,
+              "end": 28.75
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 28.88,
+          "end": 29.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 28.88,
+              "end": 29.08
+            }
+          ]
+        },
+        {
+          "text": "she's",
+          "start": 29.08,
+          "end": 29.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "she's",
+              "start": 29.08,
+              "end": 29.33
+            }
+          ]
+        },
+        {
+          "text": "taking",
+          "start": 29.4,
+          "end": 29.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ta",
+              "start": 29.4,
+              "end": 29.6
+            },
+            {
+              "text": "king",
+              "start": 29.6,
+              "end": 29.8
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 29.74,
+          "end": 29.99,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 29.74,
+              "end": 29.99
+            }
+          ]
+        },
+        {
+          "text": "drag",
+          "start": 30.08,
+          "end": 30.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "drag",
+              "start": 30.08,
+              "end": 30.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 30.33,
+      "end": 33.63,
+      "text": "Now they're goin' to bed and my stomach is sick",
+      "words": [
+        {
+          "text": "Now",
+          "start": 30.33,
+          "end": 30.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Now",
+              "start": 30.33,
+              "end": 30.53
+            }
+          ]
+        },
+        {
+          "text": "they're",
+          "start": 30.44,
+          "end": 30.7,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "they're",
+              "start": 30.44,
+              "end": 30.7
+            }
+          ]
+        },
+        {
+          "text": "goin'",
+          "start": 30.7,
+          "end": 30.97,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "goin'",
+              "start": 30.7,
+              "end": 30.97
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 31.06,
+          "end": 31.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 31.06,
+              "end": 31.26
+            }
+          ]
+        },
+        {
+          "text": "bed",
+          "start": 31.24,
+          "end": 31.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bed",
+              "start": 31.24,
+              "end": 31.51
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 31.74,
+          "end": 31.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 31.74,
+              "end": 31.94
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 31.8,
+          "end": 32.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 31.8,
+              "end": 32.05
+            }
+          ]
+        },
+        {
+          "text": "stomach",
+          "start": 32.14,
+          "end": 32.59,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sto",
+              "start": 32.14,
+              "end": 32.37
+            },
+            {
+              "text": "mach",
+              "start": 32.37,
+              "end": 32.59
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 32.62,
+          "end": 32.87,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 32.62,
+              "end": 32.87
+            }
+          ]
+        },
+        {
+          "text": "sick",
+          "start": 33.36,
+          "end": 33.63,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sick",
+              "start": 33.36,
+              "end": 33.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 33.36,
+      "end": 36.25,
+      "text": "And it's all in my head, but she's touching his",
+      "words": [
+        {
+          "text": "And",
+          "start": 33.36,
+          "end": 33.61,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 33.36,
+              "end": 33.61
+            }
+          ]
+        },
+        {
+          "text": "it's",
+          "start": 33.61,
+          "end": 33.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it's",
+              "start": 33.61,
+              "end": 33.86
+            }
+          ]
+        },
+        {
+          "text": "all",
+          "start": 33.88,
+          "end": 34.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "all",
+              "start": 33.88,
+              "end": 34.13
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 34.18,
+          "end": 34.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 34.18,
+              "end": 34.38
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 34.36,
+          "end": 34.61,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 34.36,
+              "end": 34.61
+            }
+          ]
+        },
+        {
+          "text": "head,",
+          "start": 34.74,
+          "end": 34.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "head,",
+              "start": 34.74,
+              "end": 34.94
+            }
+          ]
+        },
+        {
+          "text": "but",
+          "start": 34.86,
+          "end": 35.11,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "but",
+              "start": 34.86,
+              "end": 35.11
+            }
+          ]
+        },
+        {
+          "text": "she's",
+          "start": 35.34,
+          "end": 35.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "she's",
+              "start": 35.34,
+              "end": 35.54
+            }
+          ]
+        },
+        {
+          "text": "touching",
+          "start": 35.52,
+          "end": 35.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "touc",
+              "start": 35.52,
+              "end": 35.72
+            },
+            {
+              "text": "hing",
+              "start": 35.72,
+              "end": 35.92
+            }
+          ]
+        },
+        {
+          "text": "his",
+          "start": 36,
+          "end": 36.25,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "his",
+              "start": 36,
+              "end": 36.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 36.25,
+      "end": 37.2,
+      "text": "Chest now",
+      "words": [
+        {
+          "text": "Chest",
+          "start": 36.25,
+          "end": 36.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Chest",
+              "start": 36.25,
+              "end": 36.65
+            }
+          ]
+        },
+        {
+          "text": "now",
+          "start": 36.8,
+          "end": 37.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "now",
+              "start": 36.8,
+              "end": 37.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 37.78,
+      "end": 40.54,
+      "text": "He takes off her dress now",
+      "words": [
+        {
+          "text": "He",
+          "start": 37.78,
+          "end": 38.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "He",
+              "start": 37.78,
+              "end": 38.05
+            }
+          ]
+        },
+        {
+          "text": "takes",
+          "start": 38.1,
+          "end": 38.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ta",
+              "start": 38.1,
+              "end": 38.46
+            },
+            {
+              "text": "kes",
+              "start": 38.46,
+              "end": 38.81
+            }
+          ]
+        },
+        {
+          "text": "off",
+          "start": 38.96,
+          "end": 39.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "off",
+              "start": 38.96,
+              "end": 39.21
+            }
+          ]
+        },
+        {
+          "text": "her",
+          "start": 39.34,
+          "end": 39.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "her",
+              "start": 39.34,
+              "end": 39.57
+            }
+          ]
+        },
+        {
+          "text": "dress",
+          "start": 39.57,
+          "end": 39.95,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "dress",
+              "start": 39.57,
+              "end": 39.95
+            }
+          ]
+        },
+        {
+          "text": "now",
+          "start": 40.16,
+          "end": 40.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "now",
+              "start": 40.16,
+              "end": 40.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 40.94,
+      "end": 42.22,
+      "text": "Let me go",
+      "words": [
+        {
+          "text": "Let",
+          "start": 40.94,
+          "end": 41.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Let",
+              "start": 40.94,
+              "end": 41.34
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 41.4,
+          "end": 41.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 41.4,
+              "end": 41.79
+            }
+          ]
+        },
+        {
+          "text": "go",
+          "start": 41.82,
+          "end": 42.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go",
+              "start": 41.82,
+              "end": 42.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 42.22,
+      "end": 49.62,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 42.22,
+          "end": 49.62,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 49.62,
+      "end": 53.04,
+      "text": "And I just can't look, it's killing me",
+      "words": [
+        {
+          "text": "And",
+          "start": 49.62,
+          "end": 50,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 49.62,
+              "end": 50
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 50.02,
+          "end": 50.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 50.02,
+              "end": 50.38
+            }
+          ]
+        },
+        {
+          "text": "just",
+          "start": 50.4,
+          "end": 50.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "just",
+              "start": 50.4,
+              "end": 50.76
+            }
+          ]
+        },
+        {
+          "text": "can't",
+          "start": 50.76,
+          "end": 51.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "can't",
+              "start": 50.76,
+              "end": 51.14
+            }
+          ]
+        },
+        {
+          "text": "look,",
+          "start": 51.14,
+          "end": 51.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "look,",
+              "start": 51.14,
+              "end": 51.52
+            }
+          ]
+        },
+        {
+          "text": "it's",
+          "start": 51.58,
+          "end": 51.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it's",
+              "start": 51.58,
+              "end": 51.9
+            }
+          ]
+        },
+        {
+          "text": "killing",
+          "start": 51.9,
+          "end": 52.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "kil",
+              "start": 51.9,
+              "end": 52.28
+            },
+            {
+              "text": "ling",
+              "start": 52.28,
+              "end": 52.66
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 52.66,
+          "end": 53.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 52.66,
+              "end": 53.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 55.18,
+      "end": 57.02,
+      "text": "And taking control",
+      "words": [
+        {
+          "text": "And",
+          "start": 55.18,
+          "end": 55.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 55.18,
+              "end": 55.56
+            }
+          ]
+        },
+        {
+          "text": "taking",
+          "start": 55.66,
+          "end": 56.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ta",
+              "start": 55.66,
+              "end": 56.04
+            },
+            {
+              "text": "king",
+              "start": 56.04,
+              "end": 56.42
+            }
+          ]
+        },
+        {
+          "text": "control",
+          "start": 56.64,
+          "end": 57.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "control",
+              "start": 56.64,
+              "end": 57.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 62.06,
+      "end": 63.2,
+      "text": "Jealousy",
+      "words": [
+        {
+          "text": "Jealousy",
+          "start": 62.06,
+          "end": 63.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Jea",
+              "start": 62.06,
+              "end": 62.44
+            },
+            {
+              "text": "lou",
+              "start": 62.44,
+              "end": 62.82
+            },
+            {
+              "text": "sy",
+              "start": 62.82,
+              "end": 63.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 63.74,
+      "end": 67.06,
+      "text": "Turning saints into the sea",
+      "words": [
+        {
+          "text": "Turning",
+          "start": 63.74,
+          "end": 64.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Tur",
+              "start": 63.74,
+              "end": 64.12
+            },
+            {
+              "text": "ning",
+              "start": 64.12,
+              "end": 64.5
+            }
+          ]
+        },
+        {
+          "text": "saints",
+          "start": 64.6,
+          "end": 64.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "saints",
+              "start": 64.6,
+              "end": 64.98
+            }
+          ]
+        },
+        {
+          "text": "into",
+          "start": 65.32,
+          "end": 65.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 65.32,
+              "end": 65.54
+            },
+            {
+              "text": "to",
+              "start": 65.54,
+              "end": 65.76
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 65.98,
+          "end": 66.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 65.98,
+              "end": 66.22
+            }
+          ]
+        },
+        {
+          "text": "sea",
+          "start": 66.68,
+          "end": 67.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sea",
+              "start": 66.68,
+              "end": 67.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 67.06,
+      "end": 69.62,
+      "text": "Swimming through sick lullabies",
+      "words": [
+        {
+          "text": "Swimming",
+          "start": 67.06,
+          "end": 67.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Swim",
+              "start": 67.06,
+              "end": 67.42
+            },
+            {
+              "text": "ming",
+              "start": 67.42,
+              "end": 67.78
+            }
+          ]
+        },
+        {
+          "text": "through",
+          "start": 67.78,
+          "end": 68.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "through",
+              "start": 67.78,
+              "end": 68.02
+            }
+          ]
+        },
+        {
+          "text": "sick",
+          "start": 68.02,
+          "end": 68.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sick",
+              "start": 68.02,
+              "end": 68.34
+            }
+          ]
+        },
+        {
+          "text": "lullabies",
+          "start": 68.48,
+          "end": 69.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "lul",
+              "start": 68.48,
+              "end": 68.86
+            },
+            {
+              "text": "la",
+              "start": 68.86,
+              "end": 69.24
+            },
+            {
+              "text": "bies",
+              "start": 69.24,
+              "end": 69.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 70.22,
+      "end": 73.06,
+      "text": "Choking on your alibis",
+      "words": [
+        {
+          "text": "Choking",
+          "start": 70.22,
+          "end": 70.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Cho",
+              "start": 70.22,
+              "end": 70.6
+            },
+            {
+              "text": "king",
+              "start": 70.6,
+              "end": 70.98
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 71.06,
+          "end": 71.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 71.06,
+              "end": 71.44
+            }
+          ]
+        },
+        {
+          "text": "your",
+          "start": 71.5,
+          "end": 71.88,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "your",
+              "start": 71.5,
+              "end": 71.88
+            }
+          ]
+        },
+        {
+          "text": "alibis",
+          "start": 71.92,
+          "end": 73.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 71.92,
+              "end": 72.3
+            },
+            {
+              "text": "li",
+              "start": 72.3,
+              "end": 72.68
+            },
+            {
+              "text": "bis",
+              "start": 72.68,
+              "end": 73.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 73.44,
+      "end": 76.56,
+      "text": "But it's just the price I pay",
+      "words": [
+        {
+          "text": "But",
+          "start": 73.44,
+          "end": 73.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "But",
+              "start": 73.44,
+              "end": 73.84
+            }
+          ]
+        },
+        {
+          "text": "it's",
+          "start": 73.92,
+          "end": 74.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it's",
+              "start": 73.92,
+              "end": 74.32
+            }
+          ]
+        },
+        {
+          "text": "just",
+          "start": 74.32,
+          "end": 74.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "just",
+              "start": 74.32,
+              "end": 74.72
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 74.72,
+          "end": 75.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 74.72,
+              "end": 75.12
+            }
+          ]
+        },
+        {
+          "text": "price",
+          "start": 75.18,
+          "end": 75.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "price",
+              "start": 75.18,
+              "end": 75.58
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 75.94,
+          "end": 76.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 75.94,
+              "end": 76.16
+            }
+          ]
+        },
+        {
+          "text": "pay",
+          "start": 76.16,
+          "end": 76.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "pay",
+              "start": 76.16,
+              "end": 76.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 76.72,
+      "end": 80.02,
+      "text": "Destiny is calling me",
+      "words": [
+        {
+          "text": "Destiny",
+          "start": 76.72,
+          "end": 77.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Des",
+              "start": 76.72,
+              "end": 77.1
+            },
+            {
+              "text": "ti",
+              "start": 77.1,
+              "end": 77.48
+            },
+            {
+              "text": "ny",
+              "start": 77.48,
+              "end": 77.86
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 77.86,
+          "end": 78.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 77.86,
+              "end": 78.24
+            }
+          ]
+        },
+        {
+          "text": "calling",
+          "start": 78.32,
+          "end": 79.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cal",
+              "start": 78.32,
+              "end": 78.7
+            },
+            {
+              "text": "ling",
+              "start": 78.7,
+              "end": 79.08
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 79.64,
+          "end": 80.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 79.64,
+              "end": 80.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 80.08,
+      "end": 83.22,
+      "text": "Open up my eager eyes",
+      "words": [
+        {
+          "text": "Open",
+          "start": 80.08,
+          "end": 80.74,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "O",
+              "start": 80.08,
+              "end": 80.41
+            },
+            {
+              "text": "pen",
+              "start": 80.41,
+              "end": 80.74
+            }
+          ]
+        },
+        {
+          "text": "up",
+          "start": 80.76,
+          "end": 81.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "up",
+              "start": 80.76,
+              "end": 81.12
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 81.16,
+          "end": 81.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 81.16,
+              "end": 81.5
+            }
+          ]
+        },
+        {
+          "text": "eager",
+          "start": 82.18,
+          "end": 82.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ea",
+              "start": 82.18,
+              "end": 82.38
+            },
+            {
+              "text": "ger",
+              "start": 82.38,
+              "end": 82.58
+            }
+          ]
+        },
+        {
+          "text": "eyes",
+          "start": 82.84,
+          "end": 83.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "eyes",
+              "start": 82.84,
+              "end": 83.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 85.02,
+      "end": 87.54,
+      "text": "'Cause I'm Mr. Brightside",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 85.02,
+          "end": 85.4,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "'Cause",
+              "start": 85.02,
+              "end": 85.4
+            }
+          ]
+        },
+        {
+          "text": "I'm",
+          "start": 85.48,
+          "end": 85.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I'm",
+              "start": 85.48,
+              "end": 85.86
+            }
+          ]
+        },
+        {
+          "text": "Mr.",
+          "start": 86.04,
+          "end": 86.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Mr.",
+              "start": 86.04,
+              "end": 86.32
+            }
+          ]
+        },
+        {
+          "text": "Brightside",
+          "start": 86.4,
+          "end": 87.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Bright",
+              "start": 86.4,
+              "end": 86.78
+            },
+            {
+              "text": "si",
+              "start": 86.78,
+              "end": 87.16
+            },
+            {
+              "text": "de",
+              "start": 87.16,
+              "end": 87.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 87.54,
+      "end": 101.46,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 87.54,
+          "end": 101.46,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 101.46,
+      "end": 104.97,
+      "text": "I'm comin' out of my cage and I've been doin' just fine",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 101.46,
+          "end": 101.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I'm",
+              "start": 101.46,
+              "end": 101.71
+            }
+          ]
+        },
+        {
+          "text": "comin'",
+          "start": 101.74,
+          "end": 102.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "co",
+              "start": 101.74,
+              "end": 101.94
+            },
+            {
+              "text": "min'",
+              "start": 101.94,
+              "end": 102.14
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 102.16,
+          "end": 102.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 102.16,
+              "end": 102.41
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 102.44,
+          "end": 102.64,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 102.44,
+              "end": 102.64
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 102.64,
+          "end": 102.88,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 102.64,
+              "end": 102.88
+            }
+          ]
+        },
+        {
+          "text": "cage",
+          "start": 102.88,
+          "end": 103.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cage",
+              "start": 102.88,
+              "end": 103.13
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 103.13,
+          "end": 103.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 103.13,
+              "end": 103.38
+            }
+          ]
+        },
+        {
+          "text": "I've",
+          "start": 103.46,
+          "end": 103.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I've",
+              "start": 103.46,
+              "end": 103.68
+            }
+          ]
+        },
+        {
+          "text": "been",
+          "start": 103.68,
+          "end": 103.92,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "been",
+              "start": 103.68,
+              "end": 103.92
+            }
+          ]
+        },
+        {
+          "text": "doin'",
+          "start": 103.92,
+          "end": 104.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "doin'",
+              "start": 103.92,
+              "end": 104.17
+            }
+          ]
+        },
+        {
+          "text": "just",
+          "start": 104.22,
+          "end": 104.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "just",
+              "start": 104.22,
+              "end": 104.47
+            }
+          ]
+        },
+        {
+          "text": "fine",
+          "start": 104.72,
+          "end": 104.97,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fine",
+              "start": 104.72,
+              "end": 104.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 104.98,
+      "end": 108.21,
+      "text": "Gotta, gotta be down because I want it all",
+      "words": [
+        {
+          "text": "Gotta,",
+          "start": 104.98,
+          "end": 105.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Got",
+              "start": 104.98,
+              "end": 105.18
+            },
+            {
+              "text": "ta,",
+              "start": 105.18,
+              "end": 105.38
+            }
+          ]
+        },
+        {
+          "text": "gotta",
+          "start": 105.34,
+          "end": 105.73,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "got",
+              "start": 105.34,
+              "end": 105.54
+            },
+            {
+              "text": "ta",
+              "start": 105.54,
+              "end": 105.74
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 105.73,
+          "end": 105.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 105.73,
+              "end": 105.98
+            }
+          ]
+        },
+        {
+          "text": "down",
+          "start": 105.98,
+          "end": 106.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "down",
+              "start": 105.98,
+              "end": 106.23
+            }
+          ]
+        },
+        {
+          "text": "because",
+          "start": 106.28,
+          "end": 106.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 106.28,
+              "end": 106.51
+            },
+            {
+              "text": "cau",
+              "start": 106.51,
+              "end": 106.75
+            },
+            {
+              "text": "se",
+              "start": 106.75,
+              "end": 106.98
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 106.98,
+          "end": 107.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 106.98,
+              "end": 107.23
+            }
+          ]
+        },
+        {
+          "text": "want",
+          "start": 107.24,
+          "end": 107.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "want",
+              "start": 107.24,
+              "end": 107.49
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 107.76,
+          "end": 107.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 107.76,
+              "end": 107.96
+            }
+          ]
+        },
+        {
+          "text": "all",
+          "start": 107.96,
+          "end": 108.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "all",
+              "start": 107.96,
+              "end": 108.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 108.21,
+      "end": 111.81,
+      "text": "It started out with a kiss, how did it end up like this?",
+      "words": [
+        {
+          "text": "It",
+          "start": 108.21,
+          "end": 108.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "It",
+              "start": 108.21,
+              "end": 108.41
+            }
+          ]
+        },
+        {
+          "text": "started",
+          "start": 108.36,
+          "end": 108.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "star",
+              "start": 108.36,
+              "end": 108.56
+            },
+            {
+              "text": "ted",
+              "start": 108.56,
+              "end": 108.76
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 108.8,
+          "end": 109.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 108.8,
+              "end": 109.02
+            }
+          ]
+        },
+        {
+          "text": "with",
+          "start": 109.02,
+          "end": 109.27,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 109.02,
+              "end": 109.27
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 109.28,
+          "end": 109.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 109.28,
+              "end": 109.51
+            }
+          ]
+        },
+        {
+          "text": "kiss,",
+          "start": 109.51,
+          "end": 109.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "kiss,",
+              "start": 109.51,
+              "end": 109.76
+            }
+          ]
+        },
+        {
+          "text": "how",
+          "start": 109.8,
+          "end": 110.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "how",
+              "start": 109.8,
+              "end": 110.05
+            }
+          ]
+        },
+        {
+          "text": "did",
+          "start": 110.18,
+          "end": 110.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "did",
+              "start": 110.18,
+              "end": 110.38
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 110.34,
+          "end": 110.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 110.34,
+              "end": 110.54
+            }
+          ]
+        },
+        {
+          "text": "end",
+          "start": 110.52,
+          "end": 110.77,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "end",
+              "start": 110.52,
+              "end": 110.77
+            }
+          ]
+        },
+        {
+          "text": "up",
+          "start": 110.78,
+          "end": 111.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "up",
+              "start": 110.78,
+              "end": 111.01
+            }
+          ]
+        },
+        {
+          "text": "like",
+          "start": 111.01,
+          "end": 111.26,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "like",
+              "start": 111.01,
+              "end": 111.26
+            }
+          ]
+        },
+        {
+          "text": "this?",
+          "start": 111.56,
+          "end": 111.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "this?",
+              "start": 111.56,
+              "end": 111.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 111.24,
+      "end": 114.66,
+      "text": "(It was only a kiss) It was only a kiss",
+      "words": [
+        {
+          "text": "(It",
+          "start": 111.24,
+          "end": 111.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "(It",
+              "start": 111.24,
+              "end": 111.5
+            }
+          ]
+        },
+        {
+          "text": "was",
+          "start": 111.56,
+          "end": 111.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "was",
+              "start": 111.56,
+              "end": 111.81
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 111.84,
+          "end": 112.29,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 111.84,
+              "end": 112.07
+            },
+            {
+              "text": "ly",
+              "start": 112.07,
+              "end": 112.29
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 112.29,
+          "end": 112.55,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 112.29,
+              "end": 112.55
+            }
+          ]
+        },
+        {
+          "text": "kiss)",
+          "start": 112.68,
+          "end": 112.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "kiss)",
+              "start": 112.68,
+              "end": 112.88
+            }
+          ]
+        },
+        {
+          "text": "It",
+          "start": 112.84,
+          "end": 113.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "It",
+              "start": 112.84,
+              "end": 113.09
+            }
+          ]
+        },
+        {
+          "text": "was",
+          "start": 113.14,
+          "end": 113.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "was",
+              "start": 113.14,
+              "end": 113.34
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 113.33,
+          "end": 113.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 113.33,
+              "end": 113.6
+            },
+            {
+              "text": "ly",
+              "start": 113.6,
+              "end": 113.86
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 113.88,
+          "end": 114.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 113.88,
+              "end": 114.13
+            }
+          ]
+        },
+        {
+          "text": "kiss",
+          "start": 114.4,
+          "end": 114.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "kiss",
+              "start": 114.4,
+              "end": 114.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 114.7,
+      "end": 117.64,
+      "text": "Now I'm falling asleep and she's calling a cab",
+      "words": [
+        {
+          "text": "Now",
+          "start": 114.7,
+          "end": 114.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Now",
+              "start": 114.7,
+              "end": 114.9
+            }
+          ]
+        },
+        {
+          "text": "I'm",
+          "start": 114.89,
+          "end": 115.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I'm",
+              "start": 114.89,
+              "end": 115.14
+            }
+          ]
+        },
+        {
+          "text": "falling",
+          "start": 115.3,
+          "end": 115.64,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fal",
+              "start": 115.3,
+              "end": 115.5
+            },
+            {
+              "text": "ling",
+              "start": 115.5,
+              "end": 115.7
+            }
+          ]
+        },
+        {
+          "text": "asleep",
+          "start": 115.64,
+          "end": 116.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "as",
+              "start": 115.64,
+              "end": 115.89
+            },
+            {
+              "text": "leep",
+              "start": 115.89,
+              "end": 116.14
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 116.14,
+          "end": 116.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 116.14,
+              "end": 116.39
+            }
+          ]
+        },
+        {
+          "text": "she's",
+          "start": 116.46,
+          "end": 116.64,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "she's",
+              "start": 116.46,
+              "end": 116.66
+            }
+          ]
+        },
+        {
+          "text": "calling",
+          "start": 116.64,
+          "end": 117.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cal",
+              "start": 116.64,
+              "end": 116.89
+            },
+            {
+              "text": "ling",
+              "start": 116.89,
+              "end": 117.14
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 117.14,
+          "end": 117.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 117.14,
+              "end": 117.39
+            }
+          ]
+        },
+        {
+          "text": "cab",
+          "start": 117.39,
+          "end": 117.64,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cab",
+              "start": 117.39,
+              "end": 117.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 117.7,
+      "end": 120.89,
+      "text": "While he's havin' a smoke and she's taking a drag",
+      "words": [
+        {
+          "text": "While",
+          "start": 117.7,
+          "end": 118.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Whi",
+              "start": 117.7,
+              "end": 117.92
+            },
+            {
+              "text": "le",
+              "start": 117.92,
+              "end": 118.14
+            }
+          ]
+        },
+        {
+          "text": "he's",
+          "start": 118.32,
+          "end": 118.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "he's",
+              "start": 118.32,
+              "end": 118.52
+            }
+          ]
+        },
+        {
+          "text": "havin'",
+          "start": 118.39,
+          "end": 118.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ha",
+              "start": 118.39,
+              "end": 118.64
+            },
+            {
+              "text": "vin'",
+              "start": 118.64,
+              "end": 118.89
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 118.89,
+          "end": 119.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 118.89,
+              "end": 119.14
+            }
+          ]
+        },
+        {
+          "text": "smoke",
+          "start": 119.32,
+          "end": 119.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "smoke",
+              "start": 119.32,
+              "end": 119.52
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 119.39,
+          "end": 119.64,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 119.39,
+              "end": 119.64
+            }
+          ]
+        },
+        {
+          "text": "she's",
+          "start": 119.66,
+          "end": 119.91,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "she's",
+              "start": 119.66,
+              "end": 119.91
+            }
+          ]
+        },
+        {
+          "text": "taking",
+          "start": 119.94,
+          "end": 120.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ta",
+              "start": 119.94,
+              "end": 120.17
+            },
+            {
+              "text": "king",
+              "start": 120.17,
+              "end": 120.39
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 120.39,
+          "end": 120.64,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 120.39,
+              "end": 120.64
+            }
+          ]
+        },
+        {
+          "text": "drag",
+          "start": 120.64,
+          "end": 120.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "drag",
+              "start": 120.64,
+              "end": 120.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 120.96,
+      "end": 123.93,
+      "text": "Now they're goin' to bed and my stomach is sick",
+      "words": [
+        {
+          "text": "Now",
+          "start": 120.96,
+          "end": 121.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Now",
+              "start": 120.96,
+              "end": 121.23
+            }
+          ]
+        },
+        {
+          "text": "they're",
+          "start": 121.23,
+          "end": 121.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "they're",
+              "start": 121.23,
+              "end": 121.5
+            }
+          ]
+        },
+        {
+          "text": "goin'",
+          "start": 121.5,
+          "end": 121.77,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "goin'",
+              "start": 121.5,
+              "end": 121.77
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 121.92,
+          "end": 122.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 121.92,
+              "end": 122.16
+            }
+          ]
+        },
+        {
+          "text": "bed",
+          "start": 122.16,
+          "end": 122.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bed",
+              "start": 122.16,
+              "end": 122.41
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 122.54,
+          "end": 122.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 122.54,
+              "end": 122.74
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 122.72,
+          "end": 122.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 122.72,
+              "end": 122.96
+            }
+          ]
+        },
+        {
+          "text": "stomach",
+          "start": 122.96,
+          "end": 123.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sto",
+              "start": 122.96,
+              "end": 123.18
+            },
+            {
+              "text": "mach",
+              "start": 123.18,
+              "end": 123.39
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 123.46,
+          "end": 123.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 123.46,
+              "end": 123.66
+            }
+          ]
+        },
+        {
+          "text": "sick",
+          "start": 123.66,
+          "end": 123.93,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sick",
+              "start": 123.66,
+              "end": 123.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 124.2,
+      "end": 127.11,
+      "text": "And it's all in my head, but she's touching his",
+      "words": [
+        {
+          "text": "And",
+          "start": 124.2,
+          "end": 124.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 124.2,
+              "end": 124.41
+            }
+          ]
+        },
+        {
+          "text": "it's",
+          "start": 124.41,
+          "end": 124.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it's",
+              "start": 124.41,
+              "end": 124.66
+            }
+          ]
+        },
+        {
+          "text": "all",
+          "start": 124.82,
+          "end": 125.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "all",
+              "start": 124.82,
+              "end": 125.02
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 125.02,
+          "end": 125.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 125.02,
+              "end": 125.22
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 125.22,
+          "end": 125.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 125.22,
+              "end": 125.42
+            }
+          ]
+        },
+        {
+          "text": "head,",
+          "start": 125.41,
+          "end": 125.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "head,",
+              "start": 125.41,
+              "end": 125.66
+            }
+          ]
+        },
+        {
+          "text": "but",
+          "start": 125.66,
+          "end": 125.91,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "but",
+              "start": 125.66,
+              "end": 125.91
+            }
+          ]
+        },
+        {
+          "text": "she's",
+          "start": 125.91,
+          "end": 126.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "she's",
+              "start": 125.91,
+              "end": 126.16
+            }
+          ]
+        },
+        {
+          "text": "touching",
+          "start": 126.38,
+          "end": 126.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "touc",
+              "start": 126.38,
+              "end": 126.62
+            },
+            {
+              "text": "hing",
+              "start": 126.62,
+              "end": 126.86
+            }
+          ]
+        },
+        {
+          "text": "his",
+          "start": 126.86,
+          "end": 127.11,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "his",
+              "start": 126.86,
+              "end": 127.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 127.18,
+      "end": 128.02,
+      "text": "Chest now",
+      "words": [
+        {
+          "text": "Chest",
+          "start": 127.18,
+          "end": 127.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Chest",
+              "start": 127.18,
+              "end": 127.48
+            }
+          ]
+        },
+        {
+          "text": "now",
+          "start": 127.62,
+          "end": 128.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "now",
+              "start": 127.62,
+              "end": 128.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 128.6,
+      "end": 131.38,
+      "text": "He takes off her dress now",
+      "words": [
+        {
+          "text": "He",
+          "start": 128.6,
+          "end": 128.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "He",
+              "start": 128.6,
+              "end": 128.98
+            }
+          ]
+        },
+        {
+          "text": "takes",
+          "start": 128.98,
+          "end": 129.74,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ta",
+              "start": 128.98,
+              "end": 129.36
+            },
+            {
+              "text": "kes",
+              "start": 129.36,
+              "end": 129.74
+            }
+          ]
+        },
+        {
+          "text": "off",
+          "start": 129.82,
+          "end": 130.19,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "off",
+              "start": 129.82,
+              "end": 130.19
+            }
+          ]
+        },
+        {
+          "text": "her",
+          "start": 130.2,
+          "end": 130.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "her",
+              "start": 130.2,
+              "end": 130.57
+            }
+          ]
+        },
+        {
+          "text": "dress",
+          "start": 130.57,
+          "end": 130.95,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "dress",
+              "start": 130.57,
+              "end": 130.95
+            }
+          ]
+        },
+        {
+          "text": "now",
+          "start": 131,
+          "end": 131.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "now",
+              "start": 131,
+              "end": 131.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 131.72,
+      "end": 133,
+      "text": "Let me go",
+      "words": [
+        {
+          "text": "Let",
+          "start": 131.72,
+          "end": 132.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Let",
+              "start": 131.72,
+              "end": 132.12
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 132.16,
+          "end": 132.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 132.16,
+              "end": 132.56
+            }
+          ]
+        },
+        {
+          "text": "go",
+          "start": 132.6,
+          "end": 133,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go",
+              "start": 132.6,
+              "end": 133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 133,
+      "end": 140.48,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 133,
+          "end": 140.48,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 140.48,
+      "end": 143.96,
+      "text": "'Cause I just can't look, it's killing me",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 140.48,
+          "end": 140.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "'Cause",
+              "start": 140.48,
+              "end": 140.86
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 140.86,
+          "end": 141.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 140.86,
+              "end": 141.24
+            }
+          ]
+        },
+        {
+          "text": "just",
+          "start": 141.26,
+          "end": 141.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "just",
+              "start": 141.26,
+              "end": 141.62
+            }
+          ]
+        },
+        {
+          "text": "can't",
+          "start": 141.66,
+          "end": 142,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "can't",
+              "start": 141.66,
+              "end": 142
+            }
+          ]
+        },
+        {
+          "text": "look,",
+          "start": 142,
+          "end": 142.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "look,",
+              "start": 142,
+              "end": 142.38
+            }
+          ]
+        },
+        {
+          "text": "it's",
+          "start": 142.44,
+          "end": 142.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it's",
+              "start": 142.44,
+              "end": 142.76
+            }
+          ]
+        },
+        {
+          "text": "killing",
+          "start": 142.76,
+          "end": 143.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "kil",
+              "start": 142.76,
+              "end": 143.14
+            },
+            {
+              "text": "ling",
+              "start": 143.14,
+              "end": 143.52
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 143.58,
+          "end": 143.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 143.58,
+              "end": 143.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 146.02,
+      "end": 148.02,
+      "text": "And taking control",
+      "words": [
+        {
+          "text": "And",
+          "start": 146.02,
+          "end": 146.4,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 146.02,
+              "end": 146.4
+            }
+          ]
+        },
+        {
+          "text": "taking",
+          "start": 146.4,
+          "end": 147.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ta",
+              "start": 146.4,
+              "end": 146.78
+            },
+            {
+              "text": "king",
+              "start": 146.78,
+              "end": 147.16
+            }
+          ]
+        },
+        {
+          "text": "control",
+          "start": 147.64,
+          "end": 148.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "control",
+              "start": 147.64,
+              "end": 148.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 152.88,
+      "end": 154.02,
+      "text": "Jealousy",
+      "words": [
+        {
+          "text": "Jealousy",
+          "start": 152.88,
+          "end": 154.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Jea",
+              "start": 152.88,
+              "end": 153.26
+            },
+            {
+              "text": "lou",
+              "start": 153.26,
+              "end": 153.64
+            },
+            {
+              "text": "sy",
+              "start": 153.64,
+              "end": 154.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 154.58,
+      "end": 157.2,
+      "text": "Turning saints into the sea",
+      "words": [
+        {
+          "text": "Turning",
+          "start": 154.58,
+          "end": 155.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Tur",
+              "start": 154.58,
+              "end": 154.89
+            },
+            {
+              "text": "ning",
+              "start": 154.89,
+              "end": 155.2
+            }
+          ]
+        },
+        {
+          "text": "saints",
+          "start": 155.32,
+          "end": 155.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "saints",
+              "start": 155.32,
+              "end": 155.58
+            }
+          ]
+        },
+        {
+          "text": "into",
+          "start": 155.84,
+          "end": 156.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 155.84,
+              "end": 156.09
+            },
+            {
+              "text": "to",
+              "start": 156.09,
+              "end": 156.34
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 156.44,
+          "end": 156.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 156.44,
+              "end": 156.72
+            }
+          ]
+        },
+        {
+          "text": "sea",
+          "start": 156.82,
+          "end": 157.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sea",
+              "start": 156.82,
+              "end": 157.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 157.76,
+      "end": 160.62,
+      "text": "Swimming through sick lullabies",
+      "words": [
+        {
+          "text": "Swimming",
+          "start": 157.76,
+          "end": 158.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Swim",
+              "start": 157.76,
+              "end": 158.14
+            },
+            {
+              "text": "ming",
+              "start": 158.14,
+              "end": 158.52
+            }
+          ]
+        },
+        {
+          "text": "through",
+          "start": 158.6,
+          "end": 158.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "through",
+              "start": 158.6,
+              "end": 158.98
+            }
+          ]
+        },
+        {
+          "text": "sick",
+          "start": 159.08,
+          "end": 159.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sick",
+              "start": 159.08,
+              "end": 159.36
+            }
+          ]
+        },
+        {
+          "text": "lullabies",
+          "start": 159.48,
+          "end": 160.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "lul",
+              "start": 159.48,
+              "end": 159.86
+            },
+            {
+              "text": "la",
+              "start": 159.86,
+              "end": 160.24
+            },
+            {
+              "text": "bies",
+              "start": 160.24,
+              "end": 160.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 161.06,
+      "end": 164.21,
+      "text": "Choking on your alibis",
+      "words": [
+        {
+          "text": "Choking",
+          "start": 161.06,
+          "end": 161.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Cho",
+              "start": 161.06,
+              "end": 161.39
+            },
+            {
+              "text": "king",
+              "start": 161.39,
+              "end": 161.71
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 161.92,
+          "end": 162.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 161.92,
+              "end": 162.12
+            }
+          ]
+        },
+        {
+          "text": "your",
+          "start": 162.34,
+          "end": 162.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "your",
+              "start": 162.34,
+              "end": 162.72
+            }
+          ]
+        },
+        {
+          "text": "alibis",
+          "start": 163.54,
+          "end": 164.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 163.54,
+              "end": 163.76
+            },
+            {
+              "text": "li",
+              "start": 163.76,
+              "end": 163.99
+            },
+            {
+              "text": "bis",
+              "start": 163.99,
+              "end": 164.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 164.36,
+      "end": 167.81,
+      "text": "But it's just the price I pay",
+      "words": [
+        {
+          "text": "But",
+          "start": 164.36,
+          "end": 164.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "But",
+              "start": 164.36,
+              "end": 164.76
+            }
+          ]
+        },
+        {
+          "text": "it's",
+          "start": 164.76,
+          "end": 165.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it's",
+              "start": 164.76,
+              "end": 165.16
+            }
+          ]
+        },
+        {
+          "text": "just",
+          "start": 165.16,
+          "end": 165.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "just",
+              "start": 165.16,
+              "end": 165.56
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 165.56,
+          "end": 165.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 165.56,
+              "end": 165.96
+            }
+          ]
+        },
+        {
+          "text": "price",
+          "start": 165.96,
+          "end": 166.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "price",
+              "start": 165.96,
+              "end": 166.36
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 166.38,
+          "end": 166.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 166.38,
+              "end": 166.78
+            }
+          ]
+        },
+        {
+          "text": "pay",
+          "start": 167.56,
+          "end": 167.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "pay",
+              "start": 167.56,
+              "end": 167.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 167.98,
+      "end": 170.36,
+      "text": "Destiny is calling me",
+      "words": [
+        {
+          "text": "Destiny",
+          "start": 167.98,
+          "end": 168.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Des",
+              "start": 167.98,
+              "end": 168.21
+            },
+            {
+              "text": "ti",
+              "start": 168.21,
+              "end": 168.43
+            },
+            {
+              "text": "ny",
+              "start": 168.43,
+              "end": 168.66
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 168.74,
+          "end": 169.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 168.74,
+              "end": 169.04
+            }
+          ]
+        },
+        {
+          "text": "calling",
+          "start": 169.04,
+          "end": 169.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cal",
+              "start": 169.04,
+              "end": 169.42
+            },
+            {
+              "text": "ling",
+              "start": 169.42,
+              "end": 169.8
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 169.98,
+          "end": 170.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 169.98,
+              "end": 170.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 171.14,
+      "end": 174.08,
+      "text": "Open up my eager eyes",
+      "words": [
+        {
+          "text": "Open",
+          "start": 171.14,
+          "end": 171.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "O",
+              "start": 171.14,
+              "end": 171.4
+            },
+            {
+              "text": "pen",
+              "start": 171.4,
+              "end": 171.65
+            }
+          ]
+        },
+        {
+          "text": "up",
+          "start": 171.66,
+          "end": 172.03,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "up",
+              "start": 171.66,
+              "end": 172.03
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 172.03,
+          "end": 172.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 172.03,
+              "end": 172.41
+            }
+          ]
+        },
+        {
+          "text": "eager",
+          "start": 172.46,
+          "end": 173.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ea",
+              "start": 172.46,
+              "end": 172.82
+            },
+            {
+              "text": "ger",
+              "start": 172.82,
+              "end": 173.17
+            }
+          ]
+        },
+        {
+          "text": "eyes",
+          "start": 173.7,
+          "end": 174.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "eyes",
+              "start": 173.7,
+              "end": 174.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 176.22,
+      "end": 178.37,
+      "text": "'Cause I'm Mr. Brightside",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 176.22,
+          "end": 176.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "'Cause",
+              "start": 176.22,
+              "end": 176.47
+            }
+          ]
+        },
+        {
+          "text": "I'm",
+          "start": 176.47,
+          "end": 176.85,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I'm",
+              "start": 176.47,
+              "end": 176.85
+            }
+          ]
+        },
+        {
+          "text": "Mr.",
+          "start": 176.88,
+          "end": 177.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Mr.",
+              "start": 176.88,
+              "end": 177.23
+            }
+          ]
+        },
+        {
+          "text": "Brightside",
+          "start": 177.23,
+          "end": 178.37,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Bright",
+              "start": 177.23,
+              "end": 177.61
+            },
+            {
+              "text": "si",
+              "start": 177.61,
+              "end": 177.99
+            },
+            {
+              "text": "de",
+              "start": 177.99,
+              "end": 178.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 178.37,
+      "end": 191.92,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 178.37,
+          "end": 191.92,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 191.92,
+      "end": 193.06,
+      "text": "I never",
+      "words": [
+        {
+          "text": "I",
+          "start": 191.92,
+          "end": 192.3,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 191.92,
+              "end": 192.3
+            }
+          ]
+        },
+        {
+          "text": "never",
+          "start": 192.3,
+          "end": 193.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ne",
+              "start": 192.3,
+              "end": 192.68
+            },
+            {
+              "text": "ver",
+              "start": 192.68,
+              "end": 193.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 198,
+      "end": 199.18,
+      "text": "I never",
+      "words": [
+        {
+          "text": "I",
+          "start": 198,
+          "end": 198.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 198,
+              "end": 198.38
+            }
+          ]
+        },
+        {
+          "text": "never",
+          "start": 198.42,
+          "end": 199.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ne",
+              "start": 198.42,
+              "end": 198.8
+            },
+            {
+              "text": "ver",
+              "start": 198.8,
+              "end": 199.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 204.4,
+      "end": 205.66,
+      "text": "I never",
+      "words": [
+        {
+          "text": "I",
+          "start": 204.4,
+          "end": 204.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 204.4,
+              "end": 204.78
+            }
+          ]
+        },
+        {
+          "text": "never",
+          "start": 204.9,
+          "end": 205.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ne",
+              "start": 204.9,
+              "end": 205.28
+            },
+            {
+              "text": "ver",
+              "start": 205.28,
+              "end": 205.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 210.82,
+      "end": 212.74,
+      "text": "I never",
+      "words": [
+        {
+          "text": "I",
+          "start": 210.82,
+          "end": 211.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 210.82,
+              "end": 211.2
+            }
+          ]
+        },
+        {
+          "text": "never",
+          "start": 212,
+          "end": 212.74,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ne",
+              "start": 212,
+              "end": 212.37
+            },
+            {
+              "text": "ver",
+              "start": 212.37,
+              "end": 212.74
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "text": "Comin' out of my cage and I've been doin' just fine Gotta, gotta be down because I want it all It started out with a kiss, how did it end up like this? It was only a kiss, it was only a kiss Now I'm falling asleep and she's calling a cab While he's having a smoke and she's taking a drag Now they're goin' to bed and my stomach is sick And it's all in my head, but she's touching his Chest now He takes off her dress now Let me go And I just can't look, it's killing me And taking control Jealousy Turning saints into the sea Swimming through sick lullabies Choking on your alibis But it's just the price I pay Destiny is calling me Open up my eager eyes 'Cause I'm Mr. Brightside I'm comin' out of my cage and I've been doin' just fine Gotta, gotta be down because I want it all It started out with a kiss, how did it end up like this? (It was only a kiss) It was only a kiss Now I'm falling asleep and she's calling a cab While he's havin' a smoke and she's taking a drag Now they're goin' to bed and my stomach is sick And it's all in my head, but she's touching his Chest now He takes off her dress now Let me go 'Cause I just can't look, it's killing me And taking control Jealousy Turning saints into the sea Swimming through sick lullabies Choking on your alibis But it's just the price I pay Destiny is calling me Open up my eager eyes 'Cause I'm Mr. Brightside I never I never I never I never"
+}

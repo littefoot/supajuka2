@@ -1,0 +1,891 @@
+{
+  "language": "en",
+  "duration": 229,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 25.65,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 25.65,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 25.65,
+      "end": 29.45,
+      "text": "A heart that's full up like a landfill",
+      "words": [
+        {
+          "text": "A",
+          "start": 25.65,
+          "end": 25.77,
+          "probability": 1
+        },
+        {
+          "text": "heart",
+          "start": 25.77,
+          "end": 26.38,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 26.38,
+          "end": 27.12,
+          "probability": 1
+        },
+        {
+          "text": "full",
+          "start": 27.12,
+          "end": 27.61,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 27.61,
+          "end": 27.86,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 27.86,
+          "end": 28.35,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 28.35,
+          "end": 28.47,
+          "probability": 1
+        },
+        {
+          "text": "landfill",
+          "start": 28.47,
+          "end": 29.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.22,
+      "end": 37.92,
+      "text": "A job that slowly kills you",
+      "words": [
+        {
+          "text": "A",
+          "start": 35.22,
+          "end": 35.34,
+          "probability": 1
+        },
+        {
+          "text": "job",
+          "start": 35.34,
+          "end": 35.71,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 35.71,
+          "end": 36.2,
+          "probability": 1
+        },
+        {
+          "text": "slowly",
+          "start": 36.2,
+          "end": 36.94,
+          "probability": 1
+        },
+        {
+          "text": "kills",
+          "start": 36.94,
+          "end": 37.55,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 37.55,
+          "end": 37.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 41.51,
+      "end": 43.42,
+      "text": "Bruises that won't heal",
+      "words": [
+        {
+          "text": "Bruises",
+          "start": 41.51,
+          "end": 42.18,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 42.18,
+          "end": 42.56,
+          "probability": 1
+        },
+        {
+          "text": "won't",
+          "start": 42.56,
+          "end": 43.04,
+          "probability": 1
+        },
+        {
+          "text": "heal",
+          "start": 43.04,
+          "end": 43.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 43.42,
+      "end": 51.62,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 43.42,
+          "end": 51.62,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 51.62,
+      "end": 54.66,
+      "text": "You look so tired, unhappy",
+      "words": [
+        {
+          "text": "You",
+          "start": 51.62,
+          "end": 52.03,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 52.03,
+          "end": 52.58,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 52.58,
+          "end": 52.86,
+          "probability": 1
+        },
+        {
+          "text": "tired,",
+          "start": 52.86,
+          "end": 53.69,
+          "probability": 1
+        },
+        {
+          "text": "unhappy",
+          "start": 53.69,
+          "end": 54.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 57.69,
+      "end": 59.97,
+      "text": "Bring down the government",
+      "words": [
+        {
+          "text": "Bring",
+          "start": 57.69,
+          "end": 58.21,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 58.21,
+          "end": 58.62,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 58.62,
+          "end": 58.93,
+          "probability": 1
+        },
+        {
+          "text": "government",
+          "start": 58.93,
+          "end": 59.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 64.17,
+      "end": 67.31,
+      "text": "They don't, they don't speak for us",
+      "words": [
+        {
+          "text": "They",
+          "start": 64.17,
+          "end": 64.6,
+          "probability": 1
+        },
+        {
+          "text": "don't,",
+          "start": 64.6,
+          "end": 65.25,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 65.25,
+          "end": 65.68,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 65.68,
+          "end": 66.22,
+          "probability": 1
+        },
+        {
+          "text": "speak",
+          "start": 66.22,
+          "end": 66.76,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 66.76,
+          "end": 67.09,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 67.09,
+          "end": 67.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 67.31,
+      "end": 76.75,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 67.31,
+          "end": 76.75,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 76.75,
+      "end": 79.41,
+      "text": "I'll take a quiet life",
+      "words": [
+        {
+          "text": "I'll",
+          "start": 76.75,
+          "end": 77.34,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 77.34,
+          "end": 77.93,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 77.93,
+          "end": 78.08,
+          "probability": 1
+        },
+        {
+          "text": "quiet",
+          "start": 78.08,
+          "end": 78.82,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 78.82,
+          "end": 79.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.34,
+      "end": 86.52,
+      "text": "A handshake of carbon monoxide",
+      "words": [
+        {
+          "text": "A",
+          "start": 82.34,
+          "end": 82.5,
+          "probability": 1
+        },
+        {
+          "text": "handshake",
+          "start": 82.5,
+          "end": 83.95,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 83.95,
+          "end": 84.27,
+          "probability": 1
+        },
+        {
+          "text": "carbon",
+          "start": 84.27,
+          "end": 85.23,
+          "probability": 1
+        },
+        {
+          "text": "monoxide",
+          "start": 85.23,
+          "end": 86.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 88.91,
+      "end": 91.95,
+      "text": "No alarms and no surprises",
+      "words": [
+        {
+          "text": "No",
+          "start": 88.91,
+          "end": 89.19,
+          "probability": 1
+        },
+        {
+          "text": "alarms",
+          "start": 89.19,
+          "end": 90.02,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 90.02,
+          "end": 90.43,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 90.43,
+          "end": 90.71,
+          "probability": 1
+        },
+        {
+          "text": "surprises",
+          "start": 90.71,
+          "end": 91.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.25,
+      "end": 98.29,
+      "text": "No alarms and no surprises",
+      "words": [
+        {
+          "text": "No",
+          "start": 95.25,
+          "end": 95.53,
+          "probability": 1
+        },
+        {
+          "text": "alarms",
+          "start": 95.53,
+          "end": 96.36,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 96.36,
+          "end": 96.77,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 96.77,
+          "end": 97.05,
+          "probability": 1
+        },
+        {
+          "text": "surprises",
+          "start": 97.05,
+          "end": 98.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 101.3,
+      "end": 104.34,
+      "text": "No alarms and no surprises",
+      "words": [
+        {
+          "text": "No",
+          "start": 101.3,
+          "end": 101.58,
+          "probability": 1
+        },
+        {
+          "text": "alarms",
+          "start": 101.58,
+          "end": 102.41,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 102.41,
+          "end": 102.82,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 102.82,
+          "end": 103.1,
+          "probability": 1
+        },
+        {
+          "text": "surprises",
+          "start": 103.1,
+          "end": 104.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 107.68,
+      "end": 108.44,
+      "text": "Silent",
+      "words": [
+        {
+          "text": "Silent",
+          "start": 107.68,
+          "end": 108.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 114.06,
+      "end": 114.82,
+      "text": "Silent",
+      "words": [
+        {
+          "text": "Silent",
+          "start": 114.06,
+          "end": 114.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 120.88,
+      "end": 123.17,
+      "text": "This is my final fit",
+      "words": [
+        {
+          "text": "This",
+          "start": 120.88,
+          "end": 121.45,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 121.45,
+          "end": 121.74,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 121.74,
+          "end": 122.03,
+          "probability": 1
+        },
+        {
+          "text": "final",
+          "start": 122.03,
+          "end": 122.74,
+          "probability": 1
+        },
+        {
+          "text": "fit",
+          "start": 122.74,
+          "end": 123.17,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 126.04,
+      "end": 128.71,
+      "text": "My final bellyache with",
+      "words": [
+        {
+          "text": "My",
+          "start": 126.04,
+          "end": 126.31,
+          "probability": 1
+        },
+        {
+          "text": "final",
+          "start": 126.31,
+          "end": 126.98,
+          "probability": 1
+        },
+        {
+          "text": "bellyache",
+          "start": 126.98,
+          "end": 128.18,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 128.18,
+          "end": 128.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.48,
+      "end": 136.52,
+      "text": "No alarms and no surprises",
+      "words": [
+        {
+          "text": "No",
+          "start": 133.48,
+          "end": 133.76,
+          "probability": 1
+        },
+        {
+          "text": "alarms",
+          "start": 133.76,
+          "end": 134.59,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 134.59,
+          "end": 135,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 135,
+          "end": 135.28,
+          "probability": 1
+        },
+        {
+          "text": "surprises",
+          "start": 135.28,
+          "end": 136.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 139.52,
+      "end": 142.56,
+      "text": "No alarms and no surprises",
+      "words": [
+        {
+          "text": "No",
+          "start": 139.52,
+          "end": 139.8,
+          "probability": 1
+        },
+        {
+          "text": "alarms",
+          "start": 139.8,
+          "end": 140.63,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 140.63,
+          "end": 141.04,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 141.04,
+          "end": 141.32,
+          "probability": 1
+        },
+        {
+          "text": "surprises",
+          "start": 141.32,
+          "end": 142.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 145.55,
+      "end": 149.35,
+      "text": "No alarms and no surprises, please",
+      "words": [
+        {
+          "text": "No",
+          "start": 145.55,
+          "end": 145.81,
+          "probability": 1
+        },
+        {
+          "text": "alarms",
+          "start": 145.81,
+          "end": 146.6,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 146.6,
+          "end": 146.99,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 146.99,
+          "end": 147.25,
+          "probability": 1
+        },
+        {
+          "text": "surprises,",
+          "start": 147.25,
+          "end": 148.56,
+          "probability": 1
+        },
+        {
+          "text": "please",
+          "start": 148.56,
+          "end": 149.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 149.35,
+      "end": 176.06,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 149.35,
+          "end": 176.06,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 176.06,
+      "end": 178.34,
+      "text": "Such a pretty house",
+      "words": [
+        {
+          "text": "Such",
+          "start": 176.06,
+          "end": 176.63,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 176.63,
+          "end": 176.77,
+          "probability": 1
+        },
+        {
+          "text": "pretty",
+          "start": 176.77,
+          "end": 177.63,
+          "probability": 1
+        },
+        {
+          "text": "house",
+          "start": 177.63,
+          "end": 178.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 181.71,
+      "end": 184.37,
+      "text": "And such a pretty garden",
+      "words": [
+        {
+          "text": "And",
+          "start": 181.71,
+          "end": 182.11,
+          "probability": 1
+        },
+        {
+          "text": "such",
+          "start": 182.11,
+          "end": 182.64,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 182.64,
+          "end": 182.77,
+          "probability": 1
+        },
+        {
+          "text": "pretty",
+          "start": 182.77,
+          "end": 183.57,
+          "probability": 1
+        },
+        {
+          "text": "garden",
+          "start": 183.57,
+          "end": 184.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 188.45,
+      "end": 191.49,
+      "text": "No alarms and no surprises",
+      "words": [
+        {
+          "text": "No",
+          "start": 188.45,
+          "end": 188.73,
+          "probability": 1
+        },
+        {
+          "text": "alarms",
+          "start": 188.73,
+          "end": 189.56,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 189.56,
+          "end": 189.97,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 189.97,
+          "end": 190.25,
+          "probability": 1
+        },
+        {
+          "text": "surprises",
+          "start": 190.25,
+          "end": 191.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 194.05,
+      "end": 197.09,
+      "text": "No alarms and no surprises",
+      "words": [
+        {
+          "text": "No",
+          "start": 194.05,
+          "end": 194.33,
+          "probability": 1
+        },
+        {
+          "text": "alarms",
+          "start": 194.33,
+          "end": 195.16,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 195.16,
+          "end": 195.57,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 195.57,
+          "end": 195.85,
+          "probability": 1
+        },
+        {
+          "text": "surprises",
+          "start": 195.85,
+          "end": 197.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 200.23,
+      "end": 203.99,
+      "text": "No alarms and no surprises, please",
+      "words": [
+        {
+          "text": "No",
+          "start": 200.23,
+          "end": 200.49,
+          "probability": 1
+        },
+        {
+          "text": "alarms",
+          "start": 200.49,
+          "end": 201.27,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 201.27,
+          "end": 201.66,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 201.66,
+          "end": 201.92,
+          "probability": 1
+        },
+        {
+          "text": "surprises,",
+          "start": 201.92,
+          "end": 203.21,
+          "probability": 1
+        },
+        {
+          "text": "please",
+          "start": 203.21,
+          "end": 203.99,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "A heart that's full up like a landfill A job that slowly kills you Bruises that won't heal You look so tired, unhappy Bring down the government They don't, they don't speak for us I'll take a quiet life A handshake of carbon monoxide No alarms and no surprises No alarms and no surprises No alarms and no surprises Silent Silent This is my final fit My final bellyache with No alarms and no surprises No alarms and no surprises No alarms and no surprises, please Such a pretty house And such a pretty garden No alarms and no surprises No alarms and no surprises No alarms and no surprises, please"
+}

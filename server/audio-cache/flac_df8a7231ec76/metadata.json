@@ -1,0 +1,19 @@
+{
+  "id": "flac_df8a7231ec76",
+  "source": "local",
+  "title": "Wonderwall  (Remastered)",
+  "artist": "Oasis ",
+  "album": "Time Flies... 1994-2009 ",
+  "duration": 262,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_df8a7231ec76/cover.jpg",
+  "cachedAt": 1790185174523,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_df8a7231ec76/original.flac",
+  "instrumentalUrl": "/audio/flac_df8a7231ec76/instrumental.flac",
+  "vocalsUrl": "/audio/flac_df8a7231ec76/vocals.flac"
+}

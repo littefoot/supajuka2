@@ -1,0 +1,19 @@
+{
+  "id": "flac_569629a576d1",
+  "source": "local",
+  "title": "All You Need Is Love (2015 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 229,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_569629a576d1/cover.jpg",
+  "cachedAt": 1790184091031,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_569629a576d1/original.flac",
+  "instrumentalUrl": "/audio/flac_569629a576d1/instrumental.flac",
+  "vocalsUrl": "/audio/flac_569629a576d1/vocals.flac"
+}

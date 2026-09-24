@@ -1,0 +1,1098 @@
+{
+  "language": "en",
+  "duration": 309,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 63.55,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 63.55,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 63.55,
+      "end": 66.51,
+      "text": "Come in here, dear boy, have a cigar.",
+      "words": [
+        {
+          "text": "Come",
+          "start": 63.55,
+          "end": 63.94,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 63.94,
+          "end": 64.14,
+          "probability": 1
+        },
+        {
+          "text": "here,",
+          "start": 64.14,
+          "end": 64.63,
+          "probability": 1
+        },
+        {
+          "text": "dear",
+          "start": 64.63,
+          "end": 65.02,
+          "probability": 1
+        },
+        {
+          "text": "boy,",
+          "start": 65.02,
+          "end": 65.41,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 65.41,
+          "end": 65.8,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 65.8,
+          "end": 65.92,
+          "probability": 1
+        },
+        {
+          "text": "cigar.",
+          "start": 65.92,
+          "end": 66.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 66.75,
+      "end": 71.3,
+      "text": "You're gonna go far, you're gonna fly high,",
+      "words": [
+        {
+          "text": "You're",
+          "start": 66.75,
+          "end": 67.51,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 67.51,
+          "end": 68.14,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 68.14,
+          "end": 68.39,
+          "probability": 1
+        },
+        {
+          "text": "far,",
+          "start": 68.39,
+          "end": 68.9,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 68.9,
+          "end": 69.66,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 69.66,
+          "end": 70.29,
+          "probability": 1
+        },
+        {
+          "text": "fly",
+          "start": 70.29,
+          "end": 70.67,
+          "probability": 1
+        },
+        {
+          "text": "high,",
+          "start": 70.67,
+          "end": 71.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 73.31,
+      "end": 76.99,
+      "text": "You're never gonna die, you're gonna make it if you try;",
+      "words": [
+        {
+          "text": "You're",
+          "start": 73.31,
+          "end": 73.79,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 73.79,
+          "end": 74.19,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 74.19,
+          "end": 74.59,
+          "probability": 1
+        },
+        {
+          "text": "die,",
+          "start": 74.59,
+          "end": 74.91,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 74.91,
+          "end": 75.39,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 75.39,
+          "end": 75.79,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 75.79,
+          "end": 76.11,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 76.11,
+          "end": 76.27,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 76.27,
+          "end": 76.43,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 76.43,
+          "end": 76.67,
+          "probability": 1
+        },
+        {
+          "text": "try;",
+          "start": 76.67,
+          "end": 76.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 77.25,
+      "end": 79.91,
+      "text": "They're gonna love you.",
+      "words": [
+        {
+          "text": "They're",
+          "start": 77.25,
+          "end": 78.18,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 78.18,
+          "end": 78.85,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 78.85,
+          "end": 79.38,
+          "probability": 1
+        },
+        {
+          "text": "you.",
+          "start": 79.38,
+          "end": 79.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 85.78,
+      "end": 87.93,
+      "text": "Well, I've always had a deep respect,",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 85.78,
+          "end": 86.12,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 86.12,
+          "end": 86.39,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 86.39,
+          "end": 86.8,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 86.8,
+          "end": 87,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 87,
+          "end": 87.12,
+          "probability": 1
+        },
+        {
+          "text": "deep",
+          "start": 87.12,
+          "end": 87.39,
+          "probability": 1
+        },
+        {
+          "text": "respect,",
+          "start": 87.39,
+          "end": 87.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 88.14,
+      "end": 91.57,
+      "text": "And I mean that most sincerely.",
+      "words": [
+        {
+          "text": "And",
+          "start": 88.14,
+          "end": 88.53,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 88.53,
+          "end": 88.66,
+          "probability": 1
+        },
+        {
+          "text": "mean",
+          "start": 88.66,
+          "end": 89.19,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 89.19,
+          "end": 89.72,
+          "probability": 1
+        },
+        {
+          "text": "most",
+          "start": 89.72,
+          "end": 90.25,
+          "probability": 1
+        },
+        {
+          "text": "sincerely.",
+          "start": 90.25,
+          "end": 91.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 94.27,
+      "end": 97.96,
+      "text": "The band is just fantastic, that is really what I think.",
+      "words": [
+        {
+          "text": "The",
+          "start": 94.27,
+          "end": 94.51,
+          "probability": 1
+        },
+        {
+          "text": "band",
+          "start": 94.51,
+          "end": 94.83,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 94.83,
+          "end": 94.99,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 94.99,
+          "end": 95.31,
+          "probability": 1
+        },
+        {
+          "text": "fantastic,",
+          "start": 95.31,
+          "end": 96.1,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 96.1,
+          "end": 96.42,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 96.42,
+          "end": 96.58,
+          "probability": 1
+        },
+        {
+          "text": "really",
+          "start": 96.58,
+          "end": 97.05,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 97.05,
+          "end": 97.37,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 97.37,
+          "end": 97.49,
+          "probability": 1
+        },
+        {
+          "text": "think.",
+          "start": 97.49,
+          "end": 97.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 98.15,
+      "end": 101.3,
+      "text": "Oh by the way which one's Pink?",
+      "words": [
+        {
+          "text": "Oh",
+          "start": 98.15,
+          "end": 98.4,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 98.4,
+          "end": 98.65,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 98.65,
+          "end": 99.03,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 99.03,
+          "end": 99.41,
+          "probability": 1
+        },
+        {
+          "text": "which",
+          "start": 99.41,
+          "end": 100.04,
+          "probability": 1
+        },
+        {
+          "text": "one's",
+          "start": 100.04,
+          "end": 100.67,
+          "probability": 1
+        },
+        {
+          "text": "Pink?",
+          "start": 100.67,
+          "end": 101.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 108.1,
+      "end": 113.05,
+      "text": "And did we tell you the name of the game, boy,",
+      "words": [
+        {
+          "text": "And",
+          "start": 108.1,
+          "end": 108.51,
+          "probability": 1
+        },
+        {
+          "text": "did",
+          "start": 108.51,
+          "end": 108.92,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 108.92,
+          "end": 109.2,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 109.2,
+          "end": 109.75,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 109.75,
+          "end": 110.16,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 110.16,
+          "end": 110.57,
+          "probability": 1
+        },
+        {
+          "text": "name",
+          "start": 110.57,
+          "end": 111.12,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 111.12,
+          "end": 111.4,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 111.4,
+          "end": 111.81,
+          "probability": 1
+        },
+        {
+          "text": "game,",
+          "start": 111.81,
+          "end": 112.5,
+          "probability": 1
+        },
+        {
+          "text": "boy,",
+          "start": 112.5,
+          "end": 113.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 113.32,
+      "end": 116.73,
+      "text": "We call it Riding the Gravy Train.",
+      "words": [
+        {
+          "text": "We",
+          "start": 113.32,
+          "end": 113.56,
+          "probability": 1
+        },
+        {
+          "text": "call",
+          "start": 113.56,
+          "end": 114.05,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 114.05,
+          "end": 114.29,
+          "probability": 1
+        },
+        {
+          "text": "Riding",
+          "start": 114.29,
+          "end": 115.02,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 115.02,
+          "end": 115.39,
+          "probability": 1
+        },
+        {
+          "text": "Gravy",
+          "start": 115.39,
+          "end": 116,
+          "probability": 1
+        },
+        {
+          "text": "Train.",
+          "start": 116,
+          "end": 116.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 116.73,
+      "end": 135.46,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 116.73,
+          "end": 135.46,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 135.46,
+      "end": 140.38,
+      "text": "We're just knocked out. We heard about the sell out.",
+      "words": [
+        {
+          "text": "We're",
+          "start": 135.46,
+          "end": 136.03,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 136.03,
+          "end": 136.49,
+          "probability": 1
+        },
+        {
+          "text": "knocked",
+          "start": 136.49,
+          "end": 137.29,
+          "probability": 1
+        },
+        {
+          "text": "out.",
+          "start": 137.29,
+          "end": 137.75,
+          "probability": 1
+        },
+        {
+          "text": "We",
+          "start": 137.75,
+          "end": 137.98,
+          "probability": 1
+        },
+        {
+          "text": "heard",
+          "start": 137.98,
+          "end": 138.55,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 138.55,
+          "end": 139.12,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 139.12,
+          "end": 139.46,
+          "probability": 1
+        },
+        {
+          "text": "sell",
+          "start": 139.46,
+          "end": 139.92,
+          "probability": 1
+        },
+        {
+          "text": "out.",
+          "start": 139.92,
+          "end": 140.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 141.77,
+      "end": 144.8,
+      "text": "You gotta get an album out,",
+      "words": [
+        {
+          "text": "You",
+          "start": 141.77,
+          "end": 142.18,
+          "probability": 1
+        },
+        {
+          "text": "gotta",
+          "start": 142.18,
+          "end": 142.87,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 142.87,
+          "end": 143.28,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 143.28,
+          "end": 143.56,
+          "probability": 1
+        },
+        {
+          "text": "album",
+          "start": 143.56,
+          "end": 144.25,
+          "probability": 1
+        },
+        {
+          "text": "out,",
+          "start": 144.25,
+          "end": 144.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 145.16,
+      "end": 152.02,
+      "text": "You owe it to the people. We're so happy we can hardly count.",
+      "words": [
+        {
+          "text": "You",
+          "start": 145.16,
+          "end": 145.58,
+          "probability": 1
+        },
+        {
+          "text": "owe",
+          "start": 145.58,
+          "end": 146,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 146,
+          "end": 146.28,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 146.28,
+          "end": 146.56,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 146.56,
+          "end": 146.98,
+          "probability": 1
+        },
+        {
+          "text": "people.",
+          "start": 146.98,
+          "end": 147.96,
+          "probability": 1
+        },
+        {
+          "text": "We're",
+          "start": 147.96,
+          "end": 148.66,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 148.66,
+          "end": 148.94,
+          "probability": 1
+        },
+        {
+          "text": "happy",
+          "start": 148.94,
+          "end": 149.64,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 149.64,
+          "end": 149.92,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 149.92,
+          "end": 150.34,
+          "probability": 1
+        },
+        {
+          "text": "hardly",
+          "start": 150.34,
+          "end": 151.18,
+          "probability": 1
+        },
+        {
+          "text": "count.",
+          "start": 151.18,
+          "end": 152.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 157.57,
+      "end": 163.66,
+      "text": "Everybody else is just green, have you seen the chart?",
+      "words": [
+        {
+          "text": "Everybody",
+          "start": 157.57,
+          "end": 158.79,
+          "probability": 1
+        },
+        {
+          "text": "else",
+          "start": 158.79,
+          "end": 159.33,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 159.33,
+          "end": 159.6,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 159.6,
+          "end": 160.14,
+          "probability": 1
+        },
+        {
+          "text": "green,",
+          "start": 160.14,
+          "end": 160.95,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 160.95,
+          "end": 161.49,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 161.49,
+          "end": 161.9,
+          "probability": 1
+        },
+        {
+          "text": "seen",
+          "start": 161.9,
+          "end": 162.44,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 162.44,
+          "end": 162.85,
+          "probability": 1
+        },
+        {
+          "text": "chart?",
+          "start": 162.85,
+          "end": 163.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164.61,
+      "end": 166.17,
+      "text": "It's a helluva start,",
+      "words": [
+        {
+          "text": "It's",
+          "start": 164.61,
+          "end": 164.95,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 164.95,
+          "end": 165.07,
+          "probability": 1
+        },
+        {
+          "text": "helluva",
+          "start": 165.07,
+          "end": 165.66,
+          "probability": 1
+        },
+        {
+          "text": "start,",
+          "start": 165.66,
+          "end": 166.17,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 166.38,
+      "end": 173.96,
+      "text": "It could be made into a monster if we all pull together as a team.",
+      "words": [
+        {
+          "text": "It",
+          "start": 166.38,
+          "end": 166.67,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 166.67,
+          "end": 167.4,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 167.4,
+          "end": 167.69,
+          "probability": 1
+        },
+        {
+          "text": "made",
+          "start": 167.69,
+          "end": 168.27,
+          "probability": 1
+        },
+        {
+          "text": "into",
+          "start": 168.27,
+          "end": 168.85,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 168.85,
+          "end": 169,
+          "probability": 1
+        },
+        {
+          "text": "monster",
+          "start": 169,
+          "end": 170.02,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 170.02,
+          "end": 170.31,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 170.31,
+          "end": 170.6,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 170.6,
+          "end": 171.04,
+          "probability": 1
+        },
+        {
+          "text": "pull",
+          "start": 171.04,
+          "end": 171.62,
+          "probability": 1
+        },
+        {
+          "text": "together",
+          "start": 171.62,
+          "end": 172.79,
+          "probability": 1
+        },
+        {
+          "text": "as",
+          "start": 172.79,
+          "end": 173.08,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 173.08,
+          "end": 173.23,
+          "probability": 1
+        },
+        {
+          "text": "team.",
+          "start": 173.23,
+          "end": 173.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 178.24,
+      "end": 183.16,
+      "text": "And did we tell you the name of the game, boy,",
+      "words": [
+        {
+          "text": "And",
+          "start": 178.24,
+          "end": 178.65,
+          "probability": 1
+        },
+        {
+          "text": "did",
+          "start": 178.65,
+          "end": 179.06,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 179.06,
+          "end": 179.33,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 179.33,
+          "end": 179.88,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 179.88,
+          "end": 180.29,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 180.29,
+          "end": 180.7,
+          "probability": 1
+        },
+        {
+          "text": "name",
+          "start": 180.7,
+          "end": 181.25,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 181.25,
+          "end": 181.52,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 181.52,
+          "end": 181.93,
+          "probability": 1
+        },
+        {
+          "text": "game,",
+          "start": 181.93,
+          "end": 182.61,
+          "probability": 1
+        },
+        {
+          "text": "boy,",
+          "start": 182.61,
+          "end": 183.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 183.41,
+      "end": 186.82,
+      "text": "We call it Riding the Gravy Train.",
+      "words": [
+        {
+          "text": "We",
+          "start": 183.41,
+          "end": 183.65,
+          "probability": 1
+        },
+        {
+          "text": "call",
+          "start": 183.65,
+          "end": 184.14,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 184.14,
+          "end": 184.38,
+          "probability": 1
+        },
+        {
+          "text": "Riding",
+          "start": 184.38,
+          "end": 185.11,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 185.11,
+          "end": 185.48,
+          "probability": 1
+        },
+        {
+          "text": "Gravy",
+          "start": 185.48,
+          "end": 186.09,
+          "probability": 1
+        },
+        {
+          "text": "Train.",
+          "start": 186.09,
+          "end": 186.82,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Come in here, dear boy, have a cigar. You're gonna go far, you're gonna fly high, You're never gonna die, you're gonna make it if you try; They're gonna love you. Well, I've always had a deep respect, And I mean that most sincerely. The band is just fantastic, that is really what I think. Oh by the way which one's Pink? And did we tell you the name of the game, boy, We call it Riding the Gravy Train. We're just knocked out. We heard about the sell out. You gotta get an album out, You owe it to the people. We're so happy we can hardly count. Everybody else is just green, have you seen the chart? It's a helluva start, It could be made into a monster if we all pull together as a team. And did we tell you the name of the game, boy, We call it Riding the Gravy Train."
+}

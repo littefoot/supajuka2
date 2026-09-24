@@ -1,0 +1,3013 @@
+{
+  "language": "en",
+  "duration": 164,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 26.24,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 26.24,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 26.24,
+      "end": 30.05,
+      "text": "There are just too many times that people have tried to look inside of me",
+      "words": [
+        {
+          "text": "There",
+          "start": 26.24,
+          "end": 26.56,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 26.56,
+          "end": 26.75,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 26.75,
+          "end": 27.01,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 27.01,
+          "end": 27.2,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 27.2,
+          "end": 27.46,
+          "probability": 1
+        },
+        {
+          "text": "times",
+          "start": 27.46,
+          "end": 27.78,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 27.78,
+          "end": 28.04,
+          "probability": 1
+        },
+        {
+          "text": "people",
+          "start": 28.04,
+          "end": 28.43,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 28.43,
+          "end": 28.69,
+          "probability": 1
+        },
+        {
+          "text": "tried",
+          "start": 28.69,
+          "end": 29.01,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 29.01,
+          "end": 29.14,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 29.14,
+          "end": 29.4,
+          "probability": 1
+        },
+        {
+          "text": "inside",
+          "start": 29.4,
+          "end": 29.79,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 29.79,
+          "end": 29.92,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 29.92,
+          "end": 30.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 30.32,
+      "end": 33.23,
+      "text": "Wondering what I think of you and I protect you out of courtesy",
+      "words": [
+        {
+          "text": "Wondering",
+          "start": 30.32,
+          "end": 30.81,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 30.81,
+          "end": 31.03,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 31.03,
+          "end": 31.15,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 31.15,
+          "end": 31.42,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 31.42,
+          "end": 31.54,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 31.54,
+          "end": 31.7,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 31.7,
+          "end": 31.86,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 31.86,
+          "end": 31.98,
+          "probability": 1
+        },
+        {
+          "text": "protect",
+          "start": 31.98,
+          "end": 32.36,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 32.36,
+          "end": 32.52,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 32.52,
+          "end": 32.68,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 32.68,
+          "end": 32.8,
+          "probability": 1
+        },
+        {
+          "text": "courtesy",
+          "start": 32.8,
+          "end": 33.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 33.32,
+      "end": 36.29,
+      "text": "Too many times that I've held on when I needed to push away",
+      "words": [
+        {
+          "text": "Too",
+          "start": 33.32,
+          "end": 33.5,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 33.5,
+          "end": 33.75,
+          "probability": 1
+        },
+        {
+          "text": "times",
+          "start": 33.75,
+          "end": 34.06,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 34.06,
+          "end": 34.31,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 34.31,
+          "end": 34.56,
+          "probability": 1
+        },
+        {
+          "text": "held",
+          "start": 34.56,
+          "end": 34.81,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 34.81,
+          "end": 34.93,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 34.93,
+          "end": 35.18,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 35.18,
+          "end": 35.3,
+          "probability": 1
+        },
+        {
+          "text": "needed",
+          "start": 35.3,
+          "end": 35.67,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 35.67,
+          "end": 35.79,
+          "probability": 1
+        },
+        {
+          "text": "push",
+          "start": 35.79,
+          "end": 36.04,
+          "probability": 1
+        },
+        {
+          "text": "away",
+          "start": 36.04,
+          "end": 36.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 36.46,
+      "end": 39.64,
+      "text": "Afraid to say what was on my mind, afraid to say what I need to say",
+      "words": [
+        {
+          "text": "Afraid",
+          "start": 36.46,
+          "end": 36.82,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 36.82,
+          "end": 36.94,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 36.94,
+          "end": 37.12,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 37.12,
+          "end": 37.36,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 37.36,
+          "end": 37.54,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 37.54,
+          "end": 37.66,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 37.66,
+          "end": 37.78,
+          "probability": 1
+        },
+        {
+          "text": "mind,",
+          "start": 37.78,
+          "end": 38.08,
+          "probability": 1
+        },
+        {
+          "text": "afraid",
+          "start": 38.08,
+          "end": 38.44,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 38.44,
+          "end": 38.56,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 38.56,
+          "end": 38.74,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 38.74,
+          "end": 38.98,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 38.98,
+          "end": 39.1,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 39.1,
+          "end": 39.34,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 39.34,
+          "end": 39.46,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 39.46,
+          "end": 39.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 39.86,
+      "end": 42.68,
+      "text": "Too many things that you said about me when I'm not around",
+      "words": [
+        {
+          "text": "Too",
+          "start": 39.86,
+          "end": 40.04,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 40.04,
+          "end": 40.28,
+          "probability": 1
+        },
+        {
+          "text": "things",
+          "start": 40.28,
+          "end": 40.64,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 40.64,
+          "end": 40.88,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 40.88,
+          "end": 41.06,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 41.06,
+          "end": 41.3,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 41.3,
+          "end": 41.6,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 41.6,
+          "end": 41.72,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 41.72,
+          "end": 41.96,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 41.96,
+          "end": 42.14,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 42.14,
+          "end": 42.32,
+          "probability": 1
+        },
+        {
+          "text": "around",
+          "start": 42.32,
+          "end": 42.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.95,
+      "end": 45.46,
+      "text": "You think having the upper hand means you gotta keep putting me down",
+      "words": [
+        {
+          "text": "You",
+          "start": 42.95,
+          "end": 43.08,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 43.08,
+          "end": 43.3,
+          "probability": 1
+        },
+        {
+          "text": "having",
+          "start": 43.3,
+          "end": 43.57,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 43.57,
+          "end": 43.7,
+          "probability": 1
+        },
+        {
+          "text": "upper",
+          "start": 43.7,
+          "end": 43.92,
+          "probability": 1
+        },
+        {
+          "text": "hand",
+          "start": 43.92,
+          "end": 44.1,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 44.1,
+          "end": 44.32,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 44.32,
+          "end": 44.45,
+          "probability": 1
+        },
+        {
+          "text": "gotta",
+          "start": 44.45,
+          "end": 44.67,
+          "probability": 1
+        },
+        {
+          "text": "keep",
+          "start": 44.67,
+          "end": 44.85,
+          "probability": 1
+        },
+        {
+          "text": "putting",
+          "start": 44.85,
+          "end": 45.16,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 45.16,
+          "end": 45.28,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 45.28,
+          "end": 45.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.71,
+      "end": 47.5,
+      "text": "But I've had too many standoffs with you",
+      "words": [
+        {
+          "text": "But",
+          "start": 45.71,
+          "end": 45.87,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 45.87,
+          "end": 46.09,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 46.09,
+          "end": 46.25,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 46.25,
+          "end": 46.41,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 46.41,
+          "end": 46.63,
+          "probability": 1
+        },
+        {
+          "text": "standoffs",
+          "start": 46.63,
+          "end": 47.12,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 47.12,
+          "end": 47.34,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 47.34,
+          "end": 47.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 47.77,
+      "end": 49.02,
+      "text": "It's about as much as I can stand",
+      "words": [
+        {
+          "text": "It's",
+          "start": 47.77,
+          "end": 47.94,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 47.94,
+          "end": 48.15,
+          "probability": 1
+        },
+        {
+          "text": "as",
+          "start": 48.15,
+          "end": 48.27,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 48.27,
+          "end": 48.44,
+          "probability": 1
+        },
+        {
+          "text": "as",
+          "start": 48.44,
+          "end": 48.56,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 48.56,
+          "end": 48.68,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 48.68,
+          "end": 48.81,
+          "probability": 1
+        },
+        {
+          "text": "stand",
+          "start": 48.81,
+          "end": 49.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 49.12,
+      "end": 51.44,
+      "text": "So I'm waiting until the upper hand is mine",
+      "words": [
+        {
+          "text": "So",
+          "start": 49.12,
+          "end": 49.25,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 49.25,
+          "end": 49.45,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 49.45,
+          "end": 49.91,
+          "probability": 1
+        },
+        {
+          "text": "until",
+          "start": 49.91,
+          "end": 50.24,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 50.24,
+          "end": 50.44,
+          "probability": 1
+        },
+        {
+          "text": "upper",
+          "start": 50.44,
+          "end": 50.77,
+          "probability": 1
+        },
+        {
+          "text": "hand",
+          "start": 50.77,
+          "end": 51.04,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 51.04,
+          "end": 51.17,
+          "probability": 1
+        },
+        {
+          "text": "mine",
+          "start": 51.17,
+          "end": 51.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.69,
+      "end": 52.98,
+      "text": "One minute you're on top",
+      "words": [
+        {
+          "text": "One",
+          "start": 51.69,
+          "end": 51.88,
+          "probability": 1
+        },
+        {
+          "text": "minute",
+          "start": 51.88,
+          "end": 52.27,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 52.27,
+          "end": 52.66,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 52.66,
+          "end": 52.79,
+          "probability": 1
+        },
+        {
+          "text": "top",
+          "start": 52.79,
+          "end": 52.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 53.23,
+      "end": 54.7,
+      "text": "The next you're not, watch it drop",
+      "words": [
+        {
+          "text": "The",
+          "start": 53.23,
+          "end": 53.38,
+          "probability": 1
+        },
+        {
+          "text": "next",
+          "start": 53.38,
+          "end": 53.59,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 53.59,
+          "end": 53.9,
+          "probability": 1
+        },
+        {
+          "text": "not,",
+          "start": 53.9,
+          "end": 54.11,
+          "probability": 1
+        },
+        {
+          "text": "watch",
+          "start": 54.11,
+          "end": 54.37,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 54.37,
+          "end": 54.49,
+          "probability": 1
+        },
+        {
+          "text": "drop",
+          "start": 54.49,
+          "end": 54.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 54.92,
+      "end": 56.42,
+      "text": "Making your heart stop",
+      "words": [
+        {
+          "text": "Making",
+          "start": 54.92,
+          "end": 55.39,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 55.39,
+          "end": 55.71,
+          "probability": 1
+        },
+        {
+          "text": "heart",
+          "start": 55.71,
+          "end": 56.1,
+          "probability": 1
+        },
+        {
+          "text": "stop",
+          "start": 56.1,
+          "end": 56.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 56.67,
+      "end": 57.85,
+      "text": "Just before you hit the floor",
+      "words": [
+        {
+          "text": "Just",
+          "start": 56.67,
+          "end": 56.87,
+          "probability": 1
+        },
+        {
+          "text": "before",
+          "start": 56.87,
+          "end": 57.16,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 57.16,
+          "end": 57.31,
+          "probability": 1
+        },
+        {
+          "text": "hit",
+          "start": 57.31,
+          "end": 57.46,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 57.46,
+          "end": 57.61,
+          "probability": 1
+        },
+        {
+          "text": "floor",
+          "start": 57.61,
+          "end": 57.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 58.09,
+      "end": 59.45,
+      "text": "One minute you're on top",
+      "words": [
+        {
+          "text": "One",
+          "start": 58.09,
+          "end": 58.29,
+          "probability": 1
+        },
+        {
+          "text": "minute",
+          "start": 58.29,
+          "end": 58.7,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 58.7,
+          "end": 59.11,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 59.11,
+          "end": 59.25,
+          "probability": 1
+        },
+        {
+          "text": "top",
+          "start": 59.25,
+          "end": 59.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 59.7,
+      "end": 61.16,
+      "text": "The next you're not, missed your shot",
+      "words": [
+        {
+          "text": "The",
+          "start": 59.7,
+          "end": 59.84,
+          "probability": 1
+        },
+        {
+          "text": "next",
+          "start": 59.84,
+          "end": 60.03,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 60.03,
+          "end": 60.31,
+          "probability": 1
+        },
+        {
+          "text": "not,",
+          "start": 60.31,
+          "end": 60.5,
+          "probability": 1
+        },
+        {
+          "text": "missed",
+          "start": 60.5,
+          "end": 60.78,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 60.78,
+          "end": 60.97,
+          "probability": 1
+        },
+        {
+          "text": "shot",
+          "start": 60.97,
+          "end": 61.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.41,
+      "end": 62.68,
+      "text": "Making your heart stop",
+      "words": [
+        {
+          "text": "Making",
+          "start": 61.41,
+          "end": 61.81,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 61.81,
+          "end": 62.08,
+          "probability": 1
+        },
+        {
+          "text": "heart",
+          "start": 62.08,
+          "end": 62.41,
+          "probability": 1
+        },
+        {
+          "text": "stop",
+          "start": 62.41,
+          "end": 62.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 62.92,
+      "end": 63.77,
+      "text": "You think you've won",
+      "words": [
+        {
+          "text": "You",
+          "start": 62.92,
+          "end": 63.07,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 63.07,
+          "end": 63.32,
+          "probability": 1
+        },
+        {
+          "text": "you've",
+          "start": 63.32,
+          "end": 63.62,
+          "probability": 1
+        },
+        {
+          "text": "won",
+          "start": 63.62,
+          "end": 63.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 64.02,
+      "end": 66.31,
+      "text": "And then it's all gone",
+      "words": [
+        {
+          "text": "And",
+          "start": 64.02,
+          "end": 64.4,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 64.4,
+          "end": 64.91,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 64.91,
+          "end": 65.42,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 65.42,
+          "end": 65.8,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 65.8,
+          "end": 66.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 68.3,
+      "end": 71.45,
+      "text": "So many people like me put so much trust in all your lies",
+      "words": [
+        {
+          "text": "So",
+          "start": 68.3,
+          "end": 68.44,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 68.44,
+          "end": 68.72,
+          "probability": 1
+        },
+        {
+          "text": "people",
+          "start": 68.72,
+          "end": 69.14,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 69.14,
+          "end": 69.42,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 69.42,
+          "end": 69.56,
+          "probability": 1
+        },
+        {
+          "text": "put",
+          "start": 69.56,
+          "end": 69.77,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 69.77,
+          "end": 69.91,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 69.91,
+          "end": 70.19,
+          "probability": 1
+        },
+        {
+          "text": "trust",
+          "start": 70.19,
+          "end": 70.54,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 70.54,
+          "end": 70.68,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 70.68,
+          "end": 70.89,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 70.89,
+          "end": 71.17,
+          "probability": 1
+        },
+        {
+          "text": "lies",
+          "start": 71.17,
+          "end": 71.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 71.69,
+      "end": 74.7,
+      "text": "So concerned with what you think to just say what we feel inside",
+      "words": [
+        {
+          "text": "So",
+          "start": 71.69,
+          "end": 71.81,
+          "probability": 1
+        },
+        {
+          "text": "concerned",
+          "start": 71.81,
+          "end": 72.33,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 72.33,
+          "end": 72.56,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 72.56,
+          "end": 72.79,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 72.79,
+          "end": 72.96,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 72.96,
+          "end": 73.25,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 73.25,
+          "end": 73.37,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 73.37,
+          "end": 73.6,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 73.6,
+          "end": 73.77,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 73.77,
+          "end": 74,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 74,
+          "end": 74.12,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 74.12,
+          "end": 74.35,
+          "probability": 1
+        },
+        {
+          "text": "inside",
+          "start": 74.35,
+          "end": 74.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 74.96,
+      "end": 77.83,
+      "text": "So many people like me walk on eggshells all day long",
+      "words": [
+        {
+          "text": "So",
+          "start": 74.96,
+          "end": 75.09,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 75.09,
+          "end": 75.36,
+          "probability": 1
+        },
+        {
+          "text": "people",
+          "start": 75.36,
+          "end": 75.76,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 75.76,
+          "end": 76.03,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 76.03,
+          "end": 76.16,
+          "probability": 1
+        },
+        {
+          "text": "walk",
+          "start": 76.16,
+          "end": 76.43,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 76.43,
+          "end": 76.56,
+          "probability": 1
+        },
+        {
+          "text": "eggshells",
+          "start": 76.56,
+          "end": 77.16,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 77.16,
+          "end": 77.36,
+          "probability": 1
+        },
+        {
+          "text": "day",
+          "start": 77.36,
+          "end": 77.56,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 77.56,
+          "end": 77.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 78.07,
+      "end": 80.96,
+      "text": "All I know is that all I want is to feel like I'm not stepped on",
+      "words": [
+        {
+          "text": "All",
+          "start": 78.07,
+          "end": 78.24,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 78.24,
+          "end": 78.36,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 78.36,
+          "end": 78.58,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 78.58,
+          "end": 78.7,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 78.7,
+          "end": 78.92,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 78.92,
+          "end": 79.09,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 79.09,
+          "end": 79.21,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 79.21,
+          "end": 79.43,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 79.43,
+          "end": 79.55,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 79.55,
+          "end": 79.67,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 79.67,
+          "end": 79.89,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 79.89,
+          "end": 80.11,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 80.11,
+          "end": 80.28,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 80.28,
+          "end": 80.45,
+          "probability": 1
+        },
+        {
+          "text": "stepped",
+          "start": 80.45,
+          "end": 80.84,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 80.84,
+          "end": 80.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.04,
+      "end": 84.34,
+      "text": "There are so many things you say that make me feel you cross the line",
+      "words": [
+        {
+          "text": "There",
+          "start": 81.04,
+          "end": 81.34,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 81.34,
+          "end": 81.52,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 81.52,
+          "end": 81.64,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 81.64,
+          "end": 81.88,
+          "probability": 1
+        },
+        {
+          "text": "things",
+          "start": 81.88,
+          "end": 82.24,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 82.24,
+          "end": 82.42,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 82.42,
+          "end": 82.6,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 82.6,
+          "end": 82.84,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 82.84,
+          "end": 83.08,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 83.08,
+          "end": 83.2,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 83.2,
+          "end": 83.44,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 83.44,
+          "end": 83.62,
+          "probability": 1
+        },
+        {
+          "text": "cross",
+          "start": 83.62,
+          "end": 83.92,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 83.92,
+          "end": 84.1,
+          "probability": 1
+        },
+        {
+          "text": "line",
+          "start": 84.1,
+          "end": 84.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 84.61,
+      "end": 87.07,
+      "text": "What goes up will surely fall and I'm counting down the time",
+      "words": [
+        {
+          "text": "What",
+          "start": 84.61,
+          "end": 84.81,
+          "probability": 1
+        },
+        {
+          "text": "goes",
+          "start": 84.81,
+          "end": 85.01,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 85.01,
+          "end": 85.13,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 85.13,
+          "end": 85.33,
+          "probability": 1
+        },
+        {
+          "text": "surely",
+          "start": 85.33,
+          "end": 85.63,
+          "probability": 1
+        },
+        {
+          "text": "fall",
+          "start": 85.63,
+          "end": 85.83,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 85.83,
+          "end": 85.98,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 85.98,
+          "end": 86.13,
+          "probability": 1
+        },
+        {
+          "text": "counting",
+          "start": 86.13,
+          "end": 86.52,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 86.52,
+          "end": 86.72,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 86.72,
+          "end": 86.87,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 86.87,
+          "end": 87.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 87.27,
+      "end": 88.89,
+      "text": "'Cause I've had so many standoffs with you",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 87.27,
+          "end": 87.54,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 87.54,
+          "end": 87.72,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 87.72,
+          "end": 87.86,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 87.86,
+          "end": 87.98,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 87.98,
+          "end": 88.16,
+          "probability": 1
+        },
+        {
+          "text": "standoffs",
+          "start": 88.16,
+          "end": 88.57,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 88.57,
+          "end": 88.75,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 88.75,
+          "end": 88.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 89.11,
+      "end": 90.64,
+      "text": "It's about as much as I can stand",
+      "words": [
+        {
+          "text": "It's",
+          "start": 89.11,
+          "end": 89.33,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 89.33,
+          "end": 89.61,
+          "probability": 1
+        },
+        {
+          "text": "as",
+          "start": 89.61,
+          "end": 89.73,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 89.73,
+          "end": 89.95,
+          "probability": 1
+        },
+        {
+          "text": "as",
+          "start": 89.95,
+          "end": 90.07,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 90.07,
+          "end": 90.19,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 90.19,
+          "end": 90.36,
+          "probability": 1
+        },
+        {
+          "text": "stand",
+          "start": 90.36,
+          "end": 90.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 90.82,
+      "end": 92.99,
+      "text": "So I'm waiting until the upper hand is mine",
+      "words": [
+        {
+          "text": "So",
+          "start": 90.82,
+          "end": 90.94,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 90.94,
+          "end": 91.13,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 91.13,
+          "end": 91.56,
+          "probability": 1
+        },
+        {
+          "text": "until",
+          "start": 91.56,
+          "end": 91.87,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 91.87,
+          "end": 92.06,
+          "probability": 1
+        },
+        {
+          "text": "upper",
+          "start": 92.06,
+          "end": 92.37,
+          "probability": 1
+        },
+        {
+          "text": "hand",
+          "start": 92.37,
+          "end": 92.62,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 92.62,
+          "end": 92.74,
+          "probability": 1
+        },
+        {
+          "text": "mine",
+          "start": 92.74,
+          "end": 92.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 93.24,
+      "end": 94.51,
+      "text": "One minute you're on top",
+      "words": [
+        {
+          "text": "One",
+          "start": 93.24,
+          "end": 93.43,
+          "probability": 1
+        },
+        {
+          "text": "minute",
+          "start": 93.43,
+          "end": 93.81,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 93.81,
+          "end": 94.19,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 94.19,
+          "end": 94.32,
+          "probability": 1
+        },
+        {
+          "text": "top",
+          "start": 94.32,
+          "end": 94.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 94.74,
+      "end": 96.28,
+      "text": "The next you're not, watch it drop",
+      "words": [
+        {
+          "text": "The",
+          "start": 94.74,
+          "end": 94.9,
+          "probability": 1
+        },
+        {
+          "text": "next",
+          "start": 94.9,
+          "end": 95.12,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 95.12,
+          "end": 95.45,
+          "probability": 1
+        },
+        {
+          "text": "not,",
+          "start": 95.45,
+          "end": 95.67,
+          "probability": 1
+        },
+        {
+          "text": "watch",
+          "start": 95.67,
+          "end": 95.94,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 95.94,
+          "end": 96.06,
+          "probability": 1
+        },
+        {
+          "text": "drop",
+          "start": 96.06,
+          "end": 96.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 96.51,
+      "end": 97.9,
+      "text": "Making your heart stop",
+      "words": [
+        {
+          "text": "Making",
+          "start": 96.51,
+          "end": 96.95,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 96.95,
+          "end": 97.24,
+          "probability": 1
+        },
+        {
+          "text": "heart",
+          "start": 97.24,
+          "end": 97.61,
+          "probability": 1
+        },
+        {
+          "text": "stop",
+          "start": 97.61,
+          "end": 97.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 98.15,
+      "end": 99.43,
+      "text": "Just before you hit the floor",
+      "words": [
+        {
+          "text": "Just",
+          "start": 98.15,
+          "end": 98.36,
+          "probability": 1
+        },
+        {
+          "text": "before",
+          "start": 98.36,
+          "end": 98.68,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 98.68,
+          "end": 98.84,
+          "probability": 1
+        },
+        {
+          "text": "hit",
+          "start": 98.84,
+          "end": 99,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 99,
+          "end": 99.16,
+          "probability": 1
+        },
+        {
+          "text": "floor",
+          "start": 99.16,
+          "end": 99.43,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 99.68,
+      "end": 100.88,
+      "text": "One minute you're on top",
+      "words": [
+        {
+          "text": "One",
+          "start": 99.68,
+          "end": 99.86,
+          "probability": 1
+        },
+        {
+          "text": "minute",
+          "start": 99.86,
+          "end": 100.22,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 100.22,
+          "end": 100.58,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 100.58,
+          "end": 100.7,
+          "probability": 1
+        },
+        {
+          "text": "top",
+          "start": 100.7,
+          "end": 100.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 101.13,
+      "end": 102.7,
+      "text": "The next you're not, missed your shot",
+      "words": [
+        {
+          "text": "The",
+          "start": 101.13,
+          "end": 101.28,
+          "probability": 1
+        },
+        {
+          "text": "next",
+          "start": 101.28,
+          "end": 101.48,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 101.48,
+          "end": 101.79,
+          "probability": 1
+        },
+        {
+          "text": "not,",
+          "start": 101.79,
+          "end": 101.99,
+          "probability": 1
+        },
+        {
+          "text": "missed",
+          "start": 101.99,
+          "end": 102.3,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 102.3,
+          "end": 102.5,
+          "probability": 1
+        },
+        {
+          "text": "shot",
+          "start": 102.5,
+          "end": 102.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.96,
+      "end": 104.1,
+      "text": "Making your heart stop",
+      "words": [
+        {
+          "text": "Making",
+          "start": 102.96,
+          "end": 103.32,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 103.32,
+          "end": 103.56,
+          "probability": 1
+        },
+        {
+          "text": "heart",
+          "start": 103.56,
+          "end": 103.86,
+          "probability": 1
+        },
+        {
+          "text": "stop",
+          "start": 103.86,
+          "end": 104.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 104.35,
+      "end": 105.33,
+      "text": "You think you've won",
+      "words": [
+        {
+          "text": "You",
+          "start": 104.35,
+          "end": 104.52,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 104.52,
+          "end": 104.81,
+          "probability": 1
+        },
+        {
+          "text": "you've",
+          "start": 104.81,
+          "end": 105.16,
+          "probability": 1
+        },
+        {
+          "text": "won",
+          "start": 105.16,
+          "end": 105.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.59,
+      "end": 107.88,
+      "text": "And then it's all gone",
+      "words": [
+        {
+          "text": "And",
+          "start": 105.59,
+          "end": 105.97,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 105.97,
+          "end": 106.48,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 106.48,
+          "end": 106.99,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 106.99,
+          "end": 107.37,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 107.37,
+          "end": 107.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 108.82,
+      "end": 111.11,
+      "text": "And then it's all gone",
+      "words": [
+        {
+          "text": "And",
+          "start": 108.82,
+          "end": 109.2,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 109.2,
+          "end": 109.71,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 109.71,
+          "end": 110.22,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 110.22,
+          "end": 110.6,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 110.6,
+          "end": 111.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 111.96,
+      "end": 114.25,
+      "text": "And then it's all gone",
+      "words": [
+        {
+          "text": "And",
+          "start": 111.96,
+          "end": 112.34,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 112.34,
+          "end": 112.85,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 112.85,
+          "end": 113.36,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 113.36,
+          "end": 113.74,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 113.74,
+          "end": 114.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 115.17,
+      "end": 117.46,
+      "text": "And then it's all gone",
+      "words": [
+        {
+          "text": "And",
+          "start": 115.17,
+          "end": 115.55,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 115.55,
+          "end": 116.06,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 116.06,
+          "end": 116.57,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 116.57,
+          "end": 116.95,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 116.95,
+          "end": 117.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 118.45,
+      "end": 120.11,
+      "text": "Now it's all gone",
+      "words": [
+        {
+          "text": "Now",
+          "start": 118.45,
+          "end": 118.81,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 118.81,
+          "end": 119.28,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 119.28,
+          "end": 119.64,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 119.64,
+          "end": 120.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 120.36,
+      "end": 122.96,
+      "text": "I know I'll never trust a single thing you say",
+      "words": [
+        {
+          "text": "I",
+          "start": 120.36,
+          "end": 120.48,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 120.48,
+          "end": 120.75,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 120.75,
+          "end": 121.02,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 121.02,
+          "end": 121.36,
+          "probability": 1
+        },
+        {
+          "text": "trust",
+          "start": 121.36,
+          "end": 121.7,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 121.7,
+          "end": 121.82,
+          "probability": 1
+        },
+        {
+          "text": "single",
+          "start": 121.82,
+          "end": 122.22,
+          "probability": 1
+        },
+        {
+          "text": "thing",
+          "start": 122.22,
+          "end": 122.56,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 122.56,
+          "end": 122.76,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 122.76,
+          "end": 122.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 123.1,
+      "end": 126.11,
+      "text": "You knew your lies would divide us but you lied anyway",
+      "words": [
+        {
+          "text": "You",
+          "start": 123.1,
+          "end": 123.31,
+          "probability": 1
+        },
+        {
+          "text": "knew",
+          "start": 123.31,
+          "end": 123.58,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 123.58,
+          "end": 123.85,
+          "probability": 1
+        },
+        {
+          "text": "lies",
+          "start": 123.85,
+          "end": 124.12,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 124.12,
+          "end": 124.46,
+          "probability": 1
+        },
+        {
+          "text": "divide",
+          "start": 124.46,
+          "end": 124.87,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 124.87,
+          "end": 125.01,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 125.01,
+          "end": 125.22,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 125.22,
+          "end": 125.43,
+          "probability": 1
+        },
+        {
+          "text": "lied",
+          "start": 125.43,
+          "end": 125.7,
+          "probability": 1
+        },
+        {
+          "text": "anyway",
+          "start": 125.7,
+          "end": 126.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 126.37,
+      "end": 129.2,
+      "text": "And all the lies have got you floating up above us all",
+      "words": [
+        {
+          "text": "And",
+          "start": 126.37,
+          "end": 126.57,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 126.57,
+          "end": 126.77,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 126.77,
+          "end": 126.97,
+          "probability": 1
+        },
+        {
+          "text": "lies",
+          "start": 126.97,
+          "end": 127.23,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 127.23,
+          "end": 127.49,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 127.49,
+          "end": 127.69,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 127.69,
+          "end": 127.89,
+          "probability": 1
+        },
+        {
+          "text": "floating",
+          "start": 127.89,
+          "end": 128.41,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 128.41,
+          "end": 128.54,
+          "probability": 1
+        },
+        {
+          "text": "above",
+          "start": 128.54,
+          "end": 128.87,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 128.87,
+          "end": 129,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 129,
+          "end": 129.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 129.44,
+      "end": 131.25,
+      "text": "But what goes up has got to fall",
+      "words": [
+        {
+          "text": "But",
+          "start": 129.44,
+          "end": 129.66,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 129.66,
+          "end": 129.95,
+          "probability": 1
+        },
+        {
+          "text": "goes",
+          "start": 129.95,
+          "end": 130.24,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 130.24,
+          "end": 130.38,
+          "probability": 1
+        },
+        {
+          "text": "has",
+          "start": 130.38,
+          "end": 130.6,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 130.6,
+          "end": 130.82,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 130.82,
+          "end": 130.96,
+          "probability": 1
+        },
+        {
+          "text": "fall",
+          "start": 130.96,
+          "end": 131.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 131.5,
+      "end": 132.92,
+      "text": "One minute you're on top",
+      "words": [
+        {
+          "text": "One",
+          "start": 131.5,
+          "end": 131.71,
+          "probability": 1
+        },
+        {
+          "text": "minute",
+          "start": 131.71,
+          "end": 132.14,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 132.14,
+          "end": 132.57,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 132.57,
+          "end": 132.71,
+          "probability": 1
+        },
+        {
+          "text": "top",
+          "start": 132.71,
+          "end": 132.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.18,
+      "end": 134.6,
+      "text": "The next you're not, watch it drop",
+      "words": [
+        {
+          "text": "The",
+          "start": 133.18,
+          "end": 133.33,
+          "probability": 1
+        },
+        {
+          "text": "next",
+          "start": 133.33,
+          "end": 133.53,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 133.53,
+          "end": 133.83,
+          "probability": 1
+        },
+        {
+          "text": "not,",
+          "start": 133.83,
+          "end": 134.03,
+          "probability": 1
+        },
+        {
+          "text": "watch",
+          "start": 134.03,
+          "end": 134.28,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 134.28,
+          "end": 134.4,
+          "probability": 1
+        },
+        {
+          "text": "drop",
+          "start": 134.4,
+          "end": 134.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 134.85,
+      "end": 136.27,
+      "text": "Making your heart stop",
+      "words": [
+        {
+          "text": "Making",
+          "start": 134.85,
+          "end": 135.3,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 135.3,
+          "end": 135.6,
+          "probability": 1
+        },
+        {
+          "text": "heart",
+          "start": 135.6,
+          "end": 135.97,
+          "probability": 1
+        },
+        {
+          "text": "stop",
+          "start": 135.97,
+          "end": 136.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 136.52,
+      "end": 137.65,
+      "text": "Just before you hit the floor",
+      "words": [
+        {
+          "text": "Just",
+          "start": 136.52,
+          "end": 136.71,
+          "probability": 1
+        },
+        {
+          "text": "before",
+          "start": 136.71,
+          "end": 136.99,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 136.99,
+          "end": 137.13,
+          "probability": 1
+        },
+        {
+          "text": "hit",
+          "start": 137.13,
+          "end": 137.27,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 137.27,
+          "end": 137.41,
+          "probability": 1
+        },
+        {
+          "text": "floor",
+          "start": 137.41,
+          "end": 137.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 137.9,
+      "end": 139.3,
+      "text": "One minute you're on top",
+      "words": [
+        {
+          "text": "One",
+          "start": 137.9,
+          "end": 138.11,
+          "probability": 1
+        },
+        {
+          "text": "minute",
+          "start": 138.11,
+          "end": 138.53,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 138.53,
+          "end": 138.95,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 138.95,
+          "end": 139.09,
+          "probability": 1
+        },
+        {
+          "text": "top",
+          "start": 139.09,
+          "end": 139.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 139.55,
+      "end": 141.04,
+      "text": "The next you're not, missed your shot",
+      "words": [
+        {
+          "text": "The",
+          "start": 139.55,
+          "end": 139.7,
+          "probability": 1
+        },
+        {
+          "text": "next",
+          "start": 139.7,
+          "end": 139.89,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 139.89,
+          "end": 140.18,
+          "probability": 1
+        },
+        {
+          "text": "not,",
+          "start": 140.18,
+          "end": 140.37,
+          "probability": 1
+        },
+        {
+          "text": "missed",
+          "start": 140.37,
+          "end": 140.66,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 140.66,
+          "end": 140.85,
+          "probability": 1
+        },
+        {
+          "text": "shot",
+          "start": 140.85,
+          "end": 141.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 141.31,
+      "end": 142.73,
+      "text": "Making your heart stop",
+      "words": [
+        {
+          "text": "Making",
+          "start": 141.31,
+          "end": 141.76,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 141.76,
+          "end": 142.06,
+          "probability": 1
+        },
+        {
+          "text": "heart",
+          "start": 142.06,
+          "end": 142.43,
+          "probability": 1
+        },
+        {
+          "text": "stop",
+          "start": 142.43,
+          "end": 142.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142.97,
+      "end": 143.65,
+      "text": "You think you've won",
+      "words": [
+        {
+          "text": "You",
+          "start": 142.97,
+          "end": 143.09,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 143.09,
+          "end": 143.29,
+          "probability": 1
+        },
+        {
+          "text": "you've",
+          "start": 143.29,
+          "end": 143.53,
+          "probability": 1
+        },
+        {
+          "text": "won",
+          "start": 143.53,
+          "end": 143.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 143.91,
+      "end": 146.2,
+      "text": "And then it's all gone",
+      "words": [
+        {
+          "text": "And",
+          "start": 143.91,
+          "end": 144.29,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 144.29,
+          "end": 144.8,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 144.8,
+          "end": 145.31,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 145.31,
+          "end": 145.69,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 145.69,
+          "end": 146.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 147.26,
+      "end": 149.55,
+      "text": "And then it's all gone",
+      "words": [
+        {
+          "text": "And",
+          "start": 147.26,
+          "end": 147.64,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 147.64,
+          "end": 148.15,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 148.15,
+          "end": 148.66,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 148.66,
+          "end": 149.04,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 149.04,
+          "end": 149.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 150.38,
+      "end": 152.67,
+      "text": "And then it's all gone",
+      "words": [
+        {
+          "text": "And",
+          "start": 150.38,
+          "end": 150.76,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 150.76,
+          "end": 151.27,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 151.27,
+          "end": 151.78,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 151.78,
+          "end": 152.16,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 152.16,
+          "end": 152.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 153.59,
+      "end": 155.88,
+      "text": "And then it's all gone",
+      "words": [
+        {
+          "text": "And",
+          "start": 153.59,
+          "end": 153.97,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 153.97,
+          "end": 154.48,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 154.48,
+          "end": 154.99,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 154.99,
+          "end": 155.37,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 155.37,
+          "end": 155.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.97,
+      "end": 158.87,
+      "text": "Now it's all gone",
+      "words": [
+        {
+          "text": "Now",
+          "start": 156.97,
+          "end": 157.38,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 157.38,
+          "end": 157.92,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 157.92,
+          "end": 158.33,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 158.33,
+          "end": 158.87,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "There are just too many times that people have tried to look inside of me Wondering what I think of you and I protect you out of courtesy Too many times that I've held on when I needed to push away Afraid to say what was on my mind, afraid to say what I need to say Too many things that you said about me when I'm not around You think having the upper hand means you gotta keep putting me down But I've had too many standoffs with you It's about as much as I can stand So I'm waiting until the upper hand is mine One minute you're on top The next you're not, watch it drop Making your heart stop Just before you hit the floor One minute you're on top The next you're not, missed your shot Making your heart stop You think you've won And then it's all gone So many people like me put so much trust in all your lies So concerned with what you think to just say what we feel inside So many people like me walk on eggshells all day long All I know is that all I want is to feel like I'm not stepped on There are so many things you say that make me feel you cross the line What goes up will surely fall and I'm counting down the time 'Cause I've had so many standoffs with you It's about as much as I can stand So I'm waiting until the upper hand is mine One minute you're on top The next you're not, watch it drop Making your heart stop Just before you hit the floor One minute you're on top The next you're not, missed your shot Making your heart stop You think you've won And then it's all gone And then it's all gone And then it's all gone And then it's all gone Now it's all gone I know I'll never trust a single thing you say You knew your lies would divide us but you lied anyway And all the lies have got you floating up above us all But what goes up has got to fall One minute you're on top The next you're not, watch it drop Making your heart stop Just before you hit the floor One minute you're on top The next you're not, missed your shot Making your heart stop You think you've won And then it's all gone And then it's all gone And then it's all gone And then it's all gone Now it's all gone"
+}

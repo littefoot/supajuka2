@@ -1,0 +1,19 @@
+{
+  "id": "flac_e3ba7eaa156a",
+  "source": "local",
+  "title": "Blackbird (2018 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 141,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_e3ba7eaa156a/cover.jpg",
+  "cachedAt": 1790184331570,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_e3ba7eaa156a/original.flac",
+  "instrumentalUrl": "/audio/flac_e3ba7eaa156a/instrumental.flac",
+  "vocalsUrl": "/audio/flac_e3ba7eaa156a/vocals.flac"
+}

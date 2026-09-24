@@ -1,0 +1,19 @@
+{
+  "id": "flac_08e55bd1244a",
+  "source": "local",
+  "title": "With A Little Help From My Friends (2017 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 164,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_08e55bd1244a/cover.jpg",
+  "cachedAt": 1790184040815,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_08e55bd1244a/original.flac",
+  "instrumentalUrl": "/audio/flac_08e55bd1244a/instrumental.flac",
+  "vocalsUrl": "/audio/flac_08e55bd1244a/vocals.flac"
+}

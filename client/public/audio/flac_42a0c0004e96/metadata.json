@@ -1,0 +1,19 @@
+{
+  "id": "flac_42a0c0004e96",
+  "source": "local",
+  "title": "Knockin' On Heaven's Door",
+  "artist": "Guns N' Roses",
+  "album": "Use Your Illusion II (2022 Remastered)",
+  "duration": 335,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 48000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_42a0c0004e96/cover.jpg",
+  "cachedAt": 1790186198073,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_42a0c0004e96/original.flac",
+  "instrumentalUrl": "/audio/flac_42a0c0004e96/instrumental.mp3",
+  "vocalsUrl": "/audio/flac_42a0c0004e96/vocals.flac"
+}

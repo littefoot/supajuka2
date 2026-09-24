@@ -1,0 +1,1503 @@
+{
+  "language": "en",
+  "duration": 260,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 12.96,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 12.96,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 12.96,
+      "end": 17.54,
+      "text": "Here come old flat top, he come grooving up slowly",
+      "words": [
+        {
+          "text": "Here",
+          "start": 12.96,
+          "end": 13.41,
+          "probability": 1
+        },
+        {
+          "text": "come",
+          "start": 13.41,
+          "end": 13.86,
+          "probability": 1
+        },
+        {
+          "text": "old",
+          "start": 13.86,
+          "end": 14.19,
+          "probability": 1
+        },
+        {
+          "text": "flat",
+          "start": 14.19,
+          "end": 14.64,
+          "probability": 1
+        },
+        {
+          "text": "top,",
+          "start": 14.64,
+          "end": 15.09,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 15.09,
+          "end": 15.31,
+          "probability": 1
+        },
+        {
+          "text": "come",
+          "start": 15.31,
+          "end": 15.76,
+          "probability": 1
+        },
+        {
+          "text": "grooving",
+          "start": 15.76,
+          "end": 16.65,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 16.65,
+          "end": 16.87,
+          "probability": 1
+        },
+        {
+          "text": "slowly",
+          "start": 16.87,
+          "end": 17.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 17.78,
+      "end": 22.73,
+      "text": "He got joo joo eyeball, he one holy roller",
+      "words": [
+        {
+          "text": "He",
+          "start": 17.78,
+          "end": 18.07,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 18.07,
+          "end": 18.51,
+          "probability": 1
+        },
+        {
+          "text": "joo",
+          "start": 18.51,
+          "end": 18.95,
+          "probability": 1
+        },
+        {
+          "text": "joo",
+          "start": 18.95,
+          "end": 19.39,
+          "probability": 1
+        },
+        {
+          "text": "eyeball,",
+          "start": 19.39,
+          "end": 20.55,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 20.55,
+          "end": 20.84,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 20.84,
+          "end": 21.28,
+          "probability": 1
+        },
+        {
+          "text": "holy",
+          "start": 21.28,
+          "end": 21.86,
+          "probability": 1
+        },
+        {
+          "text": "roller",
+          "start": 21.86,
+          "end": 22.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 23.56,
+      "end": 26.7,
+      "text": "He got hair down to his knees",
+      "words": [
+        {
+          "text": "He",
+          "start": 23.56,
+          "end": 23.83,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 23.83,
+          "end": 24.24,
+          "probability": 1
+        },
+        {
+          "text": "hair",
+          "start": 24.24,
+          "end": 24.79,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 24.79,
+          "end": 25.34,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 25.34,
+          "end": 25.61,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 25.61,
+          "end": 26.02,
+          "probability": 1
+        },
+        {
+          "text": "knees",
+          "start": 26.02,
+          "end": 26.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 30.09,
+      "end": 35.03,
+      "text": "Got to be a joker, he just do what he please",
+      "words": [
+        {
+          "text": "Got",
+          "start": 30.09,
+          "end": 30.53,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 30.53,
+          "end": 30.82,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 30.82,
+          "end": 31.11,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 31.11,
+          "end": 31.26,
+          "probability": 1
+        },
+        {
+          "text": "joker,",
+          "start": 31.26,
+          "end": 32.13,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 32.13,
+          "end": 32.42,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 32.42,
+          "end": 33,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 33,
+          "end": 33.29,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 33.29,
+          "end": 33.87,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 33.87,
+          "end": 34.16,
+          "probability": 1
+        },
+        {
+          "text": "please",
+          "start": 34.16,
+          "end": 35.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.03,
+      "end": 47.77,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 35.03,
+          "end": 47.77,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 47.77,
+      "end": 52.29,
+      "text": "He wear no shoe shine, he got toe jam football",
+      "words": [
+        {
+          "text": "He",
+          "start": 47.77,
+          "end": 48.01,
+          "probability": 1
+        },
+        {
+          "text": "wear",
+          "start": 48.01,
+          "end": 48.5,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 48.5,
+          "end": 48.74,
+          "probability": 1
+        },
+        {
+          "text": "shoe",
+          "start": 48.74,
+          "end": 49.23,
+          "probability": 1
+        },
+        {
+          "text": "shine,",
+          "start": 49.23,
+          "end": 49.96,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 49.96,
+          "end": 50.2,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 50.2,
+          "end": 50.57,
+          "probability": 1
+        },
+        {
+          "text": "toe",
+          "start": 50.57,
+          "end": 50.94,
+          "probability": 1
+        },
+        {
+          "text": "jam",
+          "start": 50.94,
+          "end": 51.31,
+          "probability": 1
+        },
+        {
+          "text": "football",
+          "start": 51.31,
+          "end": 52.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 52.55,
+      "end": 57.11,
+      "text": "He got monkey finger, he shoot Coca-Cola",
+      "words": [
+        {
+          "text": "He",
+          "start": 52.55,
+          "end": 52.82,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 52.82,
+          "end": 53.22,
+          "probability": 1
+        },
+        {
+          "text": "monkey",
+          "start": 53.22,
+          "end": 54.02,
+          "probability": 1
+        },
+        {
+          "text": "finger,",
+          "start": 54.02,
+          "end": 54.96,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 54.96,
+          "end": 55.23,
+          "probability": 1
+        },
+        {
+          "text": "shoot",
+          "start": 55.23,
+          "end": 55.9,
+          "probability": 1
+        },
+        {
+          "text": "Coca-Cola",
+          "start": 55.9,
+          "end": 57.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 58.18,
+      "end": 61.8,
+      "text": "He say, \"I know you, you know me",
+      "words": [
+        {
+          "text": "He",
+          "start": 58.18,
+          "end": 58.47,
+          "probability": 1
+        },
+        {
+          "text": "say,",
+          "start": 58.47,
+          "end": 59.05,
+          "probability": 1
+        },
+        {
+          "text": "\"I",
+          "start": 59.05,
+          "end": 59.34,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 59.34,
+          "end": 59.92,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 59.92,
+          "end": 60.5,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 60.5,
+          "end": 60.93,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 60.93,
+          "end": 61.51,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 61.51,
+          "end": 61.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 64.84,
+      "end": 69.66,
+      "text": "One thing I can tell you is you got to be free\"",
+      "words": [
+        {
+          "text": "One",
+          "start": 64.84,
+          "end": 65.24,
+          "probability": 1
+        },
+        {
+          "text": "thing",
+          "start": 65.24,
+          "end": 65.91,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 65.91,
+          "end": 66.04,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 66.04,
+          "end": 66.44,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 66.44,
+          "end": 66.98,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 66.98,
+          "end": 67.38,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 67.38,
+          "end": 67.65,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 67.65,
+          "end": 68.05,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 68.05,
+          "end": 68.45,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 68.45,
+          "end": 68.72,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 68.72,
+          "end": 68.99,
+          "probability": 1
+        },
+        {
+          "text": "free\"",
+          "start": 68.99,
+          "end": 69.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.93,
+      "end": 71.83,
+      "text": "Come together",
+      "words": [
+        {
+          "text": "Come",
+          "start": 69.93,
+          "end": 70.56,
+          "probability": 1
+        },
+        {
+          "text": "together",
+          "start": 70.56,
+          "end": 71.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 72.82,
+      "end": 73.72,
+      "text": "Right now",
+      "words": [
+        {
+          "text": "Right",
+          "start": 72.82,
+          "end": 73.38,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 73.38,
+          "end": 73.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.78,
+      "end": 76.92,
+      "text": "Over me",
+      "words": [
+        {
+          "text": "Over",
+          "start": 75.78,
+          "end": 76.54,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 76.54,
+          "end": 76.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 76.92,
+      "end": 88.07,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 76.92,
+          "end": 88.07,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 88.07,
+      "end": 92.26,
+      "text": "He bag production, he got walrus gumboot",
+      "words": [
+        {
+          "text": "He",
+          "start": 88.07,
+          "end": 88.32,
+          "probability": 1
+        },
+        {
+          "text": "bag",
+          "start": 88.32,
+          "end": 88.69,
+          "probability": 1
+        },
+        {
+          "text": "production,",
+          "start": 88.69,
+          "end": 90.04,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 90.04,
+          "end": 90.29,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 90.29,
+          "end": 90.66,
+          "probability": 1
+        },
+        {
+          "text": "walrus",
+          "start": 90.66,
+          "end": 91.4,
+          "probability": 1
+        },
+        {
+          "text": "gumboot",
+          "start": 91.4,
+          "end": 92.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.94,
+      "end": 98.26,
+      "text": "He got Ono sideboard, he one spinal cracker",
+      "words": [
+        {
+          "text": "He",
+          "start": 92.94,
+          "end": 93.24,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 93.24,
+          "end": 93.68,
+          "probability": 1
+        },
+        {
+          "text": "Ono",
+          "start": 93.68,
+          "end": 94.12,
+          "probability": 1
+        },
+        {
+          "text": "sideboard,",
+          "start": 94.12,
+          "end": 95.6,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 95.6,
+          "end": 95.9,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 95.9,
+          "end": 96.34,
+          "probability": 1
+        },
+        {
+          "text": "spinal",
+          "start": 96.34,
+          "end": 97.23,
+          "probability": 1
+        },
+        {
+          "text": "cracker",
+          "start": 97.23,
+          "end": 98.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 98.76,
+      "end": 101.9,
+      "text": "He got feet down below his knee",
+      "words": [
+        {
+          "text": "He",
+          "start": 98.76,
+          "end": 99.01,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 99.01,
+          "end": 99.39,
+          "probability": 1
+        },
+        {
+          "text": "feet",
+          "start": 99.39,
+          "end": 99.89,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 99.89,
+          "end": 100.39,
+          "probability": 1
+        },
+        {
+          "text": "below",
+          "start": 100.39,
+          "end": 101.02,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 101.02,
+          "end": 101.4,
+          "probability": 1
+        },
+        {
+          "text": "knee",
+          "start": 101.4,
+          "end": 101.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.45,
+      "end": 110.27,
+      "text": "Hold you in his armchair, you can feel his disease",
+      "words": [
+        {
+          "text": "Hold",
+          "start": 105.45,
+          "end": 105.92,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 105.92,
+          "end": 106.27,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 106.27,
+          "end": 106.51,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 106.51,
+          "end": 106.86,
+          "probability": 1
+        },
+        {
+          "text": "armchair,",
+          "start": 106.86,
+          "end": 107.92,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 107.92,
+          "end": 108.27,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 108.27,
+          "end": 108.62,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 108.62,
+          "end": 109.09,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 109.09,
+          "end": 109.44,
+          "probability": 1
+        },
+        {
+          "text": "disease",
+          "start": 109.44,
+          "end": 110.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 110.54,
+      "end": 112.44,
+      "text": "Come together",
+      "words": [
+        {
+          "text": "Come",
+          "start": 110.54,
+          "end": 111.17,
+          "probability": 1
+        },
+        {
+          "text": "together",
+          "start": 111.17,
+          "end": 112.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 113.2,
+      "end": 114.1,
+      "text": "Right now",
+      "words": [
+        {
+          "text": "Right",
+          "start": 113.2,
+          "end": 113.76,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 113.76,
+          "end": 114.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 116.26,
+      "end": 117.4,
+      "text": "Over me",
+      "words": [
+        {
+          "text": "Over",
+          "start": 116.26,
+          "end": 117.02,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 117.02,
+          "end": 117.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 121.71,
+      "end": 122.31,
+      "text": "Right",
+      "words": [
+        {
+          "text": "Right",
+          "start": 121.71,
+          "end": 122.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 122.31,
+      "end": 132.97,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 122.31,
+          "end": 132.97,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 132.97,
+      "end": 134.11,
+      "text": "He come",
+      "words": [
+        {
+          "text": "He",
+          "start": 132.97,
+          "end": 133.35,
+          "probability": 1
+        },
+        {
+          "text": "come",
+          "start": 133.35,
+          "end": 134.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 134.11,
+      "end": 151.94,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 134.11,
+          "end": 151.94,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 151.94,
+      "end": 156.11,
+      "text": "He roller coaster, he got early warning",
+      "words": [
+        {
+          "text": "He",
+          "start": 151.94,
+          "end": 152.19,
+          "probability": 1
+        },
+        {
+          "text": "roller",
+          "start": 152.19,
+          "end": 152.95,
+          "probability": 1
+        },
+        {
+          "text": "coaster,",
+          "start": 152.95,
+          "end": 153.96,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 153.96,
+          "end": 154.21,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 154.21,
+          "end": 154.59,
+          "probability": 1
+        },
+        {
+          "text": "early",
+          "start": 154.59,
+          "end": 155.22,
+          "probability": 1
+        },
+        {
+          "text": "warning",
+          "start": 155.22,
+          "end": 156.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.88,
+      "end": 161.84,
+      "text": "He got muddy water, he one mojo filter",
+      "words": [
+        {
+          "text": "He",
+          "start": 156.88,
+          "end": 157.2,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 157.2,
+          "end": 157.68,
+          "probability": 1
+        },
+        {
+          "text": "muddy",
+          "start": 157.68,
+          "end": 158.48,
+          "probability": 1
+        },
+        {
+          "text": "water,",
+          "start": 158.48,
+          "end": 159.44,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 159.44,
+          "end": 159.76,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 159.76,
+          "end": 160.24,
+          "probability": 1
+        },
+        {
+          "text": "mojo",
+          "start": 160.24,
+          "end": 160.88,
+          "probability": 1
+        },
+        {
+          "text": "filter",
+          "start": 160.88,
+          "end": 161.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 162.61,
+      "end": 167.18,
+      "text": "He say, \"One and one and one is three\"",
+      "words": [
+        {
+          "text": "He",
+          "start": 162.61,
+          "end": 162.91,
+          "probability": 1
+        },
+        {
+          "text": "say,",
+          "start": 162.91,
+          "end": 163.52,
+          "probability": 1
+        },
+        {
+          "text": "\"One",
+          "start": 163.52,
+          "end": 164.13,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 164.13,
+          "end": 164.59,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 164.59,
+          "end": 165.05,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 165.05,
+          "end": 165.51,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 165.51,
+          "end": 165.97,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 165.97,
+          "end": 166.27,
+          "probability": 1
+        },
+        {
+          "text": "three\"",
+          "start": 166.27,
+          "end": 167.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 169.04,
+      "end": 173.98,
+      "text": "Got to be good looking 'cause he's so hard to see",
+      "words": [
+        {
+          "text": "Got",
+          "start": 169.04,
+          "end": 169.42,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 169.42,
+          "end": 169.67,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 169.67,
+          "end": 169.92,
+          "probability": 1
+        },
+        {
+          "text": "good",
+          "start": 169.92,
+          "end": 170.43,
+          "probability": 1
+        },
+        {
+          "text": "looking",
+          "start": 170.43,
+          "end": 171.32,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 171.32,
+          "end": 172.08,
+          "probability": 1
+        },
+        {
+          "text": "he's",
+          "start": 172.08,
+          "end": 172.59,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 172.59,
+          "end": 172.84,
+          "probability": 1
+        },
+        {
+          "text": "hard",
+          "start": 172.84,
+          "end": 173.35,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 173.35,
+          "end": 173.6,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 173.6,
+          "end": 173.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 174.32,
+      "end": 176.22,
+      "text": "Come together",
+      "words": [
+        {
+          "text": "Come",
+          "start": 174.32,
+          "end": 174.95,
+          "probability": 1
+        },
+        {
+          "text": "together",
+          "start": 174.95,
+          "end": 176.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 177.11,
+      "end": 178.01,
+      "text": "Right now",
+      "words": [
+        {
+          "text": "Right",
+          "start": 177.11,
+          "end": 177.67,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 177.67,
+          "end": 178.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 180.06,
+      "end": 181.2,
+      "text": "Over me",
+      "words": [
+        {
+          "text": "Over",
+          "start": 180.06,
+          "end": 180.82,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 180.82,
+          "end": 181.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 181.2,
+      "end": 198.76,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 181.2,
+          "end": 198.76,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 198.76,
+      "end": 201.05,
+      "text": "Come together, yeah",
+      "words": [
+        {
+          "text": "Come",
+          "start": 198.76,
+          "end": 199.3,
+          "probability": 1
+        },
+        {
+          "text": "together,",
+          "start": 199.3,
+          "end": 200.51,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 200.51,
+          "end": 201.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 204.45,
+      "end": 206.74,
+      "text": "Come together, yeah",
+      "words": [
+        {
+          "text": "Come",
+          "start": 204.45,
+          "end": 204.99,
+          "probability": 1
+        },
+        {
+          "text": "together,",
+          "start": 204.99,
+          "end": 206.2,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 206.2,
+          "end": 206.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 210.21,
+      "end": 212.5,
+      "text": "Come together, yeah",
+      "words": [
+        {
+          "text": "Come",
+          "start": 210.21,
+          "end": 210.75,
+          "probability": 1
+        },
+        {
+          "text": "together,",
+          "start": 210.75,
+          "end": 211.96,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 211.96,
+          "end": 212.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 215.87,
+      "end": 218.16,
+      "text": "Come together, yeah",
+      "words": [
+        {
+          "text": "Come",
+          "start": 215.87,
+          "end": 216.41,
+          "probability": 1
+        },
+        {
+          "text": "together,",
+          "start": 216.41,
+          "end": 217.62,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 217.62,
+          "end": 218.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 221.42,
+      "end": 223.71,
+      "text": "Come together, yeah",
+      "words": [
+        {
+          "text": "Come",
+          "start": 221.42,
+          "end": 221.96,
+          "probability": 1
+        },
+        {
+          "text": "together,",
+          "start": 221.96,
+          "end": 223.17,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 223.17,
+          "end": 223.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 227.29,
+      "end": 229.58,
+      "text": "Come together, yeah",
+      "words": [
+        {
+          "text": "Come",
+          "start": 227.29,
+          "end": 227.83,
+          "probability": 1
+        },
+        {
+          "text": "together,",
+          "start": 227.83,
+          "end": 229.04,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 229.04,
+          "end": 229.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 232.73,
+      "end": 235.02,
+      "text": "Come together, yeah",
+      "words": [
+        {
+          "text": "Come",
+          "start": 232.73,
+          "end": 233.27,
+          "probability": 1
+        },
+        {
+          "text": "together,",
+          "start": 233.27,
+          "end": 234.48,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 234.48,
+          "end": 235.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 238.52,
+      "end": 240.81,
+      "text": "Come together, yeah",
+      "words": [
+        {
+          "text": "Come",
+          "start": 238.52,
+          "end": 239.06,
+          "probability": 1
+        },
+        {
+          "text": "together,",
+          "start": 239.06,
+          "end": 240.27,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 240.27,
+          "end": 240.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 244.17,
+      "end": 246.46,
+      "text": "Come together, yeah",
+      "words": [
+        {
+          "text": "Come",
+          "start": 244.17,
+          "end": 244.71,
+          "probability": 1
+        },
+        {
+          "text": "together,",
+          "start": 244.71,
+          "end": 245.92,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 245.92,
+          "end": 246.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 249.7,
+      "end": 251.99,
+      "text": "Come together, yeah",
+      "words": [
+        {
+          "text": "Come",
+          "start": 249.7,
+          "end": 250.24,
+          "probability": 1
+        },
+        {
+          "text": "together,",
+          "start": 250.24,
+          "end": 251.45,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 251.45,
+          "end": 251.99,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Here come old flat top, he come grooving up slowly He got joo joo eyeball, he one holy roller He got hair down to his knees Got to be a joker, he just do what he please He wear no shoe shine, he got toe jam football He got monkey finger, he shoot Coca-Cola He say, \"I know you, you know me One thing I can tell you is you got to be free\" Come together Right now Over me He bag production, he got walrus gumboot He got Ono sideboard, he one spinal cracker He got feet down below his knee Hold you in his armchair, you can feel his disease Come together Right now Over me Right He come He roller coaster, he got early warning He got muddy water, he one mojo filter He say, \"One and one and one is three\" Got to be good looking 'cause he's so hard to see Come together Right now Over me Come together, yeah Come together, yeah Come together, yeah Come together, yeah Come together, yeah Come together, yeah Come together, yeah Come together, yeah Come together, yeah Come together, yeah"
+}

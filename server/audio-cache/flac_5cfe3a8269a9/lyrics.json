@@ -1,0 +1,1177 @@
+{
+  "language": "en",
+  "duration": 187,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 16.72,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 16.72,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 16.72,
+      "end": 19.33,
+      "text": "Here comes the sun, doo-doo-doo-doo",
+      "words": [
+        {
+          "text": "Here",
+          "start": 16.72,
+          "end": 17.06,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 17.06,
+          "end": 17.48,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 17.48,
+          "end": 17.73,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 17.73,
+          "end": 18.07,
+          "probability": 1
+        },
+        {
+          "text": "doo-doo-doo-doo",
+          "start": 18.07,
+          "end": 19.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 19.58,
+      "end": 22.83,
+      "text": "Here comes the sun, and I say",
+      "words": [
+        {
+          "text": "Here",
+          "start": 19.58,
+          "end": 20.15,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 20.15,
+          "end": 20.86,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 20.86,
+          "end": 21.28,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 21.28,
+          "end": 21.85,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 21.85,
+          "end": 22.27,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 22.27,
+          "end": 22.41,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 22.41,
+          "end": 22.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 23.08,
+      "end": 24.22,
+      "text": "It's alright",
+      "words": [
+        {
+          "text": "It's",
+          "start": 23.08,
+          "end": 23.49,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 23.49,
+          "end": 24.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 29.56,
+      "end": 34.88,
+      "text": "Little darlin', it's been a long, cold, lonely winter",
+      "words": [
+        {
+          "text": "Little",
+          "start": 29.56,
+          "end": 30.27,
+          "probability": 1
+        },
+        {
+          "text": "darlin',",
+          "start": 30.27,
+          "end": 31.22,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 31.22,
+          "end": 31.69,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 31.69,
+          "end": 32.16,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 32.16,
+          "end": 32.28,
+          "probability": 1
+        },
+        {
+          "text": "long,",
+          "start": 32.28,
+          "end": 32.87,
+          "probability": 1
+        },
+        {
+          "text": "cold,",
+          "start": 32.87,
+          "end": 33.46,
+          "probability": 1
+        },
+        {
+          "text": "lonely",
+          "start": 33.46,
+          "end": 34.17,
+          "probability": 1
+        },
+        {
+          "text": "winter",
+          "start": 34.17,
+          "end": 34.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 36.54,
+      "end": 42.27,
+      "text": "Little darlin', it feels like years since it's been here",
+      "words": [
+        {
+          "text": "Little",
+          "start": 36.54,
+          "end": 37.27,
+          "probability": 1
+        },
+        {
+          "text": "darlin',",
+          "start": 37.27,
+          "end": 38.24,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 38.24,
+          "end": 38.48,
+          "probability": 1
+        },
+        {
+          "text": "feels",
+          "start": 38.48,
+          "end": 39.09,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 39.09,
+          "end": 39.58,
+          "probability": 1
+        },
+        {
+          "text": "years",
+          "start": 39.58,
+          "end": 40.19,
+          "probability": 1
+        },
+        {
+          "text": "since",
+          "start": 40.19,
+          "end": 40.8,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 40.8,
+          "end": 41.29,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 41.29,
+          "end": 41.78,
+          "probability": 1
+        },
+        {
+          "text": "here",
+          "start": 41.78,
+          "end": 42.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 43.53,
+      "end": 46.89,
+      "text": "Here comes the sun, doo-doo-doo-doo",
+      "words": [
+        {
+          "text": "Here",
+          "start": 43.53,
+          "end": 43.96,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 43.96,
+          "end": 44.5,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 44.5,
+          "end": 44.83,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 44.83,
+          "end": 45.26,
+          "probability": 1
+        },
+        {
+          "text": "doo-doo-doo-doo",
+          "start": 45.26,
+          "end": 46.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 47.14,
+      "end": 50.42,
+      "text": "Here comes the sun, and I say",
+      "words": [
+        {
+          "text": "Here",
+          "start": 47.14,
+          "end": 47.71,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 47.71,
+          "end": 48.42,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 48.42,
+          "end": 48.85,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 48.85,
+          "end": 49.42,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 49.42,
+          "end": 49.85,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 49.85,
+          "end": 49.99,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 49.99,
+          "end": 50.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 50.67,
+      "end": 51.81,
+      "text": "It's alright",
+      "words": [
+        {
+          "text": "It's",
+          "start": 50.67,
+          "end": 51.08,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 51.08,
+          "end": 51.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.81,
+      "end": 60.65,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 51.81,
+          "end": 60.65,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 60.65,
+      "end": 65.97,
+      "text": "Little darlin', the smile's returning to their faces",
+      "words": [
+        {
+          "text": "Little",
+          "start": 60.65,
+          "end": 61.36,
+          "probability": 1
+        },
+        {
+          "text": "darlin',",
+          "start": 61.36,
+          "end": 62.31,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 62.31,
+          "end": 62.66,
+          "probability": 1
+        },
+        {
+          "text": "smile's",
+          "start": 62.66,
+          "end": 63.49,
+          "probability": 1
+        },
+        {
+          "text": "returning",
+          "start": 63.49,
+          "end": 64.55,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 64.55,
+          "end": 64.79,
+          "probability": 1
+        },
+        {
+          "text": "their",
+          "start": 64.79,
+          "end": 65.38,
+          "probability": 1
+        },
+        {
+          "text": "faces",
+          "start": 65.38,
+          "end": 65.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 68.09,
+      "end": 73.82,
+      "text": "Little darlin', it seems like years since it's been here",
+      "words": [
+        {
+          "text": "Little",
+          "start": 68.09,
+          "end": 68.82,
+          "probability": 1
+        },
+        {
+          "text": "darlin',",
+          "start": 68.82,
+          "end": 69.79,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 69.79,
+          "end": 70.03,
+          "probability": 1
+        },
+        {
+          "text": "seems",
+          "start": 70.03,
+          "end": 70.64,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 70.64,
+          "end": 71.13,
+          "probability": 1
+        },
+        {
+          "text": "years",
+          "start": 71.13,
+          "end": 71.74,
+          "probability": 1
+        },
+        {
+          "text": "since",
+          "start": 71.74,
+          "end": 72.35,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 72.35,
+          "end": 72.84,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 72.84,
+          "end": 73.33,
+          "probability": 1
+        },
+        {
+          "text": "here",
+          "start": 73.33,
+          "end": 73.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.38,
+      "end": 77.67,
+      "text": "Here comes the sun",
+      "words": [
+        {
+          "text": "Here",
+          "start": 75.38,
+          "end": 75.99,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 75.99,
+          "end": 76.75,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 76.75,
+          "end": 77.21,
+          "probability": 1
+        },
+        {
+          "text": "sun",
+          "start": 77.21,
+          "end": 77.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 78.93,
+      "end": 82.21,
+      "text": "Here comes the sun, and I say",
+      "words": [
+        {
+          "text": "Here",
+          "start": 78.93,
+          "end": 79.5,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 79.5,
+          "end": 80.21,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 80.21,
+          "end": 80.64,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 80.64,
+          "end": 81.21,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 81.21,
+          "end": 81.64,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 81.64,
+          "end": 81.78,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 81.78,
+          "end": 82.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.46,
+      "end": 83.6,
+      "text": "It's alright",
+      "words": [
+        {
+          "text": "It's",
+          "start": 82.46,
+          "end": 82.87,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 82.87,
+          "end": 83.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 83.6,
+      "end": 97.7,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 83.6,
+          "end": 97.7,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 97.7,
+      "end": 100.74,
+      "text": "Sun, sun, sun, here it comes",
+      "words": [
+        {
+          "text": "Sun,",
+          "start": 97.7,
+          "end": 98.23,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 98.23,
+          "end": 98.76,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 98.76,
+          "end": 99.29,
+          "probability": 1
+        },
+        {
+          "text": "here",
+          "start": 99.29,
+          "end": 99.82,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 99.82,
+          "end": 100.08,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 100.08,
+          "end": 100.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.97,
+      "end": 106.01,
+      "text": "Sun, sun, sun, here it comes",
+      "words": [
+        {
+          "text": "Sun,",
+          "start": 102.97,
+          "end": 103.5,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 103.5,
+          "end": 104.03,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 104.03,
+          "end": 104.56,
+          "probability": 1
+        },
+        {
+          "text": "here",
+          "start": 104.56,
+          "end": 105.09,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 105.09,
+          "end": 105.35,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 105.35,
+          "end": 106.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 108.88,
+      "end": 111.92,
+      "text": "Sun, sun, sun, here it comes",
+      "words": [
+        {
+          "text": "Sun,",
+          "start": 108.88,
+          "end": 109.41,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 109.41,
+          "end": 109.94,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 109.94,
+          "end": 110.47,
+          "probability": 1
+        },
+        {
+          "text": "here",
+          "start": 110.47,
+          "end": 111,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 111,
+          "end": 111.26,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 111.26,
+          "end": 111.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 114.51,
+      "end": 117.55,
+      "text": "Sun, sun, sun, here it comes",
+      "words": [
+        {
+          "text": "Sun,",
+          "start": 114.51,
+          "end": 115.04,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 115.04,
+          "end": 115.57,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 115.57,
+          "end": 116.1,
+          "probability": 1
+        },
+        {
+          "text": "here",
+          "start": 116.1,
+          "end": 116.63,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 116.63,
+          "end": 116.89,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 116.89,
+          "end": 117.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 120.67,
+      "end": 123.71,
+      "text": "Sun, sun, sun, here it comes",
+      "words": [
+        {
+          "text": "Sun,",
+          "start": 120.67,
+          "end": 121.2,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 121.2,
+          "end": 121.73,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 121.73,
+          "end": 122.26,
+          "probability": 1
+        },
+        {
+          "text": "here",
+          "start": 122.26,
+          "end": 122.79,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 122.79,
+          "end": 123.05,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 123.05,
+          "end": 123.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 123.71,
+      "end": 132.7,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 123.71,
+          "end": 132.7,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 132.7,
+      "end": 138.03,
+      "text": "Little darlin', I feel that ice is slowly melting",
+      "words": [
+        {
+          "text": "Little",
+          "start": 132.7,
+          "end": 133.48,
+          "probability": 1
+        },
+        {
+          "text": "darlin',",
+          "start": 133.48,
+          "end": 134.52,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 134.52,
+          "end": 134.65,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 134.65,
+          "end": 135.17,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 135.17,
+          "end": 135.69,
+          "probability": 1
+        },
+        {
+          "text": "ice",
+          "start": 135.69,
+          "end": 136.08,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 136.08,
+          "end": 136.34,
+          "probability": 1
+        },
+        {
+          "text": "slowly",
+          "start": 136.34,
+          "end": 137.12,
+          "probability": 1
+        },
+        {
+          "text": "melting",
+          "start": 137.12,
+          "end": 138.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 139.95,
+      "end": 145.24,
+      "text": "Little darlin', it seems like years since it's been clear",
+      "words": [
+        {
+          "text": "Little",
+          "start": 139.95,
+          "end": 140.61,
+          "probability": 1
+        },
+        {
+          "text": "darlin',",
+          "start": 140.61,
+          "end": 141.5,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 141.5,
+          "end": 141.72,
+          "probability": 1
+        },
+        {
+          "text": "seems",
+          "start": 141.72,
+          "end": 142.27,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 142.27,
+          "end": 142.71,
+          "probability": 1
+        },
+        {
+          "text": "years",
+          "start": 142.71,
+          "end": 143.26,
+          "probability": 1
+        },
+        {
+          "text": "since",
+          "start": 143.26,
+          "end": 143.81,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 143.81,
+          "end": 144.25,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 144.25,
+          "end": 144.69,
+          "probability": 1
+        },
+        {
+          "text": "clear",
+          "start": 144.69,
+          "end": 145.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 147.64,
+      "end": 151.1,
+      "text": "Here comes the sun, doo-doo-doo-doo",
+      "words": [
+        {
+          "text": "Here",
+          "start": 147.64,
+          "end": 148.09,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 148.09,
+          "end": 148.65,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 148.65,
+          "end": 148.98,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 148.98,
+          "end": 149.43,
+          "probability": 1
+        },
+        {
+          "text": "doo-doo-doo-doo",
+          "start": 149.43,
+          "end": 151.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 151.35,
+      "end": 154.77,
+      "text": "Here comes the sun, and I say",
+      "words": [
+        {
+          "text": "Here",
+          "start": 151.35,
+          "end": 151.94,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 151.94,
+          "end": 152.68,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 152.68,
+          "end": 153.13,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 153.13,
+          "end": 153.72,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 153.72,
+          "end": 154.17,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 154.17,
+          "end": 154.32,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 154.32,
+          "end": 154.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.17,
+      "end": 156.31,
+      "text": "It's alright",
+      "words": [
+        {
+          "text": "It's",
+          "start": 155.17,
+          "end": 155.58,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 155.58,
+          "end": 156.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 160.97,
+      "end": 163.99,
+      "text": "Here comes the sun, doo-doo-doo-doo",
+      "words": [
+        {
+          "text": "Here",
+          "start": 160.97,
+          "end": 161.36,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 161.36,
+          "end": 161.85,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 161.85,
+          "end": 162.14,
+          "probability": 1
+        },
+        {
+          "text": "sun,",
+          "start": 162.14,
+          "end": 162.53,
+          "probability": 1
+        },
+        {
+          "text": "doo-doo-doo-doo",
+          "start": 162.53,
+          "end": 163.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164.24,
+      "end": 166.53,
+      "text": "Here comes the sun",
+      "words": [
+        {
+          "text": "Here",
+          "start": 164.24,
+          "end": 164.85,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 164.85,
+          "end": 165.61,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 165.61,
+          "end": 166.07,
+          "probability": 1
+        },
+        {
+          "text": "sun",
+          "start": 166.07,
+          "end": 166.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.67,
+      "end": 168.81,
+      "text": "It's alright",
+      "words": [
+        {
+          "text": "It's",
+          "start": 167.67,
+          "end": 168.08,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 168.08,
+          "end": 168.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 174.27,
+      "end": 175.41,
+      "text": "It's alright",
+      "words": [
+        {
+          "text": "It's",
+          "start": 174.27,
+          "end": 174.68,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 174.68,
+          "end": 175.41,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Here comes the sun, doo-doo-doo-doo Here comes the sun, and I say It's alright Little darlin', it's been a long, cold, lonely winter Little darlin', it feels like years since it's been here Here comes the sun, doo-doo-doo-doo Here comes the sun, and I say It's alright Little darlin', the smile's returning to their faces Little darlin', it seems like years since it's been here Here comes the sun Here comes the sun, and I say It's alright Sun, sun, sun, here it comes Sun, sun, sun, here it comes Sun, sun, sun, here it comes Sun, sun, sun, here it comes Sun, sun, sun, here it comes Little darlin', I feel that ice is slowly melting Little darlin', it seems like years since it's been clear Here comes the sun, doo-doo-doo-doo Here comes the sun, and I say It's alright Here comes the sun, doo-doo-doo-doo Here comes the sun It's alright It's alright"
+}

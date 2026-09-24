@@ -1,0 +1,19 @@
+{
+  "id": "flac_15caee050556",
+  "source": "local",
+  "title": "Boulevard of Broken Dreams",
+  "artist": "Green Day",
+  "album": "American Idiot (20th\u00a0Anniversary Deluxe Edition)",
+  "duration": 261,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 192000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_15caee050556/cover.jpg",
+  "cachedAt": 1789503274026,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_15caee050556/original.flac",
+  "instrumentalUrl": "/audio/flac_15caee050556/instrumental.flac",
+  "vocalsUrl": "/audio/flac_15caee050556/vocals.flac"
+}

@@ -1,0 +1,2030 @@
+{
+  "language": "en",
+  "duration": 188,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 21.58,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 21.58,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 21.58,
+      "end": 25.38,
+      "text": "I'm tired of being what you want me to be",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 21.58,
+          "end": 21.94,
+          "probability": 1
+        },
+        {
+          "text": "tired",
+          "start": 21.94,
+          "end": 22.53,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 22.53,
+          "end": 22.77,
+          "probability": 1
+        },
+        {
+          "text": "being",
+          "start": 22.77,
+          "end": 23.36,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 23.36,
+          "end": 23.83,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 23.83,
+          "end": 24.19,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 24.19,
+          "end": 24.66,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 24.66,
+          "end": 24.9,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 24.9,
+          "end": 25.14,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 25.14,
+          "end": 25.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 25.62,
+      "end": 30.18,
+      "text": "Feeling so faithless, lost under the surface",
+      "words": [
+        {
+          "text": "Feeling",
+          "start": 25.62,
+          "end": 26.46,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 26.46,
+          "end": 26.7,
+          "probability": 1
+        },
+        {
+          "text": "faithless,",
+          "start": 26.7,
+          "end": 27.9,
+          "probability": 1
+        },
+        {
+          "text": "lost",
+          "start": 27.9,
+          "end": 28.38,
+          "probability": 1
+        },
+        {
+          "text": "under",
+          "start": 28.38,
+          "end": 28.98,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 28.98,
+          "end": 29.34,
+          "probability": 1
+        },
+        {
+          "text": "surface",
+          "start": 29.34,
+          "end": 30.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 30.61,
+      "end": 33.83,
+      "text": "Don't know what you're expecting of me",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 30.61,
+          "end": 31.11,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 31.11,
+          "end": 31.51,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 31.51,
+          "end": 31.91,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 31.91,
+          "end": 32.52,
+          "probability": 1
+        },
+        {
+          "text": "expecting",
+          "start": 32.52,
+          "end": 33.43,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 33.43,
+          "end": 33.63,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 33.63,
+          "end": 33.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 34.09,
+      "end": 39.02,
+      "text": "Put under the pressure of walking in your shoes",
+      "words": [
+        {
+          "text": "Put",
+          "start": 34.09,
+          "end": 34.47,
+          "probability": 1
+        },
+        {
+          "text": "under",
+          "start": 34.47,
+          "end": 35.1,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 35.1,
+          "end": 35.48,
+          "probability": 1
+        },
+        {
+          "text": "pressure",
+          "start": 35.48,
+          "end": 36.49,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 36.49,
+          "end": 36.74,
+          "probability": 1
+        },
+        {
+          "text": "walking",
+          "start": 36.74,
+          "end": 37.63,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 37.63,
+          "end": 37.88,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 37.88,
+          "end": 38.39,
+          "probability": 1
+        },
+        {
+          "text": "shoes",
+          "start": 38.39,
+          "end": 39.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 39.3,
+      "end": 42.3,
+      "text": "(Caught in the undertow, just caught in the undertow)",
+      "words": [
+        {
+          "text": "(Caught",
+          "start": 39.3,
+          "end": 39.77,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 39.77,
+          "end": 39.9,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 39.9,
+          "end": 40.1,
+          "probability": 1
+        },
+        {
+          "text": "undertow,",
+          "start": 40.1,
+          "end": 40.7,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 40.7,
+          "end": 40.97,
+          "probability": 1
+        },
+        {
+          "text": "caught",
+          "start": 40.97,
+          "end": 41.37,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 41.37,
+          "end": 41.5,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 41.5,
+          "end": 41.7,
+          "probability": 1
+        },
+        {
+          "text": "undertow)",
+          "start": 41.7,
+          "end": 42.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.54,
+      "end": 47.64,
+      "text": "Every step that I take is another mistake to you",
+      "words": [
+        {
+          "text": "Every",
+          "start": 42.54,
+          "end": 43.2,
+          "probability": 1
+        },
+        {
+          "text": "step",
+          "start": 43.2,
+          "end": 43.72,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 43.72,
+          "end": 44.24,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 44.24,
+          "end": 44.37,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 44.37,
+          "end": 44.89,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 44.89,
+          "end": 45.15,
+          "probability": 1
+        },
+        {
+          "text": "another",
+          "start": 45.15,
+          "end": 46.07,
+          "probability": 1
+        },
+        {
+          "text": "mistake",
+          "start": 46.07,
+          "end": 46.99,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 46.99,
+          "end": 47.25,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 47.25,
+          "end": 47.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 47.9,
+      "end": 51.6,
+      "text": "(Caught in the undertow, just caught in the undertow)",
+      "words": [
+        {
+          "text": "(Caught",
+          "start": 47.9,
+          "end": 48.48,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 48.48,
+          "end": 48.64,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 48.64,
+          "end": 48.89,
+          "probability": 1
+        },
+        {
+          "text": "undertow,",
+          "start": 48.89,
+          "end": 49.63,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 49.63,
+          "end": 49.96,
+          "probability": 1
+        },
+        {
+          "text": "caught",
+          "start": 49.96,
+          "end": 50.45,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 50.45,
+          "end": 50.61,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 50.61,
+          "end": 50.86,
+          "probability": 1
+        },
+        {
+          "text": "undertow)",
+          "start": 50.86,
+          "end": 51.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.86,
+      "end": 56.45,
+      "text": "I've become so numb, I can't feel you there",
+      "words": [
+        {
+          "text": "I've",
+          "start": 51.86,
+          "end": 52.38,
+          "probability": 1
+        },
+        {
+          "text": "become",
+          "start": 52.38,
+          "end": 53.17,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 53.17,
+          "end": 53.43,
+          "probability": 1
+        },
+        {
+          "text": "numb,",
+          "start": 53.43,
+          "end": 54.09,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 54.09,
+          "end": 54.22,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 54.22,
+          "end": 54.88,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 54.88,
+          "end": 55.4,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 55.4,
+          "end": 55.79,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 55.79,
+          "end": 56.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 56.7,
+      "end": 60.82,
+      "text": "I've become so tired; so much more aware",
+      "words": [
+        {
+          "text": "I've",
+          "start": 56.7,
+          "end": 57.2,
+          "probability": 1
+        },
+        {
+          "text": "become",
+          "start": 57.2,
+          "end": 57.95,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 57.95,
+          "end": 58.2,
+          "probability": 1
+        },
+        {
+          "text": "tired;",
+          "start": 58.2,
+          "end": 58.95,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 58.95,
+          "end": 59.2,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 59.2,
+          "end": 59.7,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 59.7,
+          "end": 60.2,
+          "probability": 1
+        },
+        {
+          "text": "aware",
+          "start": 60.2,
+          "end": 60.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.07,
+      "end": 64.88,
+      "text": "I'm becoming this, all I want to do",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 61.07,
+          "end": 61.48,
+          "probability": 1
+        },
+        {
+          "text": "becoming",
+          "start": 61.48,
+          "end": 62.57,
+          "probability": 1
+        },
+        {
+          "text": "this,",
+          "start": 62.57,
+          "end": 63.25,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 63.25,
+          "end": 63.66,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 63.66,
+          "end": 63.8,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 63.8,
+          "end": 64.34,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 64.34,
+          "end": 64.61,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 64.61,
+          "end": 64.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 65.41,
+      "end": 69.61,
+      "text": "Is be more like me and be less like you",
+      "words": [
+        {
+          "text": "Is",
+          "start": 65.41,
+          "end": 65.69,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 65.69,
+          "end": 65.97,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 65.97,
+          "end": 66.53,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 66.53,
+          "end": 67.09,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 67.09,
+          "end": 67.37,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 67.37,
+          "end": 67.79,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 67.79,
+          "end": 68.07,
+          "probability": 1
+        },
+        {
+          "text": "less",
+          "start": 68.07,
+          "end": 68.63,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 68.63,
+          "end": 69.19,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 69.19,
+          "end": 69.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.86,
+      "end": 73.37,
+      "text": "Can't you see that you're smothering me?",
+      "words": [
+        {
+          "text": "Can't",
+          "start": 69.86,
+          "end": 70.38,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 70.38,
+          "end": 70.69,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 70.69,
+          "end": 71,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 71,
+          "end": 71.41,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 71.41,
+          "end": 72.03,
+          "probability": 1
+        },
+        {
+          "text": "smothering",
+          "start": 72.03,
+          "end": 73.06,
+          "probability": 1
+        },
+        {
+          "text": "me?",
+          "start": 73.06,
+          "end": 73.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 73.62,
+      "end": 77.95,
+      "text": "Holding too tightly; afraid to lose control",
+      "words": [
+        {
+          "text": "Holding",
+          "start": 73.62,
+          "end": 74.44,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 74.44,
+          "end": 74.79,
+          "probability": 1
+        },
+        {
+          "text": "tightly;",
+          "start": 74.79,
+          "end": 75.73,
+          "probability": 1
+        },
+        {
+          "text": "afraid",
+          "start": 75.73,
+          "end": 76.43,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 76.43,
+          "end": 76.66,
+          "probability": 1
+        },
+        {
+          "text": "lose",
+          "start": 76.66,
+          "end": 77.13,
+          "probability": 1
+        },
+        {
+          "text": "control",
+          "start": 77.13,
+          "end": 77.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 78.21,
+      "end": 81.87,
+      "text": "'Cause everything that you thought I would be",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 78.21,
+          "end": 78.78,
+          "probability": 1
+        },
+        {
+          "text": "everything",
+          "start": 78.78,
+          "end": 79.74,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 79.74,
+          "end": 80.12,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 80.12,
+          "end": 80.41,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 80.41,
+          "end": 81.08,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 81.08,
+          "end": 81.2,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 81.2,
+          "end": 81.68,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 81.68,
+          "end": 81.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.09,
+      "end": 85.9,
+      "text": "Has fallen apart right in front of you",
+      "words": [
+        {
+          "text": "Has",
+          "start": 82.09,
+          "end": 82.46,
+          "probability": 1
+        },
+        {
+          "text": "fallen",
+          "start": 82.46,
+          "end": 83.2,
+          "probability": 1
+        },
+        {
+          "text": "apart",
+          "start": 83.2,
+          "end": 83.81,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 83.81,
+          "end": 84.42,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 84.42,
+          "end": 84.67,
+          "probability": 1
+        },
+        {
+          "text": "front",
+          "start": 84.67,
+          "end": 85.28,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 85.28,
+          "end": 85.53,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 85.53,
+          "end": 85.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 87.22,
+      "end": 90.2,
+      "text": "(Caught in the undertow, just caught in the undertow)",
+      "words": [
+        {
+          "text": "(Caught",
+          "start": 87.22,
+          "end": 87.68,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 87.68,
+          "end": 87.81,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 87.81,
+          "end": 88.01,
+          "probability": 1
+        },
+        {
+          "text": "undertow,",
+          "start": 88.01,
+          "end": 88.61,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 88.61,
+          "end": 88.87,
+          "probability": 1
+        },
+        {
+          "text": "caught",
+          "start": 88.87,
+          "end": 89.27,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 89.27,
+          "end": 89.4,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 89.4,
+          "end": 89.6,
+          "probability": 1
+        },
+        {
+          "text": "undertow)",
+          "start": 89.6,
+          "end": 90.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 90.45,
+      "end": 95.69,
+      "text": "Every step that I take is another mistake to you",
+      "words": [
+        {
+          "text": "Every",
+          "start": 90.45,
+          "end": 91.12,
+          "probability": 1
+        },
+        {
+          "text": "step",
+          "start": 91.12,
+          "end": 91.66,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 91.66,
+          "end": 92.2,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 92.2,
+          "end": 92.33,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 92.33,
+          "end": 92.87,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 92.87,
+          "end": 93.14,
+          "probability": 1
+        },
+        {
+          "text": "another",
+          "start": 93.14,
+          "end": 94.08,
+          "probability": 1
+        },
+        {
+          "text": "mistake",
+          "start": 94.08,
+          "end": 95.02,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 95.02,
+          "end": 95.29,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 95.29,
+          "end": 95.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.94,
+      "end": 98.79,
+      "text": "(Caught in the undertow, just caught in the undertow)",
+      "words": [
+        {
+          "text": "(Caught",
+          "start": 95.94,
+          "end": 96.38,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 96.38,
+          "end": 96.51,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 96.51,
+          "end": 96.7,
+          "probability": 1
+        },
+        {
+          "text": "undertow,",
+          "start": 96.7,
+          "end": 97.27,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 97.27,
+          "end": 97.52,
+          "probability": 1
+        },
+        {
+          "text": "caught",
+          "start": 97.52,
+          "end": 97.9,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 97.9,
+          "end": 98.03,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 98.03,
+          "end": 98.22,
+          "probability": 1
+        },
+        {
+          "text": "undertow)",
+          "start": 98.22,
+          "end": 98.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 99.02,
+      "end": 103.88,
+      "text": "And every second I waste is more than I can take",
+      "words": [
+        {
+          "text": "And",
+          "start": 99.02,
+          "end": 99.4,
+          "probability": 1
+        },
+        {
+          "text": "every",
+          "start": 99.4,
+          "end": 100.04,
+          "probability": 1
+        },
+        {
+          "text": "second",
+          "start": 100.04,
+          "end": 100.81,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 100.81,
+          "end": 100.94,
+          "probability": 1
+        },
+        {
+          "text": "waste",
+          "start": 100.94,
+          "end": 101.58,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 101.58,
+          "end": 101.84,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 101.84,
+          "end": 102.35,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 102.35,
+          "end": 102.86,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 102.86,
+          "end": 102.99,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 102.99,
+          "end": 103.37,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 103.37,
+          "end": 103.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 104.13,
+      "end": 108.83,
+      "text": "I've become so numb, I can't feel you there",
+      "words": [
+        {
+          "text": "I've",
+          "start": 104.13,
+          "end": 104.67,
+          "probability": 1
+        },
+        {
+          "text": "become",
+          "start": 104.67,
+          "end": 105.48,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 105.48,
+          "end": 105.75,
+          "probability": 1
+        },
+        {
+          "text": "numb,",
+          "start": 105.75,
+          "end": 106.42,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 106.42,
+          "end": 106.55,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 106.55,
+          "end": 107.22,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 107.22,
+          "end": 107.76,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 107.76,
+          "end": 108.16,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 108.16,
+          "end": 108.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.09,
+      "end": 113.21,
+      "text": "I've become so tired; so much more aware",
+      "words": [
+        {
+          "text": "I've",
+          "start": 109.09,
+          "end": 109.59,
+          "probability": 1
+        },
+        {
+          "text": "become",
+          "start": 109.59,
+          "end": 110.34,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 110.34,
+          "end": 110.59,
+          "probability": 1
+        },
+        {
+          "text": "tired;",
+          "start": 110.59,
+          "end": 111.34,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 111.34,
+          "end": 111.59,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 111.59,
+          "end": 112.09,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 112.09,
+          "end": 112.59,
+          "probability": 1
+        },
+        {
+          "text": "aware",
+          "start": 112.59,
+          "end": 113.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 113.45,
+      "end": 117.26,
+      "text": "I'm becoming this, all I want to do",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 113.45,
+          "end": 113.86,
+          "probability": 1
+        },
+        {
+          "text": "becoming",
+          "start": 113.86,
+          "end": 114.95,
+          "probability": 1
+        },
+        {
+          "text": "this,",
+          "start": 114.95,
+          "end": 115.63,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 115.63,
+          "end": 116.04,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 116.04,
+          "end": 116.18,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 116.18,
+          "end": 116.72,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 116.72,
+          "end": 116.99,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 116.99,
+          "end": 117.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.78,
+      "end": 122.68,
+      "text": "Is be more like me and be less like you",
+      "words": [
+        {
+          "text": "Is",
+          "start": 117.78,
+          "end": 118.11,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 118.11,
+          "end": 118.44,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 118.44,
+          "end": 119.09,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 119.09,
+          "end": 119.74,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 119.74,
+          "end": 120.07,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 120.07,
+          "end": 120.56,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 120.56,
+          "end": 120.89,
+          "probability": 1
+        },
+        {
+          "text": "less",
+          "start": 120.89,
+          "end": 121.54,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 121.54,
+          "end": 122.19,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 122.19,
+          "end": 122.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 122.94,
+      "end": 126.99,
+      "text": "And I know I may end up failing too",
+      "words": [
+        {
+          "text": "And",
+          "start": 122.94,
+          "end": 123.39,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 123.39,
+          "end": 123.54,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 123.54,
+          "end": 124.14,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 124.14,
+          "end": 124.29,
+          "probability": 1
+        },
+        {
+          "text": "may",
+          "start": 124.29,
+          "end": 124.74,
+          "probability": 1
+        },
+        {
+          "text": "end",
+          "start": 124.74,
+          "end": 125.19,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 125.19,
+          "end": 125.49,
+          "probability": 1
+        },
+        {
+          "text": "failing",
+          "start": 125.49,
+          "end": 126.54,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 126.54,
+          "end": 126.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 131.62,
+      "end": 135.43,
+      "text": "But I know you were just like me",
+      "words": [
+        {
+          "text": "But",
+          "start": 131.62,
+          "end": 132.08,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 132.08,
+          "end": 132.23,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 132.23,
+          "end": 132.84,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 132.84,
+          "end": 133.3,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 133.3,
+          "end": 133.91,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 133.91,
+          "end": 134.52,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 134.52,
+          "end": 135.13,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 135.13,
+          "end": 135.43,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 135.95,
+      "end": 139.75,
+      "text": "With someone disappointed in you",
+      "words": [
+        {
+          "text": "With",
+          "start": 135.95,
+          "end": 136.49,
+          "probability": 1
+        },
+        {
+          "text": "someone",
+          "start": 136.49,
+          "end": 137.44,
+          "probability": 1
+        },
+        {
+          "text": "disappointed",
+          "start": 137.44,
+          "end": 139.07,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 139.07,
+          "end": 139.34,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 139.34,
+          "end": 139.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 141.33,
+      "end": 145.88,
+      "text": "I've become so numb, I can't feel you there",
+      "words": [
+        {
+          "text": "I've",
+          "start": 141.33,
+          "end": 141.85,
+          "probability": 1
+        },
+        {
+          "text": "become",
+          "start": 141.85,
+          "end": 142.63,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 142.63,
+          "end": 142.89,
+          "probability": 1
+        },
+        {
+          "text": "numb,",
+          "start": 142.89,
+          "end": 143.54,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 143.54,
+          "end": 143.67,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 143.67,
+          "end": 144.32,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 144.32,
+          "end": 144.84,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 144.84,
+          "end": 145.23,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 145.23,
+          "end": 145.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.13,
+      "end": 150.25,
+      "text": "I've become so tired; so much more aware",
+      "words": [
+        {
+          "text": "I've",
+          "start": 146.13,
+          "end": 146.63,
+          "probability": 1
+        },
+        {
+          "text": "become",
+          "start": 146.63,
+          "end": 147.38,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 147.38,
+          "end": 147.63,
+          "probability": 1
+        },
+        {
+          "text": "tired;",
+          "start": 147.63,
+          "end": 148.38,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 148.38,
+          "end": 148.63,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 148.63,
+          "end": 149.13,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 149.13,
+          "end": 149.63,
+          "probability": 1
+        },
+        {
+          "text": "aware",
+          "start": 149.63,
+          "end": 150.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 150.5,
+      "end": 154.31,
+      "text": "I'm becoming this, all I want to do",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 150.5,
+          "end": 150.91,
+          "probability": 1
+        },
+        {
+          "text": "becoming",
+          "start": 150.91,
+          "end": 152,
+          "probability": 1
+        },
+        {
+          "text": "this,",
+          "start": 152,
+          "end": 152.68,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 152.68,
+          "end": 153.09,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 153.09,
+          "end": 153.23,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 153.23,
+          "end": 153.77,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 153.77,
+          "end": 154.04,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 154.04,
+          "end": 154.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 154.91,
+      "end": 158.41,
+      "text": "Is be more like me and be less like you",
+      "words": [
+        {
+          "text": "Is",
+          "start": 154.91,
+          "end": 155.14,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 155.14,
+          "end": 155.37,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 155.37,
+          "end": 155.84,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 155.84,
+          "end": 156.31,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 156.31,
+          "end": 156.54,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 156.54,
+          "end": 156.89,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 156.89,
+          "end": 157.12,
+          "probability": 1
+        },
+        {
+          "text": "less",
+          "start": 157.12,
+          "end": 157.59,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 157.59,
+          "end": 158.06,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 158.06,
+          "end": 158.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 158.67,
+      "end": 163.34,
+      "text": "I've become so numb, I can't feel you there",
+      "words": [
+        {
+          "text": "I've",
+          "start": 158.67,
+          "end": 159.2,
+          "probability": 1
+        },
+        {
+          "text": "become",
+          "start": 159.2,
+          "end": 160,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 160,
+          "end": 160.27,
+          "probability": 1
+        },
+        {
+          "text": "numb,",
+          "start": 160.27,
+          "end": 160.94,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 160.94,
+          "end": 161.07,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 161.07,
+          "end": 161.74,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 161.74,
+          "end": 162.27,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 162.27,
+          "end": 162.67,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 162.67,
+          "end": 163.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 163.58,
+      "end": 167.2,
+      "text": "(I'm tired of being what you want me to be)",
+      "words": [
+        {
+          "text": "(I'm",
+          "start": 163.58,
+          "end": 164.01,
+          "probability": 1
+        },
+        {
+          "text": "tired",
+          "start": 164.01,
+          "end": 164.54,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 164.54,
+          "end": 164.75,
+          "probability": 1
+        },
+        {
+          "text": "being",
+          "start": 164.75,
+          "end": 165.28,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 165.28,
+          "end": 165.71,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 165.71,
+          "end": 166.03,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 166.03,
+          "end": 166.46,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 166.46,
+          "end": 166.67,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 166.67,
+          "end": 166.88,
+          "probability": 1
+        },
+        {
+          "text": "be)",
+          "start": 166.88,
+          "end": 167.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.46,
+      "end": 171.94,
+      "text": "I've become so numb, I can't feel you there",
+      "words": [
+        {
+          "text": "I've",
+          "start": 167.46,
+          "end": 167.97,
+          "probability": 1
+        },
+        {
+          "text": "become",
+          "start": 167.97,
+          "end": 168.74,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 168.74,
+          "end": 169,
+          "probability": 1
+        },
+        {
+          "text": "numb,",
+          "start": 169,
+          "end": 169.64,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 169.64,
+          "end": 169.77,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 169.77,
+          "end": 170.41,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 170.41,
+          "end": 170.92,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 170.92,
+          "end": 171.3,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 171.3,
+          "end": 171.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 172.19,
+      "end": 175.93,
+      "text": "(I'm tired of being what you want me to be)",
+      "words": [
+        {
+          "text": "(I'm",
+          "start": 172.19,
+          "end": 172.63,
+          "probability": 1
+        },
+        {
+          "text": "tired",
+          "start": 172.63,
+          "end": 173.18,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 173.18,
+          "end": 173.4,
+          "probability": 1
+        },
+        {
+          "text": "being",
+          "start": 173.4,
+          "end": 173.95,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 173.95,
+          "end": 174.39,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 174.39,
+          "end": 174.72,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 174.72,
+          "end": 175.16,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 175.16,
+          "end": 175.38,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 175.38,
+          "end": 175.6,
+          "probability": 1
+        },
+        {
+          "text": "be)",
+          "start": 175.6,
+          "end": 175.93,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "I'm tired of being what you want me to be Feeling so faithless, lost under the surface Don't know what you're expecting of me Put under the pressure of walking in your shoes (Caught in the undertow, just caught in the undertow) Every step that I take is another mistake to you (Caught in the undertow, just caught in the undertow) I've become so numb, I can't feel you there I've become so tired; so much more aware I'm becoming this, all I want to do Is be more like me and be less like you Can't you see that you're smothering me? Holding too tightly; afraid to lose control 'Cause everything that you thought I would be Has fallen apart right in front of you (Caught in the undertow, just caught in the undertow) Every step that I take is another mistake to you (Caught in the undertow, just caught in the undertow) And every second I waste is more than I can take I've become so numb, I can't feel you there I've become so tired; so much more aware I'm becoming this, all I want to do Is be more like me and be less like you And I know I may end up failing too But I know you were just like me With someone disappointed in you I've become so numb, I can't feel you there I've become so tired; so much more aware I'm becoming this, all I want to do Is be more like me and be less like you I've become so numb, I can't feel you there (I'm tired of being what you want me to be) I've become so numb, I can't feel you there (I'm tired of being what you want me to be)"
+}

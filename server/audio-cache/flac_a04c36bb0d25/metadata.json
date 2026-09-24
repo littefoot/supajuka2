@@ -1,0 +1,18 @@
+{
+  "id": "flac_a04c36bb0d25",
+  "source": "local",
+  "title": "The Glory",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 213,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790188228275,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_a04c36bb0d25/original.flac",
+  "instrumentalUrl": "/audio/flac_a04c36bb0d25/instrumental.flac",
+  "vocalsUrl": "/audio/flac_a04c36bb0d25/vocals.flac"
+}

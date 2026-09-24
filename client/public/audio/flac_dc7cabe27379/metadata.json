@@ -1,0 +1,19 @@
+{
+  "id": "flac_dc7cabe27379",
+  "source": "local",
+  "title": "Let It Be (2021 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 \u2013 1970 (2023 Edition)",
+  "duration": 232,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_dc7cabe27379/cover.jpg",
+  "cachedAt": 1790184247249,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_dc7cabe27379/original.flac",
+  "instrumentalUrl": "/audio/flac_dc7cabe27379/instrumental.flac",
+  "vocalsUrl": "/audio/flac_dc7cabe27379/vocals.flac"
+}

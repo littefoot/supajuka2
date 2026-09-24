@@ -1,0 +1,19 @@
+{
+  "id": "flac_648382266d14",
+  "source": "local",
+  "title": "Breaking The Habit",
+  "artist": "Linkin Park",
+  "album": "Meteora",
+  "duration": 196,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_648382266d14/cover.jpg",
+  "cachedAt": 1789625469889,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_648382266d14/original.flac",
+  "instrumentalUrl": "/audio/flac_648382266d14/instrumental.flac",
+  "vocalsUrl": "/audio/flac_648382266d14/vocals.flac"
+}

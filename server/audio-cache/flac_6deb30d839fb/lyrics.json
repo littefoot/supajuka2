@@ -1,0 +1,1642 @@
+{
+  "language": "en",
+  "duration": 308,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 11.23,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 11.23,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 11.23,
+      "end": 14.38,
+      "text": "I read the news today, oh boy",
+      "words": [
+        {
+          "text": "I",
+          "start": 11.23,
+          "end": 11.37,
+          "probability": 1
+        },
+        {
+          "text": "read",
+          "start": 11.37,
+          "end": 11.92,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 11.92,
+          "end": 12.33,
+          "probability": 1
+        },
+        {
+          "text": "news",
+          "start": 12.33,
+          "end": 12.88,
+          "probability": 1
+        },
+        {
+          "text": "today,",
+          "start": 12.88,
+          "end": 13.7,
+          "probability": 1
+        },
+        {
+          "text": "oh",
+          "start": 13.7,
+          "end": 13.97,
+          "probability": 1
+        },
+        {
+          "text": "boy",
+          "start": 13.97,
+          "end": 14.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 17.59,
+      "end": 22.16,
+      "text": "About a lucky man who made the grade",
+      "words": [
+        {
+          "text": "About",
+          "start": 17.59,
+          "end": 18.38,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 18.38,
+          "end": 18.54,
+          "probability": 1
+        },
+        {
+          "text": "lucky",
+          "start": 18.54,
+          "end": 19.33,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 19.33,
+          "end": 19.8,
+          "probability": 1
+        },
+        {
+          "text": "who",
+          "start": 19.8,
+          "end": 20.27,
+          "probability": 1
+        },
+        {
+          "text": "made",
+          "start": 20.27,
+          "end": 20.9,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 20.9,
+          "end": 21.37,
+          "probability": 1
+        },
+        {
+          "text": "grade",
+          "start": 21.37,
+          "end": 22.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 23.78,
+      "end": 26.95,
+      "text": "And though the news was rather sad",
+      "words": [
+        {
+          "text": "And",
+          "start": 23.78,
+          "end": 24.12,
+          "probability": 1
+        },
+        {
+          "text": "though",
+          "start": 24.12,
+          "end": 24.8,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 24.8,
+          "end": 25.14,
+          "probability": 1
+        },
+        {
+          "text": "news",
+          "start": 25.14,
+          "end": 25.59,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 25.59,
+          "end": 25.93,
+          "probability": 1
+        },
+        {
+          "text": "rather",
+          "start": 25.93,
+          "end": 26.61,
+          "probability": 1
+        },
+        {
+          "text": "sad",
+          "start": 26.61,
+          "end": 26.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 29.67,
+      "end": 32.39,
+      "text": "Well, I just had to laugh",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 29.67,
+          "end": 30.35,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 30.35,
+          "end": 30.49,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 30.49,
+          "end": 31.03,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 31.03,
+          "end": 31.44,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 31.44,
+          "end": 31.71,
+          "probability": 1
+        },
+        {
+          "text": "laugh",
+          "start": 31.71,
+          "end": 32.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.95,
+      "end": 38.22,
+      "text": "I saw the photograph",
+      "words": [
+        {
+          "text": "I",
+          "start": 35.95,
+          "end": 36.08,
+          "probability": 1
+        },
+        {
+          "text": "saw",
+          "start": 36.08,
+          "end": 36.48,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 36.48,
+          "end": 36.88,
+          "probability": 1
+        },
+        {
+          "text": "photograph",
+          "start": 36.88,
+          "end": 38.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.41,
+      "end": 46,
+      "text": "He blew his mind out in a car",
+      "words": [
+        {
+          "text": "He",
+          "start": 42.41,
+          "end": 42.74,
+          "probability": 1
+        },
+        {
+          "text": "blew",
+          "start": 42.74,
+          "end": 43.39,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 43.39,
+          "end": 43.88,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 43.88,
+          "end": 44.53,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 44.53,
+          "end": 45.02,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 45.02,
+          "end": 45.35,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 45.35,
+          "end": 45.51,
+          "probability": 1
+        },
+        {
+          "text": "car",
+          "start": 45.51,
+          "end": 46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 48.54,
+      "end": 52.73,
+      "text": "He didn't notice that the lights had changed",
+      "words": [
+        {
+          "text": "He",
+          "start": 48.54,
+          "end": 48.77,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 48.77,
+          "end": 49.45,
+          "probability": 1
+        },
+        {
+          "text": "notice",
+          "start": 49.45,
+          "end": 50.13,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 50.13,
+          "end": 50.58,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 50.58,
+          "end": 50.92,
+          "probability": 1
+        },
+        {
+          "text": "lights",
+          "start": 50.92,
+          "end": 51.6,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 51.6,
+          "end": 51.94,
+          "probability": 1
+        },
+        {
+          "text": "changed",
+          "start": 51.94,
+          "end": 52.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 54.74,
+      "end": 58.15,
+      "text": "A crowd of people stood and stared",
+      "words": [
+        {
+          "text": "A",
+          "start": 54.74,
+          "end": 54.86,
+          "probability": 1
+        },
+        {
+          "text": "crowd",
+          "start": 54.86,
+          "end": 55.47,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 55.47,
+          "end": 55.71,
+          "probability": 1
+        },
+        {
+          "text": "people",
+          "start": 55.71,
+          "end": 56.44,
+          "probability": 1
+        },
+        {
+          "text": "stood",
+          "start": 56.44,
+          "end": 57.05,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 57.05,
+          "end": 57.42,
+          "probability": 1
+        },
+        {
+          "text": "stared",
+          "start": 57.42,
+          "end": 58.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.06,
+      "end": 63.54,
+      "text": "They'd seen his face before",
+      "words": [
+        {
+          "text": "They'd",
+          "start": 61.06,
+          "end": 61.71,
+          "probability": 1
+        },
+        {
+          "text": "seen",
+          "start": 61.71,
+          "end": 62.14,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 62.14,
+          "end": 62.46,
+          "probability": 1
+        },
+        {
+          "text": "face",
+          "start": 62.46,
+          "end": 62.89,
+          "probability": 1
+        },
+        {
+          "text": "before",
+          "start": 62.89,
+          "end": 63.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 63.79,
+      "end": 70.05,
+      "text": "Nobody was really sure If he was from the House of Lords",
+      "words": [
+        {
+          "text": "Nobody",
+          "start": 63.79,
+          "end": 64.62,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 64.62,
+          "end": 65.04,
+          "probability": 1
+        },
+        {
+          "text": "really",
+          "start": 65.04,
+          "end": 65.87,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 65.87,
+          "end": 66.43,
+          "probability": 1
+        },
+        {
+          "text": "If",
+          "start": 66.43,
+          "end": 66.71,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 66.71,
+          "end": 66.99,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 66.99,
+          "end": 67.41,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 67.41,
+          "end": 67.97,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 67.97,
+          "end": 68.39,
+          "probability": 1
+        },
+        {
+          "text": "House",
+          "start": 68.39,
+          "end": 69.08,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 69.08,
+          "end": 69.36,
+          "probability": 1
+        },
+        {
+          "text": "Lords",
+          "start": 69.36,
+          "end": 70.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 70.29,
+      "end": 73.44,
+      "text": "I saw a film today, oh boy",
+      "words": [
+        {
+          "text": "I",
+          "start": 70.29,
+          "end": 70.45,
+          "probability": 1
+        },
+        {
+          "text": "saw",
+          "start": 70.45,
+          "end": 70.92,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 70.92,
+          "end": 71.08,
+          "probability": 1
+        },
+        {
+          "text": "film",
+          "start": 71.08,
+          "end": 71.71,
+          "probability": 1
+        },
+        {
+          "text": "today,",
+          "start": 71.71,
+          "end": 72.65,
+          "probability": 1
+        },
+        {
+          "text": "oh",
+          "start": 72.65,
+          "end": 72.97,
+          "probability": 1
+        },
+        {
+          "text": "boy",
+          "start": 72.97,
+          "end": 73.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 76.2,
+      "end": 80.01,
+      "text": "The English army had just won the war",
+      "words": [
+        {
+          "text": "The",
+          "start": 76.2,
+          "end": 76.58,
+          "probability": 1
+        },
+        {
+          "text": "English",
+          "start": 76.58,
+          "end": 77.47,
+          "probability": 1
+        },
+        {
+          "text": "army",
+          "start": 77.47,
+          "end": 77.98,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 77.98,
+          "end": 78.36,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 78.36,
+          "end": 78.87,
+          "probability": 1
+        },
+        {
+          "text": "won",
+          "start": 78.87,
+          "end": 79.25,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 79.25,
+          "end": 79.63,
+          "probability": 1
+        },
+        {
+          "text": "war",
+          "start": 79.63,
+          "end": 80.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.3,
+      "end": 85.73,
+      "text": "A crowd of people turned away",
+      "words": [
+        {
+          "text": "A",
+          "start": 82.3,
+          "end": 82.44,
+          "probability": 1
+        },
+        {
+          "text": "crowd",
+          "start": 82.44,
+          "end": 83.15,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 83.15,
+          "end": 83.44,
+          "probability": 1
+        },
+        {
+          "text": "people",
+          "start": 83.44,
+          "end": 84.3,
+          "probability": 1
+        },
+        {
+          "text": "turned",
+          "start": 84.3,
+          "end": 85.16,
+          "probability": 1
+        },
+        {
+          "text": "away",
+          "start": 85.16,
+          "end": 85.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 88.57,
+      "end": 91.29,
+      "text": "But I just had to look",
+      "words": [
+        {
+          "text": "But",
+          "start": 88.57,
+          "end": 89.05,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 89.05,
+          "end": 89.21,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 89.21,
+          "end": 89.85,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 89.85,
+          "end": 90.33,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 90.33,
+          "end": 90.65,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 90.65,
+          "end": 91.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 91.84,
+      "end": 93.75,
+      "text": "Having read the book",
+      "words": [
+        {
+          "text": "Having",
+          "start": 91.84,
+          "end": 92.51,
+          "probability": 1
+        },
+        {
+          "text": "read",
+          "start": 92.51,
+          "end": 92.96,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 92.96,
+          "end": 93.3,
+          "probability": 1
+        },
+        {
+          "text": "book",
+          "start": 93.3,
+          "end": 93.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 97.09,
+      "end": 99.79,
+      "text": "I'd love to turn you on",
+      "words": [
+        {
+          "text": "I'd",
+          "start": 97.09,
+          "end": 97.54,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 97.54,
+          "end": 98.14,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 98.14,
+          "end": 98.44,
+          "probability": 1
+        },
+        {
+          "text": "turn",
+          "start": 98.44,
+          "end": 99.04,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 99.04,
+          "end": 99.49,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 99.49,
+          "end": 99.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.1,
+      "end": 110.41,
+      "text": "Five, six, seven, eight, nine, ten, eleven, twelve",
+      "words": [
+        {
+          "text": "Five,",
+          "start": 105.1,
+          "end": 105.72,
+          "probability": 1
+        },
+        {
+          "text": "six,",
+          "start": 105.72,
+          "end": 106.21,
+          "probability": 1
+        },
+        {
+          "text": "seven,",
+          "start": 106.21,
+          "end": 106.95,
+          "probability": 1
+        },
+        {
+          "text": "eight,",
+          "start": 106.95,
+          "end": 107.69,
+          "probability": 1
+        },
+        {
+          "text": "nine,",
+          "start": 107.69,
+          "end": 108.31,
+          "probability": 1
+        },
+        {
+          "text": "ten,",
+          "start": 108.31,
+          "end": 108.8,
+          "probability": 1
+        },
+        {
+          "text": "eleven,",
+          "start": 108.8,
+          "end": 109.67,
+          "probability": 1
+        },
+        {
+          "text": "twelve",
+          "start": 109.67,
+          "end": 110.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 110.41,
+      "end": 139.33,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 110.41,
+          "end": 139.33,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 139.33,
+      "end": 141.74,
+      "text": "Woke up, fell out of bed",
+      "words": [
+        {
+          "text": "Woke",
+          "start": 139.33,
+          "end": 139.84,
+          "probability": 1
+        },
+        {
+          "text": "up,",
+          "start": 139.84,
+          "end": 140.22,
+          "probability": 1
+        },
+        {
+          "text": "fell",
+          "start": 140.22,
+          "end": 140.73,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 140.73,
+          "end": 141.11,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 141.11,
+          "end": 141.36,
+          "probability": 1
+        },
+        {
+          "text": "bed",
+          "start": 141.36,
+          "end": 141.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142,
+      "end": 145.05,
+      "text": "Dragged a comb across my head",
+      "words": [
+        {
+          "text": "Dragged",
+          "start": 142,
+          "end": 142.89,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 142.89,
+          "end": 143.02,
+          "probability": 1
+        },
+        {
+          "text": "comb",
+          "start": 143.02,
+          "end": 143.53,
+          "probability": 1
+        },
+        {
+          "text": "across",
+          "start": 143.53,
+          "end": 144.29,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 144.29,
+          "end": 144.54,
+          "probability": 1
+        },
+        {
+          "text": "head",
+          "start": 144.54,
+          "end": 145.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.56,
+      "end": 149.28,
+      "text": "Found my way downstairs and drank a cup",
+      "words": [
+        {
+          "text": "Found",
+          "start": 146.56,
+          "end": 146.98,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 146.98,
+          "end": 147.15,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 147.15,
+          "end": 147.4,
+          "probability": 1
+        },
+        {
+          "text": "downstairs",
+          "start": 147.4,
+          "end": 148.24,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 148.24,
+          "end": 148.49,
+          "probability": 1
+        },
+        {
+          "text": "drank",
+          "start": 148.49,
+          "end": 148.91,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 148.91,
+          "end": 149.03,
+          "probability": 1
+        },
+        {
+          "text": "cup",
+          "start": 149.03,
+          "end": 149.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 149.49,
+      "end": 153.33,
+      "text": "And looking up I noticed I was late",
+      "words": [
+        {
+          "text": "And",
+          "start": 149.49,
+          "end": 149.9,
+          "probability": 1
+        },
+        {
+          "text": "looking",
+          "start": 149.9,
+          "end": 150.86,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 150.86,
+          "end": 151.13,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 151.13,
+          "end": 151.27,
+          "probability": 1
+        },
+        {
+          "text": "noticed",
+          "start": 151.27,
+          "end": 152.23,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 152.23,
+          "end": 152.37,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 152.37,
+          "end": 152.78,
+          "probability": 1
+        },
+        {
+          "text": "late",
+          "start": 152.78,
+          "end": 153.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 153.57,
+      "end": 156.44,
+      "text": "Found my coat and grabbed my hat",
+      "words": [
+        {
+          "text": "Found",
+          "start": 153.57,
+          "end": 154.12,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 154.12,
+          "end": 154.34,
+          "probability": 1
+        },
+        {
+          "text": "coat",
+          "start": 154.34,
+          "end": 154.78,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 154.78,
+          "end": 155.11,
+          "probability": 1
+        },
+        {
+          "text": "grabbed",
+          "start": 155.11,
+          "end": 155.89,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 155.89,
+          "end": 156.11,
+          "probability": 1
+        },
+        {
+          "text": "hat",
+          "start": 156.11,
+          "end": 156.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.7,
+      "end": 159.75,
+      "text": "Made the bus in seconds flat",
+      "words": [
+        {
+          "text": "Made",
+          "start": 156.7,
+          "end": 157.23,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 157.23,
+          "end": 157.63,
+          "probability": 1
+        },
+        {
+          "text": "bus",
+          "start": 157.63,
+          "end": 158.03,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 158.03,
+          "end": 158.29,
+          "probability": 1
+        },
+        {
+          "text": "seconds",
+          "start": 158.29,
+          "end": 159.22,
+          "probability": 1
+        },
+        {
+          "text": "flat",
+          "start": 159.22,
+          "end": 159.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 161.05,
+      "end": 163.78,
+      "text": "Found my way upstairs and had a smoke",
+      "words": [
+        {
+          "text": "Found",
+          "start": 161.05,
+          "end": 161.5,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 161.5,
+          "end": 161.68,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 161.68,
+          "end": 161.95,
+          "probability": 1
+        },
+        {
+          "text": "upstairs",
+          "start": 161.95,
+          "end": 162.67,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 162.67,
+          "end": 162.94,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 162.94,
+          "end": 163.21,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 163.21,
+          "end": 163.33,
+          "probability": 1
+        },
+        {
+          "text": "smoke",
+          "start": 163.33,
+          "end": 163.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164,
+      "end": 169.33,
+      "text": "And somebody spoke and I went into a dream",
+      "words": [
+        {
+          "text": "And",
+          "start": 164,
+          "end": 164.47,
+          "probability": 1
+        },
+        {
+          "text": "somebody",
+          "start": 164.47,
+          "end": 165.72,
+          "probability": 1
+        },
+        {
+          "text": "spoke",
+          "start": 165.72,
+          "end": 166.5,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 166.5,
+          "end": 166.97,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 166.97,
+          "end": 167.13,
+          "probability": 1
+        },
+        {
+          "text": "went",
+          "start": 167.13,
+          "end": 167.76,
+          "probability": 1
+        },
+        {
+          "text": "into",
+          "start": 167.76,
+          "end": 168.39,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 168.39,
+          "end": 168.55,
+          "probability": 1
+        },
+        {
+          "text": "dream",
+          "start": 168.55,
+          "end": 169.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 169.33,
+      "end": 196.71,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 169.33,
+          "end": 196.71,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 196.71,
+      "end": 199.86,
+      "text": "I read the news today, oh boy",
+      "words": [
+        {
+          "text": "I",
+          "start": 196.71,
+          "end": 196.85,
+          "probability": 1
+        },
+        {
+          "text": "read",
+          "start": 196.85,
+          "end": 197.4,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 197.4,
+          "end": 197.81,
+          "probability": 1
+        },
+        {
+          "text": "news",
+          "start": 197.81,
+          "end": 198.36,
+          "probability": 1
+        },
+        {
+          "text": "today,",
+          "start": 198.36,
+          "end": 199.18,
+          "probability": 1
+        },
+        {
+          "text": "oh",
+          "start": 199.18,
+          "end": 199.45,
+          "probability": 1
+        },
+        {
+          "text": "boy",
+          "start": 199.45,
+          "end": 199.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 202.8,
+      "end": 207.36,
+      "text": "Four thousand holes in Blackburn, Lancashire",
+      "words": [
+        {
+          "text": "Four",
+          "start": 202.8,
+          "end": 203.27,
+          "probability": 1
+        },
+        {
+          "text": "thousand",
+          "start": 203.27,
+          "end": 204.21,
+          "probability": 1
+        },
+        {
+          "text": "holes",
+          "start": 204.21,
+          "end": 204.79,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 204.79,
+          "end": 205.02,
+          "probability": 1
+        },
+        {
+          "text": "Blackburn,",
+          "start": 205.02,
+          "end": 206.19,
+          "probability": 1
+        },
+        {
+          "text": "Lancashire",
+          "start": 206.19,
+          "end": 207.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 208.62,
+      "end": 212.41,
+      "text": "And though the holes were rather small",
+      "words": [
+        {
+          "text": "And",
+          "start": 208.62,
+          "end": 208.98,
+          "probability": 1
+        },
+        {
+          "text": "though",
+          "start": 208.98,
+          "end": 209.69,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 209.69,
+          "end": 210.05,
+          "probability": 1
+        },
+        {
+          "text": "holes",
+          "start": 210.05,
+          "end": 210.64,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 210.64,
+          "end": 211.11,
+          "probability": 1
+        },
+        {
+          "text": "rather",
+          "start": 211.11,
+          "end": 211.82,
+          "probability": 1
+        },
+        {
+          "text": "small",
+          "start": 211.82,
+          "end": 212.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 214.43,
+      "end": 216.95,
+      "text": "They had to count them all",
+      "words": [
+        {
+          "text": "They",
+          "start": 214.43,
+          "end": 214.91,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 214.91,
+          "end": 215.27,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 215.27,
+          "end": 215.51,
+          "probability": 1
+        },
+        {
+          "text": "count",
+          "start": 215.51,
+          "end": 216.11,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 216.11,
+          "end": 216.59,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 216.59,
+          "end": 216.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 217.2,
+      "end": 221.99,
+      "text": "Now they know how many holes it takes to fill the Albert Hall",
+      "words": [
+        {
+          "text": "Now",
+          "start": 217.2,
+          "end": 217.49,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 217.49,
+          "end": 217.88,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 217.88,
+          "end": 218.27,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 218.27,
+          "end": 218.56,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 218.56,
+          "end": 218.95,
+          "probability": 1
+        },
+        {
+          "text": "holes",
+          "start": 218.95,
+          "end": 219.44,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 219.44,
+          "end": 219.64,
+          "probability": 1
+        },
+        {
+          "text": "takes",
+          "start": 219.64,
+          "end": 220.13,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 220.13,
+          "end": 220.33,
+          "probability": 1
+        },
+        {
+          "text": "fill",
+          "start": 220.33,
+          "end": 220.72,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 220.72,
+          "end": 221.01,
+          "probability": 1
+        },
+        {
+          "text": "Albert",
+          "start": 221.01,
+          "end": 221.6,
+          "probability": 1
+        },
+        {
+          "text": "Hall",
+          "start": 221.6,
+          "end": 221.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 222.23,
+      "end": 224.93,
+      "text": "I'd love to turn you on",
+      "words": [
+        {
+          "text": "I'd",
+          "start": 222.23,
+          "end": 222.68,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 222.68,
+          "end": 223.28,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 223.28,
+          "end": 223.58,
+          "probability": 1
+        },
+        {
+          "text": "turn",
+          "start": 223.58,
+          "end": 224.18,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 224.18,
+          "end": 224.63,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 224.63,
+          "end": 224.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 230.66,
+      "end": 234.41,
+      "text": "Five, six, seven, eight, nine, ten, eleven, twelve",
+      "words": [
+        {
+          "text": "Five,",
+          "start": 230.66,
+          "end": 231.1,
+          "probability": 1
+        },
+        {
+          "text": "six,",
+          "start": 231.1,
+          "end": 231.45,
+          "probability": 1
+        },
+        {
+          "text": "seven,",
+          "start": 231.45,
+          "end": 231.97,
+          "probability": 1
+        },
+        {
+          "text": "eight,",
+          "start": 231.97,
+          "end": 232.49,
+          "probability": 1
+        },
+        {
+          "text": "nine,",
+          "start": 232.49,
+          "end": 232.93,
+          "probability": 1
+        },
+        {
+          "text": "ten,",
+          "start": 232.93,
+          "end": 233.28,
+          "probability": 1
+        },
+        {
+          "text": "eleven,",
+          "start": 233.28,
+          "end": 233.89,
+          "probability": 1
+        },
+        {
+          "text": "twelve",
+          "start": 233.89,
+          "end": 234.41,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "I read the news today, oh boy About a lucky man who made the grade And though the news was rather sad Well, I just had to laugh I saw the photograph He blew his mind out in a car He didn't notice that the lights had changed A crowd of people stood and stared They'd seen his face before Nobody was really sure If he was from the House of Lords I saw a film today, oh boy The English army had just won the war A crowd of people turned away But I just had to look Having read the book I'd love to turn you on Five, six, seven, eight, nine, ten, eleven, twelve Woke up, fell out of bed Dragged a comb across my head Found my way downstairs and drank a cup And looking up I noticed I was late Found my coat and grabbed my hat Made the bus in seconds flat Found my way upstairs and had a smoke And somebody spoke and I went into a dream I read the news today, oh boy Four thousand holes in Blackburn, Lancashire And though the holes were rather small They had to count them all Now they know how many holes it takes to fill the Albert Hall I'd love to turn you on Five, six, seven, eight, nine, ten, eleven, twelve"
+}

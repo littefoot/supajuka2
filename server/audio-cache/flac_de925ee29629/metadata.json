@@ -1,0 +1,18 @@
+{
+  "id": "flac_de925ee29629",
+  "source": "local",
+  "title": "Good Life feat. T-Pain",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 207,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790188089446,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_de925ee29629/original.flac",
+  "instrumentalUrl": "/audio/flac_de925ee29629/instrumental.flac",
+  "vocalsUrl": "/audio/flac_de925ee29629/vocals.flac"
+}

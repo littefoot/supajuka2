@@ -1,0 +1,3622 @@
+{
+  "language": "en",
+  "duration": 180.95,
+  "source": "word_stream_acoustic_v4",
+  "segments": [
+    {
+      "start": 0.26,
+      "end": 3.5,
+      "text": "In Penny Lane, there is a barber showing photographs",
+      "words": [
+        {
+          "text": "In",
+          "start": 0.26,
+          "end": 0.36,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "In",
+              "start": 0.26,
+              "end": 0.36
+            }
+          ]
+        },
+        {
+          "text": "Penny",
+          "start": 0.36,
+          "end": 0.48,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Pen",
+              "start": 0.36,
+              "end": 0.42
+            },
+            {
+              "text": "ny",
+              "start": 0.42,
+              "end": 0.48
+            }
+          ]
+        },
+        {
+          "text": "Lane,",
+          "start": 0.48,
+          "end": 0.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Lane,",
+              "start": 0.48,
+              "end": 0.96
+            }
+          ]
+        },
+        {
+          "text": "there",
+          "start": 0.96,
+          "end": 1.36,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "there",
+              "start": 0.96,
+              "end": 1.36
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 1.36,
+          "end": 1.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 1.36,
+              "end": 1.56
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 1.7,
+          "end": 1.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 1.7,
+              "end": 1.82
+            }
+          ]
+        },
+        {
+          "text": "barber",
+          "start": 1.82,
+          "end": 2.4,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "bar",
+              "start": 1.82,
+              "end": 2.11
+            },
+            {
+              "text": "ber",
+              "start": 2.11,
+              "end": 2.4
+            }
+          ]
+        },
+        {
+          "text": "showing",
+          "start": 2.4,
+          "end": 2.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "show",
+              "start": 2.4,
+              "end": 2.56
+            },
+            {
+              "text": "ing",
+              "start": 2.56,
+              "end": 2.72
+            }
+          ]
+        },
+        {
+          "text": "photographs",
+          "start": 2.86,
+          "end": 3.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "pho",
+              "start": 2.86,
+              "end": 2.98
+            },
+            {
+              "text": "to",
+              "start": 2.98,
+              "end": 3.24
+            },
+            {
+              "text": "graphs",
+              "start": 3.24,
+              "end": 3.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 4.46,
+      "end": 7.84,
+      "text": "Of every head he's had the pleasure to know",
+      "words": [
+        {
+          "text": "Of",
+          "start": 4.46,
+          "end": 4.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Of",
+              "start": 4.46,
+              "end": 4.62
+            }
+          ]
+        },
+        {
+          "text": "every",
+          "start": 4.62,
+          "end": 4.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ev",
+              "start": 4.62,
+              "end": 4.79
+            },
+            {
+              "text": "ery",
+              "start": 4.79,
+              "end": 4.96
+            }
+          ]
+        },
+        {
+          "text": "head",
+          "start": 4.96,
+          "end": 5.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "head",
+              "start": 4.96,
+              "end": 5.52
+            }
+          ]
+        },
+        {
+          "text": "he's",
+          "start": 5.56,
+          "end": 5.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "he's",
+              "start": 5.56,
+              "end": 5.82
+            }
+          ]
+        },
+        {
+          "text": "had",
+          "start": 5.82,
+          "end": 6.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "had",
+              "start": 5.82,
+              "end": 6.02
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 6.06,
+          "end": 6.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 6.06,
+              "end": 6.2
+            }
+          ]
+        },
+        {
+          "text": "pleasure",
+          "start": 6.22,
+          "end": 6.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "plea",
+              "start": 6.22,
+              "end": 6.38
+            },
+            {
+              "text": "sure",
+              "start": 6.38,
+              "end": 6.56
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 6.76,
+          "end": 7.04,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 6.76,
+              "end": 7.04
+            }
+          ]
+        },
+        {
+          "text": "know",
+          "start": 7.12,
+          "end": 7.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "know",
+              "start": 7.12,
+              "end": 7.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 8.74,
+      "end": 12.12,
+      "text": "And all the people that come and go",
+      "words": [
+        {
+          "text": "And",
+          "start": 8.74,
+          "end": 8.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 8.74,
+              "end": 8.88
+            }
+          ]
+        },
+        {
+          "text": "all",
+          "start": 8.88,
+          "end": 9.22,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "all",
+              "start": 8.88,
+              "end": 9.22
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 9.22,
+          "end": 9.44,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 9.22,
+              "end": 9.44
+            }
+          ]
+        },
+        {
+          "text": "people",
+          "start": 9.44,
+          "end": 9.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "peo",
+              "start": 9.44,
+              "end": 9.67
+            },
+            {
+              "text": "ple",
+              "start": 9.67,
+              "end": 9.9
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 9.9,
+          "end": 10.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 9.9,
+              "end": 10.3
+            }
+          ]
+        },
+        {
+          "text": "come",
+          "start": 10.52,
+          "end": 10.78,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "come",
+              "start": 10.52,
+              "end": 10.78
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 10.86,
+          "end": 11.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 10.86,
+              "end": 11.2
+            }
+          ]
+        },
+        {
+          "text": "go",
+          "start": 11.38,
+          "end": 12.12,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "go",
+              "start": 11.38,
+              "end": 12.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 12.96,
+      "end": 14.62,
+      "text": "Stop and say hello",
+      "words": [
+        {
+          "text": "Stop",
+          "start": 12.96,
+          "end": 13.12,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Stop",
+              "start": 12.96,
+              "end": 13.12
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 13.18,
+          "end": 13.4,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 13.18,
+              "end": 13.4
+            }
+          ]
+        },
+        {
+          "text": "say",
+          "start": 13.42,
+          "end": 13.8,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "say",
+              "start": 13.42,
+              "end": 13.8
+            }
+          ]
+        },
+        {
+          "text": "hello",
+          "start": 13.8,
+          "end": 14.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "hel",
+              "start": 13.8,
+              "end": 14.21
+            },
+            {
+              "text": "lo",
+              "start": 14.21,
+              "end": 14.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 17.44,
+      "end": 21.1,
+      "text": "On the corner is a banker with a motorcar",
+      "words": [
+        {
+          "text": "On",
+          "start": 17.44,
+          "end": 17.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 17.44,
+              "end": 17.7
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 17.7,
+          "end": 17.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 17.7,
+              "end": 17.9
+            }
+          ]
+        },
+        {
+          "text": "corner",
+          "start": 17.92,
+          "end": 18.36,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "cor",
+              "start": 17.92,
+              "end": 18.13
+            },
+            {
+              "text": "ner",
+              "start": 18.13,
+              "end": 18.36
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 18.36,
+          "end": 18.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 18.36,
+              "end": 18.72
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 18.72,
+          "end": 18.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 18.72,
+              "end": 18.9
+            }
+          ]
+        },
+        {
+          "text": "banker",
+          "start": 18.9,
+          "end": 19.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "banker",
+              "start": 18.9,
+              "end": 19.34
+            }
+          ]
+        },
+        {
+          "text": "with",
+          "start": 19.76,
+          "end": 19.98,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 19.76,
+              "end": 19.98
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 20.38,
+          "end": 20.78,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 20.38,
+              "end": 20.78
+            }
+          ]
+        },
+        {
+          "text": "motorcar",
+          "start": 20.78,
+          "end": 21.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "mo",
+              "start": 20.78,
+              "end": 20.89
+            },
+            {
+              "text": "tor",
+              "start": 20.89,
+              "end": 20.99
+            },
+            {
+              "text": "car",
+              "start": 20.99,
+              "end": 21.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 21.56,
+      "end": 25.1,
+      "text": "The little children laugh at him behind his back",
+      "words": [
+        {
+          "text": "The",
+          "start": 21.56,
+          "end": 21.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "The",
+              "start": 21.56,
+              "end": 21.7
+            }
+          ]
+        },
+        {
+          "text": "little",
+          "start": 21.7,
+          "end": 22.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "little",
+              "start": 21.7,
+              "end": 22.0
+            }
+          ]
+        },
+        {
+          "text": "children",
+          "start": 22.04,
+          "end": 22.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "chil",
+              "start": 22.04,
+              "end": 22.36
+            },
+            {
+              "text": "dren",
+              "start": 22.36,
+              "end": 22.72
+            }
+          ]
+        },
+        {
+          "text": "laugh",
+          "start": 22.72,
+          "end": 23.08,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "laugh",
+              "start": 22.72,
+              "end": 23.08
+            }
+          ]
+        },
+        {
+          "text": "at",
+          "start": 23.08,
+          "end": 23.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "at",
+              "start": 23.08,
+              "end": 23.28
+            }
+          ]
+        },
+        {
+          "text": "him",
+          "start": 23.28,
+          "end": 23.48,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "him",
+              "start": 23.28,
+              "end": 23.48
+            }
+          ]
+        },
+        {
+          "text": "behind",
+          "start": 23.48,
+          "end": 24.12,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 23.48,
+              "end": 23.8
+            },
+            {
+              "text": "hind",
+              "start": 23.8,
+              "end": 24.12
+            }
+          ]
+        },
+        {
+          "text": "his",
+          "start": 24.12,
+          "end": 24.44,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "his",
+              "start": 24.12,
+              "end": 24.44
+            }
+          ]
+        },
+        {
+          "text": "back",
+          "start": 24.52,
+          "end": 25.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "back",
+              "start": 24.52,
+              "end": 25.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 25.92,
+      "end": 29.02,
+      "text": "And the banker never wears a mac",
+      "words": [
+        {
+          "text": "And",
+          "start": 25.92,
+          "end": 26.22,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 25.92,
+              "end": 26.22
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 26.22,
+          "end": 26.4,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 26.22,
+              "end": 26.4
+            }
+          ]
+        },
+        {
+          "text": "banker",
+          "start": 26.42,
+          "end": 26.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "banker",
+              "start": 26.42,
+              "end": 26.84
+            }
+          ]
+        },
+        {
+          "text": "never",
+          "start": 26.84,
+          "end": 27.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "nev",
+              "start": 26.84,
+              "end": 27.11
+            },
+            {
+              "text": "er",
+              "start": 27.11,
+              "end": 27.38
+            }
+          ]
+        },
+        {
+          "text": "wears",
+          "start": 27.38,
+          "end": 28.04,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "wears",
+              "start": 27.38,
+              "end": 28.04
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 28.06,
+          "end": 28.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 28.06,
+              "end": 28.34
+            }
+          ]
+        },
+        {
+          "text": "mac",
+          "start": 28.34,
+          "end": 29.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "mac",
+              "start": 28.34,
+              "end": 29.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 29.98,
+      "end": 34.08,
+      "text": "In the pouring rain very strange",
+      "words": [
+        {
+          "text": "In",
+          "start": 29.98,
+          "end": 30.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "In",
+              "start": 29.98,
+              "end": 30.16
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 30.16,
+          "end": 30.36,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 30.16,
+              "end": 30.36
+            }
+          ]
+        },
+        {
+          "text": "pouring",
+          "start": 30.44,
+          "end": 31.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "pour",
+              "start": 30.44,
+              "end": 30.68
+            },
+            {
+              "text": "ing",
+              "start": 30.68,
+              "end": 31.0
+            }
+          ]
+        },
+        {
+          "text": "rain",
+          "start": 31.1,
+          "end": 31.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "rain",
+              "start": 31.1,
+              "end": 31.86
+            }
+          ]
+        },
+        {
+          "text": "very",
+          "start": 32.64,
+          "end": 33.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ve",
+              "start": 32.64,
+              "end": 32.78
+            },
+            {
+              "text": "ry",
+              "start": 32.78,
+              "end": 33.1
+            }
+          ]
+        },
+        {
+          "text": "strange",
+          "start": 33.26,
+          "end": 34.08,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "strange",
+              "start": 33.26,
+              "end": 34.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 34.08,
+      "end": 39.82,
+      "text": "Penny Lane is in my ears and in my eyes",
+      "words": [
+        {
+          "text": "Penny",
+          "start": 34.08,
+          "end": 34.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Pen",
+              "start": 34.08,
+              "end": 34.4
+            },
+            {
+              "text": "ny",
+              "start": 34.44,
+              "end": 34.72
+            }
+          ]
+        },
+        {
+          "text": "Lane",
+          "start": 34.72,
+          "end": 35.36,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Lane",
+              "start": 34.72,
+              "end": 35.36
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 35.36,
+          "end": 36.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 35.36,
+              "end": 36.1
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 36.1,
+          "end": 36.4,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 36.1,
+              "end": 36.4
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 36.42,
+          "end": 36.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 36.42,
+              "end": 36.88
+            }
+          ]
+        },
+        {
+          "text": "ears",
+          "start": 36.88,
+          "end": 37.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ears",
+              "start": 36.88,
+              "end": 37.7
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 37.98,
+          "end": 38.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 37.98,
+              "end": 38.2
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 38.2,
+          "end": 38.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 38.2,
+              "end": 38.46
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 38.52,
+          "end": 38.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 38.52,
+              "end": 38.96
+            }
+          ]
+        },
+        {
+          "text": "eyes",
+          "start": 38.96,
+          "end": 39.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "eyes",
+              "start": 38.96,
+              "end": 39.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 43.36,
+      "end": 48.24,
+      "text": "There beneath the blue suburban skies",
+      "words": [
+        {
+          "text": "There",
+          "start": 43.36,
+          "end": 43.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "There",
+              "start": 43.36,
+              "end": 43.84
+            }
+          ]
+        },
+        {
+          "text": "beneath",
+          "start": 43.84,
+          "end": 44.68,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 43.84,
+              "end": 44.26
+            },
+            {
+              "text": "neath",
+              "start": 44.26,
+              "end": 44.68
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 44.8,
+          "end": 45.12,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 44.8,
+              "end": 45.12
+            }
+          ]
+        },
+        {
+          "text": "blue",
+          "start": 45.22,
+          "end": 45.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "blue",
+              "start": 45.22,
+              "end": 45.92
+            }
+          ]
+        },
+        {
+          "text": "suburban",
+          "start": 45.92,
+          "end": 46.98,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sub",
+              "start": 45.92,
+              "end": 46.27
+            },
+            {
+              "text": "ur",
+              "start": 46.52,
+              "end": 46.63
+            },
+            {
+              "text": "ban",
+              "start": 46.63,
+              "end": 46.98
+            }
+          ]
+        },
+        {
+          "text": "skies",
+          "start": 47.36,
+          "end": 48.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "skies",
+              "start": 47.36,
+              "end": 48.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 47.86,
+      "end": 60.48,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 47.86,
+          "end": 60.48,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 60.76,
+      "end": 65.44,
+      "text": "I sit and meanwhile back",
+      "words": [
+        {
+          "text": "I",
+          "start": 60.76,
+          "end": 61.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 60.76,
+              "end": 61.02
+            }
+          ]
+        },
+        {
+          "text": "sit",
+          "start": 64.08,
+          "end": 64.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sit",
+              "start": 64.08,
+              "end": 64.16
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 64.26,
+          "end": 64.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 64.26,
+              "end": 64.38
+            }
+          ]
+        },
+        {
+          "text": "meanwhile",
+          "start": 64.5,
+          "end": 65.12,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "mean",
+              "start": 64.5,
+              "end": 64.81
+            },
+            {
+              "text": "while",
+              "start": 64.81,
+              "end": 65.12
+            }
+          ]
+        },
+        {
+          "text": "back",
+          "start": 65.12,
+          "end": 65.44,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "back",
+              "start": 65.12,
+              "end": 65.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 65.5,
+      "end": 103.36,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 65.5,
+          "end": 103.36,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 103.3,
+      "end": 111.14,
+      "text": "In Penny Lane, there is a fireman with an hourglass",
+      "words": [
+        {
+          "text": "In",
+          "start": 103.3,
+          "end": 103.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "In",
+              "start": 103.3,
+              "end": 103.58
+            }
+          ]
+        },
+        {
+          "text": "Penny",
+          "start": 103.58,
+          "end": 103.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Pen",
+              "start": 103.58,
+              "end": 103.72
+            },
+            {
+              "text": "ny",
+              "start": 103.72,
+              "end": 103.86
+            }
+          ]
+        },
+        {
+          "text": "Lane,",
+          "start": 103.86,
+          "end": 104.14,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Lane,",
+              "start": 103.86,
+              "end": 104.14
+            }
+          ]
+        },
+        {
+          "text": "there",
+          "start": 104.22,
+          "end": 104.42,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "there",
+              "start": 104.22,
+              "end": 104.42
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 107.68,
+          "end": 108.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 107.68,
+              "end": 108.1
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 108.44,
+          "end": 108.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 108.44,
+              "end": 108.62
+            }
+          ]
+        },
+        {
+          "text": "fireman",
+          "start": 108.66,
+          "end": 109.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "fire",
+              "start": 108.66,
+              "end": 108.98
+            },
+            {
+              "text": "man",
+              "start": 108.98,
+              "end": 109.3
+            }
+          ]
+        },
+        {
+          "text": "with",
+          "start": 109.3,
+          "end": 109.94,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 109.3,
+              "end": 109.94
+            }
+          ]
+        },
+        {
+          "text": "an",
+          "start": 110.28,
+          "end": 110.44,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "an",
+              "start": 110.28,
+              "end": 110.44
+            }
+          ]
+        },
+        {
+          "text": "hourglass",
+          "start": 110.44,
+          "end": 111.14,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "hour",
+              "start": 110.44,
+              "end": 110.58
+            },
+            {
+              "text": "glass",
+              "start": 111.0,
+              "end": 111.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 111.16,
+      "end": 114.84,
+      "text": "And in his pocket is a portrait of the Queen",
+      "words": [
+        {
+          "text": "And",
+          "start": 111.16,
+          "end": 111.4,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 111.16,
+              "end": 111.4
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 111.4,
+          "end": 111.64,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 111.4,
+              "end": 111.64
+            }
+          ]
+        },
+        {
+          "text": "his",
+          "start": 111.64,
+          "end": 111.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "his",
+              "start": 111.64,
+              "end": 111.88
+            }
+          ]
+        },
+        {
+          "text": "pocket",
+          "start": 111.88,
+          "end": 112.36,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "pock",
+              "start": 111.88,
+              "end": 112.12
+            },
+            {
+              "text": "et",
+              "start": 112.12,
+              "end": 112.36
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 112.36,
+          "end": 112.6,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 112.36,
+              "end": 112.6
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 112.6,
+          "end": 112.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 112.6,
+              "end": 112.84
+            }
+          ]
+        },
+        {
+          "text": "portrait",
+          "start": 112.88,
+          "end": 113.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "por",
+              "start": 112.88,
+              "end": 113.2
+            },
+            {
+              "text": "trait",
+              "start": 113.2,
+              "end": 113.52
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 113.52,
+          "end": 113.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 113.52,
+              "end": 113.76
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 113.76,
+          "end": 114.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 113.76,
+              "end": 114.0
+            }
+          ]
+        },
+        {
+          "text": "Queen",
+          "start": 114.44,
+          "end": 114.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Queen",
+              "start": 114.44,
+              "end": 114.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 114.86,
+      "end": 117.56,
+      "text": "He likes to keep his fire engine clean",
+      "words": [
+        {
+          "text": "He",
+          "start": 114.86,
+          "end": 115.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "He",
+              "start": 114.86,
+              "end": 115.1
+            }
+          ]
+        },
+        {
+          "text": "likes",
+          "start": 115.1,
+          "end": 115.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "likes",
+              "start": 115.1,
+              "end": 115.5
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 115.5,
+          "end": 115.74,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 115.5,
+              "end": 115.74
+            }
+          ]
+        },
+        {
+          "text": "keep",
+          "start": 115.74,
+          "end": 116.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "keep",
+              "start": 115.74,
+              "end": 116.06
+            }
+          ]
+        },
+        {
+          "text": "his",
+          "start": 116.06,
+          "end": 116.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "his",
+              "start": 116.06,
+              "end": 116.3
+            }
+          ]
+        },
+        {
+          "text": "fire",
+          "start": 116.3,
+          "end": 116.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "fire",
+              "start": 116.3,
+              "end": 116.62
+            }
+          ]
+        },
+        {
+          "text": "engine",
+          "start": 116.68,
+          "end": 117.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "en",
+              "start": 116.68,
+              "end": 116.92
+            },
+            {
+              "text": "gine",
+              "start": 116.92,
+              "end": 117.16
+            }
+          ]
+        },
+        {
+          "text": "clean",
+          "start": 117.16,
+          "end": 117.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "clean",
+              "start": 117.16,
+              "end": 117.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 117.56,
+      "end": 125.14,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 117.56,
+          "end": 125.14,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 125.24,
+      "end": 129.88,
+      "text": "It's a clean machine",
+      "words": [
+        {
+          "text": "It's",
+          "start": 125.24,
+          "end": 125.42,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "It's",
+              "start": 125.24,
+              "end": 125.42
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 125.52,
+          "end": 125.64,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 125.52,
+              "end": 125.64
+            }
+          ]
+        },
+        {
+          "text": "clean",
+          "start": 127.88,
+          "end": 128.66,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "clean",
+              "start": 127.88,
+              "end": 128.66
+            }
+          ]
+        },
+        {
+          "text": "machine",
+          "start": 128.66,
+          "end": 129.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ma",
+              "start": 128.66,
+              "end": 128.82
+            },
+            {
+              "text": "chine",
+              "start": 129.72,
+              "end": 129.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 135.26,
+      "end": 141.74,
+      "text": "Penny Lane is in my ears and in my eyes",
+      "words": [
+        {
+          "text": "Penny",
+          "start": 135.26,
+          "end": 136.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Pen",
+              "start": 135.26,
+              "end": 135.65
+            },
+            {
+              "text": "ny",
+              "start": 135.84,
+              "end": 136.1
+            }
+          ]
+        },
+        {
+          "text": "Lane",
+          "start": 136.1,
+          "end": 136.94,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Lane",
+              "start": 136.1,
+              "end": 136.94
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 137.24,
+          "end": 137.48,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 137.24,
+              "end": 137.48
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 137.48,
+          "end": 137.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 137.48,
+              "end": 137.76
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 137.76,
+          "end": 138.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 137.76,
+              "end": 138.28
+            }
+          ]
+        },
+        {
+          "text": "ears",
+          "start": 138.28,
+          "end": 139.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ears",
+              "start": 138.28,
+              "end": 139.06
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 139.36,
+          "end": 139.6,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 139.36,
+              "end": 139.6
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 139.6,
+          "end": 139.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 139.6,
+              "end": 139.86
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 139.9,
+          "end": 140.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 139.9,
+              "end": 140.34
+            }
+          ]
+        },
+        {
+          "text": "eyes",
+          "start": 140.34,
+          "end": 141.74,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "eyes",
+              "start": 140.34,
+              "end": 141.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 141.74,
+      "end": 152.96,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 141.74,
+          "end": 152.96,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 152.9,
+      "end": 158.62,
+      "text": "Four of fish and finger pies",
+      "words": [
+        {
+          "text": "Four",
+          "start": 152.9,
+          "end": 153.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Four",
+              "start": 152.9,
+              "end": 153.18
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 153.18,
+          "end": 153.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 153.18,
+              "end": 153.46
+            }
+          ]
+        },
+        {
+          "text": "fish",
+          "start": 154.16,
+          "end": 154.98,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "fish",
+              "start": 154.16,
+              "end": 154.98
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 156.26,
+          "end": 156.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 156.26,
+              "end": 156.5
+            }
+          ]
+        },
+        {
+          "text": "finger",
+          "start": 156.5,
+          "end": 157.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "fin",
+              "start": 156.5,
+              "end": 156.64
+            },
+            {
+              "text": "ger",
+              "start": 156.86,
+              "end": 157.0
+            }
+          ]
+        },
+        {
+          "text": "pies",
+          "start": 157.26,
+          "end": 158.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "pies",
+              "start": 157.26,
+              "end": 158.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 159.18,
+      "end": 161.02,
+      "text": "In summer, meanwhile back",
+      "words": [
+        {
+          "text": "In",
+          "start": 159.18,
+          "end": 159.42,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "In",
+              "start": 159.18,
+              "end": 159.42
+            }
+          ]
+        },
+        {
+          "text": "summer,",
+          "start": 159.42,
+          "end": 159.98,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sum",
+              "start": 159.42,
+              "end": 159.7
+            },
+            {
+              "text": "mer,",
+              "start": 159.7,
+              "end": 159.98
+            }
+          ]
+        },
+        {
+          "text": "meanwhile",
+          "start": 159.98,
+          "end": 160.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "mean",
+              "start": 159.98,
+              "end": 160.34
+            },
+            {
+              "text": "while",
+              "start": 160.34,
+              "end": 160.7
+            }
+          ]
+        },
+        {
+          "text": "back",
+          "start": 160.7,
+          "end": 161.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "back",
+              "start": 160.7,
+              "end": 161.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 161.66,
+      "end": 165.18,
+      "text": "Behind the shelter in the middle of a roundabout",
+      "words": [
+        {
+          "text": "Behind",
+          "start": 161.66,
+          "end": 162.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Be",
+              "start": 161.66,
+              "end": 161.76
+            },
+            {
+              "text": "hind",
+              "start": 161.76,
+              "end": 162.0
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 162.0,
+          "end": 162.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 162.0,
+              "end": 162.24
+            }
+          ]
+        },
+        {
+          "text": "shelter",
+          "start": 162.24,
+          "end": 162.8,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "shel",
+              "start": 162.24,
+              "end": 162.52
+            },
+            {
+              "text": "ter",
+              "start": 162.56,
+              "end": 162.8
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 162.8,
+          "end": 163.04,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 162.8,
+              "end": 163.04
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 163.12,
+          "end": 163.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 163.12,
+              "end": 163.28
+            }
+          ]
+        },
+        {
+          "text": "middle",
+          "start": 163.28,
+          "end": 163.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "middle",
+              "start": 163.28,
+              "end": 163.76
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 163.76,
+          "end": 164.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 163.76,
+              "end": 164.0
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 164.0,
+          "end": 164.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 164.0,
+              "end": 164.24
+            }
+          ]
+        },
+        {
+          "text": "roundabout",
+          "start": 164.24,
+          "end": 165.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "round",
+              "start": 164.24,
+              "end": 164.64
+            },
+            {
+              "text": "about",
+              "start": 164.78,
+              "end": 165.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 165.66,
+      "end": 169.28,
+      "text": "A pretty nurse is selling poppies from a tray",
+      "words": [
+        {
+          "text": "A",
+          "start": 165.66,
+          "end": 165.78,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "A",
+              "start": 165.66,
+              "end": 165.78
+            }
+          ]
+        },
+        {
+          "text": "pretty",
+          "start": 165.78,
+          "end": 166.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "pret",
+              "start": 165.78,
+              "end": 166.02
+            },
+            {
+              "text": "ty",
+              "start": 166.02,
+              "end": 166.26
+            }
+          ]
+        },
+        {
+          "text": "nurse",
+          "start": 166.26,
+          "end": 166.66,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "nurse",
+              "start": 166.26,
+              "end": 166.66
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 166.66,
+          "end": 166.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 166.66,
+              "end": 166.9
+            }
+          ]
+        },
+        {
+          "text": "selling",
+          "start": 166.9,
+          "end": 167.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sell",
+              "start": 166.9,
+              "end": 167.18
+            },
+            {
+              "text": "ing",
+              "start": 167.18,
+              "end": 167.46
+            }
+          ]
+        },
+        {
+          "text": "poppies",
+          "start": 167.46,
+          "end": 168.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "pop",
+              "start": 167.46,
+              "end": 167.74
+            },
+            {
+              "text": "pies",
+              "start": 167.74,
+              "end": 168.02
+            }
+          ]
+        },
+        {
+          "text": "from",
+          "start": 168.02,
+          "end": 168.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "from",
+              "start": 168.02,
+              "end": 168.34
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 168.34,
+          "end": 168.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 168.34,
+              "end": 168.58
+            }
+          ]
+        },
+        {
+          "text": "tray",
+          "start": 168.96,
+          "end": 169.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "tray",
+              "start": 168.96,
+              "end": 169.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 169.34,
+      "end": 172.44,
+      "text": "And though she feels as if she's in a play",
+      "words": [
+        {
+          "text": "And",
+          "start": 169.34,
+          "end": 169.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 169.34,
+              "end": 169.58
+            }
+          ]
+        },
+        {
+          "text": "though",
+          "start": 169.58,
+          "end": 170.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "though",
+              "start": 169.58,
+              "end": 170.06
+            }
+          ]
+        },
+        {
+          "text": "she",
+          "start": 170.06,
+          "end": 170.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "she",
+              "start": 170.06,
+              "end": 170.3
+            }
+          ]
+        },
+        {
+          "text": "feels",
+          "start": 170.36,
+          "end": 170.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "feels",
+              "start": 170.36,
+              "end": 170.76
+            }
+          ]
+        },
+        {
+          "text": "as",
+          "start": 170.76,
+          "end": 171.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "as",
+              "start": 170.76,
+              "end": 171.0
+            }
+          ]
+        },
+        {
+          "text": "if",
+          "start": 171.0,
+          "end": 171.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "if",
+              "start": 171.0,
+              "end": 171.24
+            }
+          ]
+        },
+        {
+          "text": "she's",
+          "start": 171.24,
+          "end": 171.64,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "she's",
+              "start": 171.24,
+              "end": 171.64
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 171.64,
+          "end": 171.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 171.64,
+              "end": 171.88
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 171.88,
+          "end": 172.12,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 171.88,
+              "end": 172.12
+            }
+          ]
+        },
+        {
+          "text": "play",
+          "start": 172.12,
+          "end": 172.44,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "play",
+              "start": 172.12,
+              "end": 172.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 172.48,
+      "end": 172.81,
+      "text": "She is anyway",
+      "words": [
+        {
+          "text": "She",
+          "start": 172.48,
+          "end": 172.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "She",
+              "start": 172.48,
+              "end": 172.58
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 172.58,
+          "end": 172.68,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 172.58,
+              "end": 172.68
+            }
+          ]
+        },
+        {
+          "text": "anyway",
+          "start": 172.68,
+          "end": 172.81,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "any",
+              "start": 172.68,
+              "end": 172.73
+            },
+            {
+              "text": "way",
+              "start": 172.73,
+              "end": 172.81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 173.28,
+      "end": 176.72,
+      "text": "In Penny Lane, the barber shaves another customer",
+      "words": [
+        {
+          "text": "In",
+          "start": 173.28,
+          "end": 173.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "In",
+              "start": 173.28,
+              "end": 173.52
+            }
+          ]
+        },
+        {
+          "text": "Penny",
+          "start": 173.52,
+          "end": 173.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Pen",
+              "start": 173.52,
+              "end": 173.72
+            },
+            {
+              "text": "ny",
+              "start": 173.72,
+              "end": 173.92
+            }
+          ]
+        },
+        {
+          "text": "Lane,",
+          "start": 173.92,
+          "end": 174.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Lane,",
+              "start": 173.92,
+              "end": 174.32
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 174.32,
+          "end": 174.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 174.32,
+              "end": 174.56
+            }
+          ]
+        },
+        {
+          "text": "barber",
+          "start": 174.56,
+          "end": 175.04,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "bar",
+              "start": 174.56,
+              "end": 174.8
+            },
+            {
+              "text": "ber",
+              "start": 174.8,
+              "end": 175.04
+            }
+          ]
+        },
+        {
+          "text": "shaves",
+          "start": 175.04,
+          "end": 175.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "shaves",
+              "start": 175.04,
+              "end": 175.52
+            }
+          ]
+        },
+        {
+          "text": "another",
+          "start": 175.52,
+          "end": 176.08,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "an",
+              "start": 175.52,
+              "end": 175.71
+            },
+            {
+              "text": "oth",
+              "start": 175.71,
+              "end": 175.89
+            },
+            {
+              "text": "er",
+              "start": 175.89,
+              "end": 176.08
+            }
+          ]
+        },
+        {
+          "text": "customer",
+          "start": 176.08,
+          "end": 176.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "cus",
+              "start": 176.08,
+              "end": 176.4
+            },
+            {
+              "text": "tomer",
+              "start": 176.4,
+              "end": 176.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 177.22,
+      "end": 180.42,
+      "text": "We see the banker sitting, waiting for a trim",
+      "words": [
+        {
+          "text": "We",
+          "start": 177.22,
+          "end": 177.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "We",
+              "start": 177.22,
+              "end": 177.46
+            }
+          ]
+        },
+        {
+          "text": "see",
+          "start": 177.46,
+          "end": 177.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "see",
+              "start": 177.46,
+              "end": 177.7
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 177.7,
+          "end": 177.94,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 177.7,
+              "end": 177.94
+            }
+          ]
+        },
+        {
+          "text": "banker",
+          "start": 177.94,
+          "end": 178.42,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "banker",
+              "start": 177.94,
+              "end": 178.42
+            }
+          ]
+        },
+        {
+          "text": "sitting,",
+          "start": 178.42,
+          "end": 179.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sit",
+              "start": 178.42,
+              "end": 178.74
+            },
+            {
+              "text": "ting,",
+              "start": 178.74,
+              "end": 179.06
+            }
+          ]
+        },
+        {
+          "text": "waiting",
+          "start": 179.06,
+          "end": 179.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "wait",
+              "start": 179.06,
+              "end": 179.34
+            },
+            {
+              "text": "ing",
+              "start": 179.34,
+              "end": 179.62
+            }
+          ]
+        },
+        {
+          "text": "for",
+          "start": 179.62,
+          "end": 179.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "for",
+              "start": 179.62,
+              "end": 179.86
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 179.86,
+          "end": 180.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 179.86,
+              "end": 180.1
+            }
+          ]
+        },
+        {
+          "text": "trim",
+          "start": 180.1,
+          "end": 180.42,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "trim",
+              "start": 180.1,
+              "end": 180.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 180.92,
+      "end": 183.0,
+      "text": "And then the fireman rushes in",
+      "words": [
+        {
+          "text": "And",
+          "start": 180.92,
+          "end": 181.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 180.92,
+              "end": 181.16
+            }
+          ]
+        },
+        {
+          "text": "then",
+          "start": 181.16,
+          "end": 181.48,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "then",
+              "start": 181.16,
+              "end": 181.48
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 181.48,
+          "end": 181.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 181.48,
+              "end": 181.72
+            }
+          ]
+        },
+        {
+          "text": "fireman",
+          "start": 181.72,
+          "end": 182.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "fire",
+              "start": 181.72,
+              "end": 182.0
+            },
+            {
+              "text": "man",
+              "start": 182.0,
+              "end": 182.28
+            }
+          ]
+        },
+        {
+          "text": "rushes",
+          "start": 182.28,
+          "end": 182.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "rush",
+              "start": 182.28,
+              "end": 182.52
+            },
+            {
+              "text": "es",
+              "start": 182.52,
+              "end": 182.76
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 182.76,
+          "end": 183.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 182.76,
+              "end": 183.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 183.5,
+      "end": 185.82,
+      "text": "From the pouring rain very strange",
+      "words": [
+        {
+          "text": "From",
+          "start": 183.5,
+          "end": 183.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "From",
+              "start": 183.5,
+              "end": 183.82
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 183.82,
+          "end": 184.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 183.82,
+              "end": 184.06
+            }
+          ]
+        },
+        {
+          "text": "pouring",
+          "start": 184.06,
+          "end": 184.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "pour",
+              "start": 184.06,
+              "end": 184.34
+            },
+            {
+              "text": "ing",
+              "start": 184.34,
+              "end": 184.62
+            }
+          ]
+        },
+        {
+          "text": "rain",
+          "start": 184.62,
+          "end": 184.94,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "rain",
+              "start": 184.62,
+              "end": 184.94
+            }
+          ]
+        },
+        {
+          "text": "very",
+          "start": 184.94,
+          "end": 185.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ve",
+              "start": 184.94,
+              "end": 185.1
+            },
+            {
+              "text": "ry",
+              "start": 185.1,
+              "end": 185.26
+            }
+          ]
+        },
+        {
+          "text": "strange",
+          "start": 185.26,
+          "end": 185.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "strange",
+              "start": 185.26,
+              "end": 185.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 186.32,
+      "end": 189.12,
+      "text": "Penny Lane is in my ears and in my eyes",
+      "words": [
+        {
+          "text": "Penny",
+          "start": 186.32,
+          "end": 186.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Pen",
+              "start": 186.32,
+              "end": 186.52
+            },
+            {
+              "text": "ny",
+              "start": 186.52,
+              "end": 186.72
+            }
+          ]
+        },
+        {
+          "text": "Lane",
+          "start": 186.72,
+          "end": 187.04,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Lane",
+              "start": 186.72,
+              "end": 187.04
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 187.04,
+          "end": 187.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 187.04,
+              "end": 187.28
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 187.28,
+          "end": 187.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 187.28,
+              "end": 187.52
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 187.52,
+          "end": 187.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 187.52,
+              "end": 187.76
+            }
+          ]
+        },
+        {
+          "text": "ears",
+          "start": 187.76,
+          "end": 188.08,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ears",
+              "start": 187.76,
+              "end": 188.08
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 188.08,
+          "end": 188.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 188.08,
+              "end": 188.32
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 188.32,
+          "end": 188.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 188.32,
+              "end": 188.56
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 188.56,
+          "end": 188.8,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 188.56,
+              "end": 188.8
+            }
+          ]
+        },
+        {
+          "text": "eyes",
+          "start": 188.8,
+          "end": 189.12,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "eyes",
+              "start": 188.8,
+              "end": 189.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 189.62,
+      "end": 192.18,
+      "text": "There beneath the blue suburban skies",
+      "words": [
+        {
+          "text": "There",
+          "start": 189.62,
+          "end": 190.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "There",
+              "start": 189.62,
+              "end": 190.02
+            }
+          ]
+        },
+        {
+          "text": "beneath",
+          "start": 190.02,
+          "end": 190.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 190.02,
+              "end": 190.3
+            },
+            {
+              "text": "neath",
+              "start": 190.3,
+              "end": 190.58
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 190.58,
+          "end": 190.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 190.58,
+              "end": 190.82
+            }
+          ]
+        },
+        {
+          "text": "blue",
+          "start": 190.82,
+          "end": 191.14,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "blue",
+              "start": 190.82,
+              "end": 191.14
+            }
+          ]
+        },
+        {
+          "text": "suburban",
+          "start": 191.14,
+          "end": 191.78,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sub",
+              "start": 191.14,
+              "end": 191.35
+            },
+            {
+              "text": "ur",
+              "start": 191.35,
+              "end": 191.57
+            },
+            {
+              "text": "ban",
+              "start": 191.57,
+              "end": 191.78
+            }
+          ]
+        },
+        {
+          "text": "skies",
+          "start": 191.78,
+          "end": 192.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "skies",
+              "start": 191.78,
+              "end": 192.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 192.68,
+      "end": 194.52,
+      "text": "I sit, and meanwhile back",
+      "words": [
+        {
+          "text": "I",
+          "start": 192.68,
+          "end": 192.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 192.68,
+              "end": 192.92
+            }
+          ]
+        },
+        {
+          "text": "sit,",
+          "start": 192.92,
+          "end": 193.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sit,",
+              "start": 192.92,
+              "end": 193.24
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 193.24,
+          "end": 193.48,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 193.24,
+              "end": 193.48
+            }
+          ]
+        },
+        {
+          "text": "meanwhile",
+          "start": 193.48,
+          "end": 194.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "mean",
+              "start": 193.48,
+              "end": 193.84
+            },
+            {
+              "text": "while",
+              "start": 193.84,
+              "end": 194.2
+            }
+          ]
+        },
+        {
+          "text": "back",
+          "start": 194.2,
+          "end": 194.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "back",
+              "start": 194.2,
+              "end": 194.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 195.02,
+      "end": 197.82,
+      "text": "Penny Lane is in my ears and in my eyes",
+      "words": [
+        {
+          "text": "Penny",
+          "start": 195.02,
+          "end": 195.42,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Pen",
+              "start": 195.02,
+              "end": 195.22
+            },
+            {
+              "text": "ny",
+              "start": 195.22,
+              "end": 195.42
+            }
+          ]
+        },
+        {
+          "text": "Lane",
+          "start": 195.42,
+          "end": 195.74,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Lane",
+              "start": 195.42,
+              "end": 195.74
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 195.74,
+          "end": 195.98,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 195.74,
+              "end": 195.98
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 195.98,
+          "end": 196.22,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 195.98,
+              "end": 196.22
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 196.22,
+          "end": 196.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 196.22,
+              "end": 196.46
+            }
+          ]
+        },
+        {
+          "text": "ears",
+          "start": 196.46,
+          "end": 196.78,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ears",
+              "start": 196.46,
+              "end": 196.78
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 196.78,
+          "end": 197.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 196.78,
+              "end": 197.02
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 197.02,
+          "end": 197.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 197.02,
+              "end": 197.26
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 197.26,
+          "end": 197.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 197.26,
+              "end": 197.5
+            }
+          ]
+        },
+        {
+          "text": "eyes",
+          "start": 197.5,
+          "end": 197.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "eyes",
+              "start": 197.5,
+              "end": 197.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 198.32,
+      "end": 200.88,
+      "text": "There beneath the blue suburban skies",
+      "words": [
+        {
+          "text": "There",
+          "start": 198.32,
+          "end": 198.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "There",
+              "start": 198.32,
+              "end": 198.72
+            }
+          ]
+        },
+        {
+          "text": "beneath",
+          "start": 198.72,
+          "end": 199.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 198.72,
+              "end": 199.0
+            },
+            {
+              "text": "neath",
+              "start": 199.0,
+              "end": 199.28
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 199.28,
+          "end": 199.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 199.28,
+              "end": 199.52
+            }
+          ]
+        },
+        {
+          "text": "blue",
+          "start": 199.52,
+          "end": 199.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "blue",
+              "start": 199.52,
+              "end": 199.84
+            }
+          ]
+        },
+        {
+          "text": "suburban",
+          "start": 199.84,
+          "end": 200.48,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sub",
+              "start": 199.84,
+              "end": 200.05
+            },
+            {
+              "text": "ur",
+              "start": 200.05,
+              "end": 200.27
+            },
+            {
+              "text": "ban",
+              "start": 200.27,
+              "end": 200.48
+            }
+          ]
+        },
+        {
+          "text": "skies",
+          "start": 200.48,
+          "end": 200.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "skies",
+              "start": 200.48,
+              "end": 200.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 200.92,
+      "end": 180.95,
+      "text": "Penny Lane",
+      "words": [
+        {
+          "text": "Penny",
+          "start": 200.92,
+          "end": 201.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Pen",
+              "start": 200.92,
+              "end": 200.97
+            },
+            {
+              "text": "ny",
+              "start": 200.97,
+              "end": 201.02
+            }
+          ]
+        },
+        {
+          "text": "Lane",
+          "start": 201.02,
+          "end": 180.95,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Lane",
+              "start": 201.02,
+              "end": 180.95
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "text": "In Penny Lane, there is a barber showing photographs Of every head he's had the pleasure to know And all the people that come and go Stop and say hello On the corner is a banker with a motorcar The little children laugh at him behind his back And the banker never wears a mac In the pouring rain very strange Penny Lane is in my ears and in my eyes There beneath the blue suburban skies I sit and meanwhile back In Penny Lane, there is a fireman with an hourglass And in his pocket is a portrait of the Queen He likes to keep his fire engine clean It's a clean machine Penny Lane is in my ears and in my eyes Four of fish and finger pies In summer, meanwhile back Behind the shelter in the middle of a roundabout A pretty nurse is selling poppies from a tray And though she feels as if she's in a play She is anyway In Penny Lane, the barber shaves another customer We see the banker sitting, waiting for a trim And then the fireman rushes in From the pouring rain very strange Penny Lane is in my ears and in my eyes There beneath the blue suburban skies I sit, and meanwhile back Penny Lane is in my ears and in my eyes There beneath the blue suburban skies Penny Lane"
+}

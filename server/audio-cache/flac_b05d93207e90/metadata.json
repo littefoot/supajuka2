@@ -1,0 +1,18 @@
+{
+  "id": "flac_b05d93207e90",
+  "source": "local",
+  "title": "Barry Bonds feat. Lil Wayne",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 204,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790188151587,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_b05d93207e90/original.flac",
+  "instrumentalUrl": "/audio/flac_b05d93207e90/instrumental.flac",
+  "vocalsUrl": "/audio/flac_b05d93207e90/vocals.flac"
+}

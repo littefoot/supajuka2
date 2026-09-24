@@ -1,0 +1,19 @@
+{
+  "id": "flac_0e8ca016b0a6",
+  "source": "local",
+  "title": "Easier To Run",
+  "artist": "Linkin Park",
+  "album": "Meteora",
+  "duration": 204,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_0e8ca016b0a6/cover.jpg",
+  "cachedAt": 1789625409237,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_0e8ca016b0a6/original.flac",
+  "instrumentalUrl": "/audio/flac_0e8ca016b0a6/instrumental.flac",
+  "vocalsUrl": "/audio/flac_0e8ca016b0a6/vocals.flac"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "flac_c4357da7ce9f",
+  "source": "local",
+  "title": "Sgt. Pepper's Lonely Hearts Club Band (2017 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 122,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_c4357da7ce9f/cover.jpg",
+  "cachedAt": 1790183911218,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_c4357da7ce9f/original.flac",
+  "instrumentalUrl": "/audio/flac_c4357da7ce9f/instrumental.flac",
+  "vocalsUrl": "/audio/flac_c4357da7ce9f/vocals.flac"
+}

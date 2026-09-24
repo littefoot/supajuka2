@@ -1,0 +1,19 @@
+{
+  "id": "flac_385c1d653da7",
+  "source": "local",
+  "title": "Holiday",
+  "artist": "Green Day",
+  "album": "American Idiot (20th\u00a0Anniversary Deluxe Edition)",
+  "duration": 233,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 192000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_385c1d653da7/cover.jpg",
+  "cachedAt": 1789505819587,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_385c1d653da7/original.flac",
+  "instrumentalUrl": "/audio/flac_385c1d653da7/instrumental.flac",
+  "vocalsUrl": "/audio/flac_385c1d653da7/vocals.flac"
+}

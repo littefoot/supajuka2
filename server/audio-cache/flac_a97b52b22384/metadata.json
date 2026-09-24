@@ -1,0 +1,19 @@
+{
+  "id": "flac_a97b52b22384",
+  "source": "local",
+  "title": "Come Together (2019 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 260,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_a97b52b22384/cover.jpg",
+  "cachedAt": 1790184387663,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_a97b52b22384/original.flac",
+  "instrumentalUrl": "/audio/flac_a97b52b22384/instrumental.flac",
+  "vocalsUrl": "/audio/flac_a97b52b22384/vocals.flac"
+}

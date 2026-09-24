@@ -1,0 +1,18 @@
+{
+  "id": "flac_bd34c83b4c1e",
+  "source": "local",
+  "title": "I Wonder",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 243,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790188045583,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_bd34c83b4c1e/original.flac",
+  "instrumentalUrl": "/audio/flac_bd34c83b4c1e/instrumental.flac",
+  "vocalsUrl": "/audio/flac_bd34c83b4c1e/vocals.flac"
+}

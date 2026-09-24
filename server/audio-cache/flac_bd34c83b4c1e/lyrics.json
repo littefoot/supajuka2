@@ -1,0 +1,2343 @@
+{
+  "language": "en",
+  "duration": 243,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.26,
+      "text": "Find your dreams come true",
+      "words": [
+        {
+          "text": "Find",
+          "start": 0,
+          "end": 0.41,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 0.41,
+          "end": 0.82,
+          "probability": 1
+        },
+        {
+          "text": "dreams",
+          "start": 0.82,
+          "end": 1.44,
+          "probability": 1
+        },
+        {
+          "text": "come",
+          "start": 1.44,
+          "end": 1.85,
+          "probability": 1
+        },
+        {
+          "text": "true",
+          "start": 1.85,
+          "end": 2.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 4.42,
+      "end": 5.94,
+      "text": "And I wonder",
+      "words": [
+        {
+          "text": "And",
+          "start": 4.42,
+          "end": 4.88,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 4.88,
+          "end": 5.03,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 5.03,
+          "end": 5.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 6.57,
+      "end": 9.28,
+      "text": "If you know what it means",
+      "words": [
+        {
+          "text": "If",
+          "start": 6.57,
+          "end": 6.84,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 6.84,
+          "end": 7.25,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 7.25,
+          "end": 7.79,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 7.79,
+          "end": 8.33,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 8.33,
+          "end": 8.6,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 8.6,
+          "end": 9.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 11.56,
+      "end": 12.91,
+      "text": "What it means",
+      "words": [
+        {
+          "text": "What",
+          "start": 11.56,
+          "end": 12.05,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 12.05,
+          "end": 12.3,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 12.3,
+          "end": 12.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 14.48,
+      "end": 16,
+      "text": "And I wonder",
+      "words": [
+        {
+          "text": "And",
+          "start": 14.48,
+          "end": 14.94,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 14.94,
+          "end": 15.09,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 15.09,
+          "end": 16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 16.67,
+      "end": 19.38,
+      "text": "If you know what it means",
+      "words": [
+        {
+          "text": "If",
+          "start": 16.67,
+          "end": 16.94,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 16.94,
+          "end": 17.35,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 17.35,
+          "end": 17.89,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 17.89,
+          "end": 18.43,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 18.43,
+          "end": 18.7,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 18.7,
+          "end": 19.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 21.6,
+      "end": 22.95,
+      "text": "What it means",
+      "words": [
+        {
+          "text": "What",
+          "start": 21.6,
+          "end": 22.09,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 22.09,
+          "end": 22.34,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 22.34,
+          "end": 22.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 24.49,
+      "end": 26.01,
+      "text": "And I wonder",
+      "words": [
+        {
+          "text": "And",
+          "start": 24.49,
+          "end": 24.95,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 24.95,
+          "end": 25.1,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 25.1,
+          "end": 26.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 26.66,
+      "end": 29.37,
+      "text": "If you know what it means",
+      "words": [
+        {
+          "text": "If",
+          "start": 26.66,
+          "end": 26.93,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 26.93,
+          "end": 27.34,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 27.34,
+          "end": 27.88,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 27.88,
+          "end": 28.42,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 28.42,
+          "end": 28.69,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 28.69,
+          "end": 29.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 32.24,
+      "end": 34.04,
+      "text": "To find your dreams",
+      "words": [
+        {
+          "text": "To",
+          "start": 32.24,
+          "end": 32.47,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 32.47,
+          "end": 32.92,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 32.92,
+          "end": 33.37,
+          "probability": 1
+        },
+        {
+          "text": "dreams",
+          "start": 33.37,
+          "end": 34.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 34.47,
+      "end": 35.22,
+      "text": "And I wonder",
+      "words": [
+        {
+          "text": "And",
+          "start": 34.47,
+          "end": 34.68,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 34.68,
+          "end": 34.8,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 34.8,
+          "end": 35.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.42,
+      "end": 39.99,
+      "text": "I've been waiting on this my whole life",
+      "words": [
+        {
+          "text": "I've",
+          "start": 35.42,
+          "end": 35.99,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 35.99,
+          "end": 36.56,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 36.56,
+          "end": 37.56,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 37.56,
+          "end": 37.85,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 37.85,
+          "end": 38.42,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 38.42,
+          "end": 38.71,
+          "probability": 1
+        },
+        {
+          "text": "whole",
+          "start": 38.71,
+          "end": 39.42,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 39.42,
+          "end": 39.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.45,
+      "end": 49.23,
+      "text": "These dreams be waking me up at night",
+      "words": [
+        {
+          "text": "These",
+          "start": 45.45,
+          "end": 46.08,
+          "probability": 1
+        },
+        {
+          "text": "dreams",
+          "start": 46.08,
+          "end": 46.84,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 46.84,
+          "end": 47.09,
+          "probability": 1
+        },
+        {
+          "text": "waking",
+          "start": 47.09,
+          "end": 47.85,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 47.85,
+          "end": 48.1,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 48.1,
+          "end": 48.35,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 48.35,
+          "end": 48.6,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 48.6,
+          "end": 49.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 55.47,
+      "end": 58.63,
+      "text": "You say I think I'm never wrong",
+      "words": [
+        {
+          "text": "You",
+          "start": 55.47,
+          "end": 55.85,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 55.85,
+          "end": 56.23,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 56.23,
+          "end": 56.36,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 56.36,
+          "end": 56.99,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 56.99,
+          "end": 57.37,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 57.37,
+          "end": 58,
+          "probability": 1
+        },
+        {
+          "text": "wrong",
+          "start": 58,
+          "end": 58.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 65.49,
+      "end": 68.92,
+      "text": "You know what? Maybe you're right, aight?",
+      "words": [
+        {
+          "text": "You",
+          "start": 65.49,
+          "end": 65.78,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 65.78,
+          "end": 66.17,
+          "probability": 1
+        },
+        {
+          "text": "what?",
+          "start": 66.17,
+          "end": 66.66,
+          "probability": 1
+        },
+        {
+          "text": "Maybe",
+          "start": 66.66,
+          "end": 67.15,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 67.15,
+          "end": 67.74,
+          "probability": 1
+        },
+        {
+          "text": "right,",
+          "start": 67.74,
+          "end": 68.33,
+          "probability": 1
+        },
+        {
+          "text": "aight?",
+          "start": 68.33,
+          "end": 68.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 74.59,
+      "end": 76.11,
+      "text": "And I wonder",
+      "words": [
+        {
+          "text": "And",
+          "start": 74.59,
+          "end": 75.05,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 75.05,
+          "end": 75.2,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 75.2,
+          "end": 76.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 76.81,
+      "end": 79.52,
+      "text": "If you know what it means",
+      "words": [
+        {
+          "text": "If",
+          "start": 76.81,
+          "end": 77.08,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 77.08,
+          "end": 77.49,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 77.49,
+          "end": 78.03,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 78.03,
+          "end": 78.57,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 78.57,
+          "end": 78.84,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 78.84,
+          "end": 79.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.78,
+      "end": 83.13,
+      "text": "What it means",
+      "words": [
+        {
+          "text": "What",
+          "start": 81.78,
+          "end": 82.27,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 82.27,
+          "end": 82.52,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 82.52,
+          "end": 83.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 84.63,
+      "end": 86.15,
+      "text": "And I wonder",
+      "words": [
+        {
+          "text": "And",
+          "start": 84.63,
+          "end": 85.09,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 85.09,
+          "end": 85.24,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 85.24,
+          "end": 86.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 86.87,
+      "end": 89.58,
+      "text": "If you know what it means",
+      "words": [
+        {
+          "text": "If",
+          "start": 86.87,
+          "end": 87.14,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 87.14,
+          "end": 87.55,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 87.55,
+          "end": 88.09,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 88.09,
+          "end": 88.63,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 88.63,
+          "end": 88.9,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 88.9,
+          "end": 89.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.46,
+      "end": 94.26,
+      "text": "To find your dreams",
+      "words": [
+        {
+          "text": "To",
+          "start": 92.46,
+          "end": 92.68,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 92.68,
+          "end": 93.13,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 93.13,
+          "end": 93.58,
+          "probability": 1
+        },
+        {
+          "text": "dreams",
+          "start": 93.58,
+          "end": 94.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 94.65,
+      "end": 95.36,
+      "text": "And I wonder",
+      "words": [
+        {
+          "text": "And",
+          "start": 94.65,
+          "end": 94.85,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 94.85,
+          "end": 94.97,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 94.97,
+          "end": 95.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.55,
+      "end": 99.35,
+      "text": "You say he get on your fuckin' nerves",
+      "words": [
+        {
+          "text": "You",
+          "start": 95.55,
+          "end": 95.93,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 95.93,
+          "end": 96.31,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 96.31,
+          "end": 96.56,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 96.56,
+          "end": 96.94,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 96.94,
+          "end": 97.19,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 97.19,
+          "end": 97.7,
+          "probability": 1
+        },
+        {
+          "text": "fuckin'",
+          "start": 97.7,
+          "end": 98.59,
+          "probability": 1
+        },
+        {
+          "text": "nerves",
+          "start": 98.59,
+          "end": 99.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.59,
+      "end": 110.14,
+      "text": "You hope that he get what he deserves, word",
+      "words": [
+        {
+          "text": "You",
+          "start": 105.59,
+          "end": 105.98,
+          "probability": 1
+        },
+        {
+          "text": "hope",
+          "start": 105.98,
+          "end": 106.5,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 106.5,
+          "end": 107.02,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 107.02,
+          "end": 107.28,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 107.28,
+          "end": 107.67,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 107.67,
+          "end": 108.19,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 108.19,
+          "end": 108.45,
+          "probability": 1
+        },
+        {
+          "text": "deserves,",
+          "start": 108.45,
+          "end": 109.62,
+          "probability": 1
+        },
+        {
+          "text": "word",
+          "start": 109.62,
+          "end": 110.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 115.8,
+      "end": 118.25,
+      "text": "Do you even remember what the issue is?",
+      "words": [
+        {
+          "text": "Do",
+          "start": 115.8,
+          "end": 115.95,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 115.95,
+          "end": 116.18,
+          "probability": 1
+        },
+        {
+          "text": "even",
+          "start": 116.18,
+          "end": 116.49,
+          "probability": 1
+        },
+        {
+          "text": "remember",
+          "start": 116.49,
+          "end": 117.1,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 117.1,
+          "end": 117.41,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 117.41,
+          "end": 117.64,
+          "probability": 1
+        },
+        {
+          "text": "issue",
+          "start": 117.64,
+          "end": 118.02,
+          "probability": 1
+        },
+        {
+          "text": "is?",
+          "start": 118.02,
+          "end": 118.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 118.51,
+      "end": 120.89,
+      "text": "You just tryna find where the tissue is",
+      "words": [
+        {
+          "text": "You",
+          "start": 118.51,
+          "end": 118.73,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 118.73,
+          "end": 119.03,
+          "probability": 1
+        },
+        {
+          "text": "tryna",
+          "start": 119.03,
+          "end": 119.4,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 119.4,
+          "end": 119.7,
+          "probability": 1
+        },
+        {
+          "text": "where",
+          "start": 119.7,
+          "end": 120.07,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 120.07,
+          "end": 120.29,
+          "probability": 1
+        },
+        {
+          "text": "tissue",
+          "start": 120.29,
+          "end": 120.74,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 120.74,
+          "end": 120.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 121.15,
+      "end": 122.71,
+      "text": "You could still be who you wish you is",
+      "words": [
+        {
+          "text": "You",
+          "start": 121.15,
+          "end": 121.3,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 121.3,
+          "end": 121.56,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 121.56,
+          "end": 121.82,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 121.82,
+          "end": 121.94,
+          "probability": 1
+        },
+        {
+          "text": "who",
+          "start": 121.94,
+          "end": 122.09,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 122.09,
+          "end": 122.24,
+          "probability": 1
+        },
+        {
+          "text": "wish",
+          "start": 122.24,
+          "end": 122.44,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 122.44,
+          "end": 122.59,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 122.59,
+          "end": 122.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 122.93,
+      "end": 125.97,
+      "text": "It ain't happen yet, and that's what intuition is",
+      "words": [
+        {
+          "text": "It",
+          "start": 122.93,
+          "end": 123.08,
+          "probability": 1
+        },
+        {
+          "text": "ain't",
+          "start": 123.08,
+          "end": 123.45,
+          "probability": 1
+        },
+        {
+          "text": "happen",
+          "start": 123.45,
+          "end": 123.89,
+          "probability": 1
+        },
+        {
+          "text": "yet,",
+          "start": 123.89,
+          "end": 124.19,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 124.19,
+          "end": 124.41,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 124.41,
+          "end": 124.85,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 124.85,
+          "end": 125.15,
+          "probability": 1
+        },
+        {
+          "text": "intuition",
+          "start": 125.15,
+          "end": 125.82,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 125.82,
+          "end": 125.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 126.21,
+      "end": 127.39,
+      "text": "When you hop back in the car",
+      "words": [
+        {
+          "text": "When",
+          "start": 126.21,
+          "end": 126.42,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 126.42,
+          "end": 126.58,
+          "probability": 1
+        },
+        {
+          "text": "hop",
+          "start": 126.58,
+          "end": 126.74,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 126.74,
+          "end": 126.95,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 126.95,
+          "end": 127.07,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 127.07,
+          "end": 127.23,
+          "probability": 1
+        },
+        {
+          "text": "car",
+          "start": 127.23,
+          "end": 127.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 127.64,
+      "end": 130.34,
+      "text": "Drive back to the crib, run back to they arms",
+      "words": [
+        {
+          "text": "Drive",
+          "start": 127.64,
+          "end": 128.02,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 128.02,
+          "end": 128.32,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 128.32,
+          "end": 128.47,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 128.47,
+          "end": 128.7,
+          "probability": 1
+        },
+        {
+          "text": "crib,",
+          "start": 128.7,
+          "end": 129.07,
+          "probability": 1
+        },
+        {
+          "text": "run",
+          "start": 129.07,
+          "end": 129.29,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 129.29,
+          "end": 129.59,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 129.59,
+          "end": 129.74,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 129.74,
+          "end": 130.04,
+          "probability": 1
+        },
+        {
+          "text": "arms",
+          "start": 130.04,
+          "end": 130.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 130.59,
+      "end": 132.84,
+      "text": "The smokescreens, the chokes and the screams",
+      "words": [
+        {
+          "text": "The",
+          "start": 130.59,
+          "end": 130.77,
+          "probability": 1
+        },
+        {
+          "text": "smokescreens,",
+          "start": 130.77,
+          "end": 131.54,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 131.54,
+          "end": 131.72,
+          "probability": 1
+        },
+        {
+          "text": "chokes",
+          "start": 131.72,
+          "end": 132.07,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 132.07,
+          "end": 132.25,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 132.25,
+          "end": 132.43,
+          "probability": 1
+        },
+        {
+          "text": "screams",
+          "start": 132.43,
+          "end": 132.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.08,
+      "end": 134.58,
+      "text": "You ever wonder what it all really mean?",
+      "words": [
+        {
+          "text": "You",
+          "start": 133.08,
+          "end": 133.21,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 133.21,
+          "end": 133.39,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 133.39,
+          "end": 133.66,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 133.66,
+          "end": 133.84,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 133.84,
+          "end": 133.96,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 133.96,
+          "end": 134.09,
+          "probability": 1
+        },
+        {
+          "text": "really",
+          "start": 134.09,
+          "end": 134.36,
+          "probability": 1
+        },
+        {
+          "text": "mean?",
+          "start": 134.36,
+          "end": 134.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 134.81,
+      "end": 136.33,
+      "text": "And I wonder",
+      "words": [
+        {
+          "text": "And",
+          "start": 134.81,
+          "end": 135.27,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 135.27,
+          "end": 135.42,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 135.42,
+          "end": 136.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 137,
+      "end": 139.71,
+      "text": "If you know what it means",
+      "words": [
+        {
+          "text": "If",
+          "start": 137,
+          "end": 137.27,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 137.27,
+          "end": 137.68,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 137.68,
+          "end": 138.22,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 138.22,
+          "end": 138.76,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 138.76,
+          "end": 139.03,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 139.03,
+          "end": 139.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142.02,
+      "end": 143.37,
+      "text": "What it means",
+      "words": [
+        {
+          "text": "What",
+          "start": 142.02,
+          "end": 142.51,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 142.51,
+          "end": 142.76,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 142.76,
+          "end": 143.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 144.8,
+      "end": 146.32,
+      "text": "And I wonder",
+      "words": [
+        {
+          "text": "And",
+          "start": 144.8,
+          "end": 145.26,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 145.26,
+          "end": 145.41,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 145.41,
+          "end": 146.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 147.02,
+      "end": 149.73,
+      "text": "If you know what it means",
+      "words": [
+        {
+          "text": "If",
+          "start": 147.02,
+          "end": 147.29,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 147.29,
+          "end": 147.7,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 147.7,
+          "end": 148.24,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 148.24,
+          "end": 148.78,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 148.78,
+          "end": 149.05,
+          "probability": 1
+        },
+        {
+          "text": "means",
+          "start": 149.05,
+          "end": 149.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 152.65,
+      "end": 154.46,
+      "text": "To find your dreams",
+      "words": [
+        {
+          "text": "To",
+          "start": 152.65,
+          "end": 152.88,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 152.88,
+          "end": 153.33,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 153.33,
+          "end": 153.78,
+          "probability": 1
+        },
+        {
+          "text": "dreams",
+          "start": 153.78,
+          "end": 154.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 154.9,
+      "end": 156.22,
+      "text": "And I wonder",
+      "words": [
+        {
+          "text": "And",
+          "start": 154.9,
+          "end": 155.3,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 155.3,
+          "end": 155.43,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 155.43,
+          "end": 156.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.47,
+      "end": 158.87,
+      "text": "And I'm back on my grind",
+      "words": [
+        {
+          "text": "And",
+          "start": 156.47,
+          "end": 156.85,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 156.85,
+          "end": 157.23,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 157.23,
+          "end": 157.74,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 157.74,
+          "end": 157.99,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 157.99,
+          "end": 158.24,
+          "probability": 1
+        },
+        {
+          "text": "grind",
+          "start": 158.24,
+          "end": 158.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 159.12,
+      "end": 161.83,
+      "text": "A psychic read my lifeline, told me in my lifetime",
+      "words": [
+        {
+          "text": "A",
+          "start": 159.12,
+          "end": 159.24,
+          "probability": 1
+        },
+        {
+          "text": "psychic",
+          "start": 159.24,
+          "end": 159.69,
+          "probability": 1
+        },
+        {
+          "text": "read",
+          "start": 159.69,
+          "end": 159.95,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 159.95,
+          "end": 160.08,
+          "probability": 1
+        },
+        {
+          "text": "lifeline,",
+          "start": 160.08,
+          "end": 160.66,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 160.66,
+          "end": 160.92,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 160.92,
+          "end": 161.05,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 161.05,
+          "end": 161.18,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 161.18,
+          "end": 161.31,
+          "probability": 1
+        },
+        {
+          "text": "lifetime",
+          "start": 161.31,
+          "end": 161.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 162.02,
+      "end": 164.27,
+      "text": "My name would help light up the Chicago skyline",
+      "words": [
+        {
+          "text": "My",
+          "start": 162.02,
+          "end": 162.14,
+          "probability": 1
+        },
+        {
+          "text": "name",
+          "start": 162.14,
+          "end": 162.37,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 162.37,
+          "end": 162.66,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 162.66,
+          "end": 162.89,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 162.89,
+          "end": 163.18,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 163.18,
+          "end": 163.3,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 163.3,
+          "end": 163.47,
+          "probability": 1
+        },
+        {
+          "text": "Chicago",
+          "start": 163.47,
+          "end": 163.87,
+          "probability": 1
+        },
+        {
+          "text": "skyline",
+          "start": 163.87,
+          "end": 164.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164.5,
+      "end": 166.04,
+      "text": "And that's why I'm",
+      "words": [
+        {
+          "text": "And",
+          "start": 164.5,
+          "end": 164.81,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 164.81,
+          "end": 165.42,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 165.42,
+          "end": 165.73,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 165.73,
+          "end": 166.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 166.28,
+      "end": 168,
+      "text": "Seven o'clock, that's primetime",
+      "words": [
+        {
+          "text": "Seven",
+          "start": 166.28,
+          "end": 166.59,
+          "probability": 1
+        },
+        {
+          "text": "o'clock,",
+          "start": 166.59,
+          "end": 167.08,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 167.08,
+          "end": 167.45,
+          "probability": 1
+        },
+        {
+          "text": "primetime",
+          "start": 167.45,
+          "end": 168,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 168.25,
+      "end": 171.08,
+      "text": "Heaven'll watch, God calling from the hotlines",
+      "words": [
+        {
+          "text": "Heaven'll",
+          "start": 168.25,
+          "end": 168.89,
+          "probability": 1
+        },
+        {
+          "text": "watch,",
+          "start": 168.89,
+          "end": 169.31,
+          "probability": 1
+        },
+        {
+          "text": "God",
+          "start": 169.31,
+          "end": 169.52,
+          "probability": 1
+        },
+        {
+          "text": "calling",
+          "start": 169.52,
+          "end": 170.02,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 170.02,
+          "end": 170.3,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 170.3,
+          "end": 170.51,
+          "probability": 1
+        },
+        {
+          "text": "hotlines",
+          "start": 170.51,
+          "end": 171.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 171.33,
+      "end": 173.55,
+      "text": "Why he keep giving me hot lines?",
+      "words": [
+        {
+          "text": "Why",
+          "start": 171.33,
+          "end": 171.59,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 171.59,
+          "end": 171.76,
+          "probability": 1
+        },
+        {
+          "text": "keep",
+          "start": 171.76,
+          "end": 172.1,
+          "probability": 1
+        },
+        {
+          "text": "giving",
+          "start": 172.1,
+          "end": 172.61,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 172.61,
+          "end": 172.78,
+          "probability": 1
+        },
+        {
+          "text": "hot",
+          "start": 172.78,
+          "end": 173.04,
+          "probability": 1
+        },
+        {
+          "text": "lines?",
+          "start": 173.04,
+          "end": 173.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 173.79,
+      "end": 175.56,
+      "text": "I'm a star, how could I not shine?",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 173.79,
+          "end": 173.97,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 173.97,
+          "end": 174.09,
+          "probability": 1
+        },
+        {
+          "text": "star,",
+          "start": 174.09,
+          "end": 174.4,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 174.4,
+          "end": 174.58,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 174.58,
+          "end": 174.89,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 174.89,
+          "end": 175.01,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 175.01,
+          "end": 175.19,
+          "probability": 1
+        },
+        {
+          "text": "shine?",
+          "start": 175.19,
+          "end": 175.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 175.7,
+      "end": 177.38,
+      "text": "How many ladies in the house?",
+      "words": [
+        {
+          "text": "How",
+          "start": 175.7,
+          "end": 175.91,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 175.91,
+          "end": 176.19,
+          "probability": 1
+        },
+        {
+          "text": "ladies",
+          "start": 176.19,
+          "end": 176.61,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 176.61,
+          "end": 176.75,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 176.75,
+          "end": 176.96,
+          "probability": 1
+        },
+        {
+          "text": "house?",
+          "start": 176.96,
+          "end": 177.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 177.62,
+      "end": 180.33,
+      "text": "How many ladies in the house without a spouse?",
+      "words": [
+        {
+          "text": "How",
+          "start": 177.62,
+          "end": 177.83,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 177.83,
+          "end": 178.11,
+          "probability": 1
+        },
+        {
+          "text": "ladies",
+          "start": 178.11,
+          "end": 178.53,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 178.53,
+          "end": 178.67,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 178.67,
+          "end": 178.88,
+          "probability": 1
+        },
+        {
+          "text": "house",
+          "start": 178.88,
+          "end": 179.23,
+          "probability": 1
+        },
+        {
+          "text": "without",
+          "start": 179.23,
+          "end": 179.72,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 179.72,
+          "end": 179.84,
+          "probability": 1
+        },
+        {
+          "text": "spouse?",
+          "start": 179.84,
+          "end": 180.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 180.53,
+      "end": 183.64,
+      "text": "Something in your blouse got me feeling so aroused",
+      "words": [
+        {
+          "text": "Something",
+          "start": 180.53,
+          "end": 181.19,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 181.19,
+          "end": 181.34,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 181.34,
+          "end": 181.64,
+          "probability": 1
+        },
+        {
+          "text": "blouse",
+          "start": 181.64,
+          "end": 182.08,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 182.08,
+          "end": 182.3,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 182.3,
+          "end": 182.45,
+          "probability": 1
+        },
+        {
+          "text": "feeling",
+          "start": 182.45,
+          "end": 182.97,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 182.97,
+          "end": 183.12,
+          "probability": 1
+        },
+        {
+          "text": "aroused",
+          "start": 183.12,
+          "end": 183.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 183.88,
+      "end": 185.4,
+      "text": "What you about?",
+      "words": [
+        {
+          "text": "What",
+          "start": 183.88,
+          "end": 184.35,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 184.35,
+          "end": 184.7,
+          "probability": 1
+        },
+        {
+          "text": "about?",
+          "start": 184.7,
+          "end": 185.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 185.85,
+      "end": 188.15,
+      "text": "On that independent shit",
+      "words": [
+        {
+          "text": "On",
+          "start": 185.85,
+          "end": 186.07,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 186.07,
+          "end": 186.51,
+          "probability": 1
+        },
+        {
+          "text": "independent",
+          "start": 186.51,
+          "end": 187.71,
+          "probability": 1
+        },
+        {
+          "text": "shit",
+          "start": 187.71,
+          "end": 188.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 188.4,
+      "end": 190.61,
+      "text": "Trade it all for a husband and some kids",
+      "words": [
+        {
+          "text": "Trade",
+          "start": 188.4,
+          "end": 188.74,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 188.74,
+          "end": 188.88,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 188.88,
+          "end": 189.08,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 189.08,
+          "end": 189.28,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 189.28,
+          "end": 189.4,
+          "probability": 1
+        },
+        {
+          "text": "husband",
+          "start": 189.4,
+          "end": 189.87,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 189.87,
+          "end": 190.07,
+          "probability": 1
+        },
+        {
+          "text": "some",
+          "start": 190.07,
+          "end": 190.34,
+          "probability": 1
+        },
+        {
+          "text": "kids",
+          "start": 190.34,
+          "end": 190.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 190.81,
+      "end": 193.02,
+      "text": "You ever wonder what it all really mean?",
+      "words": [
+        {
+          "text": "You",
+          "start": 190.81,
+          "end": 191.01,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 191.01,
+          "end": 191.28,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 191.28,
+          "end": 191.68,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 191.68,
+          "end": 191.95,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 191.95,
+          "end": 192.08,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 192.08,
+          "end": 192.28,
+          "probability": 1
+        },
+        {
+          "text": "really",
+          "start": 192.28,
+          "end": 192.68,
+          "probability": 1
+        },
+        {
+          "text": "mean?",
+          "start": 192.68,
+          "end": 193.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 193.28,
+      "end": 197.05,
+      "text": "You wonder if you'll ever find your dreams?",
+      "words": [
+        {
+          "text": "You",
+          "start": 193.28,
+          "end": 193.59,
+          "probability": 1
+        },
+        {
+          "text": "wonder",
+          "start": 193.59,
+          "end": 194.22,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 194.22,
+          "end": 194.43,
+          "probability": 1
+        },
+        {
+          "text": "you'll",
+          "start": 194.43,
+          "end": 195.06,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 195.06,
+          "end": 195.48,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 195.48,
+          "end": 195.9,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 195.9,
+          "end": 196.32,
+          "probability": 1
+        },
+        {
+          "text": "dreams?",
+          "start": 196.32,
+          "end": 197.05,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Find your dreams come true And I wonder If you know what it means What it means And I wonder If you know what it means What it means And I wonder If you know what it means To find your dreams And I wonder I've been waiting on this my whole life These dreams be waking me up at night You say I think I'm never wrong You know what? Maybe you're right, aight? And I wonder If you know what it means What it means And I wonder If you know what it means To find your dreams And I wonder You say he get on your fuckin' nerves You hope that he get what he deserves, word Do you even remember what the issue is? You just tryna find where the tissue is You could still be who you wish you is It ain't happen yet, and that's what intuition is When you hop back in the car Drive back to the crib, run back to they arms The smokescreens, the chokes and the screams You ever wonder what it all really mean? And I wonder If you know what it means What it means And I wonder If you know what it means To find your dreams And I wonder And I'm back on my grind A psychic read my lifeline, told me in my lifetime My name would help light up the Chicago skyline And that's why I'm Seven o'clock, that's primetime Heaven'll watch, God calling from the hotlines Why he keep giving me hot lines? I'm a star, how could I not shine? How many ladies in the house? How many ladies in the house without a spouse? Something in your blouse got me feeling so aroused What you about? On that independent shit Trade it all for a husband and some kids You ever wonder what it all really mean? You wonder if you'll ever find your dreams?"
+}

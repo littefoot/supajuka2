@@ -23,15 +23,15 @@ export const GpuVramBadge: React.FC = () => {
   }, []);
 
   return (
-    <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-slate-900 border border-slate-800 text-xs font-mono shadow-sm">
-      <Cpu size={14} className={status.isLocked ? 'text-amber-400 animate-pulse' : 'text-emerald-400'} />
-      <span className="text-slate-400">RTX 4050 6GB:</span>
+    <div className="inline-flex items-center gap-2 px-2.5 py-1 rounded bg-[#252526] border border-[#333333] text-[11px] font-mono shadow-sm">
+      <Cpu size={13} className={status.isLocked ? 'text-amber-400 animate-pulse' : 'text-emerald-400'} />
+      <span className="text-[#858585]">RTX 4050:</span>
       {status.isLocked ? (
-        <span className="text-amber-300 font-semibold truncate max-w-[140px]">
-          {status.currentTask || 'Active'}
+        <span className="text-amber-300 font-semibold truncate max-w-[130px]">
+          {status.currentTask || 'BUSY'}
         </span>
       ) : (
-        <span className="text-emerald-400 font-medium">Idle</span>
+        <span className="text-emerald-400 font-semibold">IDLE</span>
       )}
     </div>
   );

@@ -2,9 +2,12 @@ import { spawn } from 'child_process';
 import path from 'path';
 import fs from 'fs';
 import { SongMetadata } from '../types.js';
-import { getSongDir, getOriginalPath } from './paths.js';
+import { getSongDir, getOriginalPath, getCoverArtPath } from './paths.js';
 import { saveMetadata } from './metadata.js';
 import { appEvents } from './events.js';
+import { separateSong } from './separationService.js';
+import { transcribeSong } from './lyricsService.js';
+import { extractArtistAndTitle } from './lyricsGroundTruth.js';
 
 const PYTHON_CMD = process.env.PYTHON_PATH || 'py';
 
@@ -61,7 +64,26 @@ export async function extractYouTubeAudio(item: YouTubeSearchResult): Promise<So
   if (fs.existsSync(outPath)) {
     const existing = path.join(getSongDir(songId), 'metadata.json');
     if (fs.existsSync(existing)) {
-      return JSON.parse(fs.readFileSync(existing, 'utf-8'));
+      const meta: SongMetadata = JSON.parse(fs.readFileSync(existing, 'utf-8'));
+      // If previously extracted but not yet separated or transcribed, auto-trigger pipeline
+      if (!meta.isSeparated || !meta.hasLyrics) {
+        setTimeout(async () => {
+          try {
+            if (!meta.isSeparated) {
+              console.log(`[Pipeline] Auto-starting stem separation for cached YouTube track ${songId} (${meta.title})...`);
+              await separateSong(songId);
+            }
+            if (!meta.hasLyrics) {
+              console.log(`[Pipeline] Stems ready. Auto-starting lyric transcription for ${songId}...`);
+              await transcribeSong(songId);
+            }
+            console.log(`[Pipeline] Automated ingestion complete for ${songId}!`);
+          } catch (err) {
+            console.error(`[Pipeline] Auto-ingestion failed for ${songId}:`, err);
+          }
+        }, 100);
+      }
+      return meta;
     }
   }
 
@@ -93,11 +115,12 @@ export async function extractYouTubeAudio(item: YouTubeSearchResult): Promise<So
 
     proc.on('close', (code) => {
       if (code === 0 && fs.existsSync(outPath)) {
+        const { artist: cleanArtistName, title: cleanTitleName } = extractArtistAndTitle(item.title, item.channel);
         const metadata: SongMetadata = {
           id: songId,
           source: 'youtube',
-          title: item.title,
-          artist: item.channel,
+          title: cleanTitleName || item.title,
+          artist: cleanArtistName || item.channel,
           duration: item.duration,
           format: 'flac',
           hasCoverArt: !!item.thumbnail,
@@ -111,6 +134,36 @@ export async function extractYouTubeAudio(item: YouTubeSearchResult): Promise<So
 
         saveMetadata(metadata);
         appEvents.emitStatusUpdate(songId, 'downloaded', 100, 'Audio ready.');
+
+        // Download thumbnail locally if available
+        if (item.thumbnail && item.thumbnail.startsWith('http')) {
+          fetch(item.thumbnail)
+            .then((r) => r.arrayBuffer())
+            .then((buf) => {
+              const coverPath = getCoverArtPath(songId);
+              fs.writeFileSync(coverPath, Buffer.from(buf));
+              metadata.hasCoverArt = true;
+              metadata.coverArtUrl = `/audio/${songId}/cover.jpg`;
+              saveMetadata(metadata);
+            })
+            .catch(() => {});
+        }
+
+        // AUTOMATED INGESTION PIPELINE (Identical to FLAC upload):
+        // 1. Separate Stems (Mel-Band RoFormer) -> creates isolated vocals.flac & instrumental.flac
+        // 2. Transcribe Lyrics (Faster-Whisper + VAD on isolated acapella + Ground Truth Prompt)
+        setTimeout(async () => {
+          try {
+            console.log(`[Pipeline] Auto-starting stem separation for YouTube track ${songId} (${item.title})...`);
+            await separateSong(songId);
+            console.log(`[Pipeline] Stems separated. Auto-starting lyric transcription for ${songId}...`);
+            await transcribeSong(songId);
+            console.log(`[Pipeline] Automated ingestion complete for YouTube track ${songId} (${item.title})!`);
+          } catch (err) {
+            console.error(`[Pipeline] Auto-ingestion failed for YouTube track ${songId}:`, err);
+          }
+        }, 100);
+
         resolve(metadata);
       } else {
         reject(new Error(`Failed to extract audio for YouTube video ${item.id}`));

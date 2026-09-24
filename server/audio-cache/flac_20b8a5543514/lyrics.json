@@ -1,0 +1,4285 @@
+{
+  "language": "en",
+  "duration": 242,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 14.04,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 14.04,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 14.04,
+      "end": 15.18,
+      "text": "Bittersweet",
+      "words": [
+        {
+          "text": "Bittersweet",
+          "start": 14.04,
+          "end": 15.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 16.98,
+      "end": 18.73,
+      "text": "You're gonna be the death of me",
+      "words": [
+        {
+          "text": "You're",
+          "start": 16.98,
+          "end": 17.4,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 17.4,
+          "end": 17.75,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 17.75,
+          "end": 17.89,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 17.89,
+          "end": 18.1,
+          "probability": 1
+        },
+        {
+          "text": "death",
+          "start": 18.1,
+          "end": 18.45,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 18.45,
+          "end": 18.59,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 18.59,
+          "end": 18.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 18.97,
+      "end": 21.64,
+      "text": "I don't want you, but I need you",
+      "words": [
+        {
+          "text": "I",
+          "start": 18.97,
+          "end": 19.09,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 19.09,
+          "end": 19.62,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 19.62,
+          "end": 20.04,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 20.04,
+          "end": 20.46,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 20.46,
+          "end": 20.78,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 20.78,
+          "end": 20.9,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 20.9,
+          "end": 21.32,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 21.32,
+          "end": 21.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 21.85,
+      "end": 24.59,
+      "text": "I love you and hate you at the very same time",
+      "words": [
+        {
+          "text": "I",
+          "start": 21.85,
+          "end": 21.97,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 21.97,
+          "end": 22.28,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 22.28,
+          "end": 22.51,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 22.51,
+          "end": 22.74,
+          "probability": 1
+        },
+        {
+          "text": "hate",
+          "start": 22.74,
+          "end": 23.05,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 23.05,
+          "end": 23.28,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 23.28,
+          "end": 23.43,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 23.43,
+          "end": 23.66,
+          "probability": 1
+        },
+        {
+          "text": "very",
+          "start": 23.66,
+          "end": 23.97,
+          "probability": 1
+        },
+        {
+          "text": "same",
+          "start": 23.97,
+          "end": 24.28,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 24.28,
+          "end": 24.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 24.77,
+      "end": 25.71,
+      "text": "Bittersweet",
+      "words": [
+        {
+          "text": "Bittersweet",
+          "start": 24.77,
+          "end": 25.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 25.96,
+      "end": 27.92,
+      "text": "See, what I want so much should never hurt this bad",
+      "words": [
+        {
+          "text": "See,",
+          "start": 25.96,
+          "end": 26.14,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 26.14,
+          "end": 26.32,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 26.32,
+          "end": 26.44,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 26.44,
+          "end": 26.62,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 26.62,
+          "end": 26.74,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 26.74,
+          "end": 26.92,
+          "probability": 1
+        },
+        {
+          "text": "should",
+          "start": 26.92,
+          "end": 27.19,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 27.19,
+          "end": 27.42,
+          "probability": 1
+        },
+        {
+          "text": "hurt",
+          "start": 27.42,
+          "end": 27.6,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 27.6,
+          "end": 27.78,
+          "probability": 1
+        },
+        {
+          "text": "bad",
+          "start": 27.78,
+          "end": 27.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 28.06,
+      "end": 30.71,
+      "text": "Never did this before, that's what the virgin says",
+      "words": [
+        {
+          "text": "Never",
+          "start": 28.06,
+          "end": 28.38,
+          "probability": 1
+        },
+        {
+          "text": "did",
+          "start": 28.38,
+          "end": 28.57,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 28.57,
+          "end": 28.82,
+          "probability": 1
+        },
+        {
+          "text": "before,",
+          "start": 28.82,
+          "end": 29.26,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 29.26,
+          "end": 29.64,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 29.64,
+          "end": 29.89,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 29.89,
+          "end": 30.08,
+          "probability": 1
+        },
+        {
+          "text": "virgin",
+          "start": 30.08,
+          "end": 30.46,
+          "probability": 1
+        },
+        {
+          "text": "says",
+          "start": 30.46,
+          "end": 30.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 30.96,
+      "end": 33.98,
+      "text": "We've been generally warned, that's what the surgeon says",
+      "words": [
+        {
+          "text": "We've",
+          "start": 30.96,
+          "end": 31.27,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 31.27,
+          "end": 31.52,
+          "probability": 1
+        },
+        {
+          "text": "generally",
+          "start": 31.52,
+          "end": 32.07,
+          "probability": 1
+        },
+        {
+          "text": "warned,",
+          "start": 32.07,
+          "end": 32.5,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 32.5,
+          "end": 32.87,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 32.87,
+          "end": 33.12,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 33.12,
+          "end": 33.3,
+          "probability": 1
+        },
+        {
+          "text": "surgeon",
+          "start": 33.3,
+          "end": 33.73,
+          "probability": 1
+        },
+        {
+          "text": "says",
+          "start": 33.73,
+          "end": 33.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 34.22,
+      "end": 36.64,
+      "text": "God, talk to me now, this is an emergency",
+      "words": [
+        {
+          "text": "God,",
+          "start": 34.22,
+          "end": 34.51,
+          "probability": 1
+        },
+        {
+          "text": "talk",
+          "start": 34.51,
+          "end": 34.8,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 34.8,
+          "end": 34.95,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 34.95,
+          "end": 35.1,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 35.1,
+          "end": 35.39,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 35.39,
+          "end": 35.68,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 35.68,
+          "end": 35.83,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 35.83,
+          "end": 35.98,
+          "probability": 1
+        },
+        {
+          "text": "emergency",
+          "start": 35.98,
+          "end": 36.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 36.9,
+      "end": 39.5,
+      "text": "And she claims she only with me for the currency",
+      "words": [
+        {
+          "text": "And",
+          "start": 36.9,
+          "end": 37.1,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 37.1,
+          "end": 37.3,
+          "probability": 1
+        },
+        {
+          "text": "claims",
+          "start": 37.3,
+          "end": 37.7,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 37.7,
+          "end": 37.9,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 37.9,
+          "end": 38.17,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 38.17,
+          "end": 38.44,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 38.44,
+          "end": 38.57,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 38.57,
+          "end": 38.77,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 38.77,
+          "end": 38.97,
+          "probability": 1
+        },
+        {
+          "text": "currency",
+          "start": 38.97,
+          "end": 39.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 39.74,
+      "end": 42.78,
+      "text": "You cut me deep, bitch, cut me like surgery",
+      "words": [
+        {
+          "text": "You",
+          "start": 39.74,
+          "end": 40,
+          "probability": 1
+        },
+        {
+          "text": "cut",
+          "start": 40,
+          "end": 40.26,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 40.26,
+          "end": 40.43,
+          "probability": 1
+        },
+        {
+          "text": "deep,",
+          "start": 40.43,
+          "end": 40.87,
+          "probability": 1
+        },
+        {
+          "text": "bitch,",
+          "start": 40.87,
+          "end": 41.39,
+          "probability": 1
+        },
+        {
+          "text": "cut",
+          "start": 41.39,
+          "end": 41.65,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 41.65,
+          "end": 41.82,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 41.82,
+          "end": 42.17,
+          "probability": 1
+        },
+        {
+          "text": "surgery",
+          "start": 42.17,
+          "end": 42.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 43.05,
+      "end": 45.86,
+      "text": "And I was too proud to admit that it was hurting me",
+      "words": [
+        {
+          "text": "And",
+          "start": 43.05,
+          "end": 43.26,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 43.26,
+          "end": 43.38,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 43.38,
+          "end": 43.59,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 43.59,
+          "end": 43.8,
+          "probability": 1
+        },
+        {
+          "text": "proud",
+          "start": 43.8,
+          "end": 44.14,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 44.14,
+          "end": 44.28,
+          "probability": 1
+        },
+        {
+          "text": "admit",
+          "start": 44.28,
+          "end": 44.62,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 44.62,
+          "end": 44.89,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 44.89,
+          "end": 45.03,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 45.03,
+          "end": 45.24,
+          "probability": 1
+        },
+        {
+          "text": "hurting",
+          "start": 45.24,
+          "end": 45.72,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 45.72,
+          "end": 45.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 46.04,
+      "end": 48.76,
+      "text": "I'd never do that to you, at least purposely",
+      "words": [
+        {
+          "text": "I'd",
+          "start": 46.04,
+          "end": 46.27,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 46.27,
+          "end": 46.65,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 46.65,
+          "end": 46.8,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 46.8,
+          "end": 47.1,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 47.1,
+          "end": 47.25,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 47.25,
+          "end": 47.55,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 47.55,
+          "end": 47.7,
+          "probability": 1
+        },
+        {
+          "text": "least",
+          "start": 47.7,
+          "end": 48.08,
+          "probability": 1
+        },
+        {
+          "text": "purposely",
+          "start": 48.08,
+          "end": 48.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 48.99,
+      "end": 51.59,
+      "text": "We breaking up again, we making up again",
+      "words": [
+        {
+          "text": "We",
+          "start": 48.99,
+          "end": 49.15,
+          "probability": 1
+        },
+        {
+          "text": "breaking",
+          "start": 49.15,
+          "end": 49.78,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 49.78,
+          "end": 49.94,
+          "probability": 1
+        },
+        {
+          "text": "again,",
+          "start": 49.94,
+          "end": 50.41,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 50.41,
+          "end": 50.57,
+          "probability": 1
+        },
+        {
+          "text": "making",
+          "start": 50.57,
+          "end": 51.04,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 51.04,
+          "end": 51.2,
+          "probability": 1
+        },
+        {
+          "text": "again",
+          "start": 51.2,
+          "end": 51.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.83,
+      "end": 54.82,
+      "text": "But we don't love no more, I guess we fucking then",
+      "words": [
+        {
+          "text": "But",
+          "start": 51.83,
+          "end": 52.05,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 52.05,
+          "end": 52.2,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 52.2,
+          "end": 52.57,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 52.57,
+          "end": 52.86,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 52.86,
+          "end": 53.01,
+          "probability": 1
+        },
+        {
+          "text": "more,",
+          "start": 53.01,
+          "end": 53.38,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 53.38,
+          "end": 53.5,
+          "probability": 1
+        },
+        {
+          "text": "guess",
+          "start": 53.5,
+          "end": 53.87,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 53.87,
+          "end": 54.02,
+          "probability": 1
+        },
+        {
+          "text": "fucking",
+          "start": 54.02,
+          "end": 54.53,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 54.53,
+          "end": 54.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 55.02,
+      "end": 57.09,
+      "text": "Have you ever felt you ever want to kill her?",
+      "words": [
+        {
+          "text": "Have",
+          "start": 55.02,
+          "end": 55.25,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 55.25,
+          "end": 55.42,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 55.42,
+          "end": 55.65,
+          "probability": 1
+        },
+        {
+          "text": "felt",
+          "start": 55.65,
+          "end": 55.88,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 55.88,
+          "end": 56.05,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 56.05,
+          "end": 56.28,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 56.28,
+          "end": 56.51,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 56.51,
+          "end": 56.63,
+          "probability": 1
+        },
+        {
+          "text": "kill",
+          "start": 56.63,
+          "end": 56.86,
+          "probability": 1
+        },
+        {
+          "text": "her?",
+          "start": 56.86,
+          "end": 57.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 57.34,
+      "end": 60.36,
+      "text": "And you mix them emotions with tequila",
+      "words": [
+        {
+          "text": "And",
+          "start": 57.34,
+          "end": 57.62,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 57.62,
+          "end": 57.9,
+          "probability": 1
+        },
+        {
+          "text": "mix",
+          "start": 57.9,
+          "end": 58.18,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 58.18,
+          "end": 58.56,
+          "probability": 1
+        },
+        {
+          "text": "emotions",
+          "start": 58.56,
+          "end": 59.32,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 59.32,
+          "end": 59.7,
+          "probability": 1
+        },
+        {
+          "text": "tequila",
+          "start": 59.7,
+          "end": 60.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 60.61,
+      "end": 63.07,
+      "text": "And you mix that with a little bad advice",
+      "words": [
+        {
+          "text": "And",
+          "start": 60.61,
+          "end": 60.83,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 60.83,
+          "end": 61.05,
+          "probability": 1
+        },
+        {
+          "text": "mix",
+          "start": 61.05,
+          "end": 61.27,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 61.27,
+          "end": 61.56,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 61.56,
+          "end": 61.85,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 61.85,
+          "end": 61.97,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 61.97,
+          "end": 62.41,
+          "probability": 1
+        },
+        {
+          "text": "bad",
+          "start": 62.41,
+          "end": 62.63,
+          "probability": 1
+        },
+        {
+          "text": "advice",
+          "start": 62.63,
+          "end": 63.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 63.28,
+      "end": 65.97,
+      "text": "On one of them bad nights, y'all have a bad fight",
+      "words": [
+        {
+          "text": "On",
+          "start": 63.28,
+          "end": 63.42,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 63.42,
+          "end": 63.62,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 63.62,
+          "end": 63.76,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 63.76,
+          "end": 64.03,
+          "probability": 1
+        },
+        {
+          "text": "bad",
+          "start": 64.03,
+          "end": 64.23,
+          "probability": 1
+        },
+        {
+          "text": "nights,",
+          "start": 64.23,
+          "end": 64.7,
+          "probability": 1
+        },
+        {
+          "text": "y'all",
+          "start": 64.7,
+          "end": 65.04,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 65.04,
+          "end": 65.31,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 65.31,
+          "end": 65.43,
+          "probability": 1
+        },
+        {
+          "text": "bad",
+          "start": 65.43,
+          "end": 65.63,
+          "probability": 1
+        },
+        {
+          "text": "fight",
+          "start": 65.63,
+          "end": 65.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 66.17,
+      "end": 68.86,
+      "text": "And you talk about her family, her aunts and shit",
+      "words": [
+        {
+          "text": "And",
+          "start": 66.17,
+          "end": 66.37,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 66.37,
+          "end": 66.57,
+          "probability": 1
+        },
+        {
+          "text": "talk",
+          "start": 66.57,
+          "end": 66.84,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 66.84,
+          "end": 67.18,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 67.18,
+          "end": 67.38,
+          "probability": 1
+        },
+        {
+          "text": "family,",
+          "start": 67.38,
+          "end": 67.85,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 67.85,
+          "end": 68.05,
+          "probability": 1
+        },
+        {
+          "text": "aunts",
+          "start": 68.05,
+          "end": 68.39,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 68.39,
+          "end": 68.59,
+          "probability": 1
+        },
+        {
+          "text": "shit",
+          "start": 68.59,
+          "end": 68.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.13,
+      "end": 71.84,
+      "text": "And she say, \"Motherfucker, your momma's a bitch\"",
+      "words": [
+        {
+          "text": "And",
+          "start": 69.13,
+          "end": 69.32,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 69.32,
+          "end": 69.51,
+          "probability": 1
+        },
+        {
+          "text": "say,",
+          "start": 69.51,
+          "end": 69.76,
+          "probability": 1
+        },
+        {
+          "text": "\"Motherfucker,",
+          "start": 69.76,
+          "end": 70.65,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 70.65,
+          "end": 70.9,
+          "probability": 1
+        },
+        {
+          "text": "momma's",
+          "start": 70.9,
+          "end": 71.34,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 71.34,
+          "end": 71.46,
+          "probability": 1
+        },
+        {
+          "text": "bitch\"",
+          "start": 71.46,
+          "end": 71.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 72.04,
+      "end": 75.3,
+      "text": "You know, domestic drama and shit, all the attitude",
+      "words": [
+        {
+          "text": "You",
+          "start": 72.04,
+          "end": 72.27,
+          "probability": 1
+        },
+        {
+          "text": "know,",
+          "start": 72.27,
+          "end": 72.65,
+          "probability": 1
+        },
+        {
+          "text": "domestic",
+          "start": 72.65,
+          "end": 73.25,
+          "probability": 1
+        },
+        {
+          "text": "drama",
+          "start": 73.25,
+          "end": 73.63,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 73.63,
+          "end": 73.86,
+          "probability": 1
+        },
+        {
+          "text": "shit,",
+          "start": 73.86,
+          "end": 74.24,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 74.24,
+          "end": 74.47,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 74.47,
+          "end": 74.7,
+          "probability": 1
+        },
+        {
+          "text": "attitude",
+          "start": 74.7,
+          "end": 75.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.52,
+      "end": 78.22,
+      "text": "I'd never hit a girl, but I'll shake the shit out of you",
+      "words": [
+        {
+          "text": "I'd",
+          "start": 75.52,
+          "end": 75.7,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 75.7,
+          "end": 76,
+          "probability": 1
+        },
+        {
+          "text": "hit",
+          "start": 76,
+          "end": 76.18,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 76.18,
+          "end": 76.3,
+          "probability": 1
+        },
+        {
+          "text": "girl,",
+          "start": 76.3,
+          "end": 76.6,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 76.6,
+          "end": 76.78,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 76.78,
+          "end": 77.02,
+          "probability": 1
+        },
+        {
+          "text": "shake",
+          "start": 77.02,
+          "end": 77.32,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 77.32,
+          "end": 77.5,
+          "probability": 1
+        },
+        {
+          "text": "shit",
+          "start": 77.5,
+          "end": 77.74,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 77.74,
+          "end": 77.92,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 77.92,
+          "end": 78.04,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 78.04,
+          "end": 78.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 78.41,
+      "end": 82.46,
+      "text": "But I'mma be the bigger man, big pimpin' like Jigga man",
+      "words": [
+        {
+          "text": "But",
+          "start": 78.41,
+          "end": 78.68,
+          "probability": 1
+        },
+        {
+          "text": "I'mma",
+          "start": 78.68,
+          "end": 79.13,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 79.13,
+          "end": 79.31,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 79.31,
+          "end": 79.58,
+          "probability": 1
+        },
+        {
+          "text": "bigger",
+          "start": 79.58,
+          "end": 80.12,
+          "probability": 1
+        },
+        {
+          "text": "man,",
+          "start": 80.12,
+          "end": 80.48,
+          "probability": 1
+        },
+        {
+          "text": "big",
+          "start": 80.48,
+          "end": 80.75,
+          "probability": 1
+        },
+        {
+          "text": "pimpin'",
+          "start": 80.75,
+          "end": 81.38,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 81.38,
+          "end": 81.74,
+          "probability": 1
+        },
+        {
+          "text": "Jigga",
+          "start": 81.74,
+          "end": 82.19,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 82.19,
+          "end": 82.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.7,
+      "end": 84.08,
+      "text": "Oh, I guess I figure it's",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 82.7,
+          "end": 82.89,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 82.89,
+          "end": 83.01,
+          "probability": 1
+        },
+        {
+          "text": "guess",
+          "start": 83.01,
+          "end": 83.33,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 83.33,
+          "end": 83.45,
+          "probability": 1
+        },
+        {
+          "text": "figure",
+          "start": 83.45,
+          "end": 83.83,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 83.83,
+          "end": 84.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 84.22,
+      "end": 85.36,
+      "text": "Bittersweet",
+      "words": [
+        {
+          "text": "Bittersweet",
+          "start": 84.22,
+          "end": 85.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 86.74,
+      "end": 89.74,
+      "text": "You're gonna be the death of me",
+      "words": [
+        {
+          "text": "You're",
+          "start": 86.74,
+          "end": 87.46,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 87.46,
+          "end": 88.06,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 88.06,
+          "end": 88.3,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 88.3,
+          "end": 88.66,
+          "probability": 1
+        },
+        {
+          "text": "death",
+          "start": 88.66,
+          "end": 89.26,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 89.26,
+          "end": 89.5,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 89.5,
+          "end": 89.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 89.97,
+      "end": 92.35,
+      "text": "I don't want you, but I need you",
+      "words": [
+        {
+          "text": "I",
+          "start": 89.97,
+          "end": 90.09,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 90.09,
+          "end": 90.56,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 90.56,
+          "end": 90.93,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 90.93,
+          "end": 91.3,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 91.3,
+          "end": 91.58,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 91.58,
+          "end": 91.7,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 91.7,
+          "end": 92.07,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 92.07,
+          "end": 92.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.55,
+      "end": 95.49,
+      "text": "I love you, hate you at the very same time",
+      "words": [
+        {
+          "text": "I",
+          "start": 92.55,
+          "end": 92.67,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 92.67,
+          "end": 93.02,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 93.02,
+          "end": 93.37,
+          "probability": 1
+        },
+        {
+          "text": "hate",
+          "start": 93.37,
+          "end": 93.72,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 93.72,
+          "end": 93.99,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 93.99,
+          "end": 94.17,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 94.17,
+          "end": 94.44,
+          "probability": 1
+        },
+        {
+          "text": "very",
+          "start": 94.44,
+          "end": 94.79,
+          "probability": 1
+        },
+        {
+          "text": "same",
+          "start": 94.79,
+          "end": 95.14,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 95.14,
+          "end": 95.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.72,
+      "end": 96.78,
+      "text": "Bittersweet",
+      "words": [
+        {
+          "text": "Bittersweet",
+          "start": 95.72,
+          "end": 96.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 97.03,
+      "end": 98.87,
+      "text": "See, what I want so much should never hurt this bad",
+      "words": [
+        {
+          "text": "See,",
+          "start": 97.03,
+          "end": 97.2,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 97.2,
+          "end": 97.37,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 97.37,
+          "end": 97.49,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 97.49,
+          "end": 97.66,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 97.66,
+          "end": 97.78,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 97.78,
+          "end": 97.95,
+          "probability": 1
+        },
+        {
+          "text": "should",
+          "start": 97.95,
+          "end": 98.2,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 98.2,
+          "end": 98.41,
+          "probability": 1
+        },
+        {
+          "text": "hurt",
+          "start": 98.41,
+          "end": 98.58,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 98.58,
+          "end": 98.75,
+          "probability": 1
+        },
+        {
+          "text": "bad",
+          "start": 98.75,
+          "end": 98.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 98.98,
+      "end": 101.92,
+      "text": "Never did this before, that's what the virgin says",
+      "words": [
+        {
+          "text": "Never",
+          "start": 98.98,
+          "end": 99.33,
+          "probability": 1
+        },
+        {
+          "text": "did",
+          "start": 99.33,
+          "end": 99.54,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 99.54,
+          "end": 99.82,
+          "probability": 1
+        },
+        {
+          "text": "before,",
+          "start": 99.82,
+          "end": 100.31,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 100.31,
+          "end": 100.73,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 100.73,
+          "end": 101.01,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 101.01,
+          "end": 101.22,
+          "probability": 1
+        },
+        {
+          "text": "virgin",
+          "start": 101.22,
+          "end": 101.64,
+          "probability": 1
+        },
+        {
+          "text": "says",
+          "start": 101.64,
+          "end": 101.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.19,
+      "end": 104.76,
+      "text": "We've been generally warned, that's what the surgeon says",
+      "words": [
+        {
+          "text": "We've",
+          "start": 102.19,
+          "end": 102.45,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 102.45,
+          "end": 102.66,
+          "probability": 1
+        },
+        {
+          "text": "generally",
+          "start": 102.66,
+          "end": 103.13,
+          "probability": 1
+        },
+        {
+          "text": "warned,",
+          "start": 103.13,
+          "end": 103.5,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 103.5,
+          "end": 103.81,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 103.81,
+          "end": 104.02,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 104.02,
+          "end": 104.18,
+          "probability": 1
+        },
+        {
+          "text": "surgeon",
+          "start": 104.18,
+          "end": 104.55,
+          "probability": 1
+        },
+        {
+          "text": "says",
+          "start": 104.55,
+          "end": 104.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105,
+      "end": 108.08,
+      "text": "God, talk to me now, this is an emergency",
+      "words": [
+        {
+          "text": "God,",
+          "start": 105,
+          "end": 105.37,
+          "probability": 1
+        },
+        {
+          "text": "talk",
+          "start": 105.37,
+          "end": 105.74,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 105.74,
+          "end": 105.93,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 105.93,
+          "end": 106.12,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 106.12,
+          "end": 106.49,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 106.49,
+          "end": 106.86,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 106.86,
+          "end": 107.05,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 107.05,
+          "end": 107.24,
+          "probability": 1
+        },
+        {
+          "text": "emergency",
+          "start": 107.24,
+          "end": 108.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 108.34,
+      "end": 111.05,
+      "text": "And my niggas said I shouldn't let it worry me",
+      "words": [
+        {
+          "text": "And",
+          "start": 108.34,
+          "end": 108.56,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 108.56,
+          "end": 108.7,
+          "probability": 1
+        },
+        {
+          "text": "niggas",
+          "start": 108.7,
+          "end": 109.13,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 109.13,
+          "end": 109.42,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 109.42,
+          "end": 109.54,
+          "probability": 1
+        },
+        {
+          "text": "shouldn't",
+          "start": 109.54,
+          "end": 110.19,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 110.19,
+          "end": 110.41,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 110.41,
+          "end": 110.55,
+          "probability": 1
+        },
+        {
+          "text": "worry",
+          "start": 110.55,
+          "end": 110.91,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 110.91,
+          "end": 111.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 111.27,
+      "end": 114.08,
+      "text": "I need to focus on the girls we getting currently",
+      "words": [
+        {
+          "text": "I",
+          "start": 111.27,
+          "end": 111.39,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 111.39,
+          "end": 111.67,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 111.67,
+          "end": 111.81,
+          "probability": 1
+        },
+        {
+          "text": "focus",
+          "start": 111.81,
+          "end": 112.15,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 112.15,
+          "end": 112.29,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 112.29,
+          "end": 112.5,
+          "probability": 1
+        },
+        {
+          "text": "girls",
+          "start": 112.5,
+          "end": 112.84,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 112.84,
+          "end": 112.98,
+          "probability": 1
+        },
+        {
+          "text": "getting",
+          "start": 112.98,
+          "end": 113.46,
+          "probability": 1
+        },
+        {
+          "text": "currently",
+          "start": 113.46,
+          "end": 114.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 114.27,
+      "end": 116.89,
+      "text": "But I been thinking and it got me back to sinking",
+      "words": [
+        {
+          "text": "But",
+          "start": 114.27,
+          "end": 114.47,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 114.47,
+          "end": 114.59,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 114.59,
+          "end": 114.85,
+          "probability": 1
+        },
+        {
+          "text": "thinking",
+          "start": 114.85,
+          "end": 115.38,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 115.38,
+          "end": 115.58,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 115.58,
+          "end": 115.71,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 115.71,
+          "end": 115.91,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 115.91,
+          "end": 116.04,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 116.04,
+          "end": 116.3,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 116.3,
+          "end": 116.43,
+          "probability": 1
+        },
+        {
+          "text": "sinking",
+          "start": 116.43,
+          "end": 116.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.1,
+      "end": 119.69,
+      "text": "And this relationship, it even got me back to drinking",
+      "words": [
+        {
+          "text": "And",
+          "start": 117.1,
+          "end": 117.27,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 117.27,
+          "end": 117.5,
+          "probability": 1
+        },
+        {
+          "text": "relationship,",
+          "start": 117.5,
+          "end": 118.24,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 118.24,
+          "end": 118.36,
+          "probability": 1
+        },
+        {
+          "text": "even",
+          "start": 118.36,
+          "end": 118.59,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 118.59,
+          "end": 118.76,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 118.76,
+          "end": 118.88,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 118.88,
+          "end": 119.11,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 119.11,
+          "end": 119.23,
+          "probability": 1
+        },
+        {
+          "text": "drinking",
+          "start": 119.23,
+          "end": 119.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 119.92,
+      "end": 125.23,
+      "text": "Now this Hennessy, uh, it's gonna be the death of me",
+      "words": [
+        {
+          "text": "Now",
+          "start": 119.92,
+          "end": 120.3,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 120.3,
+          "end": 120.81,
+          "probability": 1
+        },
+        {
+          "text": "Hennessy,",
+          "start": 120.81,
+          "end": 121.95,
+          "probability": 1
+        },
+        {
+          "text": "uh,",
+          "start": 121.95,
+          "end": 122.33,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 122.33,
+          "end": 122.84,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 122.84,
+          "end": 123.47,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 123.47,
+          "end": 123.72,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 123.72,
+          "end": 124.1,
+          "probability": 1
+        },
+        {
+          "text": "death",
+          "start": 124.1,
+          "end": 124.73,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 124.73,
+          "end": 124.98,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 124.98,
+          "end": 125.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.49,
+      "end": 128.6,
+      "text": "And I always thought that you having my child was our destiny",
+      "words": [
+        {
+          "text": "And",
+          "start": 125.49,
+          "end": 125.67,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 125.67,
+          "end": 125.79,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 125.79,
+          "end": 126.16,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 126.16,
+          "end": 126.59,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 126.59,
+          "end": 126.83,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 126.83,
+          "end": 127.01,
+          "probability": 1
+        },
+        {
+          "text": "having",
+          "start": 127.01,
+          "end": 127.38,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 127.38,
+          "end": 127.5,
+          "probability": 1
+        },
+        {
+          "text": "child",
+          "start": 127.5,
+          "end": 127.81,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 127.81,
+          "end": 127.99,
+          "probability": 1
+        },
+        {
+          "text": "our",
+          "start": 127.99,
+          "end": 128.17,
+          "probability": 1
+        },
+        {
+          "text": "destiny",
+          "start": 128.17,
+          "end": 128.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 128.79,
+      "end": 131.75,
+      "text": "But I can't even vibe with you sexually",
+      "words": [
+        {
+          "text": "But",
+          "start": 128.79,
+          "end": 129.06,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 129.06,
+          "end": 129.18,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 129.18,
+          "end": 129.64,
+          "probability": 1
+        },
+        {
+          "text": "even",
+          "start": 129.64,
+          "end": 130.01,
+          "probability": 1
+        },
+        {
+          "text": "vibe",
+          "start": 130.01,
+          "end": 130.38,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 130.38,
+          "end": 130.75,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 130.75,
+          "end": 131.02,
+          "probability": 1
+        },
+        {
+          "text": "sexually",
+          "start": 131.02,
+          "end": 131.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 131.96,
+      "end": 134.69,
+      "text": "'Cause every time that I'd try, you would question me",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 131.96,
+          "end": 132.33,
+          "probability": 1
+        },
+        {
+          "text": "every",
+          "start": 132.33,
+          "end": 132.64,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 132.64,
+          "end": 132.89,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 132.89,
+          "end": 133.14,
+          "probability": 1
+        },
+        {
+          "text": "I'd",
+          "start": 133.14,
+          "end": 133.33,
+          "probability": 1
+        },
+        {
+          "text": "try,",
+          "start": 133.33,
+          "end": 133.58,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 133.58,
+          "end": 133.77,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 133.77,
+          "end": 134.08,
+          "probability": 1
+        },
+        {
+          "text": "question",
+          "start": 134.08,
+          "end": 134.57,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 134.57,
+          "end": 134.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 134.93,
+      "end": 137.7,
+      "text": "Saying, \"You fucking them girls, disrespecting me",
+      "words": [
+        {
+          "text": "Saying,",
+          "start": 134.93,
+          "end": 135.38,
+          "probability": 1
+        },
+        {
+          "text": "\"You",
+          "start": 135.38,
+          "end": 135.64,
+          "probability": 1
+        },
+        {
+          "text": "fucking",
+          "start": 135.64,
+          "end": 136.09,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 136.09,
+          "end": 136.35,
+          "probability": 1
+        },
+        {
+          "text": "girls,",
+          "start": 136.35,
+          "end": 136.74,
+          "probability": 1
+        },
+        {
+          "text": "disrespecting",
+          "start": 136.74,
+          "end": 137.57,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 137.57,
+          "end": 137.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 137.94,
+      "end": 140.58,
+      "text": "You don't see how your lies is affecting me?",
+      "words": [
+        {
+          "text": "You",
+          "start": 137.94,
+          "end": 138.16,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 138.16,
+          "end": 138.53,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 138.53,
+          "end": 138.75,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 138.75,
+          "end": 138.97,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 138.97,
+          "end": 139.26,
+          "probability": 1
+        },
+        {
+          "text": "lies",
+          "start": 139.26,
+          "end": 139.55,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 139.55,
+          "end": 139.7,
+          "probability": 1
+        },
+        {
+          "text": "affecting",
+          "start": 139.7,
+          "end": 140.36,
+          "probability": 1
+        },
+        {
+          "text": "me?",
+          "start": 140.36,
+          "end": 140.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 140.84,
+      "end": 143.93,
+      "text": "You don't see how our life was supposed to be?",
+      "words": [
+        {
+          "text": "You",
+          "start": 140.84,
+          "end": 141.09,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 141.09,
+          "end": 141.51,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 141.51,
+          "end": 141.76,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 141.76,
+          "end": 142.01,
+          "probability": 1
+        },
+        {
+          "text": "our",
+          "start": 142.01,
+          "end": 142.26,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 142.26,
+          "end": 142.59,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 142.59,
+          "end": 142.84,
+          "probability": 1
+        },
+        {
+          "text": "supposed",
+          "start": 142.84,
+          "end": 143.51,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 143.51,
+          "end": 143.68,
+          "probability": 1
+        },
+        {
+          "text": "be?",
+          "start": 143.68,
+          "end": 143.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 144.18,
+      "end": 146.41,
+      "text": "And I never let a nigga get that close to me",
+      "words": [
+        {
+          "text": "And",
+          "start": 144.18,
+          "end": 144.37,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 144.37,
+          "end": 144.49,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 144.49,
+          "end": 144.8,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 144.8,
+          "end": 144.99,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 144.99,
+          "end": 145.11,
+          "probability": 1
+        },
+        {
+          "text": "nigga",
+          "start": 145.11,
+          "end": 145.42,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 145.42,
+          "end": 145.61,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 145.61,
+          "end": 145.86,
+          "probability": 1
+        },
+        {
+          "text": "close",
+          "start": 145.86,
+          "end": 146.17,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 146.17,
+          "end": 146.29,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 146.29,
+          "end": 146.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.55,
+      "end": 149.54,
+      "text": "And you ain't cracked up to what you were supposed to be",
+      "words": [
+        {
+          "text": "And",
+          "start": 146.55,
+          "end": 146.75,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 146.75,
+          "end": 146.95,
+          "probability": 1
+        },
+        {
+          "text": "ain't",
+          "start": 146.95,
+          "end": 147.28,
+          "probability": 1
+        },
+        {
+          "text": "cracked",
+          "start": 147.28,
+          "end": 147.75,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 147.75,
+          "end": 147.88,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 147.88,
+          "end": 148.01,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 148.01,
+          "end": 148.28,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 148.28,
+          "end": 148.48,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 148.48,
+          "end": 148.75,
+          "probability": 1
+        },
+        {
+          "text": "supposed",
+          "start": 148.75,
+          "end": 149.28,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 149.28,
+          "end": 149.41,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 149.41,
+          "end": 149.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 149.8,
+      "end": 152.43,
+      "text": "You always gone, you always be where them hoes will be\"",
+      "words": [
+        {
+          "text": "You",
+          "start": 149.8,
+          "end": 149.98,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 149.98,
+          "end": 150.33,
+          "probability": 1
+        },
+        {
+          "text": "gone,",
+          "start": 150.33,
+          "end": 150.62,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 150.62,
+          "end": 150.8,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 150.8,
+          "end": 151.15,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 151.15,
+          "end": 151.27,
+          "probability": 1
+        },
+        {
+          "text": "where",
+          "start": 151.27,
+          "end": 151.56,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 151.56,
+          "end": 151.79,
+          "probability": 1
+        },
+        {
+          "text": "hoes",
+          "start": 151.79,
+          "end": 152.02,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 152.02,
+          "end": 152.25,
+          "probability": 1
+        },
+        {
+          "text": "be\"",
+          "start": 152.25,
+          "end": 152.43,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 152.68,
+      "end": 155.03,
+      "text": "And this the first time she ever spilled her soul to me",
+      "words": [
+        {
+          "text": "And",
+          "start": 152.68,
+          "end": 152.84,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 152.84,
+          "end": 153.05,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 153.05,
+          "end": 153.21,
+          "probability": 1
+        },
+        {
+          "text": "first",
+          "start": 153.21,
+          "end": 153.47,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 153.47,
+          "end": 153.68,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 153.68,
+          "end": 153.84,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 153.84,
+          "end": 154.05,
+          "probability": 1
+        },
+        {
+          "text": "spilled",
+          "start": 154.05,
+          "end": 154.42,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 154.42,
+          "end": 154.58,
+          "probability": 1
+        },
+        {
+          "text": "soul",
+          "start": 154.58,
+          "end": 154.79,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 154.79,
+          "end": 154.91,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 154.91,
+          "end": 155.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.24,
+      "end": 158.33,
+      "text": "Bittersweet (I fucked up and I know it, G)",
+      "words": [
+        {
+          "text": "Bittersweet",
+          "start": 155.24,
+          "end": 156.23,
+          "probability": 1
+        },
+        {
+          "text": "(I",
+          "start": 156.23,
+          "end": 156.41,
+          "probability": 1
+        },
+        {
+          "text": "fucked",
+          "start": 156.41,
+          "end": 156.95,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 156.95,
+          "end": 157.13,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 157.13,
+          "end": 157.4,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 157.4,
+          "end": 157.52,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 157.52,
+          "end": 157.88,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 157.88,
+          "end": 158.15,
+          "probability": 1
+        },
+        {
+          "text": "G)",
+          "start": 158.15,
+          "end": 158.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 158.56,
+      "end": 161.16,
+      "text": "You're gonna be the death of me (I guess it's bittersweet poetry)",
+      "words": [
+        {
+          "text": "You're",
+          "start": 158.56,
+          "end": 158.84,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 158.84,
+          "end": 159.07,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 159.07,
+          "end": 159.19,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 159.19,
+          "end": 159.33,
+          "probability": 1
+        },
+        {
+          "text": "death",
+          "start": 159.33,
+          "end": 159.56,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 159.56,
+          "end": 159.68,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 159.68,
+          "end": 159.8,
+          "probability": 1
+        },
+        {
+          "text": "(I",
+          "start": 159.8,
+          "end": 159.92,
+          "probability": 1
+        },
+        {
+          "text": "guess",
+          "start": 159.92,
+          "end": 160.15,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 160.15,
+          "end": 160.33,
+          "probability": 1
+        },
+        {
+          "text": "bittersweet",
+          "start": 160.33,
+          "end": 160.84,
+          "probability": 1
+        },
+        {
+          "text": "poetry)",
+          "start": 160.84,
+          "end": 161.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 161.3,
+      "end": 163.38,
+      "text": "I don't want you, but I need you",
+      "words": [
+        {
+          "text": "I",
+          "start": 161.3,
+          "end": 161.42,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 161.42,
+          "end": 161.82,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 161.82,
+          "end": 162.14,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 162.14,
+          "end": 162.46,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 162.46,
+          "end": 162.7,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 162.7,
+          "end": 162.82,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 162.82,
+          "end": 163.14,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 163.14,
+          "end": 163.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 163.57,
+      "end": 166.56,
+      "text": "I love you and hate you at the very same time",
+      "words": [
+        {
+          "text": "I",
+          "start": 163.57,
+          "end": 163.69,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 163.69,
+          "end": 164.03,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 164.03,
+          "end": 164.28,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 164.28,
+          "end": 164.53,
+          "probability": 1
+        },
+        {
+          "text": "hate",
+          "start": 164.53,
+          "end": 164.87,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 164.87,
+          "end": 165.12,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 165.12,
+          "end": 165.29,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 165.29,
+          "end": 165.54,
+          "probability": 1
+        },
+        {
+          "text": "very",
+          "start": 165.54,
+          "end": 165.88,
+          "probability": 1
+        },
+        {
+          "text": "same",
+          "start": 165.88,
+          "end": 166.22,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 166.22,
+          "end": 166.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 166.78,
+      "end": 167.92,
+      "text": "Bittersweet",
+      "words": [
+        {
+          "text": "Bittersweet",
+          "start": 166.78,
+          "end": 167.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 169.51,
+      "end": 172.62,
+      "text": "You're gonna be the death of me",
+      "words": [
+        {
+          "text": "You're",
+          "start": 169.51,
+          "end": 170.26,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 170.26,
+          "end": 170.88,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 170.88,
+          "end": 171.13,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 171.13,
+          "end": 171.5,
+          "probability": 1
+        },
+        {
+          "text": "death",
+          "start": 171.5,
+          "end": 172.12,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 172.12,
+          "end": 172.37,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 172.37,
+          "end": 172.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 172.87,
+      "end": 175.48,
+      "text": "I don't want you, but I need you",
+      "words": [
+        {
+          "text": "I",
+          "start": 172.87,
+          "end": 172.99,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 172.99,
+          "end": 173.51,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 173.51,
+          "end": 173.92,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 173.92,
+          "end": 174.33,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 174.33,
+          "end": 174.64,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 174.64,
+          "end": 174.76,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 174.76,
+          "end": 175.17,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 175.17,
+          "end": 175.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 175.7,
+      "end": 178.88,
+      "text": "I love you and hate you at the very same time",
+      "words": [
+        {
+          "text": "I",
+          "start": 175.7,
+          "end": 175.82,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 175.82,
+          "end": 176.18,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 176.18,
+          "end": 176.45,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 176.45,
+          "end": 176.72,
+          "probability": 1
+        },
+        {
+          "text": "hate",
+          "start": 176.72,
+          "end": 177.08,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 177.08,
+          "end": 177.35,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 177.35,
+          "end": 177.53,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 177.53,
+          "end": 177.8,
+          "probability": 1
+        },
+        {
+          "text": "very",
+          "start": 177.8,
+          "end": 178.16,
+          "probability": 1
+        },
+        {
+          "text": "same",
+          "start": 178.16,
+          "end": 178.52,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 178.52,
+          "end": 178.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 179.06,
+      "end": 181.97,
+      "text": "See, what I want so much should never hurt this bad",
+      "words": [
+        {
+          "text": "See,",
+          "start": 179.06,
+          "end": 179.34,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 179.34,
+          "end": 179.62,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 179.62,
+          "end": 179.74,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 179.74,
+          "end": 180.02,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 180.02,
+          "end": 180.16,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 180.16,
+          "end": 180.44,
+          "probability": 1
+        },
+        {
+          "text": "should",
+          "start": 180.44,
+          "end": 180.85,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 180.85,
+          "end": 181.2,
+          "probability": 1
+        },
+        {
+          "text": "hurt",
+          "start": 181.2,
+          "end": 181.48,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 181.48,
+          "end": 181.76,
+          "probability": 1
+        },
+        {
+          "text": "bad",
+          "start": 181.76,
+          "end": 181.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 182.14,
+      "end": 184.99,
+      "text": "Never did this before, that's what the virgin says",
+      "words": [
+        {
+          "text": "Never",
+          "start": 182.14,
+          "end": 182.48,
+          "probability": 1
+        },
+        {
+          "text": "did",
+          "start": 182.48,
+          "end": 182.68,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 182.68,
+          "end": 182.95,
+          "probability": 1
+        },
+        {
+          "text": "before,",
+          "start": 182.95,
+          "end": 183.43,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 183.43,
+          "end": 183.84,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 183.84,
+          "end": 184.11,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 184.11,
+          "end": 184.31,
+          "probability": 1
+        },
+        {
+          "text": "virgin",
+          "start": 184.31,
+          "end": 184.72,
+          "probability": 1
+        },
+        {
+          "text": "says",
+          "start": 184.72,
+          "end": 184.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 185.25,
+      "end": 188.04,
+      "text": "We've been generally warned, that's what the surgeon says",
+      "words": [
+        {
+          "text": "We've",
+          "start": 185.25,
+          "end": 185.53,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 185.53,
+          "end": 185.76,
+          "probability": 1
+        },
+        {
+          "text": "generally",
+          "start": 185.76,
+          "end": 186.27,
+          "probability": 1
+        },
+        {
+          "text": "warned,",
+          "start": 186.27,
+          "end": 186.67,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 186.67,
+          "end": 187.01,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 187.01,
+          "end": 187.24,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 187.24,
+          "end": 187.41,
+          "probability": 1
+        },
+        {
+          "text": "surgeon",
+          "start": 187.41,
+          "end": 187.81,
+          "probability": 1
+        },
+        {
+          "text": "says",
+          "start": 187.81,
+          "end": 188.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 188.28,
+      "end": 190.81,
+      "text": "God, talk to me now, this is an emergency",
+      "words": [
+        {
+          "text": "God,",
+          "start": 188.28,
+          "end": 188.59,
+          "probability": 1
+        },
+        {
+          "text": "talk",
+          "start": 188.59,
+          "end": 188.9,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 188.9,
+          "end": 189.05,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 189.05,
+          "end": 189.2,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 189.2,
+          "end": 189.51,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 189.51,
+          "end": 189.82,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 189.82,
+          "end": 189.97,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 189.97,
+          "end": 190.12,
+          "probability": 1
+        },
+        {
+          "text": "emergency",
+          "start": 190.12,
+          "end": 190.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 191.07,
+      "end": 193.67,
+      "text": "See, what I want so much should never hurt this bad",
+      "words": [
+        {
+          "text": "See,",
+          "start": 191.07,
+          "end": 191.32,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 191.32,
+          "end": 191.57,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 191.57,
+          "end": 191.69,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 191.69,
+          "end": 191.94,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 191.94,
+          "end": 192.06,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 192.06,
+          "end": 192.31,
+          "probability": 1
+        },
+        {
+          "text": "should",
+          "start": 192.31,
+          "end": 192.68,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 192.68,
+          "end": 192.99,
+          "probability": 1
+        },
+        {
+          "text": "hurt",
+          "start": 192.99,
+          "end": 193.24,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 193.24,
+          "end": 193.49,
+          "probability": 1
+        },
+        {
+          "text": "bad",
+          "start": 193.49,
+          "end": 193.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 193.84,
+      "end": 196.53,
+      "text": "Never did this before, that's what the virgin says",
+      "words": [
+        {
+          "text": "Never",
+          "start": 193.84,
+          "end": 194.16,
+          "probability": 1
+        },
+        {
+          "text": "did",
+          "start": 194.16,
+          "end": 194.35,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 194.35,
+          "end": 194.61,
+          "probability": 1
+        },
+        {
+          "text": "before,",
+          "start": 194.61,
+          "end": 195.06,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 195.06,
+          "end": 195.44,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 195.44,
+          "end": 195.7,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 195.7,
+          "end": 195.89,
+          "probability": 1
+        },
+        {
+          "text": "virgin",
+          "start": 195.89,
+          "end": 196.27,
+          "probability": 1
+        },
+        {
+          "text": "says",
+          "start": 196.27,
+          "end": 196.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 196.78,
+      "end": 199.84,
+      "text": "We've been generally warned, that's what the surgeon says",
+      "words": [
+        {
+          "text": "We've",
+          "start": 196.78,
+          "end": 197.09,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 197.09,
+          "end": 197.34,
+          "probability": 1
+        },
+        {
+          "text": "generally",
+          "start": 197.34,
+          "end": 197.9,
+          "probability": 1
+        },
+        {
+          "text": "warned,",
+          "start": 197.9,
+          "end": 198.34,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 198.34,
+          "end": 198.71,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 198.71,
+          "end": 198.96,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 198.96,
+          "end": 199.15,
+          "probability": 1
+        },
+        {
+          "text": "surgeon",
+          "start": 199.15,
+          "end": 199.59,
+          "probability": 1
+        },
+        {
+          "text": "says",
+          "start": 199.59,
+          "end": 199.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 200.08,
+      "end": 202.34,
+      "text": "God, talk to me now, this is an emergency",
+      "words": [
+        {
+          "text": "God,",
+          "start": 200.08,
+          "end": 200.35,
+          "probability": 1
+        },
+        {
+          "text": "talk",
+          "start": 200.35,
+          "end": 200.62,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 200.62,
+          "end": 200.76,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 200.76,
+          "end": 200.9,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 200.9,
+          "end": 201.17,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 201.17,
+          "end": 201.44,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 201.44,
+          "end": 201.58,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 201.58,
+          "end": 201.72,
+          "probability": 1
+        },
+        {
+          "text": "emergency",
+          "start": 201.72,
+          "end": 202.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 202.59,
+      "end": 203.73,
+      "text": "Bittersweet",
+      "words": [
+        {
+          "text": "Bittersweet",
+          "start": 202.59,
+          "end": 203.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 204.74,
+      "end": 208.14,
+      "text": "You're gonna be the death of me",
+      "words": [
+        {
+          "text": "You're",
+          "start": 204.74,
+          "end": 205.56,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 205.56,
+          "end": 206.24,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 206.24,
+          "end": 206.51,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 206.51,
+          "end": 206.92,
+          "probability": 1
+        },
+        {
+          "text": "death",
+          "start": 206.92,
+          "end": 207.6,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 207.6,
+          "end": 207.87,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 207.87,
+          "end": 208.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 208.53,
+      "end": 211.63,
+      "text": "I don't want you, but I need you",
+      "words": [
+        {
+          "text": "I",
+          "start": 208.53,
+          "end": 208.65,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 208.65,
+          "end": 209.27,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 209.27,
+          "end": 209.77,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 209.77,
+          "end": 210.27,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 210.27,
+          "end": 210.64,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 210.64,
+          "end": 210.76,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 210.76,
+          "end": 211.26,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 211.26,
+          "end": 211.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 211.89,
+      "end": 214.15,
+      "text": "I love you and hate you at the very same time",
+      "words": [
+        {
+          "text": "I",
+          "start": 211.89,
+          "end": 212.01,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 212.01,
+          "end": 212.26,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 212.26,
+          "end": 212.45,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 212.45,
+          "end": 212.64,
+          "probability": 1
+        },
+        {
+          "text": "hate",
+          "start": 212.64,
+          "end": 212.89,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 212.89,
+          "end": 213.08,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 213.08,
+          "end": 213.21,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 213.21,
+          "end": 213.4,
+          "probability": 1
+        },
+        {
+          "text": "very",
+          "start": 213.4,
+          "end": 213.65,
+          "probability": 1
+        },
+        {
+          "text": "same",
+          "start": 213.65,
+          "end": 213.9,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 213.9,
+          "end": 214.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 214.37,
+      "end": 215.51,
+      "text": "(Bittersweet",
+      "words": [
+        {
+          "text": "(Bittersweet",
+          "start": 214.37,
+          "end": 215.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 215.51,
+      "end": 233.93,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 215.51,
+          "end": 233.93,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 233.93,
+      "end": 234.79,
+      "text": "You're gonna be the death of me",
+      "words": [
+        {
+          "text": "You're",
+          "start": 233.93,
+          "end": 234.07,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 234.07,
+          "end": 234.19,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 234.19,
+          "end": 234.31,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 234.31,
+          "end": 234.43,
+          "probability": 1
+        },
+        {
+          "text": "death",
+          "start": 234.43,
+          "end": 234.55,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 234.55,
+          "end": 234.67,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 234.67,
+          "end": 234.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 234.37,
+      "end": 235.04,
+      "text": "I don't want you",
+      "words": [
+        {
+          "text": "I",
+          "start": 234.37,
+          "end": 234.49,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 234.49,
+          "end": 234.72,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 234.72,
+          "end": 234.9,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 234.9,
+          "end": 235.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 234.92,
+      "end": 237.2,
+      "text": "...very same time)",
+      "words": [
+        {
+          "text": "...very",
+          "start": 234.92,
+          "end": 235.92,
+          "probability": 1
+        },
+        {
+          "text": "same",
+          "start": 235.92,
+          "end": 236.49,
+          "probability": 1
+        },
+        {
+          "text": "time)",
+          "start": 236.49,
+          "end": 237.2,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Bittersweet You're gonna be the death of me I don't want you, but I need you I love you and hate you at the very same time Bittersweet See, what I want so much should never hurt this bad Never did this before, that's what the virgin says We've been generally warned, that's what the surgeon says God, talk to me now, this is an emergency And she claims she only with me for the currency You cut me deep, bitch, cut me like surgery And I was too proud to admit that it was hurting me I'd never do that to you, at least purposely We breaking up again, we making up again But we don't love no more, I guess we fucking then Have you ever felt you ever want to kill her? And you mix them emotions with tequila And you mix that with a little bad advice On one of them bad nights, y'all have a bad fight And you talk about her family, her aunts and shit And she say, \"Motherfucker, your momma's a bitch\" You know, domestic drama and shit, all the attitude I'd never hit a girl, but I'll shake the shit out of you But I'mma be the bigger man, big pimpin' like Jigga man Oh, I guess I figure it's Bittersweet You're gonna be the death of me I don't want you, but I need you I love you, hate you at the very same time Bittersweet See, what I want so much should never hurt this bad Never did this before, that's what the virgin says We've been generally warned, that's what the surgeon says God, talk to me now, this is an emergency And my niggas said I shouldn't let it worry me I need to focus on the girls we getting currently But I been thinking and it got me back to sinking And this relationship, it even got me back to drinking Now this Hennessy, uh, it's gonna be the death of me And I always thought that you having my child was our destiny But I can't even vibe with you sexually 'Cause every time that I'd try, you would question me Saying, \"You fucking them girls, disrespecting me You don't see how your lies is affecting me? You don't see how our life was supposed to be? And I never let a nigga get that close to me And you ain't cracked up to what you were supposed to be You always gone, you always be where them hoes will be\" And this the first time she ever spilled her soul to me Bittersweet (I fucked up and I know it, G) You're gonna be the death of me (I guess it's bittersweet poetry) I don't want you, but I need you I love you and hate you at the very same time Bittersweet You're gonna be the death of me I don't want you, but I need you I love you and hate you at the very same time See, what I want so much should never hurt this bad Never did this before, that's what the virgin says We've been generally warned, that's what the surgeon says God, talk to me now, this is an emergency See, what I want so much should never hurt this bad Never did this before, that's what the virgin says We've been generally warned, that's what the surgeon says God, talk to me now, this is an emergency Bittersweet You're gonna be the death of me I don't want you, but I need you I love you and hate you at the very same time (Bittersweet You're gonna be the death of me I don't want you ...very same time)"
+}

@@ -1,0 +1,3387 @@
+{
+  "language": "en",
+  "duration": 223,
+  "source": "canonical_synced_lrc_aligned",
+  "segments": [
+    {
+      "start": 0,
+      "end": 15.54,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 15.54,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 15.54,
+      "end": 20.22,
+      "text": "Everyone's watchin' to see what you will do",
+      "words": [
+        {
+          "text": "Everyone's",
+          "start": 15.54,
+          "end": 17.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 15.54,
+              "end": 15.92
+            },
+            {
+              "text": "ve",
+              "start": 15.92,
+              "end": 16.3
+            },
+            {
+              "text": "ryo",
+              "start": 16.3,
+              "end": 16.68
+            },
+            {
+              "text": "ne's",
+              "start": 16.68,
+              "end": 17.06
+            }
+          ]
+        },
+        {
+          "text": "watchin'",
+          "start": 17.06,
+          "end": 17.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "watchin'",
+              "start": 17.06,
+              "end": 17.44
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 17.44,
+          "end": 17.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 17.44,
+              "end": 17.82
+            }
+          ]
+        },
+        {
+          "text": "see",
+          "start": 17.82,
+          "end": 18.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "see",
+              "start": 17.82,
+              "end": 18.2
+            }
+          ]
+        },
+        {
+          "text": "what",
+          "start": 18.2,
+          "end": 18.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "what",
+              "start": 18.2,
+              "end": 18.58
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 18.64,
+          "end": 18.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 18.64,
+              "end": 18.96
+            }
+          ]
+        },
+        {
+          "text": "will",
+          "start": 18.98,
+          "end": 19.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "will",
+              "start": 18.98,
+              "end": 19.34
+            }
+          ]
+        },
+        {
+          "text": "do",
+          "start": 19.84,
+          "end": 20.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "do",
+              "start": 19.84,
+              "end": 20.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 22.04,
+      "end": 26.57,
+      "text": "Everyone's lookin' at you, oh",
+      "words": [
+        {
+          "text": "Everyone's",
+          "start": 22.04,
+          "end": 23.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 22.04,
+              "end": 22.42
+            },
+            {
+              "text": "ve",
+              "start": 22.42,
+              "end": 22.8
+            },
+            {
+              "text": "ryo",
+              "start": 22.8,
+              "end": 23.18
+            },
+            {
+              "text": "ne's",
+              "start": 23.18,
+              "end": 23.56
+            }
+          ]
+        },
+        {
+          "text": "lookin'",
+          "start": 24.28,
+          "end": 24.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "loo",
+              "start": 24.28,
+              "end": 24.48
+            },
+            {
+              "text": "kin'",
+              "start": 24.48,
+              "end": 24.68
+            }
+          ]
+        },
+        {
+          "text": "at",
+          "start": 24.7,
+          "end": 24.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "at",
+              "start": 24.7,
+              "end": 24.98
+            }
+          ]
+        },
+        {
+          "text": "you,",
+          "start": 25,
+          "end": 25.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you,",
+              "start": 25,
+              "end": 25.36
+            }
+          ]
+        },
+        {
+          "text": "oh",
+          "start": 26.32,
+          "end": 26.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh",
+              "start": 26.32,
+              "end": 26.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 28.54,
+      "end": 33.56,
+      "text": "Everyone's wonderin', will you come out tonight?",
+      "words": [
+        {
+          "text": "Everyone's",
+          "start": 28.54,
+          "end": 30.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 28.54,
+              "end": 28.92
+            },
+            {
+              "text": "ve",
+              "start": 28.92,
+              "end": 29.3
+            },
+            {
+              "text": "ryo",
+              "start": 29.3,
+              "end": 29.68
+            },
+            {
+              "text": "ne's",
+              "start": 29.68,
+              "end": 30.06
+            }
+          ]
+        },
+        {
+          "text": "wonderin',",
+          "start": 30.28,
+          "end": 31.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "won",
+              "start": 30.28,
+              "end": 30.59
+            },
+            {
+              "text": "de",
+              "start": 30.59,
+              "end": 30.91
+            },
+            {
+              "text": "rin',",
+              "start": 30.91,
+              "end": 31.22
+            }
+          ]
+        },
+        {
+          "text": "will",
+          "start": 31.22,
+          "end": 31.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "will",
+              "start": 31.22,
+              "end": 31.6
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 31.74,
+          "end": 32.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 31.74,
+              "end": 32.1
+            }
+          ]
+        },
+        {
+          "text": "come",
+          "start": 32.22,
+          "end": 32.4,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "come",
+              "start": 32.22,
+              "end": 32.42
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 32.4,
+          "end": 32.74,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 32.4,
+              "end": 32.74
+            }
+          ]
+        },
+        {
+          "text": "tonight?",
+          "start": 32.8,
+          "end": 33.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 32.8,
+              "end": 33.18
+            },
+            {
+              "text": "night?",
+              "start": 33.18,
+              "end": 33.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 35.08,
+      "end": 39.76,
+      "text": "Everyone's tryin' to get it right, get it right",
+      "words": [
+        {
+          "text": "Everyone's",
+          "start": 35.08,
+          "end": 36.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 35.08,
+              "end": 35.46
+            },
+            {
+              "text": "ve",
+              "start": 35.46,
+              "end": 35.83
+            },
+            {
+              "text": "ryo",
+              "start": 35.83,
+              "end": 36.21
+            },
+            {
+              "text": "ne's",
+              "start": 36.21,
+              "end": 36.58
+            }
+          ]
+        },
+        {
+          "text": "tryin'",
+          "start": 36.58,
+          "end": 36.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "tryin'",
+              "start": 36.58,
+              "end": 36.96
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 37.12,
+          "end": 37.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 37.12,
+              "end": 37.34
+            }
+          ]
+        },
+        {
+          "text": "get",
+          "start": 37.34,
+          "end": 37.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "get",
+              "start": 37.34,
+              "end": 37.72
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 37.74,
+          "end": 38.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 37.74,
+              "end": 38.1
+            }
+          ]
+        },
+        {
+          "text": "right,",
+          "start": 38.1,
+          "end": 38.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "right,",
+              "start": 38.1,
+              "end": 38.48
+            }
+          ]
+        },
+        {
+          "text": "get",
+          "start": 38.84,
+          "end": 38.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "get",
+              "start": 38.84,
+              "end": 39.04
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 38.96,
+          "end": 39.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 38.96,
+              "end": 39.24
+            }
+          ]
+        },
+        {
+          "text": "right",
+          "start": 39.38,
+          "end": 39.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "right",
+              "start": 39.38,
+              "end": 39.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 42.62,
+      "end": 46.03,
+      "text": "Everybody is workin' for the weekend",
+      "words": [
+        {
+          "text": "Everybody",
+          "start": 42.62,
+          "end": 43.37,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 42.62,
+              "end": 42.82
+            },
+            {
+              "text": "ve",
+              "start": 42.82,
+              "end": 43.02
+            },
+            {
+              "text": "ry",
+              "start": 43.02,
+              "end": 43.22
+            },
+            {
+              "text": "bo",
+              "start": 43.22,
+              "end": 43.42
+            },
+            {
+              "text": "dy",
+              "start": 43.42,
+              "end": 43.62
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 43.46,
+          "end": 43.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 43.46,
+              "end": 43.75
+            }
+          ]
+        },
+        {
+          "text": "workin'",
+          "start": 43.88,
+          "end": 44.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wor",
+              "start": 43.88,
+              "end": 44.2
+            },
+            {
+              "text": "kin'",
+              "start": 44.2,
+              "end": 44.51
+            }
+          ]
+        },
+        {
+          "text": "for",
+          "start": 44.51,
+          "end": 44.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "for",
+              "start": 44.51,
+              "end": 44.89
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 44.89,
+          "end": 45.27,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 44.89,
+              "end": 45.27
+            }
+          ]
+        },
+        {
+          "text": "weekend",
+          "start": 45.27,
+          "end": 46.03,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wee",
+              "start": 45.27,
+              "end": 45.65
+            },
+            {
+              "text": "kend",
+              "start": 45.65,
+              "end": 46.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 48.16,
+      "end": 52.32,
+      "text": "Everybody wants a new romance",
+      "words": [
+        {
+          "text": "Everybody",
+          "start": 48.16,
+          "end": 49.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 48.16,
+              "end": 48.52
+            },
+            {
+              "text": "ve",
+              "start": 48.52,
+              "end": 48.88
+            },
+            {
+              "text": "ry",
+              "start": 48.88,
+              "end": 49.24
+            },
+            {
+              "text": "bo",
+              "start": 49.24,
+              "end": 49.6
+            },
+            {
+              "text": "dy",
+              "start": 49.6,
+              "end": 49.96
+            }
+          ]
+        },
+        {
+          "text": "wants",
+          "start": 50.02,
+          "end": 50.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wants",
+              "start": 50.02,
+              "end": 50.34
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 50.42,
+          "end": 50.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 50.42,
+              "end": 50.72
+            }
+          ]
+        },
+        {
+          "text": "new",
+          "start": 50.82,
+          "end": 51.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "new",
+              "start": 50.82,
+              "end": 51.1
+            }
+          ]
+        },
+        {
+          "text": "romance",
+          "start": 51.18,
+          "end": 52.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ro",
+              "start": 51.18,
+              "end": 51.56
+            },
+            {
+              "text": "man",
+              "start": 51.56,
+              "end": 51.94
+            },
+            {
+              "text": "ce",
+              "start": 51.94,
+              "end": 52.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 55.08,
+      "end": 58.92,
+      "text": "Everybody is goin' off the deep end",
+      "words": [
+        {
+          "text": "Everybody",
+          "start": 55.08,
+          "end": 56.64,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 55.08,
+              "end": 55.39
+            },
+            {
+              "text": "ve",
+              "start": 55.39,
+              "end": 55.7
+            },
+            {
+              "text": "ry",
+              "start": 55.7,
+              "end": 56.02
+            },
+            {
+              "text": "bo",
+              "start": 56.02,
+              "end": 56.33
+            },
+            {
+              "text": "dy",
+              "start": 56.33,
+              "end": 56.64
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 56.64,
+          "end": 57.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 56.64,
+              "end": 57.02
+            }
+          ]
+        },
+        {
+          "text": "goin'",
+          "start": 57.08,
+          "end": 57.4,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "goin'",
+              "start": 57.08,
+              "end": 57.4
+            }
+          ]
+        },
+        {
+          "text": "off",
+          "start": 57.4,
+          "end": 57.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "off",
+              "start": 57.4,
+              "end": 57.78
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 57.78,
+          "end": 58.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 57.78,
+              "end": 58.16
+            }
+          ]
+        },
+        {
+          "text": "deep",
+          "start": 58.16,
+          "end": 58.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "deep",
+              "start": 58.16,
+              "end": 58.54
+            }
+          ]
+        },
+        {
+          "text": "end",
+          "start": 58.54,
+          "end": 58.92,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "end",
+              "start": 58.54,
+              "end": 58.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 61.64,
+      "end": 66.63,
+      "text": "Everybody needs a second chance, oh",
+      "words": [
+        {
+          "text": "Everybody",
+          "start": 61.64,
+          "end": 63.15,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 61.64,
+              "end": 61.94
+            },
+            {
+              "text": "ve",
+              "start": 61.94,
+              "end": 62.24
+            },
+            {
+              "text": "ry",
+              "start": 62.24,
+              "end": 62.55
+            },
+            {
+              "text": "bo",
+              "start": 62.55,
+              "end": 62.85
+            },
+            {
+              "text": "dy",
+              "start": 62.85,
+              "end": 63.15
+            }
+          ]
+        },
+        {
+          "text": "needs",
+          "start": 63.15,
+          "end": 63.53,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "needs",
+              "start": 63.15,
+              "end": 63.53
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 63.82,
+          "end": 63.91,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 63.82,
+              "end": 64.02
+            }
+          ]
+        },
+        {
+          "text": "second",
+          "start": 63.91,
+          "end": 64.67,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "se",
+              "start": 63.91,
+              "end": 64.29
+            },
+            {
+              "text": "cond",
+              "start": 64.29,
+              "end": 64.67
+            }
+          ]
+        },
+        {
+          "text": "chance,",
+          "start": 64.72,
+          "end": 65.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "chance,",
+              "start": 64.72,
+              "end": 65.05
+            }
+          ]
+        },
+        {
+          "text": "oh",
+          "start": 66.52,
+          "end": 66.63,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh",
+              "start": 66.52,
+              "end": 66.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 66.63,
+      "end": 69.57,
+      "text": "You want a piece of my heart?",
+      "words": [
+        {
+          "text": "You",
+          "start": 66.63,
+          "end": 66.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 66.63,
+              "end": 66.83
+            }
+          ]
+        },
+        {
+          "text": "want",
+          "start": 66.8,
+          "end": 67.07,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "want",
+              "start": 66.8,
+              "end": 67.07
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 67.07,
+          "end": 67.45,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 67.07,
+              "end": 67.45
+            }
+          ]
+        },
+        {
+          "text": "piece",
+          "start": 67.45,
+          "end": 67.83,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "piece",
+              "start": 67.45,
+              "end": 67.83
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 67.83,
+          "end": 68.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 67.83,
+              "end": 68.21
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 68.21,
+          "end": 68.59,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 68.21,
+              "end": 68.59
+            }
+          ]
+        },
+        {
+          "text": "heart?",
+          "start": 69.24,
+          "end": 69.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "heart?",
+              "start": 69.24,
+              "end": 69.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 69.57,
+      "end": 71.87,
+      "text": "You better start from the start",
+      "words": [
+        {
+          "text": "You",
+          "start": 69.57,
+          "end": 69.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 69.57,
+              "end": 69.82
+            }
+          ]
+        },
+        {
+          "text": "better",
+          "start": 69.84,
+          "end": 70.35,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bet",
+              "start": 69.84,
+              "end": 70.1
+            },
+            {
+              "text": "ter",
+              "start": 70.1,
+              "end": 70.35
+            }
+          ]
+        },
+        {
+          "text": "start",
+          "start": 70.48,
+          "end": 70.73,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "start",
+              "start": 70.48,
+              "end": 70.73
+            }
+          ]
+        },
+        {
+          "text": "from",
+          "start": 70.73,
+          "end": 71.11,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "from",
+              "start": 70.73,
+              "end": 71.11
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 71.11,
+          "end": 71.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 71.11,
+              "end": 71.49
+            }
+          ]
+        },
+        {
+          "text": "start",
+          "start": 71.49,
+          "end": 71.87,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "start",
+              "start": 71.49,
+              "end": 71.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 72.48,
+      "end": 75.93,
+      "text": "You wanna be in the show?",
+      "words": [
+        {
+          "text": "You",
+          "start": 72.48,
+          "end": 72.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 72.48,
+              "end": 72.86
+            }
+          ]
+        },
+        {
+          "text": "wanna",
+          "start": 73.08,
+          "end": 73.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wan",
+              "start": 73.08,
+              "end": 73.41
+            },
+            {
+              "text": "na",
+              "start": 73.41,
+              "end": 73.75
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 73.75,
+          "end": 74.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 73.75,
+              "end": 74.13
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 74.22,
+          "end": 74.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 74.22,
+              "end": 74.51
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 74.51,
+          "end": 74.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 74.51,
+              "end": 74.89
+            }
+          ]
+        },
+        {
+          "text": "show?",
+          "start": 75.68,
+          "end": 75.93,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "show?",
+              "start": 75.68,
+              "end": 75.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 75.93,
+      "end": 78.08,
+      "text": "Come on, baby, let's go!",
+      "words": [
+        {
+          "text": "Come",
+          "start": 75.93,
+          "end": 76.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Come",
+              "start": 75.93,
+              "end": 76.24
+            }
+          ]
+        },
+        {
+          "text": "on,",
+          "start": 76.34,
+          "end": 76.59,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on,",
+              "start": 76.34,
+              "end": 76.59
+            }
+          ]
+        },
+        {
+          "text": "baby,",
+          "start": 76.96,
+          "end": 77.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ba",
+              "start": 76.96,
+              "end": 77.16
+            },
+            {
+              "text": "by,",
+              "start": 77.16,
+              "end": 77.36
+            }
+          ]
+        },
+        {
+          "text": "let's",
+          "start": 77.32,
+          "end": 77.7,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "let's",
+              "start": 77.32,
+              "end": 77.7
+            }
+          ]
+        },
+        {
+          "text": "go!",
+          "start": 77.7,
+          "end": 78.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go!",
+              "start": 77.7,
+              "end": 78.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 78.08,
+      "end": 90.58,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 78.08,
+          "end": 90.58,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 90.58,
+      "end": 95.47,
+      "text": "Everyone is lookin' to see if it was you",
+      "words": [
+        {
+          "text": "Everyone",
+          "start": 90.58,
+          "end": 92.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 90.58,
+              "end": 90.95
+            },
+            {
+              "text": "ve",
+              "start": 90.95,
+              "end": 91.32
+            },
+            {
+              "text": "ryo",
+              "start": 91.32,
+              "end": 91.68
+            },
+            {
+              "text": "ne",
+              "start": 91.68,
+              "end": 92.05
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 92.05,
+          "end": 92.43,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 92.05,
+              "end": 92.43
+            }
+          ]
+        },
+        {
+          "text": "lookin'",
+          "start": 92.46,
+          "end": 93.19,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "loo",
+              "start": 92.46,
+              "end": 92.82
+            },
+            {
+              "text": "kin'",
+              "start": 92.82,
+              "end": 93.19
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 93.2,
+          "end": 93.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 93.2,
+              "end": 93.57
+            }
+          ]
+        },
+        {
+          "text": "see",
+          "start": 93.57,
+          "end": 93.95,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "see",
+              "start": 93.57,
+              "end": 93.95
+            }
+          ]
+        },
+        {
+          "text": "if",
+          "start": 94.24,
+          "end": 94.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "if",
+              "start": 94.24,
+              "end": 94.44
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 94.33,
+          "end": 94.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 94.33,
+              "end": 94.71
+            }
+          ]
+        },
+        {
+          "text": "was",
+          "start": 94.82,
+          "end": 95.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "was",
+              "start": 94.82,
+              "end": 95.09
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 95.09,
+          "end": 95.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 95.09,
+              "end": 95.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 97.06,
+      "end": 100.49,
+      "text": "Everyone wants you to come through",
+      "words": [
+        {
+          "text": "Everyone",
+          "start": 97.06,
+          "end": 98.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 97.06,
+              "end": 97.44
+            },
+            {
+              "text": "ve",
+              "start": 97.44,
+              "end": 97.82
+            },
+            {
+              "text": "ryo",
+              "start": 97.82,
+              "end": 98.2
+            },
+            {
+              "text": "ne",
+              "start": 98.2,
+              "end": 98.58
+            }
+          ]
+        },
+        {
+          "text": "wants",
+          "start": 98.64,
+          "end": 98.97,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wants",
+              "start": 98.64,
+              "end": 98.97
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 99.12,
+          "end": 99.35,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 99.12,
+              "end": 99.35
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 99.35,
+          "end": 99.73,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 99.35,
+              "end": 99.73
+            }
+          ]
+        },
+        {
+          "text": "come",
+          "start": 99.78,
+          "end": 100.11,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "come",
+              "start": 99.78,
+              "end": 100.11
+            }
+          ]
+        },
+        {
+          "text": "through",
+          "start": 100.11,
+          "end": 100.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "through",
+              "start": 100.11,
+              "end": 100.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 103.6,
+      "end": 108.28,
+      "text": "Everyone is hopin' it'll all work out",
+      "words": [
+        {
+          "text": "Everyone",
+          "start": 103.6,
+          "end": 105.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 103.6,
+              "end": 103.98
+            },
+            {
+              "text": "ve",
+              "start": 103.98,
+              "end": 104.35
+            },
+            {
+              "text": "ryo",
+              "start": 104.35,
+              "end": 104.73
+            },
+            {
+              "text": "ne",
+              "start": 104.73,
+              "end": 105.1
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 105.24,
+          "end": 105.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 105.24,
+              "end": 105.49
+            }
+          ]
+        },
+        {
+          "text": "hopin'",
+          "start": 105.5,
+          "end": 106.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ho",
+              "start": 105.5,
+              "end": 105.87
+            },
+            {
+              "text": "pin'",
+              "start": 105.87,
+              "end": 106.24
+            }
+          ]
+        },
+        {
+          "text": "it'll",
+          "start": 106.44,
+          "end": 106.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it'll",
+              "start": 106.44,
+              "end": 106.64
+            }
+          ]
+        },
+        {
+          "text": "all",
+          "start": 106.62,
+          "end": 107,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "all",
+              "start": 106.62,
+              "end": 107
+            }
+          ]
+        },
+        {
+          "text": "work",
+          "start": 107.04,
+          "end": 107.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "work",
+              "start": 107.04,
+              "end": 107.38
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 107.9,
+          "end": 108.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 107.9,
+              "end": 108.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 110.12,
+      "end": 114.38,
+      "text": "Everyone is waiting, they're holding out",
+      "words": [
+        {
+          "text": "Everyone",
+          "start": 110.12,
+          "end": 111.64,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 110.12,
+              "end": 110.5
+            },
+            {
+              "text": "ve",
+              "start": 110.5,
+              "end": 110.88
+            },
+            {
+              "text": "ryo",
+              "start": 110.88,
+              "end": 111.26
+            },
+            {
+              "text": "ne",
+              "start": 111.26,
+              "end": 111.64
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 111.94,
+          "end": 112.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 111.94,
+              "end": 112.14
+            }
+          ]
+        },
+        {
+          "text": "waiting,",
+          "start": 112.08,
+          "end": 112.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wai",
+              "start": 112.08,
+              "end": 112.46
+            },
+            {
+              "text": "ting,",
+              "start": 112.46,
+              "end": 112.84
+            }
+          ]
+        },
+        {
+          "text": "they're",
+          "start": 112.98,
+          "end": 113.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "they're",
+              "start": 112.98,
+              "end": 113.23
+            }
+          ]
+        },
+        {
+          "text": "holding",
+          "start": 113.72,
+          "end": 113.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hol",
+              "start": 113.72,
+              "end": 113.92
+            },
+            {
+              "text": "ding",
+              "start": 113.92,
+              "end": 114.12
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 114,
+          "end": 114.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 114,
+              "end": 114.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 117.64,
+      "end": 121.29,
+      "text": "Everybody is workin' for the weekend",
+      "words": [
+        {
+          "text": "Everybody",
+          "start": 117.64,
+          "end": 118.63,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 117.64,
+              "end": 117.84
+            },
+            {
+              "text": "ve",
+              "start": 117.84,
+              "end": 118.04
+            },
+            {
+              "text": "ry",
+              "start": 118.04,
+              "end": 118.24
+            },
+            {
+              "text": "bo",
+              "start": 118.24,
+              "end": 118.44
+            },
+            {
+              "text": "dy",
+              "start": 118.44,
+              "end": 118.64
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 118.63,
+          "end": 119.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 118.63,
+              "end": 119.01
+            }
+          ]
+        },
+        {
+          "text": "workin'",
+          "start": 119.12,
+          "end": 119.77,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wor",
+              "start": 119.12,
+              "end": 119.45
+            },
+            {
+              "text": "kin'",
+              "start": 119.45,
+              "end": 119.77
+            }
+          ]
+        },
+        {
+          "text": "for",
+          "start": 119.77,
+          "end": 120.15,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "for",
+              "start": 119.77,
+              "end": 120.15
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 120.15,
+          "end": 120.53,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 120.15,
+              "end": 120.53
+            }
+          ]
+        },
+        {
+          "text": "weekend",
+          "start": 120.53,
+          "end": 121.29,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wee",
+              "start": 120.53,
+              "end": 120.91
+            },
+            {
+              "text": "kend",
+              "start": 120.91,
+              "end": 121.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 123.16,
+      "end": 130.17999999999998,
+      "text": "Everybody wants a new romance, hey-yeah, hey-hey",
+      "words": [
+        {
+          "text": "Everybody",
+          "start": 123.16,
+          "end": 125.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 123.16,
+              "end": 123.54
+            },
+            {
+              "text": "ve",
+              "start": 123.54,
+              "end": 123.92
+            },
+            {
+              "text": "ry",
+              "start": 123.92,
+              "end": 124.3
+            },
+            {
+              "text": "bo",
+              "start": 124.3,
+              "end": 124.68
+            },
+            {
+              "text": "dy",
+              "start": 124.68,
+              "end": 125.06
+            }
+          ]
+        },
+        {
+          "text": "wants",
+          "start": 125.06,
+          "end": 125.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wants",
+              "start": 125.06,
+              "end": 125.44
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 125.44,
+          "end": 125.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 125.44,
+              "end": 125.82
+            }
+          ]
+        },
+        {
+          "text": "new",
+          "start": 125.82,
+          "end": 126.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "new",
+              "start": 125.82,
+              "end": 126.2
+            }
+          ]
+        },
+        {
+          "text": "romance,",
+          "start": 127.04,
+          "end": 127.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ro",
+              "start": 127.04,
+              "end": 127.24
+            },
+            {
+              "text": "man",
+              "start": 127.24,
+              "end": 127.44
+            },
+            {
+              "text": "ce,",
+              "start": 127.44,
+              "end": 127.64
+            }
+          ]
+        },
+        {
+          "text": "hey-yeah,",
+          "start": 127.5,
+          "end": 128.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hey",
+              "start": 127.5,
+              "end": 127.86
+            },
+            {
+              "text": "-yeah,",
+              "start": 127.86,
+              "end": 128.22
+            }
+          ]
+        },
+        {
+          "text": "hey-hey",
+          "start": 130.08,
+          "end": 130.17999999999998,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hey-",
+              "start": 130.08,
+              "end": 130.28
+            },
+            {
+              "text": "hey",
+              "start": 130.28,
+              "end": 130.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 130.17999999999998,
+      "end": 134.03,
+      "text": "Everybody is goin' off the deep end",
+      "words": [
+        {
+          "text": "Everybody",
+          "start": 130.17999999999998,
+          "end": 131.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 130.18,
+              "end": 130.49
+            },
+            {
+              "text": "ve",
+              "start": 130.49,
+              "end": 130.81
+            },
+            {
+              "text": "ry",
+              "start": 130.81,
+              "end": 131.12
+            },
+            {
+              "text": "bo",
+              "start": 131.12,
+              "end": 131.44
+            },
+            {
+              "text": "dy",
+              "start": 131.44,
+              "end": 131.75
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start": 131.75,
+          "end": 132.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "is",
+              "start": 131.75,
+              "end": 132.13
+            }
+          ]
+        },
+        {
+          "text": "goin'",
+          "start": 132.36,
+          "end": 132.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "goin'",
+              "start": 132.36,
+              "end": 132.56
+            }
+          ]
+        },
+        {
+          "text": "off",
+          "start": 132.54,
+          "end": 132.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "off",
+              "start": 132.54,
+              "end": 132.89
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 132.96,
+          "end": 133.27,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 132.96,
+              "end": 133.27
+            }
+          ]
+        },
+        {
+          "text": "deep",
+          "start": 133.27,
+          "end": 133.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "deep",
+              "start": 133.27,
+              "end": 133.65
+            }
+          ]
+        },
+        {
+          "text": "end",
+          "start": 133.65,
+          "end": 134.03,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "end",
+              "start": 133.65,
+              "end": 134.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 137.28,
+      "end": 141.75,
+      "text": "Everybody needs a second chance, oh",
+      "words": [
+        {
+          "text": "Everybody",
+          "start": 137.28,
+          "end": 138.27,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 137.28,
+              "end": 137.48
+            },
+            {
+              "text": "ve",
+              "start": 137.48,
+              "end": 137.68
+            },
+            {
+              "text": "ry",
+              "start": 137.68,
+              "end": 137.88
+            },
+            {
+              "text": "bo",
+              "start": 137.88,
+              "end": 138.08
+            },
+            {
+              "text": "dy",
+              "start": 138.08,
+              "end": 138.28
+            }
+          ]
+        },
+        {
+          "text": "needs",
+          "start": 138.27,
+          "end": 138.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "needs",
+              "start": 138.27,
+              "end": 138.65
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 138.82,
+          "end": 139.03,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 138.82,
+              "end": 139.03
+            }
+          ]
+        },
+        {
+          "text": "second",
+          "start": 139.03,
+          "end": 139.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "se",
+              "start": 139.03,
+              "end": 139.41
+            },
+            {
+              "text": "cond",
+              "start": 139.41,
+              "end": 139.79
+            }
+          ]
+        },
+        {
+          "text": "chance,",
+          "start": 139.84,
+          "end": 140.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "chance,",
+              "start": 139.84,
+              "end": 140.17
+            }
+          ]
+        },
+        {
+          "text": "oh",
+          "start": 141.54,
+          "end": 141.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh",
+              "start": 141.54,
+              "end": 141.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 141.15,
+      "end": 144.49,
+      "text": "You want a piece of my heart?",
+      "words": [
+        {
+          "text": "You",
+          "start": 141.15,
+          "end": 141.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 141.15,
+              "end": 141.49
+            }
+          ]
+        },
+        {
+          "text": "want",
+          "start": 141.54,
+          "end": 141.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "want",
+              "start": 141.54,
+              "end": 141.89
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 141.94,
+          "end": 142.29,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 141.94,
+              "end": 142.29
+            }
+          ]
+        },
+        {
+          "text": "piece",
+          "start": 142.29,
+          "end": 142.69,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "piece",
+              "start": 142.29,
+              "end": 142.69
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 142.69,
+          "end": 143.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 142.69,
+              "end": 143.09
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 143.09,
+          "end": 143.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 143.09,
+              "end": 143.49
+            }
+          ]
+        },
+        {
+          "text": "heart?",
+          "start": 144.24,
+          "end": 144.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "heart?",
+              "start": 144.24,
+              "end": 144.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 144.49,
+      "end": 147.73,
+      "text": "You better start from the start",
+      "words": [
+        {
+          "text": "You",
+          "start": 144.49,
+          "end": 144.74,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 144.49,
+              "end": 144.74
+            }
+          ]
+        },
+        {
+          "text": "better",
+          "start": 144.84,
+          "end": 145.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bet",
+              "start": 144.84,
+              "end": 145.16
+            },
+            {
+              "text": "ter",
+              "start": 145.16,
+              "end": 145.47
+            }
+          ]
+        },
+        {
+          "text": "start",
+          "start": 145.47,
+          "end": 145.85,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "start",
+              "start": 145.47,
+              "end": 145.85
+            }
+          ]
+        },
+        {
+          "text": "from",
+          "start": 145.85,
+          "end": 146.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "from",
+              "start": 145.85,
+              "end": 146.23
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 146.23,
+          "end": 146.61,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 146.23,
+              "end": 146.61
+            }
+          ]
+        },
+        {
+          "text": "start",
+          "start": 147.48,
+          "end": 147.73,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "start",
+              "start": 147.48,
+              "end": 147.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 147.9,
+      "end": 150.93,
+      "text": "You wanna be in the show?",
+      "words": [
+        {
+          "text": "You",
+          "start": 147.9,
+          "end": 148.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 147.9,
+              "end": 148.1
+            }
+          ]
+        },
+        {
+          "text": "wanna",
+          "start": 148.08,
+          "end": 148.67,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wan",
+              "start": 148.08,
+              "end": 148.38
+            },
+            {
+              "text": "na",
+              "start": 148.38,
+              "end": 148.67
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 148.74,
+          "end": 149.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 148.74,
+              "end": 149.05
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 149.22,
+          "end": 149.43,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 149.22,
+              "end": 149.43
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 149.43,
+          "end": 149.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 149.43,
+              "end": 149.81
+            }
+          ]
+        },
+        {
+          "text": "show?",
+          "start": 150.68,
+          "end": 150.93,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "show?",
+              "start": 150.68,
+              "end": 150.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 150.94,
+      "end": 153.18,
+      "text": "Come on, baby, let's go!",
+      "words": [
+        {
+          "text": "Come",
+          "start": 150.94,
+          "end": 151.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Come",
+              "start": 150.94,
+              "end": 151.32
+            }
+          ]
+        },
+        {
+          "text": "on,",
+          "start": 151.34,
+          "end": 151.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on,",
+              "start": 151.34,
+              "end": 151.66
+            }
+          ]
+        },
+        {
+          "text": "baby,",
+          "start": 151.98,
+          "end": 152.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ba",
+              "start": 151.98,
+              "end": 152.2
+            },
+            {
+              "text": "by,",
+              "start": 152.2,
+              "end": 152.42
+            }
+          ]
+        },
+        {
+          "text": "let's",
+          "start": 152.46,
+          "end": 152.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "let's",
+              "start": 152.46,
+              "end": 152.8
+            }
+          ]
+        },
+        {
+          "text": "go!",
+          "start": 152.8,
+          "end": 153.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go!",
+              "start": 152.8,
+              "end": 153.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 153.18,
+      "end": 164.86,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 153.18,
+          "end": 164.86,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 164.86,
+      "end": 165.46,
+      "text": "Hey!",
+      "words": [
+        {
+          "text": "Hey!",
+          "start": 164.86,
+          "end": 165.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Hey!",
+              "start": 164.86,
+              "end": 165.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 165.46,
+      "end": 176.82,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 165.46,
+          "end": 176.82,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 176.82,
+      "end": 180.78,
+      "text": "You want a piece of my heart?",
+      "words": [
+        {
+          "text": "You",
+          "start": 176.82,
+          "end": 177.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 176.82,
+              "end": 177.18
+            }
+          ]
+        },
+        {
+          "text": "want",
+          "start": 177.22,
+          "end": 177.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "want",
+              "start": 177.22,
+              "end": 177.58
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 177.58,
+          "end": 177.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 177.58,
+              "end": 177.98
+            }
+          ]
+        },
+        {
+          "text": "piece",
+          "start": 178.12,
+          "end": 178.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "piece",
+              "start": 178.12,
+              "end": 178.38
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 178.4,
+          "end": 178.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 178.4,
+              "end": 178.78
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 178.78,
+          "end": 179.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 178.78,
+              "end": 179.18
+            }
+          ]
+        },
+        {
+          "text": "heart?",
+          "start": 180.44,
+          "end": 180.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "heart?",
+              "start": 180.44,
+              "end": 180.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 180.18,
+      "end": 183.78,
+      "text": "You better start from the start",
+      "words": [
+        {
+          "text": "You",
+          "start": 180.18,
+          "end": 180.3,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 180.18,
+              "end": 180.38
+            }
+          ]
+        },
+        {
+          "text": "better",
+          "start": 180.44,
+          "end": 181.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bet",
+              "start": 180.44,
+              "end": 180.75
+            },
+            {
+              "text": "ter",
+              "start": 180.75,
+              "end": 181.06
+            }
+          ]
+        },
+        {
+          "text": "start",
+          "start": 181.08,
+          "end": 181.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "start",
+              "start": 181.08,
+              "end": 181.44
+            }
+          ]
+        },
+        {
+          "text": "from",
+          "start": 181.44,
+          "end": 181.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "from",
+              "start": 181.44,
+              "end": 181.82
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 181.82,
+          "end": 182.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 181.82,
+              "end": 182.2
+            }
+          ]
+        },
+        {
+          "text": "start",
+          "start": 183.7,
+          "end": 183.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "start",
+              "start": 183.7,
+              "end": 183.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 183.22,
+      "end": 186.57,
+      "text": "You wanna be in the show?",
+      "words": [
+        {
+          "text": "You",
+          "start": 183.22,
+          "end": 183.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 183.22,
+              "end": 183.49
+            }
+          ]
+        },
+        {
+          "text": "wanna",
+          "start": 183.7,
+          "end": 184.25,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wan",
+              "start": 183.7,
+              "end": 183.98
+            },
+            {
+              "text": "na",
+              "start": 183.98,
+              "end": 184.25
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 184.32,
+          "end": 184.63,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 184.32,
+              "end": 184.63
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 184.64,
+          "end": 185.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 184.64,
+              "end": 185.01
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 185.01,
+          "end": 185.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 185.01,
+              "end": 185.39
+            }
+          ]
+        },
+        {
+          "text": "show?",
+          "start": 186.32,
+          "end": 186.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "show?",
+              "start": 186.32,
+              "end": 186.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 186.58,
+      "end": 188.78,
+      "text": "Come on, baby, let's go!",
+      "words": [
+        {
+          "text": "Come",
+          "start": 186.58,
+          "end": 186.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Come",
+              "start": 186.58,
+              "end": 186.96
+            }
+          ]
+        },
+        {
+          "text": "on,",
+          "start": 186.96,
+          "end": 187.26,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on,",
+              "start": 186.96,
+              "end": 187.26
+            }
+          ]
+        },
+        {
+          "text": "baby,",
+          "start": 187.58,
+          "end": 188.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ba",
+              "start": 187.58,
+              "end": 187.8
+            },
+            {
+              "text": "by,",
+              "start": 187.8,
+              "end": 188.02
+            }
+          ]
+        },
+        {
+          "text": "let's",
+          "start": 188.12,
+          "end": 188.4,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "let's",
+              "start": 188.12,
+              "end": 188.4
+            }
+          ]
+        },
+        {
+          "text": "go!",
+          "start": 188.4,
+          "end": 188.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go!",
+              "start": 188.4,
+              "end": 188.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 189.62,
+      "end": 193.73999999999998,
+      "text": "You want a piece of my heart?",
+      "words": [
+        {
+          "text": "You",
+          "start": 189.62,
+          "end": 190,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 189.62,
+              "end": 190
+            }
+          ]
+        },
+        {
+          "text": "want",
+          "start": 190.22,
+          "end": 190.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "want",
+              "start": 190.22,
+              "end": 190.6
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 190.6,
+          "end": 190.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 190.6,
+              "end": 190.98
+            }
+          ]
+        },
+        {
+          "text": "piece",
+          "start": 191.1,
+          "end": 191.4,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "piece",
+              "start": 191.1,
+              "end": 191.4
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 191.4,
+          "end": 191.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 191.4,
+              "end": 191.78
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 191.78,
+          "end": 192.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 191.78,
+              "end": 192.16
+            }
+          ]
+        },
+        {
+          "text": "heart?",
+          "start": 193.46,
+          "end": 193.73999999999998,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "heart?",
+              "start": 193.46,
+              "end": 193.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 193.14,
+      "end": 195.47,
+      "text": "You better start from the start",
+      "words": [
+        {
+          "text": "You",
+          "start": 193.14,
+          "end": 193.19,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 193.14,
+              "end": 193.34
+            }
+          ]
+        },
+        {
+          "text": "better",
+          "start": 193.46,
+          "end": 193.95,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bet",
+              "start": 193.46,
+              "end": 193.71
+            },
+            {
+              "text": "ter",
+              "start": 193.71,
+              "end": 193.95
+            }
+          ]
+        },
+        {
+          "text": "start",
+          "start": 194.08,
+          "end": 194.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "start",
+              "start": 194.08,
+              "end": 194.33
+            }
+          ]
+        },
+        {
+          "text": "from",
+          "start": 194.36,
+          "end": 194.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "from",
+              "start": 194.36,
+              "end": 194.71
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 194.71,
+          "end": 195.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 194.71,
+              "end": 195.09
+            }
+          ]
+        },
+        {
+          "text": "start",
+          "start": 195.09,
+          "end": 195.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "start",
+              "start": 195.09,
+              "end": 195.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 196.1,
+      "end": 199.57,
+      "text": "You wanna be in the show?",
+      "words": [
+        {
+          "text": "You",
+          "start": 196.1,
+          "end": 196.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 196.1,
+              "end": 196.48
+            }
+          ]
+        },
+        {
+          "text": "wanna",
+          "start": 196.7,
+          "end": 197.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wan",
+              "start": 196.7,
+              "end": 197.02
+            },
+            {
+              "text": "na",
+              "start": 197.02,
+              "end": 197.33
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 197.34,
+          "end": 197.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 197.34,
+              "end": 197.71
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 197.76,
+          "end": 198.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 197.76,
+              "end": 198.09
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 198.09,
+          "end": 198.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 198.09,
+              "end": 198.47
+            }
+          ]
+        },
+        {
+          "text": "show?",
+          "start": 199.32,
+          "end": 199.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "show?",
+              "start": 199.32,
+              "end": 199.57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 199.58,
+      "end": 201.66,
+      "text": "Come on, baby, let's go!",
+      "words": [
+        {
+          "text": "Come",
+          "start": 199.58,
+          "end": 199.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Come",
+              "start": 199.58,
+              "end": 199.86
+            }
+          ]
+        },
+        {
+          "text": "on,",
+          "start": 199.98,
+          "end": 200.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on,",
+              "start": 199.98,
+              "end": 200.23
+            }
+          ]
+        },
+        {
+          "text": "baby,",
+          "start": 200.58,
+          "end": 200.88,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ba",
+              "start": 200.58,
+              "end": 200.78
+            },
+            {
+              "text": "by,",
+              "start": 200.78,
+              "end": 200.98
+            }
+          ]
+        },
+        {
+          "text": "let's",
+          "start": 200.92,
+          "end": 201.26,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "let's",
+              "start": 200.92,
+              "end": 201.26
+            }
+          ]
+        },
+        {
+          "text": "go!",
+          "start": 201.28,
+          "end": 201.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go!",
+              "start": 201.28,
+              "end": 201.66
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "text": "Everyone's watchin' to see what you will do Everyone's lookin' at you, oh Everyone's wonderin', will you come out tonight? Everyone's tryin' to get it right, get it right Everybody is workin' for the weekend Everybody wants a new romance Everybody is goin' off the deep end Everybody needs a second chance, oh You want a piece of my heart? You better start from the start You wanna be in the show? Come on, baby, let's go! Everyone is lookin' to see if it was you Everyone wants you to come through Everyone is hopin' it'll all work out Everyone is waiting, they're holding out Everybody is workin' for the weekend Everybody wants a new romance, hey-yeah, hey-hey Everybody is goin' off the deep end Everybody needs a second chance, oh You want a piece of my heart? You better start from the start You wanna be in the show? Come on, baby, let's go! Hey! You want a piece of my heart? You better start from the start You wanna be in the show? Come on, baby, let's go! You want a piece of my heart? You better start from the start You wanna be in the show? Come on, baby, let's go!"
+}

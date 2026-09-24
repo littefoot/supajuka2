@@ -1,0 +1,19 @@
+{
+  "id": "flac_5fac1fbcb060",
+  "source": "local",
+  "title": "Faint",
+  "artist": "Linkin Park",
+  "album": "Meteora",
+  "duration": 162,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_5fac1fbcb060/cover.jpg",
+  "cachedAt": 1789624793521,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_5fac1fbcb060/original.flac",
+  "instrumentalUrl": "/audio/flac_5fac1fbcb060/instrumental.flac",
+  "vocalsUrl": "/audio/flac_5fac1fbcb060/vocals.flac"
+}

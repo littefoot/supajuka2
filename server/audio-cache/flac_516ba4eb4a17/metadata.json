@@ -1,0 +1,19 @@
+{
+  "id": "flac_516ba4eb4a17",
+  "source": "local",
+  "title": "Piano Man",
+  "artist": "Billy Joel",
+  "album": "Piano Man",
+  "duration": 339,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_516ba4eb4a17/cover.jpg",
+  "cachedAt": 1790186357995,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_516ba4eb4a17/original.flac",
+  "instrumentalUrl": "/audio/flac_516ba4eb4a17/instrumental.flac",
+  "vocalsUrl": "/audio/flac_516ba4eb4a17/vocals.flac"
+}

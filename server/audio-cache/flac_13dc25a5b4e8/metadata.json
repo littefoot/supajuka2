@@ -1,0 +1,18 @@
+{
+  "id": "flac_13dc25a5b4e8",
+  "source": "local",
+  "title": "Can't Tell Me Nothing",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 272,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790188107974,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_13dc25a5b4e8/original.flac",
+  "instrumentalUrl": "/audio/flac_13dc25a5b4e8/instrumental.flac",
+  "vocalsUrl": "/audio/flac_13dc25a5b4e8/vocals.flac"
+}

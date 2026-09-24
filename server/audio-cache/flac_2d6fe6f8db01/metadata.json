@@ -1,0 +1,19 @@
+{
+  "id": "flac_2d6fe6f8db01",
+  "source": "local",
+  "title": "Welcome To The Machine",
+  "artist": "Pink Floyd",
+  "album": "Wish You Were Here (TOCP-53808)",
+  "duration": 451,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_2d6fe6f8db01/cover.jpg",
+  "cachedAt": 1789626369611,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_2d6fe6f8db01/original.flac",
+  "instrumentalUrl": "/audio/flac_2d6fe6f8db01/instrumental.flac",
+  "vocalsUrl": "/audio/flac_2d6fe6f8db01/vocals.flac"
+}

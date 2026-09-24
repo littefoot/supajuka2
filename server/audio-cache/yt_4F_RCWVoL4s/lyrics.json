@@ -1,0 +1,1076 @@
+{
+  "language": "en",
+  "duration": 201,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 16.16,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 16.16,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 16.16,
+      "end": 20.72,
+      "text": "Where it began, I can't begin to know when",
+      "words": [
+        {
+          "text": "Where",
+          "start": 16.16,
+          "end": 16.83,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 16.83,
+          "end": 17.1,
+          "probability": 1
+        },
+        {
+          "text": "began,",
+          "start": 17.1,
+          "end": 17.9,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 17.9,
+          "end": 18.03,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 18.03,
+          "end": 18.7,
+          "probability": 1
+        },
+        {
+          "text": "begin",
+          "start": 18.7,
+          "end": 19.37,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 19.37,
+          "end": 19.64,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 19.64,
+          "end": 20.18,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 20.18,
+          "end": 20.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 23.88,
+      "end": 27.03,
+      "text": "But then I know it's growing strong",
+      "words": [
+        {
+          "text": "But",
+          "start": 23.88,
+          "end": 24.21,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 24.21,
+          "end": 24.64,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 24.64,
+          "end": 24.76,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 24.76,
+          "end": 25.19,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 25.19,
+          "end": 25.62,
+          "probability": 1
+        },
+        {
+          "text": "growing",
+          "start": 25.62,
+          "end": 26.38,
+          "probability": 1
+        },
+        {
+          "text": "strong",
+          "start": 26.38,
+          "end": 27.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 31.46,
+      "end": 32.81,
+      "text": "Wasn't the spring",
+      "words": [
+        {
+          "text": "Wasn't",
+          "start": 31.46,
+          "end": 32,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 32,
+          "end": 32.27,
+          "probability": 1
+        },
+        {
+          "text": "spring",
+          "start": 32.27,
+          "end": 32.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.29,
+      "end": 38.33,
+      "text": "And spring became the summer",
+      "words": [
+        {
+          "text": "And",
+          "start": 35.29,
+          "end": 35.67,
+          "probability": 1
+        },
+        {
+          "text": "spring",
+          "start": 35.67,
+          "end": 36.43,
+          "probability": 1
+        },
+        {
+          "text": "became",
+          "start": 36.43,
+          "end": 37.19,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 37.19,
+          "end": 37.57,
+          "probability": 1
+        },
+        {
+          "text": "summer",
+          "start": 37.57,
+          "end": 38.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 39.17,
+      "end": 43.37,
+      "text": "Who'd have believe you'd come along",
+      "words": [
+        {
+          "text": "Who'd",
+          "start": 39.17,
+          "end": 39.87,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 39.87,
+          "end": 40.43,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 40.43,
+          "end": 41.41,
+          "probability": 1
+        },
+        {
+          "text": "you'd",
+          "start": 41.41,
+          "end": 42.11,
+          "probability": 1
+        },
+        {
+          "text": "come",
+          "start": 42.11,
+          "end": 42.67,
+          "probability": 1
+        },
+        {
+          "text": "along",
+          "start": 42.67,
+          "end": 43.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.65,
+      "end": 48.31,
+      "text": "Hands, touching hands, reaching out",
+      "words": [
+        {
+          "text": "Hands,",
+          "start": 45.65,
+          "end": 46.16,
+          "probability": 1
+        },
+        {
+          "text": "touching",
+          "start": 46.16,
+          "end": 46.85,
+          "probability": 1
+        },
+        {
+          "text": "hands,",
+          "start": 46.85,
+          "end": 47.36,
+          "probability": 1
+        },
+        {
+          "text": "reaching",
+          "start": 47.36,
+          "end": 48.05,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 48.05,
+          "end": 48.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 48.31,
+      "end": 57.48,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 48.31,
+          "end": 57.48,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 57.48,
+      "end": 59.76,
+      "text": "Touching me, touching you",
+      "words": [
+        {
+          "text": "Touching",
+          "start": 57.48,
+          "end": 58.31,
+          "probability": 1
+        },
+        {
+          "text": "me,",
+          "start": 58.31,
+          "end": 58.62,
+          "probability": 1
+        },
+        {
+          "text": "touching",
+          "start": 58.62,
+          "end": 59.45,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 59.45,
+          "end": 59.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 64.45,
+      "end": 66.35,
+      "text": "Sweet Caroline",
+      "words": [
+        {
+          "text": "Sweet",
+          "start": 64.45,
+          "end": 65.18,
+          "probability": 1
+        },
+        {
+          "text": "Caroline",
+          "start": 65.18,
+          "end": 66.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.52,
+      "end": 72.56,
+      "text": "Good times never seem so good",
+      "words": [
+        {
+          "text": "Good",
+          "start": 69.52,
+          "end": 70.03,
+          "probability": 1
+        },
+        {
+          "text": "times",
+          "start": 70.03,
+          "end": 70.66,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 70.66,
+          "end": 71.29,
+          "probability": 1
+        },
+        {
+          "text": "seem",
+          "start": 71.29,
+          "end": 71.8,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 71.8,
+          "end": 72.05,
+          "probability": 1
+        },
+        {
+          "text": "good",
+          "start": 72.05,
+          "end": 72.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.23,
+      "end": 77.51,
+      "text": "I've been inclined",
+      "words": [
+        {
+          "text": "I've",
+          "start": 75.23,
+          "end": 75.8,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 75.8,
+          "end": 76.37,
+          "probability": 1
+        },
+        {
+          "text": "inclined",
+          "start": 76.37,
+          "end": 77.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 79.98,
+      "end": 84.18,
+      "text": "To believe it never would but now I",
+      "words": [
+        {
+          "text": "To",
+          "start": 79.98,
+          "end": 80.28,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 80.28,
+          "end": 81.33,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 81.33,
+          "end": 81.63,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 81.63,
+          "end": 82.38,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 82.38,
+          "end": 83.13,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 83.13,
+          "end": 83.58,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 83.58,
+          "end": 84.03,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 84.03,
+          "end": 84.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 87.97,
+      "end": 89.77,
+      "text": "Look at the night",
+      "words": [
+        {
+          "text": "Look",
+          "start": 87.97,
+          "end": 88.48,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 88.48,
+          "end": 88.74,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 88.74,
+          "end": 89.13,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 89.13,
+          "end": 89.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 91.24,
+      "end": 94.28,
+      "text": "And it don't seem so lonely",
+      "words": [
+        {
+          "text": "And",
+          "start": 91.24,
+          "end": 91.65,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 91.65,
+          "end": 91.93,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 91.93,
+          "end": 92.62,
+          "probability": 1
+        },
+        {
+          "text": "seem",
+          "start": 92.62,
+          "end": 93.17,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 93.17,
+          "end": 93.45,
+          "probability": 1
+        },
+        {
+          "text": "lonely",
+          "start": 93.45,
+          "end": 94.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.16,
+      "end": 98.31,
+      "text": "We fill it up with only two",
+      "words": [
+        {
+          "text": "We",
+          "start": 95.16,
+          "end": 95.46,
+          "probability": 1
+        },
+        {
+          "text": "fill",
+          "start": 95.46,
+          "end": 96.06,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 96.06,
+          "end": 96.36,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 96.36,
+          "end": 96.66,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 96.66,
+          "end": 97.26,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 97.26,
+          "end": 97.86,
+          "probability": 1
+        },
+        {
+          "text": "two",
+          "start": 97.86,
+          "end": 98.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.65,
+      "end": 104.45,
+      "text": "And when I hurt",
+      "words": [
+        {
+          "text": "And",
+          "start": 102.65,
+          "end": 103.1,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 103.1,
+          "end": 103.7,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 103.7,
+          "end": 103.85,
+          "probability": 1
+        },
+        {
+          "text": "hurt",
+          "start": 103.85,
+          "end": 104.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 106.54,
+      "end": 109.2,
+      "text": "Hurting runs off my shoulder",
+      "words": [
+        {
+          "text": "Hurting",
+          "start": 106.54,
+          "end": 107.32,
+          "probability": 1
+        },
+        {
+          "text": "runs",
+          "start": 107.32,
+          "end": 107.76,
+          "probability": 1
+        },
+        {
+          "text": "off",
+          "start": 107.76,
+          "end": 108.09,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 108.09,
+          "end": 108.31,
+          "probability": 1
+        },
+        {
+          "text": "shoulder",
+          "start": 108.31,
+          "end": 109.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 110.5,
+      "end": 113.65,
+      "text": "How can I hurt when holding you",
+      "words": [
+        {
+          "text": "How",
+          "start": 110.5,
+          "end": 110.88,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 110.88,
+          "end": 111.26,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 111.26,
+          "end": 111.39,
+          "probability": 1
+        },
+        {
+          "text": "hurt",
+          "start": 111.39,
+          "end": 111.89,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 111.89,
+          "end": 112.39,
+          "probability": 1
+        },
+        {
+          "text": "holding",
+          "start": 112.39,
+          "end": 113.27,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 113.27,
+          "end": 113.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.16,
+      "end": 120.58,
+      "text": "One, touching one, reaching out",
+      "words": [
+        {
+          "text": "One,",
+          "start": 117.16,
+          "end": 117.67,
+          "probability": 1
+        },
+        {
+          "text": "touching",
+          "start": 117.67,
+          "end": 118.68,
+          "probability": 1
+        },
+        {
+          "text": "one,",
+          "start": 118.68,
+          "end": 119.19,
+          "probability": 1
+        },
+        {
+          "text": "reaching",
+          "start": 119.19,
+          "end": 120.2,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 120.2,
+          "end": 120.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 120.58,
+      "end": 128.91,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 120.58,
+          "end": 128.91,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 128.91,
+      "end": 131.19,
+      "text": "Touching me, touching you",
+      "words": [
+        {
+          "text": "Touching",
+          "start": 128.91,
+          "end": 129.74,
+          "probability": 1
+        },
+        {
+          "text": "me,",
+          "start": 129.74,
+          "end": 130.05,
+          "probability": 1
+        },
+        {
+          "text": "touching",
+          "start": 130.05,
+          "end": 130.88,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 130.88,
+          "end": 131.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 135.87,
+      "end": 137.77,
+      "text": "Sweet Caroline",
+      "words": [
+        {
+          "text": "Sweet",
+          "start": 135.87,
+          "end": 136.6,
+          "probability": 1
+        },
+        {
+          "text": "Caroline",
+          "start": 136.6,
+          "end": 137.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 140.93,
+      "end": 143.97,
+      "text": "Good times never seem so good",
+      "words": [
+        {
+          "text": "Good",
+          "start": 140.93,
+          "end": 141.44,
+          "probability": 1
+        },
+        {
+          "text": "times",
+          "start": 141.44,
+          "end": 142.07,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 142.07,
+          "end": 142.7,
+          "probability": 1
+        },
+        {
+          "text": "seem",
+          "start": 142.7,
+          "end": 143.21,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 143.21,
+          "end": 143.46,
+          "probability": 1
+        },
+        {
+          "text": "good",
+          "start": 143.46,
+          "end": 143.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.98,
+      "end": 149.26,
+      "text": "I've been inclined",
+      "words": [
+        {
+          "text": "I've",
+          "start": 146.98,
+          "end": 147.55,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 147.55,
+          "end": 148.12,
+          "probability": 1
+        },
+        {
+          "text": "inclined",
+          "start": 148.12,
+          "end": 149.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 152.21,
+      "end": 156.41,
+      "text": "To believe they never would, oh no no",
+      "words": [
+        {
+          "text": "To",
+          "start": 152.21,
+          "end": 152.49,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 152.49,
+          "end": 153.47,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 153.47,
+          "end": 154.03,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 154.03,
+          "end": 154.73,
+          "probability": 1
+        },
+        {
+          "text": "would,",
+          "start": 154.73,
+          "end": 155.57,
+          "probability": 1
+        },
+        {
+          "text": "oh",
+          "start": 155.57,
+          "end": 155.85,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 155.85,
+          "end": 156.13,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 156.13,
+          "end": 156.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.41,
+      "end": 172.04,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 156.41,
+          "end": 172.04,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 172.04,
+      "end": 173.94,
+      "text": "Sweet Caroline",
+      "words": [
+        {
+          "text": "Sweet",
+          "start": 172.04,
+          "end": 172.77,
+          "probability": 1
+        },
+        {
+          "text": "Caroline",
+          "start": 172.77,
+          "end": 173.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 176.42,
+      "end": 179.46,
+      "text": "Good times never seem so good",
+      "words": [
+        {
+          "text": "Good",
+          "start": 176.42,
+          "end": 176.93,
+          "probability": 1
+        },
+        {
+          "text": "times",
+          "start": 176.93,
+          "end": 177.56,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 177.56,
+          "end": 178.19,
+          "probability": 1
+        },
+        {
+          "text": "seem",
+          "start": 178.19,
+          "end": 178.7,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 178.7,
+          "end": 178.95,
+          "probability": 1
+        },
+        {
+          "text": "good",
+          "start": 178.95,
+          "end": 179.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 182.81,
+      "end": 184.71,
+      "text": "Sweet Caroline",
+      "words": [
+        {
+          "text": "Sweet",
+          "start": 182.81,
+          "end": 183.54,
+          "probability": 1
+        },
+        {
+          "text": "Caroline",
+          "start": 183.54,
+          "end": 184.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 187.56,
+      "end": 190.6,
+      "text": "I believe they never could",
+      "words": [
+        {
+          "text": "I",
+          "start": 187.56,
+          "end": 187.7,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 187.7,
+          "end": 188.67,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 188.67,
+          "end": 189.22,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 189.22,
+          "end": 189.91,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 189.91,
+          "end": 190.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 193.76,
+      "end": 195.66,
+      "text": "Sweet Caroline",
+      "words": [
+        {
+          "text": "Sweet",
+          "start": 193.76,
+          "end": 194.49,
+          "probability": 1
+        },
+        {
+          "text": "Caroline",
+          "start": 194.49,
+          "end": 195.66,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Where it began, I can't begin to know when But then I know it's growing strong Wasn't the spring And spring became the summer Who'd have believe you'd come along Hands, touching hands, reaching out Touching me, touching you Sweet Caroline Good times never seem so good I've been inclined To believe it never would but now I Look at the night And it don't seem so lonely We fill it up with only two And when I hurt Hurting runs off my shoulder How can I hurt when holding you One, touching one, reaching out Touching me, touching you Sweet Caroline Good times never seem so good I've been inclined To believe they never would, oh no no Sweet Caroline Good times never seem so good Sweet Caroline I believe they never could Sweet Caroline"
+}

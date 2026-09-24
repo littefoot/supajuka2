@@ -1,0 +1,19 @@
+{
+  "id": "flac_252a0efea1de",
+  "source": "local",
+  "title": "My Life",
+  "artist": "Billy Joel",
+  "album": "50 Years of the Piano Man",
+  "duration": 284,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_252a0efea1de/cover.jpg",
+  "cachedAt": 1790186570665,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_252a0efea1de/original.flac",
+  "instrumentalUrl": "/audio/flac_252a0efea1de/instrumental.flac",
+  "vocalsUrl": "/audio/flac_252a0efea1de/vocals.flac"
+}

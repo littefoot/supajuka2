@@ -1,0 +1,18 @@
+{
+  "id": "flac_20b8a5543514",
+  "source": "local",
+  "title": "Bittersweet Poetry feat. John Mayer",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 242,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790188330548,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_20b8a5543514/original.flac",
+  "instrumentalUrl": "/audio/flac_20b8a5543514/instrumental.flac",
+  "vocalsUrl": "/audio/flac_20b8a5543514/vocals.flac"
+}

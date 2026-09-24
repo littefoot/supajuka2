@@ -1,0 +1,19 @@
+{
+  "id": "flac_a7e3cd88e60a",
+  "source": "local",
+  "title": "Don't Look Back in Anger  (Remastered)",
+  "artist": "Oasis ",
+  "album": "Time Flies... 1994-2009 ",
+  "duration": 291,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_a7e3cd88e60a/cover.jpg",
+  "cachedAt": 1789515767608,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_a7e3cd88e60a/original.flac",
+  "instrumentalUrl": "/audio/flac_a7e3cd88e60a/instrumental.mp3",
+  "vocalsUrl": "/audio/flac_a7e3cd88e60a/vocals.flac"
+}

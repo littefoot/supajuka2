@@ -1,0 +1,2036 @@
+{
+  "language": "en",
+  "duration": 164,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 8.29,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 8.29,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 8.29,
+      "end": 11.79,
+      "text": "What would you think if I sang out of tune",
+      "words": [
+        {
+          "text": "What",
+          "start": 8.29,
+          "end": 8.71,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 8.71,
+          "end": 9.24,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 9.24,
+          "end": 9.56,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 9.56,
+          "end": 10.09,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 10.09,
+          "end": 10.3,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 10.3,
+          "end": 10.42,
+          "probability": 1
+        },
+        {
+          "text": "sang",
+          "start": 10.42,
+          "end": 10.84,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 10.84,
+          "end": 11.16,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 11.16,
+          "end": 11.37,
+          "probability": 1
+        },
+        {
+          "text": "tune",
+          "start": 11.37,
+          "end": 11.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 12.04,
+      "end": 16.1,
+      "text": "Would you stand up and walk out on me",
+      "words": [
+        {
+          "text": "Would",
+          "start": 12.04,
+          "end": 12.74,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 12.74,
+          "end": 13.16,
+          "probability": 1
+        },
+        {
+          "text": "stand",
+          "start": 13.16,
+          "end": 13.86,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 13.86,
+          "end": 14.14,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 14.14,
+          "end": 14.56,
+          "probability": 1
+        },
+        {
+          "text": "walk",
+          "start": 14.56,
+          "end": 15.12,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 15.12,
+          "end": 15.54,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 15.54,
+          "end": 15.82,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 15.82,
+          "end": 16.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 17.17,
+      "end": 20.72,
+      "text": "Lend me your ears and I'll sing you a song",
+      "words": [
+        {
+          "text": "Lend",
+          "start": 17.17,
+          "end": 17.6,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 17.6,
+          "end": 17.81,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 17.81,
+          "end": 18.24,
+          "probability": 1
+        },
+        {
+          "text": "ears",
+          "start": 18.24,
+          "end": 18.67,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 18.67,
+          "end": 18.99,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 18.99,
+          "end": 19.42,
+          "probability": 1
+        },
+        {
+          "text": "sing",
+          "start": 19.42,
+          "end": 19.85,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 19.85,
+          "end": 20.17,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 20.17,
+          "end": 20.29,
+          "probability": 1
+        },
+        {
+          "text": "song",
+          "start": 20.29,
+          "end": 20.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 20.96,
+      "end": 24.65,
+      "text": "And I'll try not to sing out of key",
+      "words": [
+        {
+          "text": "And",
+          "start": 20.96,
+          "end": 21.37,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 21.37,
+          "end": 21.92,
+          "probability": 1
+        },
+        {
+          "text": "try",
+          "start": 21.92,
+          "end": 22.33,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 22.33,
+          "end": 22.74,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 22.74,
+          "end": 23.01,
+          "probability": 1
+        },
+        {
+          "text": "sing",
+          "start": 23.01,
+          "end": 23.56,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 23.56,
+          "end": 23.97,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 23.97,
+          "end": 24.24,
+          "probability": 1
+        },
+        {
+          "text": "key",
+          "start": 24.24,
+          "end": 24.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 24.9,
+      "end": 28.99,
+      "text": "Oh, I get by with a little help from my friends",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 24.9,
+          "end": 25.23,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 25.23,
+          "end": 25.35,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 25.35,
+          "end": 25.68,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 25.68,
+          "end": 25.9,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 25.9,
+          "end": 26.34,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 26.34,
+          "end": 26.46,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 26.46,
+          "end": 27.12,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 27.12,
+          "end": 27.56,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 27.56,
+          "end": 28,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 28,
+          "end": 28.22,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 28.22,
+          "end": 28.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 29.22,
+      "end": 33.26,
+      "text": "Hmm, I get high with a little help from my friends",
+      "words": [
+        {
+          "text": "Hmm,",
+          "start": 29.22,
+          "end": 29.62,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 29.62,
+          "end": 29.74,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 29.74,
+          "end": 30.04,
+          "probability": 1
+        },
+        {
+          "text": "high",
+          "start": 30.04,
+          "end": 30.44,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 30.44,
+          "end": 30.84,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 30.84,
+          "end": 30.96,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 30.96,
+          "end": 31.56,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 31.56,
+          "end": 31.96,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 31.96,
+          "end": 32.36,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 32.36,
+          "end": 32.56,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 32.56,
+          "end": 33.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 33.46,
+      "end": 38.42,
+      "text": "Hmm, going to try with a little help from my friends",
+      "words": [
+        {
+          "text": "Hmm,",
+          "start": 33.46,
+          "end": 33.93,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 33.93,
+          "end": 34.52,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 34.52,
+          "end": 34.76,
+          "probability": 1
+        },
+        {
+          "text": "try",
+          "start": 34.76,
+          "end": 35.11,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 35.11,
+          "end": 35.58,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 35.58,
+          "end": 35.7,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 35.7,
+          "end": 36.41,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 36.41,
+          "end": 36.88,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 36.88,
+          "end": 37.35,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 37.35,
+          "end": 37.59,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 37.59,
+          "end": 38.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 43.38,
+      "end": 46.38,
+      "text": "What do I do when my love is away",
+      "words": [
+        {
+          "text": "What",
+          "start": 43.38,
+          "end": 43.86,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 43.86,
+          "end": 44.1,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 44.1,
+          "end": 44.22,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 44.22,
+          "end": 44.46,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 44.46,
+          "end": 44.94,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 44.94,
+          "end": 45.18,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 45.18,
+          "end": 45.66,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 45.66,
+          "end": 45.9,
+          "probability": 1
+        },
+        {
+          "text": "away",
+          "start": 45.9,
+          "end": 46.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 46.66,
+      "end": 50.47,
+      "text": "Does it worry you to be alone?",
+      "words": [
+        {
+          "text": "Does",
+          "start": 46.66,
+          "end": 47.29,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 47.29,
+          "end": 47.61,
+          "probability": 1
+        },
+        {
+          "text": "worry",
+          "start": 47.61,
+          "end": 48.4,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 48.4,
+          "end": 48.88,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 48.88,
+          "end": 49.2,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 49.2,
+          "end": 49.52,
+          "probability": 1
+        },
+        {
+          "text": "alone?",
+          "start": 49.52,
+          "end": 50.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.76,
+      "end": 55.05,
+      "text": "How do I feel by the end of the day",
+      "words": [
+        {
+          "text": "How",
+          "start": 51.76,
+          "end": 52.14,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 52.14,
+          "end": 52.39,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 52.39,
+          "end": 52.52,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 52.52,
+          "end": 53.03,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 53.03,
+          "end": 53.28,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 53.28,
+          "end": 53.66,
+          "probability": 1
+        },
+        {
+          "text": "end",
+          "start": 53.66,
+          "end": 54.04,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 54.04,
+          "end": 54.29,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 54.29,
+          "end": 54.67,
+          "probability": 1
+        },
+        {
+          "text": "day",
+          "start": 54.67,
+          "end": 55.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 55.3,
+      "end": 58.72,
+      "text": "Are you sad because you're on your own?",
+      "words": [
+        {
+          "text": "Are",
+          "start": 55.3,
+          "end": 55.62,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 55.62,
+          "end": 55.94,
+          "probability": 1
+        },
+        {
+          "text": "sad",
+          "start": 55.94,
+          "end": 56.26,
+          "probability": 1
+        },
+        {
+          "text": "because",
+          "start": 56.26,
+          "end": 57.01,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 57.01,
+          "end": 57.65,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 57.65,
+          "end": 57.86,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 57.86,
+          "end": 58.29,
+          "probability": 1
+        },
+        {
+          "text": "own?",
+          "start": 58.29,
+          "end": 58.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 58.97,
+      "end": 63.21,
+      "text": "No, I get by with a little help from my friends",
+      "words": [
+        {
+          "text": "No,",
+          "start": 58.97,
+          "end": 59.31,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 59.31,
+          "end": 59.43,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 59.43,
+          "end": 59.77,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 59.77,
+          "end": 60,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 60,
+          "end": 60.46,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 60.46,
+          "end": 60.58,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 60.58,
+          "end": 61.26,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 61.26,
+          "end": 61.72,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 61.72,
+          "end": 62.18,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 62.18,
+          "end": 62.41,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 62.41,
+          "end": 63.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 63.43,
+      "end": 67.39,
+      "text": "Hmm, I get high with a little help from my friends",
+      "words": [
+        {
+          "text": "Hmm,",
+          "start": 63.43,
+          "end": 63.82,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 63.82,
+          "end": 63.94,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 63.94,
+          "end": 64.23,
+          "probability": 1
+        },
+        {
+          "text": "high",
+          "start": 64.23,
+          "end": 64.62,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 64.62,
+          "end": 65.01,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 65.01,
+          "end": 65.13,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 65.13,
+          "end": 65.72,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 65.72,
+          "end": 66.11,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 66.11,
+          "end": 66.5,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 66.5,
+          "end": 66.7,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 66.7,
+          "end": 67.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 67.61,
+      "end": 71.95,
+      "text": "Hmm, going to try with a little help from my friends",
+      "words": [
+        {
+          "text": "Hmm,",
+          "start": 67.61,
+          "end": 68.02,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 68.02,
+          "end": 68.53,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 68.53,
+          "end": 68.74,
+          "probability": 1
+        },
+        {
+          "text": "try",
+          "start": 68.74,
+          "end": 69.05,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 69.05,
+          "end": 69.46,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 69.46,
+          "end": 69.58,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 69.58,
+          "end": 70.2,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 70.2,
+          "end": 70.61,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 70.61,
+          "end": 71.02,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 71.02,
+          "end": 71.23,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 71.23,
+          "end": 71.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 72.17,
+      "end": 74.83,
+      "text": "Do you need anybody?",
+      "words": [
+        {
+          "text": "Do",
+          "start": 72.17,
+          "end": 72.48,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 72.48,
+          "end": 72.95,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 72.95,
+          "end": 73.58,
+          "probability": 1
+        },
+        {
+          "text": "anybody?",
+          "start": 73.58,
+          "end": 74.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 77.15,
+      "end": 80.48,
+      "text": "I need somebody to love",
+      "words": [
+        {
+          "text": "I",
+          "start": 77.15,
+          "end": 77.33,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 77.33,
+          "end": 78.03,
+          "probability": 1
+        },
+        {
+          "text": "somebody",
+          "start": 78.03,
+          "end": 79.43,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 79.43,
+          "end": 79.78,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 79.78,
+          "end": 80.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 80.73,
+      "end": 83.38,
+      "text": "Could it be anybody?",
+      "words": [
+        {
+          "text": "Could",
+          "start": 80.73,
+          "end": 81.51,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 81.51,
+          "end": 81.82,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 81.82,
+          "end": 82.13,
+          "probability": 1
+        },
+        {
+          "text": "anybody?",
+          "start": 82.13,
+          "end": 83.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 85.6,
+      "end": 89.02,
+      "text": "I want somebody to love",
+      "words": [
+        {
+          "text": "I",
+          "start": 85.6,
+          "end": 85.78,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 85.78,
+          "end": 86.5,
+          "probability": 1
+        },
+        {
+          "text": "somebody",
+          "start": 86.5,
+          "end": 87.94,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 87.94,
+          "end": 88.3,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 88.3,
+          "end": 89.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 90.36,
+      "end": 93.59,
+      "text": "Would you believe in a love at first sight?",
+      "words": [
+        {
+          "text": "Would",
+          "start": 90.36,
+          "end": 90.82,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 90.82,
+          "end": 91.09,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 91.09,
+          "end": 91.73,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 91.73,
+          "end": 91.91,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 91.91,
+          "end": 92.03,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 92.03,
+          "end": 92.4,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 92.4,
+          "end": 92.58,
+          "probability": 1
+        },
+        {
+          "text": "first",
+          "start": 92.58,
+          "end": 93.04,
+          "probability": 1
+        },
+        {
+          "text": "sight?",
+          "start": 93.04,
+          "end": 93.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 93.81,
+      "end": 98.36,
+      "text": "Yes, I'm certain that it happens all the time",
+      "words": [
+        {
+          "text": "Yes,",
+          "start": 93.81,
+          "end": 94.3,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 94.3,
+          "end": 94.67,
+          "probability": 1
+        },
+        {
+          "text": "certain",
+          "start": 94.67,
+          "end": 95.53,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 95.53,
+          "end": 96.02,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 96.02,
+          "end": 96.27,
+          "probability": 1
+        },
+        {
+          "text": "happens",
+          "start": 96.27,
+          "end": 97.13,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 97.13,
+          "end": 97.5,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 97.5,
+          "end": 97.87,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 97.87,
+          "end": 98.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 98.88,
+      "end": 102.04,
+      "text": "What do you see when you turn out the light?",
+      "words": [
+        {
+          "text": "What",
+          "start": 98.88,
+          "end": 99.24,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 99.24,
+          "end": 99.42,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 99.42,
+          "end": 99.69,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 99.69,
+          "end": 99.96,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 99.96,
+          "end": 100.32,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 100.32,
+          "end": 100.59,
+          "probability": 1
+        },
+        {
+          "text": "turn",
+          "start": 100.59,
+          "end": 100.95,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 100.95,
+          "end": 101.22,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 101.22,
+          "end": 101.49,
+          "probability": 1
+        },
+        {
+          "text": "light?",
+          "start": 101.49,
+          "end": 102.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.32,
+      "end": 105.84,
+      "text": "I can't tell you, but I know it's mine",
+      "words": [
+        {
+          "text": "I",
+          "start": 102.32,
+          "end": 102.44,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 102.44,
+          "end": 103.02,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 103.02,
+          "end": 103.49,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 103.49,
+          "end": 103.96,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 103.96,
+          "end": 104.31,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 104.31,
+          "end": 104.43,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 104.43,
+          "end": 104.9,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 104.9,
+          "end": 105.37,
+          "probability": 1
+        },
+        {
+          "text": "mine",
+          "start": 105.37,
+          "end": 105.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 106.06,
+      "end": 110.15,
+      "text": "Oh, I get by with a little help from my friends",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 106.06,
+          "end": 106.39,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 106.39,
+          "end": 106.51,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 106.51,
+          "end": 106.84,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 106.84,
+          "end": 107.06,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 107.06,
+          "end": 107.5,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 107.5,
+          "end": 107.62,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 107.62,
+          "end": 108.28,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 108.28,
+          "end": 108.72,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 108.72,
+          "end": 109.16,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 109.16,
+          "end": 109.38,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 109.38,
+          "end": 110.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 110.38,
+      "end": 114.6,
+      "text": "Hmm, I get high with a little help from my friends",
+      "words": [
+        {
+          "text": "Hmm,",
+          "start": 110.38,
+          "end": 110.8,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 110.8,
+          "end": 110.92,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 110.92,
+          "end": 111.23,
+          "probability": 1
+        },
+        {
+          "text": "high",
+          "start": 111.23,
+          "end": 111.65,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 111.65,
+          "end": 112.07,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 112.07,
+          "end": 112.19,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 112.19,
+          "end": 112.82,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 112.82,
+          "end": 113.24,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 113.24,
+          "end": 113.66,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 113.66,
+          "end": 113.87,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 113.87,
+          "end": 114.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 114.8,
+      "end": 118.75,
+      "text": "Hmm, going to try with a little help from my friends",
+      "words": [
+        {
+          "text": "Hmm,",
+          "start": 114.8,
+          "end": 115.17,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 115.17,
+          "end": 115.64,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 115.64,
+          "end": 115.83,
+          "probability": 1
+        },
+        {
+          "text": "try",
+          "start": 115.83,
+          "end": 116.11,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 116.11,
+          "end": 116.48,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 116.48,
+          "end": 116.6,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 116.6,
+          "end": 117.16,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 117.16,
+          "end": 117.53,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 117.53,
+          "end": 117.9,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 117.9,
+          "end": 118.09,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 118.09,
+          "end": 118.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 118.98,
+      "end": 121.64,
+      "text": "Do you need anybody?",
+      "words": [
+        {
+          "text": "Do",
+          "start": 118.98,
+          "end": 119.29,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 119.29,
+          "end": 119.76,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 119.76,
+          "end": 120.39,
+          "probability": 1
+        },
+        {
+          "text": "anybody?",
+          "start": 120.39,
+          "end": 121.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 124.1,
+      "end": 127.52,
+      "text": "I just need someone to love",
+      "words": [
+        {
+          "text": "I",
+          "start": 124.1,
+          "end": 124.26,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 124.26,
+          "end": 124.88,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 124.88,
+          "end": 125.5,
+          "probability": 1
+        },
+        {
+          "text": "someone",
+          "start": 125.5,
+          "end": 126.59,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 126.59,
+          "end": 126.9,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 126.9,
+          "end": 127.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 127.84,
+      "end": 130.49,
+      "text": "Could it be anybody?",
+      "words": [
+        {
+          "text": "Could",
+          "start": 127.84,
+          "end": 128.62,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 128.62,
+          "end": 128.93,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 128.93,
+          "end": 129.24,
+          "probability": 1
+        },
+        {
+          "text": "anybody?",
+          "start": 129.24,
+          "end": 130.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 132.81,
+      "end": 135.86,
+      "text": "I want somebody to love",
+      "words": [
+        {
+          "text": "I",
+          "start": 132.81,
+          "end": 132.97,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 132.97,
+          "end": 133.61,
+          "probability": 1
+        },
+        {
+          "text": "somebody",
+          "start": 133.61,
+          "end": 134.9,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 134.9,
+          "end": 135.22,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 135.22,
+          "end": 135.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 136.12,
+      "end": 140.16,
+      "text": "Oh, I get by with a little help from my friends",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 136.12,
+          "end": 136.45,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 136.45,
+          "end": 136.57,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 136.57,
+          "end": 136.9,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 136.9,
+          "end": 137.12,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 137.12,
+          "end": 137.55,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 137.55,
+          "end": 137.67,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 137.67,
+          "end": 138.32,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 138.32,
+          "end": 138.75,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 138.75,
+          "end": 139.18,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 139.18,
+          "end": 139.4,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 139.4,
+          "end": 140.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 140.38,
+      "end": 144.48,
+      "text": "Hmm, going to try with a little help from my friends",
+      "words": [
+        {
+          "text": "Hmm,",
+          "start": 140.38,
+          "end": 140.77,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 140.77,
+          "end": 141.26,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 141.26,
+          "end": 141.45,
+          "probability": 1
+        },
+        {
+          "text": "try",
+          "start": 141.45,
+          "end": 141.74,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 141.74,
+          "end": 142.13,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 142.13,
+          "end": 142.25,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 142.25,
+          "end": 142.83,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 142.83,
+          "end": 143.22,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 143.22,
+          "end": 143.61,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 143.61,
+          "end": 143.8,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 143.8,
+          "end": 144.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 144.71,
+      "end": 148.65,
+      "text": "Oh, I get high with a little help from my friends",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 144.71,
+          "end": 145.01,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 145.01,
+          "end": 145.13,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 145.13,
+          "end": 145.43,
+          "probability": 1
+        },
+        {
+          "text": "high",
+          "start": 145.43,
+          "end": 145.83,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 145.83,
+          "end": 146.23,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 146.23,
+          "end": 146.35,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 146.35,
+          "end": 146.95,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 146.95,
+          "end": 147.35,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 147.35,
+          "end": 147.75,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 147.75,
+          "end": 147.95,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 147.95,
+          "end": 148.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 148.85,
+      "end": 152.67,
+      "text": "Yes, I get by with a little help from my friends",
+      "words": [
+        {
+          "text": "Yes,",
+          "start": 148.85,
+          "end": 149.25,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 149.25,
+          "end": 149.37,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 149.37,
+          "end": 149.67,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 149.67,
+          "end": 149.87,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 149.87,
+          "end": 150.27,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 150.27,
+          "end": 150.39,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 150.39,
+          "end": 150.98,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 150.98,
+          "end": 151.38,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 151.38,
+          "end": 151.78,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 151.78,
+          "end": 151.98,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 151.98,
+          "end": 152.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 152.86,
+      "end": 156.02,
+      "text": "With a little help from my friends",
+      "words": [
+        {
+          "text": "With",
+          "start": 152.86,
+          "end": 153.31,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 153.31,
+          "end": 153.43,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 153.43,
+          "end": 154.11,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 154.11,
+          "end": 154.56,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 154.56,
+          "end": 155.01,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 155.01,
+          "end": 155.23,
+          "probability": 1
+        },
+        {
+          "text": "friends",
+          "start": 155.23,
+          "end": 156.02,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "What would you think if I sang out of tune Would you stand up and walk out on me Lend me your ears and I'll sing you a song And I'll try not to sing out of key Oh, I get by with a little help from my friends Hmm, I get high with a little help from my friends Hmm, going to try with a little help from my friends What do I do when my love is away Does it worry you to be alone? How do I feel by the end of the day Are you sad because you're on your own? No, I get by with a little help from my friends Hmm, I get high with a little help from my friends Hmm, going to try with a little help from my friends Do you need anybody? I need somebody to love Could it be anybody? I want somebody to love Would you believe in a love at first sight? Yes, I'm certain that it happens all the time What do you see when you turn out the light? I can't tell you, but I know it's mine Oh, I get by with a little help from my friends Hmm, I get high with a little help from my friends Hmm, going to try with a little help from my friends Do you need anybody? I just need someone to love Could it be anybody? I want somebody to love Oh, I get by with a little help from my friends Hmm, going to try with a little help from my friends Oh, I get high with a little help from my friends Yes, I get by with a little help from my friends With a little help from my friends"
+}

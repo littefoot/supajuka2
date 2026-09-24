@@ -1,0 +1,3177 @@
+{
+  "language": "en",
+  "duration": 186,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 2.68,
+      "text": "I'm not sure anymore, 'ymore",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 0.05,
+          "end": 0.38,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 0.38,
+          "end": 0.71,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 0.71,
+          "end": 1.15,
+          "probability": 1
+        },
+        {
+          "text": "anymore,",
+          "start": 1.15,
+          "end": 2.02,
+          "probability": 1
+        },
+        {
+          "text": "'ymore",
+          "start": 2.02,
+          "end": 2.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 2.92,
+      "end": 5.31,
+      "text": "Who is knocking at my door, door",
+      "words": [
+        {
+          "text": "Who",
+          "start": 2.92,
+          "end": 3.2,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 3.2,
+          "end": 3.38,
+          "probability": 1
+        },
+        {
+          "text": "knocking",
+          "start": 3.38,
+          "end": 4.12,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 4.12,
+          "end": 4.3,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 4.3,
+          "end": 4.48,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 4.48,
+          "end": 4.94,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 4.94,
+          "end": 5.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 5.56,
+      "end": 7.66,
+      "text": "All the faces that I know",
+      "words": [
+        {
+          "text": "All",
+          "start": 5.56,
+          "end": 5.87,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 5.87,
+          "end": 6.18,
+          "probability": 1
+        },
+        {
+          "text": "faces",
+          "start": 6.18,
+          "end": 6.7,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 6.7,
+          "end": 7.12,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 7.12,
+          "end": 7.24,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 7.24,
+          "end": 7.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 7.9,
+      "end": 9.74,
+      "text": "Ja make them so sunny and true",
+      "words": [
+        {
+          "text": "Ja",
+          "start": 7.9,
+          "end": 8.05,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 8.05,
+          "end": 8.36,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 8.36,
+          "end": 8.67,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 8.67,
+          "end": 8.82,
+          "probability": 1
+        },
+        {
+          "text": "sunny",
+          "start": 8.82,
+          "end": 9.2,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 9.2,
+          "end": 9.43,
+          "probability": 1
+        },
+        {
+          "text": "true",
+          "start": 9.43,
+          "end": 9.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 9.99,
+      "end": 13.4,
+      "text": "I don't wanna say goodbye, to you",
+      "words": [
+        {
+          "text": "I",
+          "start": 9.99,
+          "end": 10.12,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 10.12,
+          "end": 10.75,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 10.75,
+          "end": 11.38,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 11.38,
+          "end": 11.76,
+          "probability": 1
+        },
+        {
+          "text": "goodbye,",
+          "start": 11.76,
+          "end": 12.77,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 12.77,
+          "end": 13.02,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 13.02,
+          "end": 13.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 14.85,
+      "end": 18.45,
+      "text": "So I'll just say good night, to you",
+      "words": [
+        {
+          "text": "So",
+          "start": 14.85,
+          "end": 15.11,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 15.11,
+          "end": 15.62,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 15.62,
+          "end": 16.13,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 16.13,
+          "end": 16.52,
+          "probability": 1
+        },
+        {
+          "text": "good",
+          "start": 16.52,
+          "end": 17.03,
+          "probability": 1
+        },
+        {
+          "text": "night,",
+          "start": 17.03,
+          "end": 17.8,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 17.8,
+          "end": 18.06,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 18.06,
+          "end": 18.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 20.29,
+      "end": 23.71,
+      "text": "My people, no goodbyes to you (uh)",
+      "words": [
+        {
+          "text": "My",
+          "start": 20.29,
+          "end": 20.53,
+          "probability": 1
+        },
+        {
+          "text": "people,",
+          "start": 20.53,
+          "end": 21.39,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 21.39,
+          "end": 21.63,
+          "probability": 1
+        },
+        {
+          "text": "goodbyes",
+          "start": 21.63,
+          "end": 22.61,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 22.61,
+          "end": 22.85,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 22.85,
+          "end": 23.22,
+          "probability": 1
+        },
+        {
+          "text": "(uh)",
+          "start": 23.22,
+          "end": 23.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 26.39,
+      "end": 29.09,
+      "text": "I'm just gon' say good night",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 26.39,
+          "end": 26.74,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 26.74,
+          "end": 27.21,
+          "probability": 1
+        },
+        {
+          "text": "gon'",
+          "start": 27.21,
+          "end": 27.68,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 27.68,
+          "end": 28.03,
+          "probability": 1
+        },
+        {
+          "text": "good",
+          "start": 28.03,
+          "end": 28.5,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 28.5,
+          "end": 29.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 30.55,
+      "end": 32.35,
+      "text": "Right now I can see it so vivid",
+      "words": [
+        {
+          "text": "Right",
+          "start": 30.55,
+          "end": 30.91,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 30.91,
+          "end": 31.13,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 31.13,
+          "end": 31.25,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 31.25,
+          "end": 31.47,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 31.47,
+          "end": 31.69,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 31.69,
+          "end": 31.84,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 31.84,
+          "end": 31.99,
+          "probability": 1
+        },
+        {
+          "text": "vivid",
+          "start": 31.99,
+          "end": 32.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 32.54,
+      "end": 34.87,
+      "text": "Like it was just yesterday, like I could relive it",
+      "words": [
+        {
+          "text": "Like",
+          "start": 32.54,
+          "end": 32.76,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 32.76,
+          "end": 32.88,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 32.88,
+          "end": 33.04,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 33.04,
+          "end": 33.26,
+          "probability": 1
+        },
+        {
+          "text": "yesterday,",
+          "start": 33.26,
+          "end": 33.81,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 33.81,
+          "end": 34.03,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 34.03,
+          "end": 34.15,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 34.15,
+          "end": 34.42,
+          "probability": 1
+        },
+        {
+          "text": "relive",
+          "start": 34.42,
+          "end": 34.75,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 34.75,
+          "end": 34.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.04,
+      "end": 37.43,
+      "text": "Me and my grandparents on a field trip",
+      "words": [
+        {
+          "text": "Me",
+          "start": 35.04,
+          "end": 35.19,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 35.19,
+          "end": 35.42,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 35.42,
+          "end": 35.57,
+          "probability": 1
+        },
+        {
+          "text": "grandparents",
+          "start": 35.57,
+          "end": 36.48,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 36.48,
+          "end": 36.63,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 36.63,
+          "end": 36.75,
+          "probability": 1
+        },
+        {
+          "text": "field",
+          "start": 36.75,
+          "end": 37.13,
+          "probability": 1
+        },
+        {
+          "text": "trip",
+          "start": 37.13,
+          "end": 37.43,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 37.65,
+      "end": 40.28,
+      "text": "And I'm the little kid tryna touch the exhibits",
+      "words": [
+        {
+          "text": "And",
+          "start": 37.65,
+          "end": 37.85,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 37.85,
+          "end": 38.05,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 38.05,
+          "end": 38.25,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 38.25,
+          "end": 38.66,
+          "probability": 1
+        },
+        {
+          "text": "kid",
+          "start": 38.66,
+          "end": 38.86,
+          "probability": 1
+        },
+        {
+          "text": "tryna",
+          "start": 38.86,
+          "end": 39.2,
+          "probability": 1
+        },
+        {
+          "text": "touch",
+          "start": 39.2,
+          "end": 39.54,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 39.54,
+          "end": 39.74,
+          "probability": 1
+        },
+        {
+          "text": "exhibits",
+          "start": 39.74,
+          "end": 40.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 40.55,
+      "end": 43.31,
+      "text": "But it'll fade before I get to get a hold of that",
+      "words": [
+        {
+          "text": "But",
+          "start": 40.55,
+          "end": 40.76,
+          "probability": 1
+        },
+        {
+          "text": "it'll",
+          "start": 40.76,
+          "end": 41.11,
+          "probability": 1
+        },
+        {
+          "text": "fade",
+          "start": 41.11,
+          "end": 41.39,
+          "probability": 1
+        },
+        {
+          "text": "before",
+          "start": 41.39,
+          "end": 41.81,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 41.81,
+          "end": 41.93,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 41.93,
+          "end": 42.14,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 42.14,
+          "end": 42.28,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 42.28,
+          "end": 42.49,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 42.49,
+          "end": 42.61,
+          "probability": 1
+        },
+        {
+          "text": "hold",
+          "start": 42.61,
+          "end": 42.89,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 42.89,
+          "end": 43.03,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 43.03,
+          "end": 43.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 43.48,
+      "end": 46.22,
+      "text": "Man, I wish I could stop time like a photograph",
+      "words": [
+        {
+          "text": "Man,",
+          "start": 43.48,
+          "end": 43.75,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 43.75,
+          "end": 43.87,
+          "probability": 1
+        },
+        {
+          "text": "wish",
+          "start": 43.87,
+          "end": 44.14,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 44.14,
+          "end": 44.26,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 44.26,
+          "end": 44.6,
+          "probability": 1
+        },
+        {
+          "text": "stop",
+          "start": 44.6,
+          "end": 44.87,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 44.87,
+          "end": 45.14,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 45.14,
+          "end": 45.41,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 45.41,
+          "end": 45.53,
+          "probability": 1
+        },
+        {
+          "text": "photograph",
+          "start": 45.53,
+          "end": 46.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 46.34,
+      "end": 48.68,
+      "text": "Every joke that they told I'd know to laugh",
+      "words": [
+        {
+          "text": "Every",
+          "start": 46.34,
+          "end": 46.67,
+          "probability": 1
+        },
+        {
+          "text": "joke",
+          "start": 46.67,
+          "end": 46.94,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 46.94,
+          "end": 47.21,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 47.21,
+          "end": 47.48,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 47.48,
+          "end": 47.75,
+          "probability": 1
+        },
+        {
+          "text": "I'd",
+          "start": 47.75,
+          "end": 47.95,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 47.95,
+          "end": 48.22,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 48.22,
+          "end": 48.35,
+          "probability": 1
+        },
+        {
+          "text": "laugh",
+          "start": 48.35,
+          "end": 48.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 48.91,
+      "end": 51.41,
+      "text": "Man (man), I wouldn't let a moment pass",
+      "words": [
+        {
+          "text": "Man",
+          "start": 48.91,
+          "end": 49.14,
+          "probability": 1
+        },
+        {
+          "text": "(man),",
+          "start": 49.14,
+          "end": 49.59,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 49.59,
+          "end": 49.71,
+          "probability": 1
+        },
+        {
+          "text": "wouldn't",
+          "start": 49.71,
+          "end": 50.31,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 50.31,
+          "end": 50.54,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 50.54,
+          "end": 50.66,
+          "probability": 1
+        },
+        {
+          "text": "moment",
+          "start": 50.66,
+          "end": 51.11,
+          "probability": 1
+        },
+        {
+          "text": "pass",
+          "start": 51.11,
+          "end": 51.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.57,
+      "end": 53.97,
+      "text": "What do it mean when you dream that you fallin'?",
+      "words": [
+        {
+          "text": "What",
+          "start": 51.57,
+          "end": 51.82,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 51.82,
+          "end": 51.94,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 51.94,
+          "end": 52.06,
+          "probability": 1
+        },
+        {
+          "text": "mean",
+          "start": 52.06,
+          "end": 52.31,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 52.31,
+          "end": 52.56,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 52.56,
+          "end": 52.74,
+          "probability": 1
+        },
+        {
+          "text": "dream",
+          "start": 52.74,
+          "end": 53.05,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 53.05,
+          "end": 53.3,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 53.3,
+          "end": 53.48,
+          "probability": 1
+        },
+        {
+          "text": "fallin'?",
+          "start": 53.48,
+          "end": 53.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 54.22,
+      "end": 56.56,
+      "text": "What do it mean when you dream that you ballin'?",
+      "words": [
+        {
+          "text": "What",
+          "start": 54.22,
+          "end": 54.46,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 54.46,
+          "end": 54.58,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 54.58,
+          "end": 54.7,
+          "probability": 1
+        },
+        {
+          "text": "mean",
+          "start": 54.7,
+          "end": 54.94,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 54.94,
+          "end": 55.18,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 55.18,
+          "end": 55.36,
+          "probability": 1
+        },
+        {
+          "text": "dream",
+          "start": 55.36,
+          "end": 55.66,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 55.66,
+          "end": 55.9,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 55.9,
+          "end": 56.08,
+          "probability": 1
+        },
+        {
+          "text": "ballin'?",
+          "start": 56.08,
+          "end": 56.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 56.82,
+      "end": 59.18,
+      "text": "What do it mean when you never dream at all then",
+      "words": [
+        {
+          "text": "What",
+          "start": 56.82,
+          "end": 57.07,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 57.07,
+          "end": 57.19,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 57.19,
+          "end": 57.31,
+          "probability": 1
+        },
+        {
+          "text": "mean",
+          "start": 57.31,
+          "end": 57.56,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 57.56,
+          "end": 57.81,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 57.81,
+          "end": 58,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 58,
+          "end": 58.31,
+          "probability": 1
+        },
+        {
+          "text": "dream",
+          "start": 58.31,
+          "end": 58.62,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 58.62,
+          "end": 58.74,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 58.74,
+          "end": 58.93,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 58.93,
+          "end": 59.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 59.44,
+      "end": 62.1,
+      "text": "And you don't really know 'cause you can't recall them?",
+      "words": [
+        {
+          "text": "And",
+          "start": 59.44,
+          "end": 59.61,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 59.61,
+          "end": 59.78,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 59.78,
+          "end": 60.07,
+          "probability": 1
+        },
+        {
+          "text": "really",
+          "start": 60.07,
+          "end": 60.42,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 60.42,
+          "end": 60.65,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 60.65,
+          "end": 61,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 61,
+          "end": 61.17,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 61.17,
+          "end": 61.46,
+          "probability": 1
+        },
+        {
+          "text": "recall",
+          "start": 61.46,
+          "end": 61.81,
+          "probability": 1
+        },
+        {
+          "text": "them?",
+          "start": 61.81,
+          "end": 62.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 62.36,
+      "end": 64.88,
+      "text": "It's sorta fly you get a chance to say \"Hi\" to",
+      "words": [
+        {
+          "text": "It's",
+          "start": 62.36,
+          "end": 62.63,
+          "probability": 1
+        },
+        {
+          "text": "sorta",
+          "start": 62.63,
+          "end": 62.97,
+          "probability": 1
+        },
+        {
+          "text": "fly",
+          "start": 62.97,
+          "end": 63.18,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 63.18,
+          "end": 63.39,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 63.39,
+          "end": 63.6,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 63.6,
+          "end": 63.72,
+          "probability": 1
+        },
+        {
+          "text": "chance",
+          "start": 63.72,
+          "end": 64.13,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 64.13,
+          "end": 64.27,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 64.27,
+          "end": 64.47,
+          "probability": 1
+        },
+        {
+          "text": "\"Hi\"",
+          "start": 64.47,
+          "end": 64.74,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 64.74,
+          "end": 64.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 65.07,
+      "end": 67.6,
+      "text": "People you never got a chance to say \"Bye\" to",
+      "words": [
+        {
+          "text": "People",
+          "start": 65.07,
+          "end": 65.48,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 65.48,
+          "end": 65.69,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 65.69,
+          "end": 66.03,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 66.03,
+          "end": 66.24,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 66.24,
+          "end": 66.36,
+          "probability": 1
+        },
+        {
+          "text": "chance",
+          "start": 66.36,
+          "end": 66.77,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 66.77,
+          "end": 66.91,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 66.91,
+          "end": 67.12,
+          "probability": 1
+        },
+        {
+          "text": "\"Bye\"",
+          "start": 67.12,
+          "end": 67.46,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 67.46,
+          "end": 67.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 67.79,
+      "end": 70.34,
+      "text": "Maybe you could pull 'em up outta your dreams",
+      "words": [
+        {
+          "text": "Maybe",
+          "start": 67.79,
+          "end": 68.13,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 68.13,
+          "end": 68.34,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 68.34,
+          "end": 68.68,
+          "probability": 1
+        },
+        {
+          "text": "pull",
+          "start": 68.68,
+          "end": 68.96,
+          "probability": 1
+        },
+        {
+          "text": "'em",
+          "start": 68.96,
+          "end": 69.17,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 69.17,
+          "end": 69.31,
+          "probability": 1
+        },
+        {
+          "text": "outta",
+          "start": 69.31,
+          "end": 69.65,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 69.65,
+          "end": 69.93,
+          "probability": 1
+        },
+        {
+          "text": "dreams",
+          "start": 69.93,
+          "end": 70.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 70.59,
+      "end": 72.68,
+      "text": "Into real life (real life), if you try to",
+      "words": [
+        {
+          "text": "Into",
+          "start": 70.59,
+          "end": 70.84,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 70.84,
+          "end": 71.09,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 71.09,
+          "end": 71.34,
+          "probability": 1
+        },
+        {
+          "text": "(real",
+          "start": 71.34,
+          "end": 71.66,
+          "probability": 1
+        },
+        {
+          "text": "life),",
+          "start": 71.66,
+          "end": 72.04,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 72.04,
+          "end": 72.17,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 72.17,
+          "end": 72.36,
+          "probability": 1
+        },
+        {
+          "text": "try",
+          "start": 72.36,
+          "end": 72.55,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 72.55,
+          "end": 72.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 72.92,
+      "end": 75.57,
+      "text": "So close (so close), but so far (but so far)",
+      "words": [
+        {
+          "text": "So",
+          "start": 72.92,
+          "end": 73.07,
+          "probability": 1
+        },
+        {
+          "text": "close",
+          "start": 73.07,
+          "end": 73.45,
+          "probability": 1
+        },
+        {
+          "text": "(so",
+          "start": 73.45,
+          "end": 73.68,
+          "probability": 1
+        },
+        {
+          "text": "close),",
+          "start": 73.68,
+          "end": 74.21,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 74.21,
+          "end": 74.44,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 74.44,
+          "end": 74.59,
+          "probability": 1
+        },
+        {
+          "text": "far",
+          "start": 74.59,
+          "end": 74.82,
+          "probability": 1
+        },
+        {
+          "text": "(but",
+          "start": 74.82,
+          "end": 75.12,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 75.12,
+          "end": 75.27,
+          "probability": 1
+        },
+        {
+          "text": "far)",
+          "start": 75.27,
+          "end": 75.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.82,
+      "end": 78.51,
+      "text": "And so far (and so far), no cigar (no cigar)",
+      "words": [
+        {
+          "text": "And",
+          "start": 75.82,
+          "end": 76.05,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 76.05,
+          "end": 76.2,
+          "probability": 1
+        },
+        {
+          "text": "far",
+          "start": 76.2,
+          "end": 76.43,
+          "probability": 1
+        },
+        {
+          "text": "(and",
+          "start": 76.43,
+          "end": 76.74,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 76.74,
+          "end": 76.89,
+          "probability": 1
+        },
+        {
+          "text": "far),",
+          "start": 76.89,
+          "end": 77.28,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 77.28,
+          "end": 77.43,
+          "probability": 1
+        },
+        {
+          "text": "cigar",
+          "start": 77.43,
+          "end": 77.82,
+          "probability": 1
+        },
+        {
+          "text": "(no",
+          "start": 77.82,
+          "end": 78.05,
+          "probability": 1
+        },
+        {
+          "text": "cigar)",
+          "start": 78.05,
+          "end": 78.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 78.78,
+      "end": 81.22,
+      "text": "We can't dwell on the past, all we got is today",
+      "words": [
+        {
+          "text": "We",
+          "start": 78.78,
+          "end": 78.91,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 78.91,
+          "end": 79.24,
+          "probability": 1
+        },
+        {
+          "text": "dwell",
+          "start": 79.24,
+          "end": 79.57,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 79.57,
+          "end": 79.7,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 79.7,
+          "end": 79.9,
+          "probability": 1
+        },
+        {
+          "text": "past,",
+          "start": 79.9,
+          "end": 80.23,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 80.23,
+          "end": 80.43,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 80.43,
+          "end": 80.56,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 80.56,
+          "end": 80.76,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 80.76,
+          "end": 80.89,
+          "probability": 1
+        },
+        {
+          "text": "today",
+          "start": 80.89,
+          "end": 81.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.48,
+      "end": 82.73,
+      "text": "So I'ma live like it's no tomorrow, no goodbye",
+      "words": [
+        {
+          "text": "So",
+          "start": 81.48,
+          "end": 81.6,
+          "probability": 1
+        },
+        {
+          "text": "I'ma",
+          "start": 81.6,
+          "end": 81.72,
+          "probability": 1
+        },
+        {
+          "text": "live",
+          "start": 81.72,
+          "end": 81.84,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 81.84,
+          "end": 81.96,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 81.96,
+          "end": 82.08,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 82.08,
+          "end": 82.2,
+          "probability": 1
+        },
+        {
+          "text": "tomorrow,",
+          "start": 82.2,
+          "end": 82.43,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 82.43,
+          "end": 82.55,
+          "probability": 1
+        },
+        {
+          "text": "goodbye",
+          "start": 82.55,
+          "end": 82.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.7,
+      "end": 86.11,
+      "text": "I don't wanna say goodbye, to you",
+      "words": [
+        {
+          "text": "I",
+          "start": 82.7,
+          "end": 82.83,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 82.83,
+          "end": 83.46,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 83.46,
+          "end": 84.09,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 84.09,
+          "end": 84.47,
+          "probability": 1
+        },
+        {
+          "text": "goodbye,",
+          "start": 84.47,
+          "end": 85.48,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 85.48,
+          "end": 85.73,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 85.73,
+          "end": 86.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 87.5,
+      "end": 91.1,
+      "text": "So I'll just say good night, to you",
+      "words": [
+        {
+          "text": "So",
+          "start": 87.5,
+          "end": 87.76,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 87.76,
+          "end": 88.27,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 88.27,
+          "end": 88.78,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 88.78,
+          "end": 89.17,
+          "probability": 1
+        },
+        {
+          "text": "good",
+          "start": 89.17,
+          "end": 89.68,
+          "probability": 1
+        },
+        {
+          "text": "night,",
+          "start": 89.68,
+          "end": 90.45,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 90.45,
+          "end": 90.71,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 90.71,
+          "end": 91.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.76,
+      "end": 95.79,
+      "text": "My people, no goodbyes to you",
+      "words": [
+        {
+          "text": "My",
+          "start": 92.76,
+          "end": 93.01,
+          "probability": 1
+        },
+        {
+          "text": "people,",
+          "start": 93.01,
+          "end": 93.9,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 93.9,
+          "end": 94.15,
+          "probability": 1
+        },
+        {
+          "text": "goodbyes",
+          "start": 94.15,
+          "end": 95.16,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 95.16,
+          "end": 95.41,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 95.41,
+          "end": 95.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 98.33,
+      "end": 101.02,
+      "text": "I'm just gon' say good night",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 98.33,
+          "end": 98.68,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 98.68,
+          "end": 99.15,
+          "probability": 1
+        },
+        {
+          "text": "gon'",
+          "start": 99.15,
+          "end": 99.62,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 99.62,
+          "end": 99.97,
+          "probability": 1
+        },
+        {
+          "text": "good",
+          "start": 99.97,
+          "end": 100.44,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 100.44,
+          "end": 101.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 101.26,
+      "end": 102.62,
+      "text": "Uh, to you",
+      "words": [
+        {
+          "text": "Uh,",
+          "start": 101.26,
+          "end": 101.77,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 101.77,
+          "end": 102.11,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 102.11,
+          "end": 102.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 103.02,
+      "end": 105.54,
+      "text": "If I part, my art will live through you",
+      "words": [
+        {
+          "text": "If",
+          "start": 103.02,
+          "end": 103.18,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 103.18,
+          "end": 103.3,
+          "probability": 1
+        },
+        {
+          "text": "part,",
+          "start": 103.3,
+          "end": 103.7,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 103.7,
+          "end": 103.86,
+          "probability": 1
+        },
+        {
+          "text": "art",
+          "start": 103.86,
+          "end": 104.1,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 104.1,
+          "end": 104.42,
+          "probability": 1
+        },
+        {
+          "text": "live",
+          "start": 104.42,
+          "end": 104.74,
+          "probability": 1
+        },
+        {
+          "text": "through",
+          "start": 104.74,
+          "end": 105.3,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 105.3,
+          "end": 105.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.75,
+      "end": 108.1,
+      "text": "Dream beautiful and unusual",
+      "words": [
+        {
+          "text": "Dream",
+          "start": 105.75,
+          "end": 106.24,
+          "probability": 1
+        },
+        {
+          "text": "beautiful",
+          "start": 106.24,
+          "end": 107.12,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 107.12,
+          "end": 107.41,
+          "probability": 1
+        },
+        {
+          "text": "unusual",
+          "start": 107.41,
+          "end": 108.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 108.35,
+      "end": 111.04,
+      "text": "Wake up like every day new to you",
+      "words": [
+        {
+          "text": "Wake",
+          "start": 108.35,
+          "end": 108.76,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 108.76,
+          "end": 108.97,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 108.97,
+          "end": 109.38,
+          "probability": 1
+        },
+        {
+          "text": "every",
+          "start": 109.38,
+          "end": 109.9,
+          "probability": 1
+        },
+        {
+          "text": "day",
+          "start": 109.9,
+          "end": 110.21,
+          "probability": 1
+        },
+        {
+          "text": "new",
+          "start": 110.21,
+          "end": 110.52,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 110.52,
+          "end": 110.73,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 110.73,
+          "end": 111.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 111.28,
+      "end": 113.46,
+      "text": "Stay true to you, a hood musical",
+      "words": [
+        {
+          "text": "Stay",
+          "start": 111.28,
+          "end": 111.61,
+          "probability": 1
+        },
+        {
+          "text": "true",
+          "start": 111.61,
+          "end": 111.94,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 111.94,
+          "end": 112.1,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 112.1,
+          "end": 112.43,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 112.43,
+          "end": 112.55,
+          "probability": 1
+        },
+        {
+          "text": "hood",
+          "start": 112.55,
+          "end": 112.88,
+          "probability": 1
+        },
+        {
+          "text": "musical",
+          "start": 112.88,
+          "end": 113.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 113.67,
+      "end": 116.3,
+      "text": "My art will live through you",
+      "words": [
+        {
+          "text": "My",
+          "start": 113.67,
+          "end": 113.9,
+          "probability": 1
+        },
+        {
+          "text": "art",
+          "start": 113.9,
+          "end": 114.24,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 114.24,
+          "end": 114.7,
+          "probability": 1
+        },
+        {
+          "text": "live",
+          "start": 114.7,
+          "end": 115.16,
+          "probability": 1
+        },
+        {
+          "text": "through",
+          "start": 115.16,
+          "end": 115.96,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 115.96,
+          "end": 116.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 116.56,
+      "end": 118.93,
+      "text": "Dream beautiful and unusual",
+      "words": [
+        {
+          "text": "Dream",
+          "start": 116.56,
+          "end": 117.05,
+          "probability": 1
+        },
+        {
+          "text": "beautiful",
+          "start": 117.05,
+          "end": 117.94,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 117.94,
+          "end": 118.24,
+          "probability": 1
+        },
+        {
+          "text": "unusual",
+          "start": 118.24,
+          "end": 118.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 119.17,
+      "end": 121.51,
+      "text": "Wake up like every day new to you",
+      "words": [
+        {
+          "text": "Wake",
+          "start": 119.17,
+          "end": 119.53,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 119.53,
+          "end": 119.71,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 119.71,
+          "end": 120.07,
+          "probability": 1
+        },
+        {
+          "text": "every",
+          "start": 120.07,
+          "end": 120.52,
+          "probability": 1
+        },
+        {
+          "text": "day",
+          "start": 120.52,
+          "end": 120.79,
+          "probability": 1
+        },
+        {
+          "text": "new",
+          "start": 120.79,
+          "end": 121.06,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 121.06,
+          "end": 121.24,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 121.24,
+          "end": 121.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 121.76,
+      "end": 122.98,
+      "text": "Stay true to you, a hood musical",
+      "words": [
+        {
+          "text": "Stay",
+          "start": 121.76,
+          "end": 121.93,
+          "probability": 1
+        },
+        {
+          "text": "true",
+          "start": 121.93,
+          "end": 122.1,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 122.1,
+          "end": 122.22,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 122.22,
+          "end": 122.39,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 122.39,
+          "end": 122.51,
+          "probability": 1
+        },
+        {
+          "text": "hood",
+          "start": 122.51,
+          "end": 122.68,
+          "probability": 1
+        },
+        {
+          "text": "musical",
+          "start": 122.68,
+          "end": 122.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 123.12,
+      "end": 126.53,
+      "text": "I don't wanna say goodbye, to you",
+      "words": [
+        {
+          "text": "I",
+          "start": 123.12,
+          "end": 123.25,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 123.25,
+          "end": 123.88,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 123.88,
+          "end": 124.51,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 124.51,
+          "end": 124.89,
+          "probability": 1
+        },
+        {
+          "text": "goodbye,",
+          "start": 124.89,
+          "end": 125.9,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 125.9,
+          "end": 126.15,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 126.15,
+          "end": 126.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 127.81,
+      "end": 131.41,
+      "text": "So I'll just say good night, to you",
+      "words": [
+        {
+          "text": "So",
+          "start": 127.81,
+          "end": 128.07,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 128.07,
+          "end": 128.58,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 128.58,
+          "end": 129.09,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 129.09,
+          "end": 129.48,
+          "probability": 1
+        },
+        {
+          "text": "good",
+          "start": 129.48,
+          "end": 129.99,
+          "probability": 1
+        },
+        {
+          "text": "night,",
+          "start": 129.99,
+          "end": 130.76,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 130.76,
+          "end": 131.02,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 131.02,
+          "end": 131.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.35,
+      "end": 136.38,
+      "text": "My people, no goodbyes to you",
+      "words": [
+        {
+          "text": "My",
+          "start": 133.35,
+          "end": 133.6,
+          "probability": 1
+        },
+        {
+          "text": "people,",
+          "start": 133.6,
+          "end": 134.49,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 134.49,
+          "end": 134.74,
+          "probability": 1
+        },
+        {
+          "text": "goodbyes",
+          "start": 134.74,
+          "end": 135.75,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 135.75,
+          "end": 136,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 136,
+          "end": 136.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 138.64,
+      "end": 141.34,
+      "text": "I'm just gon' say good night",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 138.64,
+          "end": 138.99,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 138.99,
+          "end": 139.46,
+          "probability": 1
+        },
+        {
+          "text": "gon'",
+          "start": 139.46,
+          "end": 139.93,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 139.93,
+          "end": 140.28,
+          "probability": 1
+        },
+        {
+          "text": "good",
+          "start": 140.28,
+          "end": 140.75,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 140.75,
+          "end": 141.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142.88,
+      "end": 145.3,
+      "text": "I'm not sure anymore, 'ymore",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 142.88,
+          "end": 143.18,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 143.18,
+          "end": 143.48,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 143.48,
+          "end": 143.88,
+          "probability": 1
+        },
+        {
+          "text": "anymore,",
+          "start": 143.88,
+          "end": 144.69,
+          "probability": 1
+        },
+        {
+          "text": "'ymore",
+          "start": 144.69,
+          "end": 145.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 145.55,
+      "end": 147.94,
+      "text": "Who is knocking at my door, door",
+      "words": [
+        {
+          "text": "Who",
+          "start": 145.55,
+          "end": 145.83,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 145.83,
+          "end": 146.01,
+          "probability": 1
+        },
+        {
+          "text": "knocking",
+          "start": 146.01,
+          "end": 146.75,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 146.75,
+          "end": 146.93,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 146.93,
+          "end": 147.11,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 147.11,
+          "end": 147.57,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 147.57,
+          "end": 147.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 148.19,
+      "end": 150.01,
+      "text": "All the faces that I know",
+      "words": [
+        {
+          "text": "All",
+          "start": 148.19,
+          "end": 148.46,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 148.46,
+          "end": 148.73,
+          "probability": 1
+        },
+        {
+          "text": "faces",
+          "start": 148.73,
+          "end": 149.17,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 149.17,
+          "end": 149.53,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 149.53,
+          "end": 149.65,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 149.65,
+          "end": 150.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 150.22,
+      "end": 153.23,
+      "text": "Ja make them so sunny and true",
+      "words": [
+        {
+          "text": "Ja",
+          "start": 150.22,
+          "end": 150.47,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 150.47,
+          "end": 150.97,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 150.97,
+          "end": 151.47,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 151.47,
+          "end": 151.72,
+          "probability": 1
+        },
+        {
+          "text": "sunny",
+          "start": 151.72,
+          "end": 152.35,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 152.35,
+          "end": 152.73,
+          "probability": 1
+        },
+        {
+          "text": "true",
+          "start": 152.73,
+          "end": 153.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 153.48,
+      "end": 156.09,
+      "text": "I'm not sure anymore, 'ymore",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 153.48,
+          "end": 153.81,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 153.81,
+          "end": 154.14,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 154.14,
+          "end": 154.57,
+          "probability": 1
+        },
+        {
+          "text": "anymore,",
+          "start": 154.57,
+          "end": 155.44,
+          "probability": 1
+        },
+        {
+          "text": "'ymore",
+          "start": 155.44,
+          "end": 156.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.33,
+      "end": 158.72,
+      "text": "Who is knocking at my door, door",
+      "words": [
+        {
+          "text": "Who",
+          "start": 156.33,
+          "end": 156.61,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 156.61,
+          "end": 156.79,
+          "probability": 1
+        },
+        {
+          "text": "knocking",
+          "start": 156.79,
+          "end": 157.53,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 157.53,
+          "end": 157.71,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 157.71,
+          "end": 157.89,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 157.89,
+          "end": 158.35,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 158.35,
+          "end": 158.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 158.98,
+      "end": 161.11,
+      "text": "All the faces that I know",
+      "words": [
+        {
+          "text": "All",
+          "start": 158.98,
+          "end": 159.3,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 159.3,
+          "end": 159.62,
+          "probability": 1
+        },
+        {
+          "text": "faces",
+          "start": 159.62,
+          "end": 160.15,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 160.15,
+          "end": 160.57,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 160.57,
+          "end": 160.69,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 160.69,
+          "end": 161.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 161.35,
+      "end": 163.68,
+      "text": "Ja make them so sunny and true",
+      "words": [
+        {
+          "text": "Ja",
+          "start": 161.35,
+          "end": 161.54,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 161.54,
+          "end": 161.93,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 161.93,
+          "end": 162.32,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 162.32,
+          "end": 162.51,
+          "probability": 1
+        },
+        {
+          "text": "sunny",
+          "start": 162.51,
+          "end": 163,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 163,
+          "end": 163.29,
+          "probability": 1
+        },
+        {
+          "text": "true",
+          "start": 163.29,
+          "end": 163.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 163.93,
+      "end": 166.92,
+      "text": "I'm not sure anymore, 'ymore",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 163.93,
+          "end": 164.3,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 164.3,
+          "end": 164.67,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 164.67,
+          "end": 165.17,
+          "probability": 1
+        },
+        {
+          "text": "anymore,",
+          "start": 165.17,
+          "end": 166.17,
+          "probability": 1
+        },
+        {
+          "text": "'ymore",
+          "start": 166.17,
+          "end": 166.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.17,
+      "end": 169.51,
+      "text": "Who is knocking at my door, door",
+      "words": [
+        {
+          "text": "Who",
+          "start": 167.17,
+          "end": 167.44,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 167.44,
+          "end": 167.62,
+          "probability": 1
+        },
+        {
+          "text": "knocking",
+          "start": 167.62,
+          "end": 168.34,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 168.34,
+          "end": 168.52,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 168.52,
+          "end": 168.7,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 168.7,
+          "end": 169.15,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 169.15,
+          "end": 169.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 169.77,
+      "end": 171.63,
+      "text": "All the faces that I know",
+      "words": [
+        {
+          "text": "All",
+          "start": 169.77,
+          "end": 170.04,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 170.04,
+          "end": 170.31,
+          "probability": 1
+        },
+        {
+          "text": "faces",
+          "start": 170.31,
+          "end": 170.77,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 170.77,
+          "end": 171.14,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 171.14,
+          "end": 171.26,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 171.26,
+          "end": 171.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 171.85,
+      "end": 174.32,
+      "text": "Ja make them so sunny and true",
+      "words": [
+        {
+          "text": "Ja",
+          "start": 171.85,
+          "end": 172.06,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 172.06,
+          "end": 172.47,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 172.47,
+          "end": 172.88,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 172.88,
+          "end": 173.09,
+          "probability": 1
+        },
+        {
+          "text": "sunny",
+          "start": 173.09,
+          "end": 173.6,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 173.6,
+          "end": 173.91,
+          "probability": 1
+        },
+        {
+          "text": "true",
+          "start": 173.91,
+          "end": 174.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 174.56,
+      "end": 177.61,
+      "text": "I'm not sure anymore, 'ymore",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 174.56,
+          "end": 174.94,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 174.94,
+          "end": 175.32,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 175.32,
+          "end": 175.83,
+          "probability": 1
+        },
+        {
+          "text": "anymore,",
+          "start": 175.83,
+          "end": 176.85,
+          "probability": 1
+        },
+        {
+          "text": "'ymore",
+          "start": 176.85,
+          "end": 177.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 177.86,
+      "end": 180.49,
+      "text": "Who is knocking at my door, door",
+      "words": [
+        {
+          "text": "Who",
+          "start": 177.86,
+          "end": 178.16,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 178.16,
+          "end": 178.36,
+          "probability": 1
+        },
+        {
+          "text": "knocking",
+          "start": 178.36,
+          "end": 179.17,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 179.17,
+          "end": 179.37,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 179.37,
+          "end": 179.57,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 179.57,
+          "end": 180.08,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 180.08,
+          "end": 180.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 180.75,
+      "end": 182.64,
+      "text": "All the faces that I know",
+      "words": [
+        {
+          "text": "All",
+          "start": 180.75,
+          "end": 181.03,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 181.03,
+          "end": 181.31,
+          "probability": 1
+        },
+        {
+          "text": "faces",
+          "start": 181.31,
+          "end": 181.78,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 181.78,
+          "end": 182.15,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 182.15,
+          "end": 182.27,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 182.27,
+          "end": 182.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 182.86,
+      "end": 186.29,
+      "text": "Ja make them so sunny and true",
+      "words": [
+        {
+          "text": "Ja",
+          "start": 182.86,
+          "end": 183.15,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 183.15,
+          "end": 183.72,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 183.72,
+          "end": 184.29,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 184.29,
+          "end": 184.58,
+          "probability": 1
+        },
+        {
+          "text": "sunny",
+          "start": 184.58,
+          "end": 185.29,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 185.29,
+          "end": 185.72,
+          "probability": 1
+        },
+        {
+          "text": "true",
+          "start": 185.72,
+          "end": 186.29,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "I'm not sure anymore, 'ymore Who is knocking at my door, door All the faces that I know Ja make them so sunny and true I don't wanna say goodbye, to you So I'll just say good night, to you My people, no goodbyes to you (uh) I'm just gon' say good night Right now I can see it so vivid Like it was just yesterday, like I could relive it Me and my grandparents on a field trip And I'm the little kid tryna touch the exhibits But it'll fade before I get to get a hold of that Man, I wish I could stop time like a photograph Every joke that they told I'd know to laugh Man (man), I wouldn't let a moment pass What do it mean when you dream that you fallin'? What do it mean when you dream that you ballin'? What do it mean when you never dream at all then And you don't really know 'cause you can't recall them? It's sorta fly you get a chance to say \"Hi\" to People you never got a chance to say \"Bye\" to Maybe you could pull 'em up outta your dreams Into real life (real life), if you try to So close (so close), but so far (but so far) And so far (and so far), no cigar (no cigar) We can't dwell on the past, all we got is today So I'ma live like it's no tomorrow, no goodbye I don't wanna say goodbye, to you So I'll just say good night, to you My people, no goodbyes to you I'm just gon' say good night Uh, to you If I part, my art will live through you Dream beautiful and unusual Wake up like every day new to you Stay true to you, a hood musical My art will live through you Dream beautiful and unusual Wake up like every day new to you Stay true to you, a hood musical I don't wanna say goodbye, to you So I'll just say good night, to you My people, no goodbyes to you I'm just gon' say good night I'm not sure anymore, 'ymore Who is knocking at my door, door All the faces that I know Ja make them so sunny and true I'm not sure anymore, 'ymore Who is knocking at my door, door All the faces that I know Ja make them so sunny and true I'm not sure anymore, 'ymore Who is knocking at my door, door All the faces that I know Ja make them so sunny and true I'm not sure anymore, 'ymore Who is knocking at my door, door All the faces that I know Ja make them so sunny and true"
+}

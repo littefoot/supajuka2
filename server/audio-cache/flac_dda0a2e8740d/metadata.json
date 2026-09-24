@@ -1,0 +1,19 @@
+{
+  "id": "flac_dda0a2e8740d",
+  "source": "local",
+  "title": "New York State of Mind",
+  "artist": "Billy Joel",
+  "album": "50 Years of the Piano Man",
+  "duration": 362,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_dda0a2e8740d/cover.jpg",
+  "cachedAt": 1790186700512,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_dda0a2e8740d/original.flac",
+  "instrumentalUrl": "/audio/flac_dda0a2e8740d/instrumental.flac",
+  "vocalsUrl": "/audio/flac_dda0a2e8740d/vocals.flac"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "flac_a550864f9b21",
+  "source": "local",
+  "title": "Hit The Floor",
+  "artist": "Linkin Park",
+  "album": "Meteora",
+  "duration": 164,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_a550864f9b21/cover.jpg",
+  "cachedAt": 1789624303387,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_a550864f9b21/original.flac",
+  "instrumentalUrl": "/audio/flac_a550864f9b21/instrumental.flac",
+  "vocalsUrl": "/audio/flac_a550864f9b21/vocals.flac"
+}

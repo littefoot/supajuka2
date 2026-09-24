@@ -1,0 +1,2857 @@
+{
+  "language": "en",
+  "duration": 195,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0.35,
+      "end": 1.25,
+      "text": "Uh, uh",
+      "words": [
+        {
+          "text": "Uh,",
+          "start": 0.35,
+          "end": 0.89,
+          "probability": 1
+        },
+        {
+          "text": "uh",
+          "start": 0.89,
+          "end": 1.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 5.84,
+      "end": 6.74,
+      "text": "Uh, uh",
+      "words": [
+        {
+          "text": "Uh,",
+          "start": 5.84,
+          "end": 6.38,
+          "probability": 1
+        },
+        {
+          "text": "uh",
+          "start": 6.38,
+          "end": 6.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 11.42,
+      "end": 15.99,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 11.42,
+          "end": 11.8,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 11.8,
+          "end": 12.47,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 12.47,
+          "end": 12.95,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 12.95,
+          "end": 13.33,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 13.33,
+          "end": 13.71,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 13.71,
+          "end": 14.09,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 14.09,
+          "end": 14.47,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 14.47,
+          "end": 14.85,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 14.85,
+          "end": 15.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 16.95,
+      "end": 21.51,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 16.95,
+          "end": 17.33,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 17.33,
+          "end": 17.99,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 17.99,
+          "end": 18.47,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 18.47,
+          "end": 18.85,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 18.85,
+          "end": 19.23,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 19.23,
+          "end": 19.61,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 19.61,
+          "end": 19.99,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 19.99,
+          "end": 20.37,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 20.37,
+          "end": 21.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 23.01,
+      "end": 27.58,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 23.01,
+          "end": 23.39,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 23.39,
+          "end": 24.06,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 24.06,
+          "end": 24.54,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 24.54,
+          "end": 24.92,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 24.92,
+          "end": 25.3,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 25.3,
+          "end": 25.68,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 25.68,
+          "end": 26.06,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 26.06,
+          "end": 26.44,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 26.44,
+          "end": 27.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 28.38,
+      "end": 32.95,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 28.38,
+          "end": 28.76,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 28.76,
+          "end": 29.43,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 29.43,
+          "end": 29.91,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 29.91,
+          "end": 30.29,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 30.29,
+          "end": 30.67,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 30.67,
+          "end": 31.05,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 31.05,
+          "end": 31.43,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 31.43,
+          "end": 31.81,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 31.81,
+          "end": 32.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 34.46,
+      "end": 37.03,
+      "text": "Wake up, Mr. West, Mr. West",
+      "words": [
+        {
+          "text": "Wake",
+          "start": 34.46,
+          "end": 34.93,
+          "probability": 1
+        },
+        {
+          "text": "up,",
+          "start": 34.93,
+          "end": 35.28,
+          "probability": 1
+        },
+        {
+          "text": "Mr.",
+          "start": 35.28,
+          "end": 35.63,
+          "probability": 1
+        },
+        {
+          "text": "West,",
+          "start": 35.63,
+          "end": 36.21,
+          "probability": 1
+        },
+        {
+          "text": "Mr.",
+          "start": 36.21,
+          "end": 36.56,
+          "probability": 1
+        },
+        {
+          "text": "West",
+          "start": 36.56,
+          "end": 37.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 37.28,
+      "end": 39.87,
+      "text": "Mr. Fresh, Mr. By Himself, he's so impressed",
+      "words": [
+        {
+          "text": "Mr.",
+          "start": 37.28,
+          "end": 37.49,
+          "probability": 1
+        },
+        {
+          "text": "Fresh,",
+          "start": 37.49,
+          "end": 37.91,
+          "probability": 1
+        },
+        {
+          "text": "Mr.",
+          "start": 37.91,
+          "end": 38.12,
+          "probability": 1
+        },
+        {
+          "text": "By",
+          "start": 38.12,
+          "end": 38.26,
+          "probability": 1
+        },
+        {
+          "text": "Himself,",
+          "start": 38.26,
+          "end": 38.82,
+          "probability": 1
+        },
+        {
+          "text": "he's",
+          "start": 38.82,
+          "end": 39.1,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 39.1,
+          "end": 39.24,
+          "probability": 1
+        },
+        {
+          "text": "impressed",
+          "start": 39.24,
+          "end": 39.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 40.14,
+      "end": 42.74,
+      "text": "I mean, damn, did you even see the test?",
+      "words": [
+        {
+          "text": "I",
+          "start": 40.14,
+          "end": 40.26,
+          "probability": 1
+        },
+        {
+          "text": "mean,",
+          "start": 40.26,
+          "end": 40.66,
+          "probability": 1
+        },
+        {
+          "text": "damn,",
+          "start": 40.66,
+          "end": 41.06,
+          "probability": 1
+        },
+        {
+          "text": "did",
+          "start": 41.06,
+          "end": 41.3,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 41.3,
+          "end": 41.54,
+          "probability": 1
+        },
+        {
+          "text": "even",
+          "start": 41.54,
+          "end": 41.86,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 41.86,
+          "end": 42.1,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 42.1,
+          "end": 42.34,
+          "probability": 1
+        },
+        {
+          "text": "test?",
+          "start": 42.34,
+          "end": 42.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.98,
+      "end": 45.47,
+      "text": "You got D's, motherfucker, D's, Rosie Perez",
+      "words": [
+        {
+          "text": "You",
+          "start": 42.98,
+          "end": 43.18,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 43.18,
+          "end": 43.38,
+          "probability": 1
+        },
+        {
+          "text": "D's,",
+          "start": 43.38,
+          "end": 43.65,
+          "probability": 1
+        },
+        {
+          "text": "motherfucker,",
+          "start": 43.65,
+          "end": 44.52,
+          "probability": 1
+        },
+        {
+          "text": "D's,",
+          "start": 44.52,
+          "end": 44.79,
+          "probability": 1
+        },
+        {
+          "text": "Rosie",
+          "start": 44.79,
+          "end": 45.13,
+          "probability": 1
+        },
+        {
+          "text": "Perez",
+          "start": 45.13,
+          "end": 45.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.72,
+      "end": 48.59,
+      "text": "And yer ass barely passed any and every class",
+      "words": [
+        {
+          "text": "And",
+          "start": 45.72,
+          "end": 45.95,
+          "probability": 1
+        },
+        {
+          "text": "yer",
+          "start": 45.95,
+          "end": 46.18,
+          "probability": 1
+        },
+        {
+          "text": "ass",
+          "start": 46.18,
+          "end": 46.41,
+          "probability": 1
+        },
+        {
+          "text": "barely",
+          "start": 46.41,
+          "end": 46.88,
+          "probability": 1
+        },
+        {
+          "text": "passed",
+          "start": 46.88,
+          "end": 47.35,
+          "probability": 1
+        },
+        {
+          "text": "any",
+          "start": 47.35,
+          "end": 47.58,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 47.58,
+          "end": 47.81,
+          "probability": 1
+        },
+        {
+          "text": "every",
+          "start": 47.81,
+          "end": 48.2,
+          "probability": 1
+        },
+        {
+          "text": "class",
+          "start": 48.2,
+          "end": 48.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 48.85,
+      "end": 51.21,
+      "text": "Looking at every ass, cheated on every test",
+      "words": [
+        {
+          "text": "Looking",
+          "start": 48.85,
+          "end": 49.31,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 49.31,
+          "end": 49.44,
+          "probability": 1
+        },
+        {
+          "text": "every",
+          "start": 49.44,
+          "end": 49.77,
+          "probability": 1
+        },
+        {
+          "text": "ass,",
+          "start": 49.77,
+          "end": 50.03,
+          "probability": 1
+        },
+        {
+          "text": "cheated",
+          "start": 50.03,
+          "end": 50.49,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 50.49,
+          "end": 50.62,
+          "probability": 1
+        },
+        {
+          "text": "every",
+          "start": 50.62,
+          "end": 50.95,
+          "probability": 1
+        },
+        {
+          "text": "test",
+          "start": 50.95,
+          "end": 51.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.46,
+      "end": 53.31,
+      "text": "I guess, this is my dissertation",
+      "words": [
+        {
+          "text": "I",
+          "start": 51.46,
+          "end": 51.58,
+          "probability": 1
+        },
+        {
+          "text": "guess,",
+          "start": 51.58,
+          "end": 51.98,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 51.98,
+          "end": 52.25,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 52.25,
+          "end": 52.38,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 52.38,
+          "end": 52.51,
+          "probability": 1
+        },
+        {
+          "text": "dissertation",
+          "start": 52.51,
+          "end": 53.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 53.51,
+      "end": 56.19,
+      "text": "Homie, this shit is basic, welcome to graduation",
+      "words": [
+        {
+          "text": "Homie,",
+          "start": 53.51,
+          "end": 53.9,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 53.9,
+          "end": 54.16,
+          "probability": 1
+        },
+        {
+          "text": "shit",
+          "start": 54.16,
+          "end": 54.42,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 54.42,
+          "end": 54.55,
+          "probability": 1
+        },
+        {
+          "text": "basic,",
+          "start": 54.55,
+          "end": 54.94,
+          "probability": 1
+        },
+        {
+          "text": "welcome",
+          "start": 54.94,
+          "end": 55.4,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 55.4,
+          "end": 55.53,
+          "probability": 1
+        },
+        {
+          "text": "graduation",
+          "start": 55.53,
+          "end": 56.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 56.45,
+      "end": 61.02,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 56.45,
+          "end": 56.83,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 56.83,
+          "end": 57.5,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 57.5,
+          "end": 57.98,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 57.98,
+          "end": 58.36,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 58.36,
+          "end": 58.74,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 58.74,
+          "end": 59.12,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 59.12,
+          "end": 59.5,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 59.5,
+          "end": 59.88,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 59.88,
+          "end": 61.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 62.45,
+      "end": 67.02,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 62.45,
+          "end": 62.83,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 62.83,
+          "end": 63.5,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 63.5,
+          "end": 63.98,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 63.98,
+          "end": 64.36,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 64.36,
+          "end": 64.74,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 64.74,
+          "end": 65.12,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 65.12,
+          "end": 65.5,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 65.5,
+          "end": 65.88,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 65.88,
+          "end": 67.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 68.03,
+      "end": 72.59,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 68.03,
+          "end": 68.41,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 68.41,
+          "end": 69.08,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 69.08,
+          "end": 69.55,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 69.55,
+          "end": 69.93,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 69.93,
+          "end": 70.31,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 70.31,
+          "end": 70.69,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 70.69,
+          "end": 71.07,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 71.07,
+          "end": 71.45,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 71.45,
+          "end": 72.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 73.58,
+      "end": 78.14,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 73.58,
+          "end": 73.96,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 73.96,
+          "end": 74.63,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 74.63,
+          "end": 75.1,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 75.1,
+          "end": 75.48,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 75.48,
+          "end": 75.86,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 75.86,
+          "end": 76.24,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 76.24,
+          "end": 76.62,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 76.62,
+          "end": 77,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 77,
+          "end": 78.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 79.34,
+      "end": 82.76,
+      "text": "Good morning, on this day we become legendary",
+      "words": [
+        {
+          "text": "Good",
+          "start": 79.34,
+          "end": 79.7,
+          "probability": 1
+        },
+        {
+          "text": "morning,",
+          "start": 79.7,
+          "end": 80.42,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 80.42,
+          "end": 80.6,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 80.6,
+          "end": 80.96,
+          "probability": 1
+        },
+        {
+          "text": "day",
+          "start": 80.96,
+          "end": 81.23,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 81.23,
+          "end": 81.41,
+          "probability": 1
+        },
+        {
+          "text": "become",
+          "start": 81.41,
+          "end": 81.95,
+          "probability": 1
+        },
+        {
+          "text": "legendary",
+          "start": 81.95,
+          "end": 82.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.99,
+      "end": 84.57,
+      "text": "Everything we dreamed of",
+      "words": [
+        {
+          "text": "Everything",
+          "start": 82.99,
+          "end": 83.74,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 83.74,
+          "end": 83.89,
+          "probability": 1
+        },
+        {
+          "text": "dreamed",
+          "start": 83.89,
+          "end": 84.42,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 84.42,
+          "end": 84.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 84.82,
+      "end": 88.41,
+      "text": "I'm like the fly Malcolm X, buy any jeans necessary",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 84.82,
+          "end": 85.07,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 85.07,
+          "end": 85.41,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 85.41,
+          "end": 85.67,
+          "probability": 1
+        },
+        {
+          "text": "fly",
+          "start": 85.67,
+          "end": 85.93,
+          "probability": 1
+        },
+        {
+          "text": "Malcolm",
+          "start": 85.93,
+          "end": 86.53,
+          "probability": 1
+        },
+        {
+          "text": "X,",
+          "start": 86.53,
+          "end": 86.7,
+          "probability": 1
+        },
+        {
+          "text": "buy",
+          "start": 86.7,
+          "end": 86.96,
+          "probability": 1
+        },
+        {
+          "text": "any",
+          "start": 86.96,
+          "end": 87.21,
+          "probability": 1
+        },
+        {
+          "text": "jeans",
+          "start": 87.21,
+          "end": 87.64,
+          "probability": 1
+        },
+        {
+          "text": "necessary",
+          "start": 87.64,
+          "end": 88.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 88.64,
+      "end": 90.54,
+      "text": "Detroit Red cleaned up",
+      "words": [
+        {
+          "text": "Detroit",
+          "start": 88.64,
+          "end": 89.34,
+          "probability": 1
+        },
+        {
+          "text": "Red",
+          "start": 89.34,
+          "end": 89.64,
+          "probability": 1
+        },
+        {
+          "text": "cleaned",
+          "start": 89.64,
+          "end": 90.34,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 90.34,
+          "end": 90.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 90.78,
+      "end": 93.37,
+      "text": "From the streets to the league, from an eighth to a key",
+      "words": [
+        {
+          "text": "From",
+          "start": 90.78,
+          "end": 91.01,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 91.01,
+          "end": 91.18,
+          "probability": 1
+        },
+        {
+          "text": "streets",
+          "start": 91.18,
+          "end": 91.58,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 91.58,
+          "end": 91.7,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 91.7,
+          "end": 91.87,
+          "probability": 1
+        },
+        {
+          "text": "league,",
+          "start": 91.87,
+          "end": 92.27,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 92.27,
+          "end": 92.5,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 92.5,
+          "end": 92.62,
+          "probability": 1
+        },
+        {
+          "text": "eighth",
+          "start": 92.62,
+          "end": 92.96,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 92.96,
+          "end": 93.08,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 93.08,
+          "end": 93.2,
+          "probability": 1
+        },
+        {
+          "text": "key",
+          "start": 93.2,
+          "end": 93.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 93.55,
+      "end": 96.08,
+      "text": "But you graduate when you make it up outta the streets",
+      "words": [
+        {
+          "text": "But",
+          "start": 93.55,
+          "end": 93.72,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 93.72,
+          "end": 93.89,
+          "probability": 1
+        },
+        {
+          "text": "graduate",
+          "start": 93.89,
+          "end": 94.35,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 94.35,
+          "end": 94.58,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 94.58,
+          "end": 94.75,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 94.75,
+          "end": 94.98,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 94.98,
+          "end": 95.1,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 95.1,
+          "end": 95.22,
+          "probability": 1
+        },
+        {
+          "text": "outta",
+          "start": 95.22,
+          "end": 95.51,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 95.51,
+          "end": 95.68,
+          "probability": 1
+        },
+        {
+          "text": "streets",
+          "start": 95.68,
+          "end": 96.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 96.33,
+      "end": 98.89,
+      "text": "From the moments of pain, look how far we done came",
+      "words": [
+        {
+          "text": "From",
+          "start": 96.33,
+          "end": 96.58,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 96.58,
+          "end": 96.77,
+          "probability": 1
+        },
+        {
+          "text": "moments",
+          "start": 96.77,
+          "end": 97.21,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 97.21,
+          "end": 97.33,
+          "probability": 1
+        },
+        {
+          "text": "pain,",
+          "start": 97.33,
+          "end": 97.64,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 97.64,
+          "end": 97.89,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 97.89,
+          "end": 98.08,
+          "probability": 1
+        },
+        {
+          "text": "far",
+          "start": 98.08,
+          "end": 98.27,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 98.27,
+          "end": 98.39,
+          "probability": 1
+        },
+        {
+          "text": "done",
+          "start": 98.39,
+          "end": 98.64,
+          "probability": 1
+        },
+        {
+          "text": "came",
+          "start": 98.64,
+          "end": 98.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 99.13,
+      "end": 101.62,
+      "text": "Haters saying you changed, now you doing your thing",
+      "words": [
+        {
+          "text": "Haters",
+          "start": 99.13,
+          "end": 99.48,
+          "probability": 1
+        },
+        {
+          "text": "saying",
+          "start": 99.48,
+          "end": 99.83,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 99.83,
+          "end": 100,
+          "probability": 1
+        },
+        {
+          "text": "changed,",
+          "start": 100,
+          "end": 100.47,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 100.47,
+          "end": 100.64,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 100.64,
+          "end": 100.81,
+          "probability": 1
+        },
+        {
+          "text": "doing",
+          "start": 100.81,
+          "end": 101.1,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 101.1,
+          "end": 101.33,
+          "probability": 1
+        },
+        {
+          "text": "thing",
+          "start": 101.33,
+          "end": 101.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 101.88,
+      "end": 106.45,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 101.88,
+          "end": 102.26,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 102.26,
+          "end": 102.93,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 102.93,
+          "end": 103.41,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 103.41,
+          "end": 103.79,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 103.79,
+          "end": 104.17,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 104.17,
+          "end": 104.55,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 104.55,
+          "end": 104.93,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 104.93,
+          "end": 105.31,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 105.31,
+          "end": 106.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 107.95,
+      "end": 112.52,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 107.95,
+          "end": 108.33,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 108.33,
+          "end": 109,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 109,
+          "end": 109.48,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 109.48,
+          "end": 109.86,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 109.86,
+          "end": 110.24,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 110.24,
+          "end": 110.62,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 110.62,
+          "end": 111,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 111,
+          "end": 111.38,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 111.38,
+          "end": 112.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 113.15,
+      "end": 118.1,
+      "text": "Good morning and (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 113.15,
+          "end": 113.54,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 113.54,
+          "end": 114.22,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 114.22,
+          "end": 114.51,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 114.51,
+          "end": 114.99,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 114.99,
+          "end": 115.38,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 115.38,
+          "end": 115.77,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 115.77,
+          "end": 116.16,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 116.16,
+          "end": 116.55,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 116.55,
+          "end": 116.94,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 116.94,
+          "end": 118.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 118.97,
+      "end": 123.53,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 118.97,
+          "end": 119.35,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 119.35,
+          "end": 120.02,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 120.02,
+          "end": 120.49,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 120.49,
+          "end": 120.87,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 120.87,
+          "end": 121.25,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 121.25,
+          "end": 121.63,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 121.63,
+          "end": 122.01,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 122.01,
+          "end": 122.39,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 122.39,
+          "end": 123.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 124.92,
+      "end": 127.35,
+      "text": "Good morning and, look at the valedictorian",
+      "words": [
+        {
+          "text": "Good",
+          "start": 124.92,
+          "end": 125.18,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 125.18,
+          "end": 125.64,
+          "probability": 1
+        },
+        {
+          "text": "and,",
+          "start": 125.64,
+          "end": 125.9,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 125.9,
+          "end": 126.16,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 126.16,
+          "end": 126.29,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 126.29,
+          "end": 126.49,
+          "probability": 1
+        },
+        {
+          "text": "valedictorian",
+          "start": 126.49,
+          "end": 127.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 127.61,
+      "end": 130.13,
+      "text": "Scared of the future while I hop in the DeLorean",
+      "words": [
+        {
+          "text": "Scared",
+          "start": 127.61,
+          "end": 127.99,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 127.99,
+          "end": 128.12,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 128.12,
+          "end": 128.31,
+          "probability": 1
+        },
+        {
+          "text": "future",
+          "start": 128.31,
+          "end": 128.69,
+          "probability": 1
+        },
+        {
+          "text": "while",
+          "start": 128.69,
+          "end": 129,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 129,
+          "end": 129.12,
+          "probability": 1
+        },
+        {
+          "text": "hop",
+          "start": 129.12,
+          "end": 129.31,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 129.31,
+          "end": 129.44,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 129.44,
+          "end": 129.63,
+          "probability": 1
+        },
+        {
+          "text": "DeLorean",
+          "start": 129.63,
+          "end": 130.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 130.31,
+      "end": 133.18,
+      "text": "Scared to face the world, complacent career student",
+      "words": [
+        {
+          "text": "Scared",
+          "start": 130.31,
+          "end": 130.7,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 130.7,
+          "end": 130.83,
+          "probability": 1
+        },
+        {
+          "text": "face",
+          "start": 130.83,
+          "end": 131.09,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 131.09,
+          "end": 131.29,
+          "probability": 1
+        },
+        {
+          "text": "world,",
+          "start": 131.29,
+          "end": 131.68,
+          "probability": 1
+        },
+        {
+          "text": "complacent",
+          "start": 131.68,
+          "end": 132.33,
+          "probability": 1
+        },
+        {
+          "text": "career",
+          "start": 132.33,
+          "end": 132.72,
+          "probability": 1
+        },
+        {
+          "text": "student",
+          "start": 132.72,
+          "end": 133.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.44,
+      "end": 135.61,
+      "text": "Some people graduate, but be still stupid",
+      "words": [
+        {
+          "text": "Some",
+          "start": 133.44,
+          "end": 133.69,
+          "probability": 1
+        },
+        {
+          "text": "people",
+          "start": 133.69,
+          "end": 134.06,
+          "probability": 1
+        },
+        {
+          "text": "graduate,",
+          "start": 134.06,
+          "end": 134.62,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 134.62,
+          "end": 134.81,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 134.81,
+          "end": 134.93,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 134.93,
+          "end": 135.24,
+          "probability": 1
+        },
+        {
+          "text": "stupid",
+          "start": 135.24,
+          "end": 135.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 135.86,
+      "end": 138.68,
+      "text": "They tell you \"Read this, eat this, don't look around",
+      "words": [
+        {
+          "text": "They",
+          "start": 135.86,
+          "end": 136.12,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 136.12,
+          "end": 136.38,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 136.38,
+          "end": 136.57,
+          "probability": 1
+        },
+        {
+          "text": "\"Read",
+          "start": 136.57,
+          "end": 136.89,
+          "probability": 1
+        },
+        {
+          "text": "this,",
+          "start": 136.89,
+          "end": 137.21,
+          "probability": 1
+        },
+        {
+          "text": "eat",
+          "start": 137.21,
+          "end": 137.4,
+          "probability": 1
+        },
+        {
+          "text": "this,",
+          "start": 137.4,
+          "end": 137.72,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 137.72,
+          "end": 138.04,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 138.04,
+          "end": 138.3,
+          "probability": 1
+        },
+        {
+          "text": "around",
+          "start": 138.3,
+          "end": 138.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 138.93,
+      "end": 141.76,
+      "text": "Just peep this, preach this, teach us, Jesus\"",
+      "words": [
+        {
+          "text": "Just",
+          "start": 138.93,
+          "end": 139.23,
+          "probability": 1
+        },
+        {
+          "text": "peep",
+          "start": 139.23,
+          "end": 139.53,
+          "probability": 1
+        },
+        {
+          "text": "this,",
+          "start": 139.53,
+          "end": 139.9,
+          "probability": 1
+        },
+        {
+          "text": "preach",
+          "start": 139.9,
+          "end": 140.35,
+          "probability": 1
+        },
+        {
+          "text": "this,",
+          "start": 140.35,
+          "end": 140.72,
+          "probability": 1
+        },
+        {
+          "text": "teach",
+          "start": 140.72,
+          "end": 141.09,
+          "probability": 1
+        },
+        {
+          "text": "us,",
+          "start": 141.09,
+          "end": 141.31,
+          "probability": 1
+        },
+        {
+          "text": "Jesus\"",
+          "start": 141.31,
+          "end": 141.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142.02,
+      "end": 144.6,
+      "text": "Okay look up now, they done stole yo' streetness",
+      "words": [
+        {
+          "text": "Okay",
+          "start": 142.02,
+          "end": 142.28,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 142.28,
+          "end": 142.54,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 142.54,
+          "end": 142.67,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 142.67,
+          "end": 142.93,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 142.93,
+          "end": 143.19,
+          "probability": 1
+        },
+        {
+          "text": "done",
+          "start": 143.19,
+          "end": 143.45,
+          "probability": 1
+        },
+        {
+          "text": "stole",
+          "start": 143.45,
+          "end": 143.77,
+          "probability": 1
+        },
+        {
+          "text": "yo'",
+          "start": 143.77,
+          "end": 143.96,
+          "probability": 1
+        },
+        {
+          "text": "streetness",
+          "start": 143.96,
+          "end": 144.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 144.83,
+      "end": 146.96,
+      "text": "After all of that you received this",
+      "words": [
+        {
+          "text": "After",
+          "start": 144.83,
+          "end": 145.2,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 145.2,
+          "end": 145.42,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 145.42,
+          "end": 145.57,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 145.57,
+          "end": 145.86,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 145.86,
+          "end": 146.08,
+          "probability": 1
+        },
+        {
+          "text": "received",
+          "start": 146.08,
+          "end": 146.67,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 146.67,
+          "end": 146.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 147.21,
+      "end": 148.32,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 147.21,
+          "end": 147.33,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 147.33,
+          "end": 147.45,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 147.45,
+          "end": 147.57,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 147.57,
+          "end": 147.69,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 147.69,
+          "end": 147.81,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 147.81,
+          "end": 147.93,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 147.93,
+          "end": 148.05,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 148.05,
+          "end": 148.17,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 148.17,
+          "end": 148.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 148.07,
+      "end": 151.47,
+      "text": "Hustlers that's if you're still living, get on down",
+      "words": [
+        {
+          "text": "Hustlers",
+          "start": 148.07,
+          "end": 148.7,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 148.7,
+          "end": 149.17,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 149.17,
+          "end": 149.33,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 149.33,
+          "end": 149.8,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 149.8,
+          "end": 150.2,
+          "probability": 1
+        },
+        {
+          "text": "living,",
+          "start": 150.2,
+          "end": 150.75,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 150.75,
+          "end": 150.99,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 150.99,
+          "end": 151.15,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 151.15,
+          "end": 151.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 151.72,
+      "end": 152.53,
+      "text": "Every time that we hear them",
+      "words": [
+        {
+          "text": "Every",
+          "start": 151.72,
+          "end": 151.89,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 151.89,
+          "end": 152.02,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 152.02,
+          "end": 152.15,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 152.15,
+          "end": 152.27,
+          "probability": 1
+        },
+        {
+          "text": "hear",
+          "start": 152.27,
+          "end": 152.4,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 152.4,
+          "end": 152.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 152.73,
+      "end": 153.95,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 152.73,
+          "end": 152.85,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 152.85,
+          "end": 152.99,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 152.99,
+          "end": 153.11,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 153.11,
+          "end": 153.23,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 153.23,
+          "end": 153.35,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 153.35,
+          "end": 153.47,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 153.47,
+          "end": 153.59,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 153.59,
+          "end": 153.71,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 153.71,
+          "end": 153.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 153.93,
+      "end": 156.81,
+      "text": "Hustlers that's if you're still living, get on down",
+      "words": [
+        {
+          "text": "Hustlers",
+          "start": 153.93,
+          "end": 154.47,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 154.47,
+          "end": 154.87,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 154.87,
+          "end": 155,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 155,
+          "end": 155.4,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 155.4,
+          "end": 155.74,
+          "probability": 1
+        },
+        {
+          "text": "living,",
+          "start": 155.74,
+          "end": 156.21,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 156.21,
+          "end": 156.41,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 156.41,
+          "end": 156.54,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 156.54,
+          "end": 156.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 157.08,
+      "end": 158.25,
+      "text": "Every time that we hear them",
+      "words": [
+        {
+          "text": "Every",
+          "start": 157.08,
+          "end": 157.33,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 157.33,
+          "end": 157.53,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 157.53,
+          "end": 157.73,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 157.73,
+          "end": 157.85,
+          "probability": 1
+        },
+        {
+          "text": "hear",
+          "start": 157.85,
+          "end": 158.05,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 158.05,
+          "end": 158.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 158.46,
+      "end": 159.65,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 158.46,
+          "end": 158.58,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 158.58,
+          "end": 158.71,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 158.71,
+          "end": 158.83,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 158.83,
+          "end": 158.95,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 158.95,
+          "end": 159.07,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 159.07,
+          "end": 159.19,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 159.19,
+          "end": 159.31,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 159.31,
+          "end": 159.43,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 159.43,
+          "end": 159.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 159.59,
+      "end": 162.51,
+      "text": "Hustlers that's if you're still living, get on down",
+      "words": [
+        {
+          "text": "Hustlers",
+          "start": 159.59,
+          "end": 160.13,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 160.13,
+          "end": 160.54,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 160.54,
+          "end": 160.68,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 160.68,
+          "end": 161.09,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 161.09,
+          "end": 161.43,
+          "probability": 1
+        },
+        {
+          "text": "living,",
+          "start": 161.43,
+          "end": 161.9,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 161.9,
+          "end": 162.1,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 162.1,
+          "end": 162.24,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 162.24,
+          "end": 162.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 162.75,
+      "end": 163.87,
+      "text": "Every time that we hear them",
+      "words": [
+        {
+          "text": "Every",
+          "start": 162.75,
+          "end": 162.99,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 162.99,
+          "end": 163.18,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 163.18,
+          "end": 163.37,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 163.37,
+          "end": 163.49,
+          "probability": 1
+        },
+        {
+          "text": "hear",
+          "start": 163.49,
+          "end": 163.68,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 163.68,
+          "end": 163.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164.09,
+      "end": 165.21,
+      "text": "Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh)",
+      "words": [
+        {
+          "text": "Good",
+          "start": 164.09,
+          "end": 164.21,
+          "probability": 1
+        },
+        {
+          "text": "morning",
+          "start": 164.21,
+          "end": 164.33,
+          "probability": 1
+        },
+        {
+          "text": "(ooh,",
+          "start": 164.33,
+          "end": 164.45,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 164.45,
+          "end": 164.57,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 164.57,
+          "end": 164.69,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 164.69,
+          "end": 164.81,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 164.81,
+          "end": 164.93,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 164.93,
+          "end": 165.05,
+          "probability": 1
+        },
+        {
+          "text": "ooh-ooh-ooh)",
+          "start": 165.05,
+          "end": 165.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164.97,
+      "end": 169.04,
+      "text": "Hustlers that's if you're still living, get on down",
+      "words": [
+        {
+          "text": "Hustlers",
+          "start": 164.97,
+          "end": 165.73,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 165.73,
+          "end": 166.3,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 166.3,
+          "end": 166.49,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 166.49,
+          "end": 167.06,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 167.06,
+          "end": 167.53,
+          "probability": 1
+        },
+        {
+          "text": "living,",
+          "start": 167.53,
+          "end": 168.19,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 168.19,
+          "end": 168.47,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 168.47,
+          "end": 168.66,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 168.66,
+          "end": 169.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 169.28,
+      "end": 170.63,
+      "text": "Get on down",
+      "words": [
+        {
+          "text": "Get",
+          "start": 169.28,
+          "end": 169.73,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 169.73,
+          "end": 170.03,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 170.03,
+          "end": 170.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 174.08,
+      "end": 175.88,
+      "text": "Get, get on down",
+      "words": [
+        {
+          "text": "Get,",
+          "start": 174.08,
+          "end": 174.63,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 174.63,
+          "end": 175.05,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 175.05,
+          "end": 175.33,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 175.33,
+          "end": 175.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 180.2,
+      "end": 181.55,
+      "text": "Get on down",
+      "words": [
+        {
+          "text": "Get",
+          "start": 180.2,
+          "end": 180.65,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 180.65,
+          "end": 180.95,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 180.95,
+          "end": 181.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 186.23,
+      "end": 188.03,
+      "text": "Get, get on down",
+      "words": [
+        {
+          "text": "Get,",
+          "start": 186.23,
+          "end": 186.78,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 186.78,
+          "end": 187.2,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 187.2,
+          "end": 187.48,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 187.48,
+          "end": 188.03,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Uh, uh Uh, uh Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Wake up, Mr. West, Mr. West Mr. Fresh, Mr. By Himself, he's so impressed I mean, damn, did you even see the test? You got D's, motherfucker, D's, Rosie Perez And yer ass barely passed any and every class Looking at every ass, cheated on every test I guess, this is my dissertation Homie, this shit is basic, welcome to graduation Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Good morning, on this day we become legendary Everything we dreamed of I'm like the fly Malcolm X, buy any jeans necessary Detroit Red cleaned up From the streets to the league, from an eighth to a key But you graduate when you make it up outta the streets From the moments of pain, look how far we done came Haters saying you changed, now you doing your thing Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Good morning and (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Good morning and, look at the valedictorian Scared of the future while I hop in the DeLorean Scared to face the world, complacent career student Some people graduate, but be still stupid They tell you \"Read this, eat this, don't look around Just peep this, preach this, teach us, Jesus\" Okay look up now, they done stole yo' streetness After all of that you received this Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Hustlers that's if you're still living, get on down Every time that we hear them Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Hustlers that's if you're still living, get on down Every time that we hear them Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Hustlers that's if you're still living, get on down Every time that we hear them Good morning (ooh, ooh, ooh, ooh, ooh, ooh, ooh-ooh-ooh) Hustlers that's if you're still living, get on down Get on down Get, get on down Get on down Get, get on down"
+}

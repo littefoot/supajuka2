@@ -1,0 +1,1213 @@
+{
+  "language": "en",
+  "duration": 122,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 21.32,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 21.32,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 21.32,
+      "end": 24.04,
+      "text": "It was 20 years ago today",
+      "words": [
+        {
+          "text": "It",
+          "start": 21.32,
+          "end": 21.59,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 21.59,
+          "end": 22,
+          "probability": 1
+        },
+        {
+          "text": "20",
+          "start": 22,
+          "end": 22.27,
+          "probability": 1
+        },
+        {
+          "text": "years",
+          "start": 22.27,
+          "end": 22.95,
+          "probability": 1
+        },
+        {
+          "text": "ago",
+          "start": 22.95,
+          "end": 23.36,
+          "probability": 1
+        },
+        {
+          "text": "today",
+          "start": 23.36,
+          "end": 24.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 24.29,
+      "end": 26.67,
+      "text": "Sergeant Pepper taught the band to play",
+      "words": [
+        {
+          "text": "Sergeant",
+          "start": 24.29,
+          "end": 24.87,
+          "probability": 1
+        },
+        {
+          "text": "Pepper",
+          "start": 24.87,
+          "end": 25.3,
+          "probability": 1
+        },
+        {
+          "text": "taught",
+          "start": 25.3,
+          "end": 25.73,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 25.73,
+          "end": 25.95,
+          "probability": 1
+        },
+        {
+          "text": "band",
+          "start": 25.95,
+          "end": 26.24,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 26.24,
+          "end": 26.38,
+          "probability": 1
+        },
+        {
+          "text": "play",
+          "start": 26.38,
+          "end": 26.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 26.93,
+      "end": 28.9,
+      "text": "They've been going in and out of style",
+      "words": [
+        {
+          "text": "They've",
+          "start": 26.93,
+          "end": 27.37,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 27.37,
+          "end": 27.62,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 27.62,
+          "end": 27.94,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 27.94,
+          "end": 28.07,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 28.07,
+          "end": 28.26,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 28.26,
+          "end": 28.45,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 28.45,
+          "end": 28.58,
+          "probability": 1
+        },
+        {
+          "text": "style",
+          "start": 28.58,
+          "end": 28.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 29.15,
+      "end": 31.72,
+      "text": "But they're guaranteed to raise a smile",
+      "words": [
+        {
+          "text": "But",
+          "start": 29.15,
+          "end": 29.38,
+          "probability": 1
+        },
+        {
+          "text": "they're",
+          "start": 29.38,
+          "end": 29.92,
+          "probability": 1
+        },
+        {
+          "text": "guaranteed",
+          "start": 29.92,
+          "end": 30.69,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 30.69,
+          "end": 30.84,
+          "probability": 1
+        },
+        {
+          "text": "raise",
+          "start": 30.84,
+          "end": 31.22,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 31.22,
+          "end": 31.34,
+          "probability": 1
+        },
+        {
+          "text": "smile",
+          "start": 31.34,
+          "end": 31.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 31.94,
+      "end": 34.25,
+      "text": "So may I introduce to you",
+      "words": [
+        {
+          "text": "So",
+          "start": 31.94,
+          "end": 32.17,
+          "probability": 1
+        },
+        {
+          "text": "may",
+          "start": 32.17,
+          "end": 32.52,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 32.52,
+          "end": 32.64,
+          "probability": 1
+        },
+        {
+          "text": "introduce",
+          "start": 32.64,
+          "end": 33.68,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 33.68,
+          "end": 33.91,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 33.91,
+          "end": 34.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 34.49,
+      "end": 36.97,
+      "text": "The act you've know for all these years",
+      "words": [
+        {
+          "text": "The",
+          "start": 34.49,
+          "end": 34.72,
+          "probability": 1
+        },
+        {
+          "text": "act",
+          "start": 34.72,
+          "end": 34.95,
+          "probability": 1
+        },
+        {
+          "text": "you've",
+          "start": 34.95,
+          "end": 35.42,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 35.42,
+          "end": 35.73,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 35.73,
+          "end": 35.96,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 35.96,
+          "end": 36.19,
+          "probability": 1
+        },
+        {
+          "text": "these",
+          "start": 36.19,
+          "end": 36.58,
+          "probability": 1
+        },
+        {
+          "text": "years",
+          "start": 36.58,
+          "end": 36.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 37.23,
+      "end": 41.01,
+      "text": "Sergeant Pepper's Lonely Hearts Club Band",
+      "words": [
+        {
+          "text": "Sergeant",
+          "start": 37.23,
+          "end": 38.07,
+          "probability": 1
+        },
+        {
+          "text": "Pepper's",
+          "start": 38.07,
+          "end": 38.91,
+          "probability": 1
+        },
+        {
+          "text": "Lonely",
+          "start": 38.91,
+          "end": 39.54,
+          "probability": 1
+        },
+        {
+          "text": "Hearts",
+          "start": 39.54,
+          "end": 40.17,
+          "probability": 1
+        },
+        {
+          "text": "Club",
+          "start": 40.17,
+          "end": 40.59,
+          "probability": 1
+        },
+        {
+          "text": "Band",
+          "start": 40.59,
+          "end": 41.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 41.01,
+      "end": 54.52,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 41.01,
+          "end": 54.52,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 54.52,
+      "end": 59.08,
+      "text": "We're Sergeant Pepper's Lonely Hearts Club Band",
+      "words": [
+        {
+          "text": "We're",
+          "start": 54.52,
+          "end": 55.08,
+          "probability": 1
+        },
+        {
+          "text": "Sergeant",
+          "start": 55.08,
+          "end": 55.97,
+          "probability": 1
+        },
+        {
+          "text": "Pepper's",
+          "start": 55.97,
+          "end": 56.86,
+          "probability": 1
+        },
+        {
+          "text": "Lonely",
+          "start": 56.86,
+          "end": 57.53,
+          "probability": 1
+        },
+        {
+          "text": "Hearts",
+          "start": 57.53,
+          "end": 58.2,
+          "probability": 1
+        },
+        {
+          "text": "Club",
+          "start": 58.2,
+          "end": 58.64,
+          "probability": 1
+        },
+        {
+          "text": "Band",
+          "start": 58.64,
+          "end": 59.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 59.84,
+      "end": 63.26,
+      "text": "We hope you will enjoy the show",
+      "words": [
+        {
+          "text": "We",
+          "start": 59.84,
+          "end": 60.11,
+          "probability": 1
+        },
+        {
+          "text": "hope",
+          "start": 60.11,
+          "end": 60.66,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 60.66,
+          "end": 61.07,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 61.07,
+          "end": 61.62,
+          "probability": 1
+        },
+        {
+          "text": "enjoy",
+          "start": 61.62,
+          "end": 62.3,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 62.3,
+          "end": 62.71,
+          "probability": 1
+        },
+        {
+          "text": "show",
+          "start": 62.71,
+          "end": 63.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 65,
+      "end": 68.78,
+      "text": "Sergeant Pepper's Lonely Hearts Club Band",
+      "words": [
+        {
+          "text": "Sergeant",
+          "start": 65,
+          "end": 65.84,
+          "probability": 1
+        },
+        {
+          "text": "Pepper's",
+          "start": 65.84,
+          "end": 66.68,
+          "probability": 1
+        },
+        {
+          "text": "Lonely",
+          "start": 66.68,
+          "end": 67.31,
+          "probability": 1
+        },
+        {
+          "text": "Hearts",
+          "start": 67.31,
+          "end": 67.94,
+          "probability": 1
+        },
+        {
+          "text": "Club",
+          "start": 67.94,
+          "end": 68.36,
+          "probability": 1
+        },
+        {
+          "text": "Band",
+          "start": 68.36,
+          "end": 68.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 70.08,
+      "end": 73.5,
+      "text": "Sit back and let the evening go",
+      "words": [
+        {
+          "text": "Sit",
+          "start": 70.08,
+          "end": 70.49,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 70.49,
+          "end": 71.04,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 71.04,
+          "end": 71.45,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 71.45,
+          "end": 71.86,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 71.86,
+          "end": 72.27,
+          "probability": 1
+        },
+        {
+          "text": "evening",
+          "start": 72.27,
+          "end": 73.23,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 73.23,
+          "end": 73.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.17,
+      "end": 79.56,
+      "text": "Sergeant Pepper's Lonely, Sergeant Pepper's Lonely",
+      "words": [
+        {
+          "text": "Sergeant",
+          "start": 75.17,
+          "end": 75.95,
+          "probability": 1
+        },
+        {
+          "text": "Pepper's",
+          "start": 75.95,
+          "end": 76.73,
+          "probability": 1
+        },
+        {
+          "text": "Lonely,",
+          "start": 76.73,
+          "end": 77.41,
+          "probability": 1
+        },
+        {
+          "text": "Sergeant",
+          "start": 77.41,
+          "end": 78.19,
+          "probability": 1
+        },
+        {
+          "text": "Pepper's",
+          "start": 78.19,
+          "end": 78.97,
+          "probability": 1
+        },
+        {
+          "text": "Lonely",
+          "start": 78.97,
+          "end": 79.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 79.82,
+      "end": 83.6,
+      "text": "Sergeant Pepper's Lonely Hearts Club Band",
+      "words": [
+        {
+          "text": "Sergeant",
+          "start": 79.82,
+          "end": 80.66,
+          "probability": 1
+        },
+        {
+          "text": "Pepper's",
+          "start": 80.66,
+          "end": 81.5,
+          "probability": 1
+        },
+        {
+          "text": "Lonely",
+          "start": 81.5,
+          "end": 82.13,
+          "probability": 1
+        },
+        {
+          "text": "Hearts",
+          "start": 82.13,
+          "end": 82.76,
+          "probability": 1
+        },
+        {
+          "text": "Club",
+          "start": 82.76,
+          "end": 83.18,
+          "probability": 1
+        },
+        {
+          "text": "Band",
+          "start": 83.18,
+          "end": 83.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 84.53,
+      "end": 86.87,
+      "text": "It's wonderful to be here",
+      "words": [
+        {
+          "text": "It's",
+          "start": 84.53,
+          "end": 84.98,
+          "probability": 1
+        },
+        {
+          "text": "wonderful",
+          "start": 84.98,
+          "end": 85.98,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 85.98,
+          "end": 86.2,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 86.2,
+          "end": 86.42,
+          "probability": 1
+        },
+        {
+          "text": "here",
+          "start": 86.42,
+          "end": 86.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 87.12,
+      "end": 89.27,
+      "text": "It's certainly a thrill",
+      "words": [
+        {
+          "text": "It's",
+          "start": 87.12,
+          "end": 87.55,
+          "probability": 1
+        },
+        {
+          "text": "certainly",
+          "start": 87.55,
+          "end": 88.51,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 88.51,
+          "end": 88.63,
+          "probability": 1
+        },
+        {
+          "text": "thrill",
+          "start": 88.63,
+          "end": 89.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 89.51,
+      "end": 92.06,
+      "text": "You're such a lovely audience",
+      "words": [
+        {
+          "text": "You're",
+          "start": 89.51,
+          "end": 90.12,
+          "probability": 1
+        },
+        {
+          "text": "such",
+          "start": 90.12,
+          "end": 90.52,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 90.52,
+          "end": 90.64,
+          "probability": 1
+        },
+        {
+          "text": "lovely",
+          "start": 90.64,
+          "end": 91.25,
+          "probability": 1
+        },
+        {
+          "text": "audience",
+          "start": 91.25,
+          "end": 92.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.29,
+      "end": 94.26,
+      "text": "We'd like to take you home with us",
+      "words": [
+        {
+          "text": "We'd",
+          "start": 92.29,
+          "end": 92.58,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 92.58,
+          "end": 92.87,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 92.87,
+          "end": 93.02,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 93.02,
+          "end": 93.31,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 93.31,
+          "end": 93.53,
+          "probability": 1
+        },
+        {
+          "text": "home",
+          "start": 93.53,
+          "end": 93.82,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 93.82,
+          "end": 94.11,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 94.11,
+          "end": 94.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 94.51,
+      "end": 96.57,
+      "text": "We'd love to take you home",
+      "words": [
+        {
+          "text": "We'd",
+          "start": 94.51,
+          "end": 94.9,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 94.9,
+          "end": 95.29,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 95.29,
+          "end": 95.49,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 95.49,
+          "end": 95.88,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 95.88,
+          "end": 96.18,
+          "probability": 1
+        },
+        {
+          "text": "home",
+          "start": 96.18,
+          "end": 96.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 96.83,
+      "end": 99.35,
+      "text": "I don't really want to stop the show",
+      "words": [
+        {
+          "text": "I",
+          "start": 96.83,
+          "end": 96.95,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 96.95,
+          "end": 97.38,
+          "probability": 1
+        },
+        {
+          "text": "really",
+          "start": 97.38,
+          "end": 97.9,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 97.9,
+          "end": 98.24,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 98.24,
+          "end": 98.41,
+          "probability": 1
+        },
+        {
+          "text": "stop",
+          "start": 98.41,
+          "end": 98.75,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 98.75,
+          "end": 99.01,
+          "probability": 1
+        },
+        {
+          "text": "show",
+          "start": 99.01,
+          "end": 99.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 99.57,
+      "end": 101.85,
+      "text": "But I thought that you might like to know",
+      "words": [
+        {
+          "text": "But",
+          "start": 99.57,
+          "end": 99.77,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 99.77,
+          "end": 99.89,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 99.89,
+          "end": 100.36,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 100.36,
+          "end": 100.63,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 100.63,
+          "end": 100.83,
+          "probability": 1
+        },
+        {
+          "text": "might",
+          "start": 100.83,
+          "end": 101.17,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 101.17,
+          "end": 101.44,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 101.44,
+          "end": 101.58,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 101.58,
+          "end": 101.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.05,
+      "end": 104.21,
+      "text": "That the singer's gonna sing a song",
+      "words": [
+        {
+          "text": "That",
+          "start": 102.05,
+          "end": 102.34,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 102.34,
+          "end": 102.56,
+          "probability": 1
+        },
+        {
+          "text": "singer's",
+          "start": 102.56,
+          "end": 103.14,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 103.14,
+          "end": 103.51,
+          "probability": 1
+        },
+        {
+          "text": "sing",
+          "start": 103.51,
+          "end": 103.8,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 103.8,
+          "end": 103.92,
+          "probability": 1
+        },
+        {
+          "text": "song",
+          "start": 103.92,
+          "end": 104.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 104.42,
+      "end": 106.68,
+      "text": "And he wants you all to sing along",
+      "words": [
+        {
+          "text": "And",
+          "start": 104.42,
+          "end": 104.67,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 104.67,
+          "end": 104.84,
+          "probability": 1
+        },
+        {
+          "text": "wants",
+          "start": 104.84,
+          "end": 105.26,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 105.26,
+          "end": 105.51,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 105.51,
+          "end": 105.76,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 105.76,
+          "end": 105.93,
+          "probability": 1
+        },
+        {
+          "text": "sing",
+          "start": 105.93,
+          "end": 106.26,
+          "probability": 1
+        },
+        {
+          "text": "along",
+          "start": 106.26,
+          "end": 106.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 106.92,
+      "end": 109.14,
+      "text": "So let me introduce to you",
+      "words": [
+        {
+          "text": "So",
+          "start": 106.92,
+          "end": 107.13,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 107.13,
+          "end": 107.45,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 107.45,
+          "end": 107.66,
+          "probability": 1
+        },
+        {
+          "text": "introduce",
+          "start": 107.66,
+          "end": 108.61,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 108.61,
+          "end": 108.82,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 108.82,
+          "end": 109.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.38,
+      "end": 111.75,
+      "text": "The one and only Billy Shears",
+      "words": [
+        {
+          "text": "The",
+          "start": 109.38,
+          "end": 109.68,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 109.68,
+          "end": 109.98,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 109.98,
+          "end": 110.28,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 110.28,
+          "end": 110.67,
+          "probability": 1
+        },
+        {
+          "text": "Billy",
+          "start": 110.67,
+          "end": 111.16,
+          "probability": 1
+        },
+        {
+          "text": "Shears",
+          "start": 111.16,
+          "end": 111.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 111.99,
+      "end": 115.74,
+      "text": "And Sergeant Pepper's Lonely Hearts Club Band, yeah",
+      "words": [
+        {
+          "text": "And",
+          "start": 111.99,
+          "end": 112.25,
+          "probability": 1
+        },
+        {
+          "text": "Sergeant",
+          "start": 112.25,
+          "end": 112.93,
+          "probability": 1
+        },
+        {
+          "text": "Pepper's",
+          "start": 112.93,
+          "end": 113.61,
+          "probability": 1
+        },
+        {
+          "text": "Lonely",
+          "start": 113.61,
+          "end": 114.12,
+          "probability": 1
+        },
+        {
+          "text": "Hearts",
+          "start": 114.12,
+          "end": 114.63,
+          "probability": 1
+        },
+        {
+          "text": "Club",
+          "start": 114.63,
+          "end": 114.97,
+          "probability": 1
+        },
+        {
+          "text": "Band,",
+          "start": 114.97,
+          "end": 115.4,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 115.4,
+          "end": 115.74,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "It was 20 years ago today Sergeant Pepper taught the band to play They've been going in and out of style But they're guaranteed to raise a smile So may I introduce to you The act you've know for all these years Sergeant Pepper's Lonely Hearts Club Band We're Sergeant Pepper's Lonely Hearts Club Band We hope you will enjoy the show Sergeant Pepper's Lonely Hearts Club Band Sit back and let the evening go Sergeant Pepper's Lonely, Sergeant Pepper's Lonely Sergeant Pepper's Lonely Hearts Club Band It's wonderful to be here It's certainly a thrill You're such a lovely audience We'd like to take you home with us We'd love to take you home I don't really want to stop the show But I thought that you might like to know That the singer's gonna sing a song And he wants you all to sing along So let me introduce to you The one and only Billy Shears And Sergeant Pepper's Lonely Hearts Club Band, yeah"
+}

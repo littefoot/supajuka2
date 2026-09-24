@@ -1,0 +1,2878 @@
+{
+  "language": "en",
+  "duration": 175,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 23.28,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 23.28,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 23.28,
+      "end": 26.48,
+      "text": "When I pretend everything is what I want it to be",
+      "words": [
+        {
+          "text": "When",
+          "start": 23.28,
+          "end": 23.6,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 23.6,
+          "end": 23.72,
+          "probability": 1
+        },
+        {
+          "text": "pretend",
+          "start": 23.72,
+          "end": 24.28,
+          "probability": 1
+        },
+        {
+          "text": "everything",
+          "start": 24.28,
+          "end": 25.08,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 25.08,
+          "end": 25.24,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 25.24,
+          "end": 25.56,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 25.56,
+          "end": 25.68,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 25.68,
+          "end": 26,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 26,
+          "end": 26.16,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 26.16,
+          "end": 26.32,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 26.32,
+          "end": 26.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 26.66,
+      "end": 29.44,
+      "text": "I look exactly like what you had always wanted to see",
+      "words": [
+        {
+          "text": "I",
+          "start": 26.66,
+          "end": 26.78,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 26.78,
+          "end": 27.03,
+          "probability": 1
+        },
+        {
+          "text": "exactly",
+          "start": 27.03,
+          "end": 27.48,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 27.48,
+          "end": 27.73,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 27.73,
+          "end": 27.98,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 27.98,
+          "end": 28.17,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 28.17,
+          "end": 28.36,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 28.36,
+          "end": 28.74,
+          "probability": 1
+        },
+        {
+          "text": "wanted",
+          "start": 28.74,
+          "end": 29.12,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 29.12,
+          "end": 29.25,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 29.25,
+          "end": 29.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 29.65,
+      "end": 32.54,
+      "text": "When I pretend I can forget about the criminal I am",
+      "words": [
+        {
+          "text": "When",
+          "start": 29.65,
+          "end": 29.92,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 29.92,
+          "end": 30.04,
+          "probability": 1
+        },
+        {
+          "text": "pretend",
+          "start": 30.04,
+          "end": 30.51,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 30.51,
+          "end": 30.63,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 30.63,
+          "end": 30.83,
+          "probability": 1
+        },
+        {
+          "text": "forget",
+          "start": 30.83,
+          "end": 31.23,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 31.23,
+          "end": 31.56,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 31.56,
+          "end": 31.76,
+          "probability": 1
+        },
+        {
+          "text": "criminal",
+          "start": 31.76,
+          "end": 32.29,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 32.29,
+          "end": 32.41,
+          "probability": 1
+        },
+        {
+          "text": "am",
+          "start": 32.41,
+          "end": 32.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 32.63,
+      "end": 35.6,
+      "text": "Stealing second after second just 'cause I know I can",
+      "words": [
+        {
+          "text": "Stealing",
+          "start": 32.63,
+          "end": 33.15,
+          "probability": 1
+        },
+        {
+          "text": "second",
+          "start": 33.15,
+          "end": 33.54,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 33.54,
+          "end": 33.87,
+          "probability": 1
+        },
+        {
+          "text": "second",
+          "start": 33.87,
+          "end": 34.26,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 34.26,
+          "end": 34.52,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 34.52,
+          "end": 34.91,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 34.91,
+          "end": 35.03,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 35.03,
+          "end": 35.29,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 35.29,
+          "end": 35.41,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 35.41,
+          "end": 35.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.74,
+      "end": 38.38,
+      "text": "But I can't pretend this is the way it'll stay",
+      "words": [
+        {
+          "text": "But",
+          "start": 35.74,
+          "end": 35.95,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 35.95,
+          "end": 36.07,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 36.07,
+          "end": 36.42,
+          "probability": 1
+        },
+        {
+          "text": "pretend",
+          "start": 36.42,
+          "end": 36.91,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 36.91,
+          "end": 37.19,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 37.19,
+          "end": 37.33,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 37.33,
+          "end": 37.54,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 37.54,
+          "end": 37.75,
+          "probability": 1
+        },
+        {
+          "text": "it'll",
+          "start": 37.75,
+          "end": 38.1,
+          "probability": 1
+        },
+        {
+          "text": "stay",
+          "start": 38.1,
+          "end": 38.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 38.6,
+      "end": 41.75,
+      "text": "I'm just (trying to bend the truth)",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 38.6,
+          "end": 38.93,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 38.93,
+          "end": 39.36,
+          "probability": 1
+        },
+        {
+          "text": "(trying",
+          "start": 39.36,
+          "end": 40.12,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 40.12,
+          "end": 40.34,
+          "probability": 1
+        },
+        {
+          "text": "bend",
+          "start": 40.34,
+          "end": 40.77,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 40.77,
+          "end": 41.1,
+          "probability": 1
+        },
+        {
+          "text": "truth)",
+          "start": 41.1,
+          "end": 41.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.38,
+      "end": 44.66,
+      "text": "I can't pretend I'm who you want me to be",
+      "words": [
+        {
+          "text": "I",
+          "start": 42.38,
+          "end": 42.5,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 42.5,
+          "end": 42.85,
+          "probability": 1
+        },
+        {
+          "text": "pretend",
+          "start": 42.85,
+          "end": 43.33,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 43.33,
+          "end": 43.54,
+          "probability": 1
+        },
+        {
+          "text": "who",
+          "start": 43.54,
+          "end": 43.75,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 43.75,
+          "end": 43.96,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 43.96,
+          "end": 44.24,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 44.24,
+          "end": 44.38,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 44.38,
+          "end": 44.52,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 44.52,
+          "end": 44.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 44.84,
+      "end": 47.55,
+      "text": "So I'm (lying my way from)",
+      "words": [
+        {
+          "text": "So",
+          "start": 44.84,
+          "end": 45.1,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 45.1,
+          "end": 45.49,
+          "probability": 1
+        },
+        {
+          "text": "(lying",
+          "start": 45.49,
+          "end": 46.26,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 46.26,
+          "end": 46.52,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 46.52,
+          "end": 46.91,
+          "probability": 1
+        },
+        {
+          "text": "from)",
+          "start": 46.91,
+          "end": 47.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 48.19,
+      "end": 50.88,
+      "text": "You (no, no turning back now)",
+      "words": [
+        {
+          "text": "You",
+          "start": 48.19,
+          "end": 48.53,
+          "probability": 1
+        },
+        {
+          "text": "(no,",
+          "start": 48.53,
+          "end": 48.98,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 48.98,
+          "end": 49.2,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 49.2,
+          "end": 49.98,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 49.98,
+          "end": 50.43,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 50.43,
+          "end": 50.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.13,
+      "end": 54.92,
+      "text": "I want to be pushed aside, so let me go",
+      "words": [
+        {
+          "text": "I",
+          "start": 51.13,
+          "end": 51.26,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 51.26,
+          "end": 51.77,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 51.77,
+          "end": 52.02,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 52.02,
+          "end": 52.27,
+          "probability": 1
+        },
+        {
+          "text": "pushed",
+          "start": 52.27,
+          "end": 53.03,
+          "probability": 1
+        },
+        {
+          "text": "aside,",
+          "start": 53.03,
+          "end": 53.79,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 53.79,
+          "end": 54.04,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 54.04,
+          "end": 54.42,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 54.42,
+          "end": 54.67,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 54.67,
+          "end": 54.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 55.18,
+      "end": 56.76,
+      "text": "(No, no turning back now)",
+      "words": [
+        {
+          "text": "(No,",
+          "start": 55.18,
+          "end": 55.48,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 55.48,
+          "end": 55.63,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 55.63,
+          "end": 56.16,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 56.16,
+          "end": 56.46,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 56.46,
+          "end": 56.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 57.01,
+      "end": 61.52,
+      "text": "Let me take back my life, I'd rather be all alone",
+      "words": [
+        {
+          "text": "Let",
+          "start": 57.01,
+          "end": 57.36,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 57.36,
+          "end": 57.59,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 57.59,
+          "end": 58.05,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 58.05,
+          "end": 58.51,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 58.51,
+          "end": 58.74,
+          "probability": 1
+        },
+        {
+          "text": "life,",
+          "start": 58.74,
+          "end": 59.32,
+          "probability": 1
+        },
+        {
+          "text": "I'd",
+          "start": 59.32,
+          "end": 59.67,
+          "probability": 1
+        },
+        {
+          "text": "rather",
+          "start": 59.67,
+          "end": 60.36,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 60.36,
+          "end": 60.59,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 60.59,
+          "end": 60.94,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 60.94,
+          "end": 61.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.76,
+      "end": 63.01,
+      "text": "(No turning back now)",
+      "words": [
+        {
+          "text": "(No",
+          "start": 61.76,
+          "end": 61.97,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 61.97,
+          "end": 62.45,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 62.45,
+          "end": 62.73,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 62.73,
+          "end": 63.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 63.25,
+      "end": 67,
+      "text": "Anywhere on my own 'cause I can see",
+      "words": [
+        {
+          "text": "Anywhere",
+          "start": 63.25,
+          "end": 64.32,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 64.32,
+          "end": 64.59,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 64.59,
+          "end": 64.86,
+          "probability": 1
+        },
+        {
+          "text": "own",
+          "start": 64.86,
+          "end": 65.26,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 65.26,
+          "end": 66.07,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 66.07,
+          "end": 66.2,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 66.2,
+          "end": 66.6,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 66.6,
+          "end": 67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 67.26,
+      "end": 68.77,
+      "text": "(No, no turning back now)",
+      "words": [
+        {
+          "text": "(No,",
+          "start": 67.26,
+          "end": 67.55,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 67.55,
+          "end": 67.69,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 67.69,
+          "end": 68.19,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 68.19,
+          "end": 68.48,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 68.48,
+          "end": 68.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.02,
+      "end": 72.63,
+      "text": "The very worst part of you is me",
+      "words": [
+        {
+          "text": "The",
+          "start": 69.02,
+          "end": 69.45,
+          "probability": 1
+        },
+        {
+          "text": "very",
+          "start": 69.45,
+          "end": 70.03,
+          "probability": 1
+        },
+        {
+          "text": "worst",
+          "start": 70.03,
+          "end": 70.75,
+          "probability": 1
+        },
+        {
+          "text": "part",
+          "start": 70.75,
+          "end": 71.33,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 71.33,
+          "end": 71.62,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 71.62,
+          "end": 72.05,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 72.05,
+          "end": 72.34,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 72.34,
+          "end": 72.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 73.05,
+      "end": 75.03,
+      "text": "I remember what they taught to me",
+      "words": [
+        {
+          "text": "I",
+          "start": 73.05,
+          "end": 73.17,
+          "probability": 1
+        },
+        {
+          "text": "remember",
+          "start": 73.17,
+          "end": 73.74,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 73.74,
+          "end": 74.03,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 74.03,
+          "end": 74.32,
+          "probability": 1
+        },
+        {
+          "text": "taught",
+          "start": 74.32,
+          "end": 74.75,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 74.75,
+          "end": 74.89,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 74.89,
+          "end": 75.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.23,
+      "end": 78.04,
+      "text": "Remember condescending talk of who I ought to be",
+      "words": [
+        {
+          "text": "Remember",
+          "start": 75.23,
+          "end": 75.78,
+          "probability": 1
+        },
+        {
+          "text": "condescending",
+          "start": 75.78,
+          "end": 76.67,
+          "probability": 1
+        },
+        {
+          "text": "talk",
+          "start": 76.67,
+          "end": 76.95,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 76.95,
+          "end": 77.09,
+          "probability": 1
+        },
+        {
+          "text": "who",
+          "start": 77.09,
+          "end": 77.3,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 77.3,
+          "end": 77.42,
+          "probability": 1
+        },
+        {
+          "text": "ought",
+          "start": 77.42,
+          "end": 77.76,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 77.76,
+          "end": 77.9,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 77.9,
+          "end": 78.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 78.23,
+      "end": 80.89,
+      "text": "Remember listening to all of that and this again",
+      "words": [
+        {
+          "text": "Remember",
+          "start": 78.23,
+          "end": 78.76,
+          "probability": 1
+        },
+        {
+          "text": "listening",
+          "start": 78.76,
+          "end": 79.36,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 79.36,
+          "end": 79.49,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 79.49,
+          "end": 79.69,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 79.69,
+          "end": 79.82,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 79.82,
+          "end": 80.09,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 80.09,
+          "end": 80.29,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 80.29,
+          "end": 80.56,
+          "probability": 1
+        },
+        {
+          "text": "again",
+          "start": 80.56,
+          "end": 80.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.14,
+      "end": 84.04,
+      "text": "So I pretended up a person who was fitting in",
+      "words": [
+        {
+          "text": "So",
+          "start": 81.14,
+          "end": 81.3,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 81.3,
+          "end": 81.42,
+          "probability": 1
+        },
+        {
+          "text": "pretended",
+          "start": 81.42,
+          "end": 82.12,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 82.12,
+          "end": 82.28,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 82.28,
+          "end": 82.4,
+          "probability": 1
+        },
+        {
+          "text": "person",
+          "start": 82.4,
+          "end": 82.87,
+          "probability": 1
+        },
+        {
+          "text": "who",
+          "start": 82.87,
+          "end": 83.1,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 83.1,
+          "end": 83.33,
+          "probability": 1
+        },
+        {
+          "text": "fitting",
+          "start": 83.33,
+          "end": 83.88,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 83.88,
+          "end": 84.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 84.2,
+      "end": 86.45,
+      "text": "And now you think this person really is me",
+      "words": [
+        {
+          "text": "And",
+          "start": 84.2,
+          "end": 84.4,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 84.4,
+          "end": 84.6,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 84.6,
+          "end": 84.8,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 84.8,
+          "end": 85.13,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 85.13,
+          "end": 85.39,
+          "probability": 1
+        },
+        {
+          "text": "person",
+          "start": 85.39,
+          "end": 85.79,
+          "probability": 1
+        },
+        {
+          "text": "really",
+          "start": 85.79,
+          "end": 86.19,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 86.19,
+          "end": 86.32,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 86.32,
+          "end": 86.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 86.7,
+      "end": 89.87,
+      "text": "And I'm (trying to bend the truth)",
+      "words": [
+        {
+          "text": "And",
+          "start": 86.7,
+          "end": 87.04,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 87.04,
+          "end": 87.38,
+          "probability": 1
+        },
+        {
+          "text": "(trying",
+          "start": 87.38,
+          "end": 88.17,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 88.17,
+          "end": 88.4,
+          "probability": 1
+        },
+        {
+          "text": "bend",
+          "start": 88.4,
+          "end": 88.85,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 88.85,
+          "end": 89.19,
+          "probability": 1
+        },
+        {
+          "text": "truth)",
+          "start": 89.19,
+          "end": 89.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 90.31,
+      "end": 92.54,
+      "text": "But the more I push, the more I'm pulling away",
+      "words": [
+        {
+          "text": "But",
+          "start": 90.31,
+          "end": 90.49,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 90.49,
+          "end": 90.67,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 90.67,
+          "end": 90.9,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 90.9,
+          "end": 91.02,
+          "probability": 1
+        },
+        {
+          "text": "push,",
+          "start": 91.02,
+          "end": 91.31,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 91.31,
+          "end": 91.49,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 91.49,
+          "end": 91.72,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 91.72,
+          "end": 91.9,
+          "probability": 1
+        },
+        {
+          "text": "pulling",
+          "start": 91.9,
+          "end": 92.31,
+          "probability": 1
+        },
+        {
+          "text": "away",
+          "start": 92.31,
+          "end": 92.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.72,
+      "end": 95.42,
+      "text": "'Cause I'm (lying my way from)",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 92.72,
+          "end": 93.37,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 93.37,
+          "end": 93.69,
+          "probability": 1
+        },
+        {
+          "text": "(lying",
+          "start": 93.69,
+          "end": 94.34,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 94.34,
+          "end": 94.56,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 94.56,
+          "end": 94.88,
+          "probability": 1
+        },
+        {
+          "text": "from)",
+          "start": 94.88,
+          "end": 95.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 96.13,
+      "end": 98.84,
+      "text": "You (no, no turning back now)",
+      "words": [
+        {
+          "text": "You",
+          "start": 96.13,
+          "end": 96.47,
+          "probability": 1
+        },
+        {
+          "text": "(no,",
+          "start": 96.47,
+          "end": 96.92,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 96.92,
+          "end": 97.15,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 97.15,
+          "end": 97.94,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 97.94,
+          "end": 98.39,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 98.39,
+          "end": 98.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 99.09,
+      "end": 102.95,
+      "text": "I want to be pushed aside, so let me go",
+      "words": [
+        {
+          "text": "I",
+          "start": 99.09,
+          "end": 99.22,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 99.22,
+          "end": 99.73,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 99.73,
+          "end": 99.99,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 99.99,
+          "end": 100.25,
+          "probability": 1
+        },
+        {
+          "text": "pushed",
+          "start": 100.25,
+          "end": 101.02,
+          "probability": 1
+        },
+        {
+          "text": "aside,",
+          "start": 101.02,
+          "end": 101.79,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 101.79,
+          "end": 102.05,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 102.05,
+          "end": 102.43,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 102.43,
+          "end": 102.69,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 102.69,
+          "end": 102.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 103.18,
+      "end": 104.82,
+      "text": "(No, no turning back now)",
+      "words": [
+        {
+          "text": "(No,",
+          "start": 103.18,
+          "end": 103.49,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 103.49,
+          "end": 103.65,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 103.65,
+          "end": 104.2,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 104.2,
+          "end": 104.51,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 104.51,
+          "end": 104.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.07,
+      "end": 109.7,
+      "text": "Let me take back my life, I'd rather be all alone",
+      "words": [
+        {
+          "text": "Let",
+          "start": 105.07,
+          "end": 105.43,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 105.43,
+          "end": 105.67,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 105.67,
+          "end": 106.14,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 106.14,
+          "end": 106.61,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 106.61,
+          "end": 106.85,
+          "probability": 1
+        },
+        {
+          "text": "life,",
+          "start": 106.85,
+          "end": 107.44,
+          "probability": 1
+        },
+        {
+          "text": "I'd",
+          "start": 107.44,
+          "end": 107.8,
+          "probability": 1
+        },
+        {
+          "text": "rather",
+          "start": 107.8,
+          "end": 108.51,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 108.51,
+          "end": 108.75,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 108.75,
+          "end": 109.11,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 109.11,
+          "end": 109.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.95,
+      "end": 110.95,
+      "text": "(No turning back now)",
+      "words": [
+        {
+          "text": "(No",
+          "start": 109.95,
+          "end": 110.12,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 110.12,
+          "end": 110.51,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 110.51,
+          "end": 110.73,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 110.73,
+          "end": 110.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 111.2,
+      "end": 114.86,
+      "text": "Anywhere on my own 'cause I can see",
+      "words": [
+        {
+          "text": "Anywhere",
+          "start": 111.2,
+          "end": 112.25,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 112.25,
+          "end": 112.51,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 112.51,
+          "end": 112.77,
+          "probability": 1
+        },
+        {
+          "text": "own",
+          "start": 112.77,
+          "end": 113.16,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 113.16,
+          "end": 113.95,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 113.95,
+          "end": 114.08,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 114.08,
+          "end": 114.47,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 114.47,
+          "end": 114.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 115.13,
+      "end": 116.8,
+      "text": "(No, no turning back now)",
+      "words": [
+        {
+          "text": "(No,",
+          "start": 115.13,
+          "end": 115.45,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 115.45,
+          "end": 115.61,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 115.61,
+          "end": 116.16,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 116.16,
+          "end": 116.48,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 116.48,
+          "end": 116.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.04,
+      "end": 119.41,
+      "text": "The very worst part of you",
+      "words": [
+        {
+          "text": "The",
+          "start": 117.04,
+          "end": 117.38,
+          "probability": 1
+        },
+        {
+          "text": "very",
+          "start": 117.38,
+          "end": 117.83,
+          "probability": 1
+        },
+        {
+          "text": "worst",
+          "start": 117.83,
+          "end": 118.39,
+          "probability": 1
+        },
+        {
+          "text": "part",
+          "start": 118.39,
+          "end": 118.84,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 118.84,
+          "end": 119.07,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 119.07,
+          "end": 119.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 119.66,
+      "end": 123.27,
+      "text": "The very worst part of you is me",
+      "words": [
+        {
+          "text": "The",
+          "start": 119.66,
+          "end": 120.09,
+          "probability": 1
+        },
+        {
+          "text": "very",
+          "start": 120.09,
+          "end": 120.67,
+          "probability": 1
+        },
+        {
+          "text": "worst",
+          "start": 120.67,
+          "end": 121.39,
+          "probability": 1
+        },
+        {
+          "text": "part",
+          "start": 121.39,
+          "end": 121.97,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 121.97,
+          "end": 122.26,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 122.26,
+          "end": 122.69,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 122.69,
+          "end": 122.98,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 122.98,
+          "end": 123.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 123.89,
+      "end": 125.39,
+      "text": "This isn't what I wanted to be",
+      "words": [
+        {
+          "text": "This",
+          "start": 123.89,
+          "end": 124.13,
+          "probability": 1
+        },
+        {
+          "text": "isn't",
+          "start": 124.13,
+          "end": 124.43,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 124.43,
+          "end": 124.67,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 124.67,
+          "end": 124.79,
+          "probability": 1
+        },
+        {
+          "text": "wanted",
+          "start": 124.79,
+          "end": 125.15,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 125.15,
+          "end": 125.27,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 125.27,
+          "end": 125.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.58,
+      "end": 128.5,
+      "text": "I never thought that what I said would have you running from me",
+      "words": [
+        {
+          "text": "I",
+          "start": 125.58,
+          "end": 125.7,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 125.7,
+          "end": 125.97,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 125.97,
+          "end": 126.35,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 126.35,
+          "end": 126.57,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 126.57,
+          "end": 126.79,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 126.79,
+          "end": 126.91,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 126.91,
+          "end": 127.13,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 127.13,
+          "end": 127.4,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 127.4,
+          "end": 127.62,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 127.62,
+          "end": 127.78,
+          "probability": 1
+        },
+        {
+          "text": "running",
+          "start": 127.78,
+          "end": 128.16,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 128.16,
+          "end": 128.38,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 128.38,
+          "end": 128.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 128.6,
+      "end": 129.54,
+      "text": "Like this",
+      "words": [
+        {
+          "text": "Like",
+          "start": 128.6,
+          "end": 129.07,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 129.07,
+          "end": 129.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 129.79,
+      "end": 131.37,
+      "text": "This isn't what I wanted to be",
+      "words": [
+        {
+          "text": "This",
+          "start": 129.79,
+          "end": 130.04,
+          "probability": 1
+        },
+        {
+          "text": "isn't",
+          "start": 130.04,
+          "end": 130.36,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 130.36,
+          "end": 130.61,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 130.61,
+          "end": 130.73,
+          "probability": 1
+        },
+        {
+          "text": "wanted",
+          "start": 130.73,
+          "end": 131.11,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 131.11,
+          "end": 131.24,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 131.24,
+          "end": 131.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 131.56,
+      "end": 134.53,
+      "text": "I never thought that what I said would have you running from me",
+      "words": [
+        {
+          "text": "I",
+          "start": 131.56,
+          "end": 131.68,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 131.68,
+          "end": 131.96,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 131.96,
+          "end": 132.35,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 132.35,
+          "end": 132.57,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 132.57,
+          "end": 132.79,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 132.79,
+          "end": 132.91,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 132.91,
+          "end": 133.13,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 133.13,
+          "end": 133.41,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 133.41,
+          "end": 133.63,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 133.63,
+          "end": 133.8,
+          "probability": 1
+        },
+        {
+          "text": "running",
+          "start": 133.8,
+          "end": 134.19,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 134.19,
+          "end": 134.41,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 134.41,
+          "end": 134.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 134.65,
+      "end": 135.64,
+      "text": "Like this",
+      "words": [
+        {
+          "text": "Like",
+          "start": 134.65,
+          "end": 135.14,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 135.14,
+          "end": 135.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 135.89,
+      "end": 137.51,
+      "text": "This isn't what I wanted to be",
+      "words": [
+        {
+          "text": "This",
+          "start": 135.89,
+          "end": 136.15,
+          "probability": 1
+        },
+        {
+          "text": "isn't",
+          "start": 136.15,
+          "end": 136.48,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 136.48,
+          "end": 136.74,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 136.74,
+          "end": 136.86,
+          "probability": 1
+        },
+        {
+          "text": "wanted",
+          "start": 136.86,
+          "end": 137.25,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 137.25,
+          "end": 137.38,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 137.38,
+          "end": 137.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 137.7,
+      "end": 140.41,
+      "text": "I never thought that what I said would have you running from me",
+      "words": [
+        {
+          "text": "I",
+          "start": 137.7,
+          "end": 137.82,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 137.82,
+          "end": 138.07,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 138.07,
+          "end": 138.42,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 138.42,
+          "end": 138.62,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 138.62,
+          "end": 138.82,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 138.82,
+          "end": 138.94,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 138.94,
+          "end": 139.14,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 139.14,
+          "end": 139.39,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 139.39,
+          "end": 139.59,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 139.59,
+          "end": 139.74,
+          "probability": 1
+        },
+        {
+          "text": "running",
+          "start": 139.74,
+          "end": 140.09,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 140.09,
+          "end": 140.29,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 140.29,
+          "end": 140.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 140.53,
+      "end": 141.35,
+      "text": "Like this",
+      "words": [
+        {
+          "text": "Like",
+          "start": 140.53,
+          "end": 140.94,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 140.94,
+          "end": 141.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 141.6,
+      "end": 143.37,
+      "text": "This isn't what I wanted to be",
+      "words": [
+        {
+          "text": "This",
+          "start": 141.6,
+          "end": 141.89,
+          "probability": 1
+        },
+        {
+          "text": "isn't",
+          "start": 141.89,
+          "end": 142.25,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 142.25,
+          "end": 142.54,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 142.54,
+          "end": 142.66,
+          "probability": 1
+        },
+        {
+          "text": "wanted",
+          "start": 142.66,
+          "end": 143.09,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 143.09,
+          "end": 143.23,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 143.23,
+          "end": 143.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 143.56,
+      "end": 146.6,
+      "text": "I never thought that what I said would have you running from me",
+      "words": [
+        {
+          "text": "I",
+          "start": 143.56,
+          "end": 143.68,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 143.68,
+          "end": 143.96,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 143.96,
+          "end": 144.36,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 144.36,
+          "end": 144.59,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 144.59,
+          "end": 144.82,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 144.82,
+          "end": 144.94,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 144.94,
+          "end": 145.17,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 145.17,
+          "end": 145.45,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 145.45,
+          "end": 145.68,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 145.68,
+          "end": 145.85,
+          "probability": 1
+        },
+        {
+          "text": "running",
+          "start": 145.85,
+          "end": 146.25,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 146.25,
+          "end": 146.48,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 146.48,
+          "end": 146.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.69,
+      "end": 147.63,
+      "text": "Like this",
+      "words": [
+        {
+          "text": "Like",
+          "start": 146.69,
+          "end": 147.16,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 147.16,
+          "end": 147.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 147.87,
+      "end": 149.96,
+      "text": "You (no turning back now)",
+      "words": [
+        {
+          "text": "You",
+          "start": 147.87,
+          "end": 148.17,
+          "probability": 1
+        },
+        {
+          "text": "(no",
+          "start": 148.17,
+          "end": 148.47,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 148.47,
+          "end": 149.16,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 149.16,
+          "end": 149.56,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 149.56,
+          "end": 149.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 150.2,
+      "end": 153.8,
+      "text": "I want to be pushed aside, so let me go",
+      "words": [
+        {
+          "text": "I",
+          "start": 150.2,
+          "end": 150.32,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 150.32,
+          "end": 150.8,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 150.8,
+          "end": 151.04,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 151.04,
+          "end": 151.28,
+          "probability": 1
+        },
+        {
+          "text": "pushed",
+          "start": 151.28,
+          "end": 152,
+          "probability": 1
+        },
+        {
+          "text": "aside,",
+          "start": 152,
+          "end": 152.72,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 152.72,
+          "end": 152.96,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 152.96,
+          "end": 153.32,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 153.32,
+          "end": 153.56,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 153.56,
+          "end": 153.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 154.04,
+      "end": 155.66,
+      "text": "(No, no turning back now)",
+      "words": [
+        {
+          "text": "(No,",
+          "start": 154.04,
+          "end": 154.35,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 154.35,
+          "end": 154.5,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 154.5,
+          "end": 155.04,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 155.04,
+          "end": 155.35,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 155.35,
+          "end": 155.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.9,
+      "end": 160.58,
+      "text": "Let me take back my life, I'd rather be all alone",
+      "words": [
+        {
+          "text": "Let",
+          "start": 155.9,
+          "end": 156.26,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 156.26,
+          "end": 156.5,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 156.5,
+          "end": 156.98,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 156.98,
+          "end": 157.46,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 157.46,
+          "end": 157.7,
+          "probability": 1
+        },
+        {
+          "text": "life,",
+          "start": 157.7,
+          "end": 158.3,
+          "probability": 1
+        },
+        {
+          "text": "I'd",
+          "start": 158.3,
+          "end": 158.66,
+          "probability": 1
+        },
+        {
+          "text": "rather",
+          "start": 158.66,
+          "end": 159.38,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 159.38,
+          "end": 159.62,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 159.62,
+          "end": 159.98,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 159.98,
+          "end": 160.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 160.81,
+      "end": 161.94,
+      "text": "(No turning back now)",
+      "words": [
+        {
+          "text": "(No",
+          "start": 160.81,
+          "end": 161,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 161,
+          "end": 161.44,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 161.44,
+          "end": 161.69,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 161.69,
+          "end": 161.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 162.2,
+      "end": 165.75,
+      "text": "Anywhere on my own 'cause I can see",
+      "words": [
+        {
+          "text": "Anywhere",
+          "start": 162.2,
+          "end": 163.22,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 163.22,
+          "end": 163.47,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 163.47,
+          "end": 163.72,
+          "probability": 1
+        },
+        {
+          "text": "own",
+          "start": 163.72,
+          "end": 164.1,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 164.1,
+          "end": 164.86,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 164.86,
+          "end": 164.99,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 164.99,
+          "end": 165.37,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 165.37,
+          "end": 165.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 166.01,
+      "end": 167.68,
+      "text": "(No, no turning back now)",
+      "words": [
+        {
+          "text": "(No,",
+          "start": 166.01,
+          "end": 166.33,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 166.33,
+          "end": 166.49,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 166.49,
+          "end": 167.04,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 167.04,
+          "end": 167.36,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 167.36,
+          "end": 167.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.92,
+      "end": 170.35,
+      "text": "The very worst part of you",
+      "words": [
+        {
+          "text": "The",
+          "start": 167.92,
+          "end": 168.27,
+          "probability": 1
+        },
+        {
+          "text": "very",
+          "start": 168.27,
+          "end": 168.73,
+          "probability": 1
+        },
+        {
+          "text": "worst",
+          "start": 168.73,
+          "end": 169.31,
+          "probability": 1
+        },
+        {
+          "text": "part",
+          "start": 169.31,
+          "end": 169.77,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 169.77,
+          "end": 170,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 170,
+          "end": 170.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 170.6,
+      "end": 174.21,
+      "text": "The very worst part of you is me",
+      "words": [
+        {
+          "text": "The",
+          "start": 170.6,
+          "end": 171.03,
+          "probability": 1
+        },
+        {
+          "text": "very",
+          "start": 171.03,
+          "end": 171.61,
+          "probability": 1
+        },
+        {
+          "text": "worst",
+          "start": 171.61,
+          "end": 172.33,
+          "probability": 1
+        },
+        {
+          "text": "part",
+          "start": 172.33,
+          "end": 172.91,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 172.91,
+          "end": 173.2,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 173.2,
+          "end": 173.63,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 173.63,
+          "end": 173.92,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 173.92,
+          "end": 174.21,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "When I pretend everything is what I want it to be I look exactly like what you had always wanted to see When I pretend I can forget about the criminal I am Stealing second after second just 'cause I know I can But I can't pretend this is the way it'll stay I'm just (trying to bend the truth) I can't pretend I'm who you want me to be So I'm (lying my way from) You (no, no turning back now) I want to be pushed aside, so let me go (No, no turning back now) Let me take back my life, I'd rather be all alone (No turning back now) Anywhere on my own 'cause I can see (No, no turning back now) The very worst part of you is me I remember what they taught to me Remember condescending talk of who I ought to be Remember listening to all of that and this again So I pretended up a person who was fitting in And now you think this person really is me And I'm (trying to bend the truth) But the more I push, the more I'm pulling away 'Cause I'm (lying my way from) You (no, no turning back now) I want to be pushed aside, so let me go (No, no turning back now) Let me take back my life, I'd rather be all alone (No turning back now) Anywhere on my own 'cause I can see (No, no turning back now) The very worst part of you The very worst part of you is me This isn't what I wanted to be I never thought that what I said would have you running from me Like this This isn't what I wanted to be I never thought that what I said would have you running from me Like this This isn't what I wanted to be I never thought that what I said would have you running from me Like this This isn't what I wanted to be I never thought that what I said would have you running from me Like this You (no turning back now) I want to be pushed aside, so let me go (No, no turning back now) Let me take back my life, I'd rather be all alone (No turning back now) Anywhere on my own 'cause I can see (No, no turning back now) The very worst part of you The very worst part of you is me"
+}

@@ -1,0 +1,1012 @@
+{
+  "language": "en",
+  "duration": 820,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 522.34,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 522.34,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 522.34,
+      "end": 526.9,
+      "text": "Remember when you were young? (Ha-ha-ha-ha)",
+      "words": [
+        {
+          "text": "Remember",
+          "start": 522.34,
+          "end": 523.3,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 523.3,
+          "end": 523.78,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 523.78,
+          "end": 524.14,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 524.14,
+          "end": 524.62,
+          "probability": 1
+        },
+        {
+          "text": "young?",
+          "start": 524.62,
+          "end": 525.34,
+          "probability": 1
+        },
+        {
+          "text": "(Ha-ha-ha-ha)",
+          "start": 525.34,
+          "end": 526.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 528.1,
+      "end": 530.75,
+      "text": "You shone like the sun",
+      "words": [
+        {
+          "text": "You",
+          "start": 528.1,
+          "end": 528.54,
+          "probability": 1
+        },
+        {
+          "text": "shone",
+          "start": 528.54,
+          "end": 529.28,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 529.28,
+          "end": 529.87,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 529.87,
+          "end": 530.31,
+          "probability": 1
+        },
+        {
+          "text": "sun",
+          "start": 530.31,
+          "end": 530.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 532.26,
+      "end": 535.31,
+      "text": "Shine on, you crazy diamond",
+      "words": [
+        {
+          "text": "Shine",
+          "start": 532.26,
+          "end": 532.92,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 532.92,
+          "end": 533.32,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 533.32,
+          "end": 533.72,
+          "probability": 1
+        },
+        {
+          "text": "crazy",
+          "start": 533.72,
+          "end": 534.38,
+          "probability": 1
+        },
+        {
+          "text": "diamond",
+          "start": 534.38,
+          "end": 535.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 535.31,
+      "end": 542.72,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 535.31,
+          "end": 542.72,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 542.72,
+      "end": 545.86,
+      "text": "Now there's a look in your eyes",
+      "words": [
+        {
+          "text": "Now",
+          "start": 542.72,
+          "end": 543.1,
+          "probability": 1
+        },
+        {
+          "text": "there's",
+          "start": 543.1,
+          "end": 543.98,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 543.98,
+          "end": 544.11,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 544.11,
+          "end": 544.61,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 544.61,
+          "end": 544.86,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 544.86,
+          "end": 545.36,
+          "probability": 1
+        },
+        {
+          "text": "eyes",
+          "start": 545.36,
+          "end": 545.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 548.78,
+      "end": 551.81,
+      "text": "Like black holes in the sky",
+      "words": [
+        {
+          "text": "Like",
+          "start": 548.78,
+          "end": 549.33,
+          "probability": 1
+        },
+        {
+          "text": "black",
+          "start": 549.33,
+          "end": 550.02,
+          "probability": 1
+        },
+        {
+          "text": "holes",
+          "start": 550.02,
+          "end": 550.71,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 550.71,
+          "end": 550.99,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 550.99,
+          "end": 551.4,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 551.4,
+          "end": 551.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 553.24,
+      "end": 556.29,
+      "text": "Shine on, you crazy diamond",
+      "words": [
+        {
+          "text": "Shine",
+          "start": 553.24,
+          "end": 553.9,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 553.9,
+          "end": 554.3,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 554.3,
+          "end": 554.7,
+          "probability": 1
+        },
+        {
+          "text": "crazy",
+          "start": 554.7,
+          "end": 555.36,
+          "probability": 1
+        },
+        {
+          "text": "diamond",
+          "start": 555.36,
+          "end": 556.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 563.08,
+      "end": 565.87,
+      "text": "You were caught in the crossfire",
+      "words": [
+        {
+          "text": "You",
+          "start": 563.08,
+          "end": 563.39,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 563.39,
+          "end": 563.8,
+          "probability": 1
+        },
+        {
+          "text": "caught",
+          "start": 563.8,
+          "end": 564.42,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 564.42,
+          "end": 564.63,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 564.63,
+          "end": 564.94,
+          "probability": 1
+        },
+        {
+          "text": "crossfire",
+          "start": 564.94,
+          "end": 565.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 566.11,
+      "end": 568.4,
+      "text": "Of childhood and stardom",
+      "words": [
+        {
+          "text": "Of",
+          "start": 566.11,
+          "end": 566.33,
+          "probability": 1
+        },
+        {
+          "text": "childhood",
+          "start": 566.33,
+          "end": 567.31,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 567.31,
+          "end": 567.64,
+          "probability": 1
+        },
+        {
+          "text": "stardom",
+          "start": 567.64,
+          "end": 568.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 569.05,
+      "end": 571.33,
+      "text": "Blown on the steel breeze",
+      "words": [
+        {
+          "text": "Blown",
+          "start": 569.05,
+          "end": 569.59,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 569.59,
+          "end": 569.81,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 569.81,
+          "end": 570.14,
+          "probability": 1
+        },
+        {
+          "text": "steel",
+          "start": 570.14,
+          "end": 570.68,
+          "probability": 1
+        },
+        {
+          "text": "breeze",
+          "start": 570.68,
+          "end": 571.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 574.33,
+      "end": 578.88,
+      "text": "Come on, you target for faraway laughter",
+      "words": [
+        {
+          "text": "Come",
+          "start": 574.33,
+          "end": 574.87,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 574.87,
+          "end": 575.27,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 575.27,
+          "end": 575.67,
+          "probability": 1
+        },
+        {
+          "text": "target",
+          "start": 575.67,
+          "end": 576.47,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 576.47,
+          "end": 576.87,
+          "probability": 1
+        },
+        {
+          "text": "faraway",
+          "start": 576.87,
+          "end": 577.81,
+          "probability": 1
+        },
+        {
+          "text": "laughter",
+          "start": 577.81,
+          "end": 578.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 579.62,
+      "end": 581.71,
+      "text": "Come on, you stranger",
+      "words": [
+        {
+          "text": "Come",
+          "start": 579.62,
+          "end": 580.08,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 580.08,
+          "end": 580.43,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 580.43,
+          "end": 580.78,
+          "probability": 1
+        },
+        {
+          "text": "stranger",
+          "start": 580.78,
+          "end": 581.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 581.96,
+      "end": 585.4,
+      "text": "You legend, you martyr, and shine",
+      "words": [
+        {
+          "text": "You",
+          "start": 581.96,
+          "end": 582.33,
+          "probability": 1
+        },
+        {
+          "text": "legend,",
+          "start": 582.33,
+          "end": 583.19,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 583.19,
+          "end": 583.56,
+          "probability": 1
+        },
+        {
+          "text": "martyr,",
+          "start": 583.56,
+          "end": 584.42,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 584.42,
+          "end": 584.79,
+          "probability": 1
+        },
+        {
+          "text": "shine",
+          "start": 584.79,
+          "end": 585.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 585.4,
+      "end": 605.66,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 585.4,
+          "end": 605.66,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 605.66,
+      "end": 609.07,
+      "text": "You reached for the secret too soon",
+      "words": [
+        {
+          "text": "You",
+          "start": 605.66,
+          "end": 606.01,
+          "probability": 1
+        },
+        {
+          "text": "reached",
+          "start": 606.01,
+          "end": 606.84,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 606.84,
+          "end": 607.19,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 607.19,
+          "end": 607.54,
+          "probability": 1
+        },
+        {
+          "text": "secret",
+          "start": 607.54,
+          "end": 608.25,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 608.25,
+          "end": 608.6,
+          "probability": 1
+        },
+        {
+          "text": "soon",
+          "start": 608.6,
+          "end": 609.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 612.15,
+      "end": 614.42,
+      "text": "You cried for the moon",
+      "words": [
+        {
+          "text": "You",
+          "start": 612.15,
+          "end": 612.53,
+          "probability": 1
+        },
+        {
+          "text": "cried",
+          "start": 612.53,
+          "end": 613.16,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 613.16,
+          "end": 613.54,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 613.54,
+          "end": 613.92,
+          "probability": 1
+        },
+        {
+          "text": "moon",
+          "start": 613.92,
+          "end": 614.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 616.32,
+      "end": 619.37,
+      "text": "Shine on, you crazy diamond",
+      "words": [
+        {
+          "text": "Shine",
+          "start": 616.32,
+          "end": 616.98,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 616.98,
+          "end": 617.38,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 617.38,
+          "end": 617.78,
+          "probability": 1
+        },
+        {
+          "text": "crazy",
+          "start": 617.78,
+          "end": 618.44,
+          "probability": 1
+        },
+        {
+          "text": "diamond",
+          "start": 618.44,
+          "end": 619.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 619.37,
+      "end": 626.88,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 619.37,
+          "end": 626.88,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 626.88,
+      "end": 629.91,
+      "text": "Threatened by shadows at night",
+      "words": [
+        {
+          "text": "Threatened",
+          "start": 626.88,
+          "end": 628.05,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 628.05,
+          "end": 628.28,
+          "probability": 1
+        },
+        {
+          "text": "shadows",
+          "start": 628.28,
+          "end": 629.1,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 629.1,
+          "end": 629.33,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 629.33,
+          "end": 629.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 632.83,
+      "end": 635.5,
+      "text": "And exposed in the light",
+      "words": [
+        {
+          "text": "And",
+          "start": 632.83,
+          "end": 633.23,
+          "probability": 1
+        },
+        {
+          "text": "exposed",
+          "start": 633.23,
+          "end": 634.16,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 634.16,
+          "end": 634.43,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 634.43,
+          "end": 634.83,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 634.83,
+          "end": 635.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 637.39,
+      "end": 640.44,
+      "text": "Shine on, you crazy diamond",
+      "words": [
+        {
+          "text": "Shine",
+          "start": 637.39,
+          "end": 638.05,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 638.05,
+          "end": 638.45,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 638.45,
+          "end": 638.85,
+          "probability": 1
+        },
+        {
+          "text": "crazy",
+          "start": 638.85,
+          "end": 639.51,
+          "probability": 1
+        },
+        {
+          "text": "diamond",
+          "start": 639.51,
+          "end": 640.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 646.73,
+      "end": 649.67,
+      "text": "Well, you wore out your welcome",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 646.73,
+          "end": 647.3,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 647.3,
+          "end": 647.64,
+          "probability": 1
+        },
+        {
+          "text": "wore",
+          "start": 647.64,
+          "end": 648.09,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 648.09,
+          "end": 648.43,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 648.43,
+          "end": 648.88,
+          "probability": 1
+        },
+        {
+          "text": "welcome",
+          "start": 648.88,
+          "end": 649.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 649.92,
+      "end": 652.2,
+      "text": "With random precision",
+      "words": [
+        {
+          "text": "With",
+          "start": 649.92,
+          "end": 650.4,
+          "probability": 1
+        },
+        {
+          "text": "random",
+          "start": 650.4,
+          "end": 651.12,
+          "probability": 1
+        },
+        {
+          "text": "precision",
+          "start": 651.12,
+          "end": 652.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 652.77,
+      "end": 655.44,
+      "text": "Rode on the steel breeze",
+      "words": [
+        {
+          "text": "Rode",
+          "start": 652.77,
+          "end": 653.3,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 653.3,
+          "end": 653.57,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 653.57,
+          "end": 653.97,
+          "probability": 1
+        },
+        {
+          "text": "steel",
+          "start": 653.97,
+          "end": 654.64,
+          "probability": 1
+        },
+        {
+          "text": "breeze",
+          "start": 654.64,
+          "end": 655.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 657.1,
+      "end": 661.26,
+      "text": "Come on, you raver, you seer of visions",
+      "words": [
+        {
+          "text": "Come",
+          "start": 657.1,
+          "end": 657.62,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 657.62,
+          "end": 658.01,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 658.01,
+          "end": 658.4,
+          "probability": 1
+        },
+        {
+          "text": "raver,",
+          "start": 658.4,
+          "end": 659.18,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 659.18,
+          "end": 659.57,
+          "probability": 1
+        },
+        {
+          "text": "seer",
+          "start": 659.57,
+          "end": 660.09,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 660.09,
+          "end": 660.35,
+          "probability": 1
+        },
+        {
+          "text": "visions",
+          "start": 660.35,
+          "end": 661.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 663.21,
+      "end": 665.07,
+      "text": "Come on, you painter",
+      "words": [
+        {
+          "text": "Come",
+          "start": 663.21,
+          "end": 663.65,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 663.65,
+          "end": 663.98,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 663.98,
+          "end": 664.31,
+          "probability": 1
+        },
+        {
+          "text": "painter",
+          "start": 664.31,
+          "end": 665.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 665.31,
+      "end": 669.07,
+      "text": "You piper, you prisoner, and shine",
+      "words": [
+        {
+          "text": "You",
+          "start": 665.31,
+          "end": 665.7,
+          "probability": 1
+        },
+        {
+          "text": "piper,",
+          "start": 665.7,
+          "end": 666.48,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 666.48,
+          "end": 666.87,
+          "probability": 1
+        },
+        {
+          "text": "prisoner,",
+          "start": 666.87,
+          "end": 668.03,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 668.03,
+          "end": 668.42,
+          "probability": 1
+        },
+        {
+          "text": "shine",
+          "start": 668.42,
+          "end": 669.07,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Remember when you were young? (Ha-ha-ha-ha) You shone like the sun Shine on, you crazy diamond Now there's a look in your eyes Like black holes in the sky Shine on, you crazy diamond You were caught in the crossfire Of childhood and stardom Blown on the steel breeze Come on, you target for faraway laughter Come on, you stranger You legend, you martyr, and shine You reached for the secret too soon You cried for the moon Shine on, you crazy diamond Threatened by shadows at night And exposed in the light Shine on, you crazy diamond Well, you wore out your welcome With random precision Rode on the steel breeze Come on, you raver, you seer of visions Come on, you painter You piper, you prisoner, and shine"
+}

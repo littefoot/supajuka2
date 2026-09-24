@@ -1,0 +1,854 @@
+{
+  "language": "en",
+  "duration": 451,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 63.65,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 63.65,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 63.65,
+      "end": 65.55,
+      "text": "Welcome my son",
+      "words": [
+        {
+          "text": "Welcome",
+          "start": 63.65,
+          "end": 64.76,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 64.76,
+          "end": 65.08,
+          "probability": 1
+        },
+        {
+          "text": "son",
+          "start": 65.08,
+          "end": 65.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 67.64,
+      "end": 70.68,
+      "text": "Welcome to the machine",
+      "words": [
+        {
+          "text": "Welcome",
+          "start": 67.64,
+          "end": 68.76,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 68.76,
+          "end": 69.08,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 69.08,
+          "end": 69.56,
+          "probability": 1
+        },
+        {
+          "text": "machine",
+          "start": 69.56,
+          "end": 70.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 70.68,
+      "end": 77.74,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 70.68,
+          "end": 77.74,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 77.74,
+      "end": 80.02,
+      "text": "Where have you been?",
+      "words": [
+        {
+          "text": "Where",
+          "start": 77.74,
+          "end": 78.41,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 78.41,
+          "end": 78.95,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 78.95,
+          "end": 79.35,
+          "probability": 1
+        },
+        {
+          "text": "been?",
+          "start": 79.35,
+          "end": 80.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.34,
+      "end": 85.15,
+      "text": "It's alright we know where you've been",
+      "words": [
+        {
+          "text": "It's",
+          "start": 81.34,
+          "end": 81.82,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 81.82,
+          "end": 82.65,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 82.65,
+          "end": 82.89,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 82.89,
+          "end": 83.37,
+          "probability": 1
+        },
+        {
+          "text": "where",
+          "start": 83.37,
+          "end": 83.96,
+          "probability": 1
+        },
+        {
+          "text": "you've",
+          "start": 83.96,
+          "end": 84.67,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 84.67,
+          "end": 85.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 91.64,
+      "end": 93.53,
+      "text": "You've been in the pipeline",
+      "words": [
+        {
+          "text": "You've",
+          "start": 91.64,
+          "end": 92.13,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 92.13,
+          "end": 92.46,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 92.46,
+          "end": 92.62,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 92.62,
+          "end": 92.87,
+          "probability": 1
+        },
+        {
+          "text": "pipeline",
+          "start": 92.87,
+          "end": 93.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 93.78,
+      "end": 95.67,
+      "text": "Filling in time",
+      "words": [
+        {
+          "text": "Filling",
+          "start": 93.78,
+          "end": 94.8,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 94.8,
+          "end": 95.09,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 95.09,
+          "end": 95.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 99.04,
+      "end": 102.85,
+      "text": "Provided with toys and scouting for boys",
+      "words": [
+        {
+          "text": "Provided",
+          "start": 99.04,
+          "end": 99.93,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 99.93,
+          "end": 100.38,
+          "probability": 1
+        },
+        {
+          "text": "toys",
+          "start": 100.38,
+          "end": 100.83,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 100.83,
+          "end": 101.17,
+          "probability": 1
+        },
+        {
+          "text": "scouting",
+          "start": 101.17,
+          "end": 102.06,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 102.06,
+          "end": 102.4,
+          "probability": 1
+        },
+        {
+          "text": "boys",
+          "start": 102.4,
+          "end": 102.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.81,
+      "end": 109.63,
+      "text": "You brought a guitar to punish your ma",
+      "words": [
+        {
+          "text": "You",
+          "start": 105.81,
+          "end": 106.18,
+          "probability": 1
+        },
+        {
+          "text": "brought",
+          "start": 106.18,
+          "end": 107.04,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 107.04,
+          "end": 107.16,
+          "probability": 1
+        },
+        {
+          "text": "guitar",
+          "start": 107.16,
+          "end": 107.9,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 107.9,
+          "end": 108.15,
+          "probability": 1
+        },
+        {
+          "text": "punish",
+          "start": 108.15,
+          "end": 108.89,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 108.89,
+          "end": 109.38,
+          "probability": 1
+        },
+        {
+          "text": "ma",
+          "start": 109.38,
+          "end": 109.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 113.27,
+      "end": 115.54,
+      "text": "And you didn't like school",
+      "words": [
+        {
+          "text": "And",
+          "start": 113.27,
+          "end": 113.58,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 113.58,
+          "end": 113.89,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 113.89,
+          "end": 114.51,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 114.51,
+          "end": 114.92,
+          "probability": 1
+        },
+        {
+          "text": "school",
+          "start": 114.92,
+          "end": 115.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 115.92,
+      "end": 119.35,
+      "text": "And you know you're nobody's fool",
+      "words": [
+        {
+          "text": "And",
+          "start": 115.92,
+          "end": 116.29,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 116.29,
+          "end": 116.66,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 116.66,
+          "end": 117.15,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 117.15,
+          "end": 117.88,
+          "probability": 1
+        },
+        {
+          "text": "nobody's",
+          "start": 117.88,
+          "end": 118.86,
+          "probability": 1
+        },
+        {
+          "text": "fool",
+          "start": 118.86,
+          "end": 119.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.62,
+      "end": 129.05,
+      "text": "So welcome to the machine",
+      "words": [
+        {
+          "text": "So",
+          "start": 125.62,
+          "end": 125.95,
+          "probability": 1
+        },
+        {
+          "text": "welcome",
+          "start": 125.95,
+          "end": 127.09,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 127.09,
+          "end": 127.42,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 127.42,
+          "end": 127.91,
+          "probability": 1
+        },
+        {
+          "text": "machine",
+          "start": 127.91,
+          "end": 129.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 129.05,
+      "end": 238.14,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 129.05,
+          "end": 238.14,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 238.14,
+      "end": 240.05,
+      "text": "Welcome my son",
+      "words": [
+        {
+          "text": "Welcome",
+          "start": 238.14,
+          "end": 239.25,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 239.25,
+          "end": 239.57,
+          "probability": 1
+        },
+        {
+          "text": "son",
+          "start": 239.57,
+          "end": 240.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 241.36,
+      "end": 244.4,
+      "text": "Welcome to the machine",
+      "words": [
+        {
+          "text": "Welcome",
+          "start": 241.36,
+          "end": 242.48,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 242.48,
+          "end": 242.8,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 242.8,
+          "end": 243.28,
+          "probability": 1
+        },
+        {
+          "text": "machine",
+          "start": 243.28,
+          "end": 244.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 244.4,
+      "end": 251.87,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 244.4,
+          "end": 251.87,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 251.87,
+      "end": 253.68,
+      "text": "What did you dream?",
+      "words": [
+        {
+          "text": "What",
+          "start": 251.87,
+          "end": 252.32,
+          "probability": 1
+        },
+        {
+          "text": "did",
+          "start": 252.32,
+          "end": 252.66,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 252.66,
+          "end": 253,
+          "probability": 1
+        },
+        {
+          "text": "dream?",
+          "start": 253,
+          "end": 253.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 254.99,
+      "end": 258.57,
+      "text": "It's alright we told you what to dream",
+      "words": [
+        {
+          "text": "It's",
+          "start": 254.99,
+          "end": 255.45,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 255.45,
+          "end": 256.26,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 256.26,
+          "end": 256.49,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 256.49,
+          "end": 256.95,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 256.95,
+          "end": 257.3,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 257.3,
+          "end": 257.76,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 257.76,
+          "end": 257.99,
+          "probability": 1
+        },
+        {
+          "text": "dream",
+          "start": 257.99,
+          "end": 258.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 258.57,
+      "end": 266.39,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 258.57,
+          "end": 266.39,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 266.39,
+      "end": 269.09,
+      "text": "You dreamed of a big star",
+      "words": [
+        {
+          "text": "You",
+          "start": 266.39,
+          "end": 266.79,
+          "probability": 1
+        },
+        {
+          "text": "dreamed",
+          "start": 266.79,
+          "end": 267.74,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 267.74,
+          "end": 268.01,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 268.01,
+          "end": 268.15,
+          "probability": 1
+        },
+        {
+          "text": "big",
+          "start": 268.15,
+          "end": 268.55,
+          "probability": 1
+        },
+        {
+          "text": "star",
+          "start": 268.55,
+          "end": 269.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 273.42,
+      "end": 275.7,
+      "text": "He played a mean guitar",
+      "words": [
+        {
+          "text": "He",
+          "start": 273.42,
+          "end": 273.66,
+          "probability": 1
+        },
+        {
+          "text": "played",
+          "start": 273.66,
+          "end": 274.38,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 274.38,
+          "end": 274.5,
+          "probability": 1
+        },
+        {
+          "text": "mean",
+          "start": 274.5,
+          "end": 274.98,
+          "probability": 1
+        },
+        {
+          "text": "guitar",
+          "start": 274.98,
+          "end": 275.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 280.42,
+      "end": 283.86,
+      "text": "He always ate in the Steak Bar",
+      "words": [
+        {
+          "text": "He",
+          "start": 280.42,
+          "end": 280.71,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 280.71,
+          "end": 281.57,
+          "probability": 1
+        },
+        {
+          "text": "ate",
+          "start": 281.57,
+          "end": 282,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 282,
+          "end": 282.29,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 282.29,
+          "end": 282.72,
+          "probability": 1
+        },
+        {
+          "text": "Steak",
+          "start": 282.72,
+          "end": 283.43,
+          "probability": 1
+        },
+        {
+          "text": "Bar",
+          "start": 283.43,
+          "end": 283.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 287.18,
+      "end": 290.97,
+      "text": "He loved to drive in his Jaguar",
+      "words": [
+        {
+          "text": "He",
+          "start": 287.18,
+          "end": 287.48,
+          "probability": 1
+        },
+        {
+          "text": "loved",
+          "start": 287.48,
+          "end": 288.24,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 288.24,
+          "end": 288.54,
+          "probability": 1
+        },
+        {
+          "text": "drive",
+          "start": 288.54,
+          "end": 289.3,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 289.3,
+          "end": 289.6,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 289.6,
+          "end": 290.06,
+          "probability": 1
+        },
+        {
+          "text": "Jaguar",
+          "start": 290.06,
+          "end": 290.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 294.18,
+      "end": 297.61,
+      "text": "So welcome to the machine",
+      "words": [
+        {
+          "text": "So",
+          "start": 294.18,
+          "end": 294.51,
+          "probability": 1
+        },
+        {
+          "text": "welcome",
+          "start": 294.51,
+          "end": 295.65,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 295.65,
+          "end": 295.98,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 295.98,
+          "end": 296.47,
+          "probability": 1
+        },
+        {
+          "text": "machine",
+          "start": 296.47,
+          "end": 297.61,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Welcome my son Welcome to the machine Where have you been? It's alright we know where you've been You've been in the pipeline Filling in time Provided with toys and scouting for boys You brought a guitar to punish your ma And you didn't like school And you know you're nobody's fool So welcome to the machine Welcome my son Welcome to the machine What did you dream? It's alright we told you what to dream You dreamed of a big star He played a mean guitar He always ate in the Steak Bar He loved to drive in his Jaguar So welcome to the machine"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "flac_f36f9de67bda",
+  "source": "local",
+  "title": "It's Still Rock and Roll to Me",
+  "artist": "Billy Joel",
+  "album": "50 Years of the Piano Man",
+  "duration": 178,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_f36f9de67bda/cover.jpg",
+  "cachedAt": 1790186628267,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_f36f9de67bda/original.flac",
+  "instrumentalUrl": "/audio/flac_f36f9de67bda/instrumental.flac",
+  "vocalsUrl": "/audio/flac_f36f9de67bda/vocals.flac"
+}

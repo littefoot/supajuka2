@@ -1,0 +1,19 @@
+{
+  "id": "flac_c15e9a80d7e8",
+  "source": "local",
+  "title": "Only the Good Die Young",
+  "artist": "Billy Joel",
+  "album": "50 Years of the Piano Man",
+  "duration": 235,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_c15e9a80d7e8/cover.jpg",
+  "cachedAt": 1790186676424,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_c15e9a80d7e8/original.flac",
+  "instrumentalUrl": "/audio/flac_c15e9a80d7e8/instrumental.flac",
+  "vocalsUrl": "/audio/flac_c15e9a80d7e8/vocals.flac"
+}

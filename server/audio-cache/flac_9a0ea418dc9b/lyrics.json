@@ -1,0 +1,476 @@
+{
+  "language": "en",
+  "duration": 751,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 302.31,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 302.31,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 302.31,
+      "end": 307.63,
+      "text": "Nobody knows where you are, how near or how far",
+      "words": [
+        {
+          "text": "Nobody",
+          "start": 302.31,
+          "end": 303.15,
+          "probability": 1
+        },
+        {
+          "text": "knows",
+          "start": 303.15,
+          "end": 303.85,
+          "probability": 1
+        },
+        {
+          "text": "where",
+          "start": 303.85,
+          "end": 304.55,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 304.55,
+          "end": 304.97,
+          "probability": 1
+        },
+        {
+          "text": "are,",
+          "start": 304.97,
+          "end": 305.53,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 305.53,
+          "end": 305.95,
+          "probability": 1
+        },
+        {
+          "text": "near",
+          "start": 305.95,
+          "end": 306.51,
+          "probability": 1
+        },
+        {
+          "text": "or",
+          "start": 306.51,
+          "end": 306.79,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 306.79,
+          "end": 307.21,
+          "probability": 1
+        },
+        {
+          "text": "far",
+          "start": 307.21,
+          "end": 307.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 312.53,
+      "end": 315.57,
+      "text": "Shine on you crazy diamond",
+      "words": [
+        {
+          "text": "Shine",
+          "start": 312.53,
+          "end": 313.22,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 313.22,
+          "end": 313.5,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 313.5,
+          "end": 313.91,
+          "probability": 1
+        },
+        {
+          "text": "crazy",
+          "start": 313.91,
+          "end": 314.6,
+          "probability": 1
+        },
+        {
+          "text": "diamond",
+          "start": 314.6,
+          "end": 315.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 315.57,
+      "end": 322.78,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 315.57,
+          "end": 322.78,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 322.78,
+      "end": 328.85,
+      "text": "Pile on many more layers and I'll be joining you there",
+      "words": [
+        {
+          "text": "Pile",
+          "start": 322.78,
+          "end": 323.33,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 323.33,
+          "end": 323.61,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 323.61,
+          "end": 324.16,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 324.16,
+          "end": 324.71,
+          "probability": 1
+        },
+        {
+          "text": "layers",
+          "start": 324.71,
+          "end": 325.54,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 325.54,
+          "end": 325.95,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 325.95,
+          "end": 326.5,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 326.5,
+          "end": 326.78,
+          "probability": 1
+        },
+        {
+          "text": "joining",
+          "start": 326.78,
+          "end": 327.75,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 327.75,
+          "end": 328.16,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 328.16,
+          "end": 328.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 333.49,
+      "end": 336.53,
+      "text": "Shine on you crazy diamond",
+      "words": [
+        {
+          "text": "Shine",
+          "start": 333.49,
+          "end": 334.18,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 334.18,
+          "end": 334.46,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 334.46,
+          "end": 334.87,
+          "probability": 1
+        },
+        {
+          "text": "crazy",
+          "start": 334.87,
+          "end": 335.56,
+          "probability": 1
+        },
+        {
+          "text": "diamond",
+          "start": 335.56,
+          "end": 336.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 343.02,
+      "end": 347.58,
+      "text": "And we'll bask in the shadow of yesterday's triumph",
+      "words": [
+        {
+          "text": "And",
+          "start": 343.02,
+          "end": 343.34,
+          "probability": 1
+        },
+        {
+          "text": "we'll",
+          "start": 343.34,
+          "end": 343.87,
+          "probability": 1
+        },
+        {
+          "text": "bask",
+          "start": 343.87,
+          "end": 344.29,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 344.29,
+          "end": 344.5,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 344.5,
+          "end": 344.82,
+          "probability": 1
+        },
+        {
+          "text": "shadow",
+          "start": 344.82,
+          "end": 345.46,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 345.46,
+          "end": 345.67,
+          "probability": 1
+        },
+        {
+          "text": "yesterday's",
+          "start": 345.67,
+          "end": 346.84,
+          "probability": 1
+        },
+        {
+          "text": "triumph",
+          "start": 346.84,
+          "end": 347.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 348.88,
+      "end": 351.16,
+      "text": "Sail on the steel breeze",
+      "words": [
+        {
+          "text": "Sail",
+          "start": 348.88,
+          "end": 349.34,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 349.34,
+          "end": 349.57,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 349.57,
+          "end": 349.91,
+          "probability": 1
+        },
+        {
+          "text": "steel",
+          "start": 349.91,
+          "end": 350.48,
+          "probability": 1
+        },
+        {
+          "text": "breeze",
+          "start": 350.48,
+          "end": 351.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 354.52,
+      "end": 359.07,
+      "text": "Come on you boy child, you winner and loser",
+      "words": [
+        {
+          "text": "Come",
+          "start": 354.52,
+          "end": 355.04,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 355.04,
+          "end": 355.3,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 355.3,
+          "end": 355.69,
+          "probability": 1
+        },
+        {
+          "text": "boy",
+          "start": 355.69,
+          "end": 356.08,
+          "probability": 1
+        },
+        {
+          "text": "child,",
+          "start": 356.08,
+          "end": 356.86,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 356.86,
+          "end": 357.25,
+          "probability": 1
+        },
+        {
+          "text": "winner",
+          "start": 357.25,
+          "end": 358.03,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 358.03,
+          "end": 358.42,
+          "probability": 1
+        },
+        {
+          "text": "loser",
+          "start": 358.42,
+          "end": 359.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 359.7,
+      "end": 363.47,
+      "text": "Come on you miner for truth and delusion, and shine",
+      "words": [
+        {
+          "text": "Come",
+          "start": 359.7,
+          "end": 360.06,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 360.06,
+          "end": 360.24,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 360.24,
+          "end": 360.51,
+          "probability": 1
+        },
+        {
+          "text": "miner",
+          "start": 360.51,
+          "end": 360.96,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 360.96,
+          "end": 361.23,
+          "probability": 1
+        },
+        {
+          "text": "truth",
+          "start": 361.23,
+          "end": 361.68,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 361.68,
+          "end": 361.95,
+          "probability": 1
+        },
+        {
+          "text": "delusion,",
+          "start": 361.95,
+          "end": 362.75,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 362.75,
+          "end": 363.02,
+          "probability": 1
+        },
+        {
+          "text": "shine",
+          "start": 363.02,
+          "end": 363.47,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Nobody knows where you are, how near or how far Shine on you crazy diamond Pile on many more layers and I'll be joining you there Shine on you crazy diamond And we'll bask in the shadow of yesterday's triumph Sail on the steel breeze Come on you boy child, you winner and loser Come on you miner for truth and delusion, and shine"
+}

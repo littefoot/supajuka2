@@ -1,0 +1,19 @@
+{
+  "id": "flac_ca1933facf03",
+  "source": "local",
+  "title": "No Surprises",
+  "artist": "Radiohead",
+  "album": "OK Computer (1)",
+  "duration": 229,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_ca1933facf03/cover.jpg",
+  "cachedAt": 1789624032063,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_ca1933facf03/original.flac",
+  "instrumentalUrl": "/audio/flac_ca1933facf03/instrumental.flac",
+  "vocalsUrl": "/audio/flac_ca1933facf03/vocals.flac"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "flac_ff4cb1ce79af",
+  "source": "local",
+  "title": "We Didn't Start the Fire",
+  "artist": "Billy Joel",
+  "album": "50 Years of the Piano Man",
+  "duration": 290,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_ff4cb1ce79af/cover.jpg",
+  "cachedAt": 1790186504460,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_ff4cb1ce79af/original.flac",
+  "instrumentalUrl": "/audio/flac_ff4cb1ce79af/instrumental.flac",
+  "vocalsUrl": "/audio/flac_ff4cb1ce79af/vocals.flac"
+}

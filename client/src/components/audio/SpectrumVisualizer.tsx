@@ -23,25 +23,25 @@ export const SpectrumVisualizer: React.FC<Props> = ({ fftData, isPlaying }) => {
     const barWidth = width / numBars - 2;
 
     for (let i = 0; i < numBars; i++) {
-      const val = isPlaying && fftData[i] ? fftData[i] : 0.05;
-      const barHeight = Math.max(3, val * height);
+      const val = isPlaying && fftData[i] ? fftData[i] : 0.04;
+      const barHeight = Math.max(2, val * height);
 
-      // Neon Gradient
+      // Professional Console VU Meter Gradient (Antigravity Blue -> Emerald -> Amber Peak)
       const grad = ctx.createLinearGradient(0, height, 0, height - barHeight);
-      grad.addColorStop(0, '#06b6d4'); // Cyan base
-      grad.addColorStop(0.6, '#a855f7'); // Purple mid
-      grad.addColorStop(1, '#ec4899'); // Pink peak
+      grad.addColorStop(0, '#007acc');   // Antigravity Blue base
+      grad.addColorStop(0.65, '#10b981'); // Emerald green body
+      grad.addColorStop(1, '#fbbf24');    // Studio amber/gold peak warning
 
       ctx.fillStyle = grad;
       ctx.beginPath();
-      ctx.roundRect(i * (barWidth + 2), height - barHeight, barWidth, barHeight, [2, 2, 0, 0]);
+      ctx.roundRect(i * (barWidth + 2), height - barHeight, barWidth, barHeight, [1, 1, 0, 0]);
       ctx.fill();
     }
   }, [fftData, isPlaying]);
 
   return (
-    <div className="w-full h-16 bg-slate-950/60 rounded-xl border border-slate-800/80 p-2 flex items-center justify-center overflow-hidden shadow-inner">
-      <canvas ref={canvasRef} width={640} height={60} className="w-full h-full" />
+    <div className="w-full h-full flex items-center justify-center overflow-hidden">
+      <canvas ref={canvasRef} width={640} height={32} className="w-full h-full" />
     </div>
   );
 };

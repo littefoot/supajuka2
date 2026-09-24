@@ -1,0 +1,19 @@
+{
+  "id": "flac_180370e207a3",
+  "source": "local",
+  "title": "Somewhere I Belong",
+  "artist": "Linkin Park",
+  "album": "Meteora",
+  "duration": 214,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_180370e207a3/cover.jpg",
+  "cachedAt": 1789625189083,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_180370e207a3/original.flac",
+  "instrumentalUrl": "/audio/flac_180370e207a3/instrumental.flac",
+  "vocalsUrl": "/audio/flac_180370e207a3/vocals.flac"
+}

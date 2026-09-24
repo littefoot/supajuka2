@@ -1,0 +1,19 @@
+{
+  "id": "flac_bf23da37ead0",
+  "source": "local",
+  "title": "Strawberry Fields Forever (2015 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 252,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_bf23da37ead0/cover.jpg",
+  "cachedAt": 1790183926329,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_bf23da37ead0/original.flac",
+  "instrumentalUrl": "/audio/flac_bf23da37ead0/instrumental.flac",
+  "vocalsUrl": "/audio/flac_bf23da37ead0/vocals.flac"
+}

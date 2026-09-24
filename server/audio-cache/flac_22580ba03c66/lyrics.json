@@ -1,0 +1,1387 @@
+{
+  "language": "en",
+  "duration": 202,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 6,
+      "end": 6.6,
+      "text": "Aah!",
+      "words": [
+        {
+          "text": "Aah!",
+          "start": 6,
+          "end": 6.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 8.36,
+      "end": 11.24,
+      "text": "You say you want a revolution",
+      "words": [
+        {
+          "text": "You",
+          "start": 8.36,
+          "end": 8.72,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 8.72,
+          "end": 9.08,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 9.08,
+          "end": 9.44,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 9.44,
+          "end": 9.92,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 9.92,
+          "end": 10.04,
+          "probability": 1
+        },
+        {
+          "text": "revolution",
+          "start": 10.04,
+          "end": 11.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 11.5,
+      "end": 12.85,
+      "text": "Well, you know",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 11.5,
+          "end": 12.06,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 12.06,
+          "end": 12.4,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 12.4,
+          "end": 12.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 15.39,
+      "end": 18.42,
+      "text": "We all wanna change the world",
+      "words": [
+        {
+          "text": "We",
+          "start": 15.39,
+          "end": 15.64,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 15.64,
+          "end": 16.02,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 16.02,
+          "end": 16.65,
+          "probability": 1
+        },
+        {
+          "text": "change",
+          "start": 16.65,
+          "end": 17.41,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 17.41,
+          "end": 17.79,
+          "probability": 1
+        },
+        {
+          "text": "world",
+          "start": 17.79,
+          "end": 18.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 20.86,
+      "end": 24.28,
+      "text": "You tell me that it's evolution",
+      "words": [
+        {
+          "text": "You",
+          "start": 20.86,
+          "end": 21.25,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 21.25,
+          "end": 21.78,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 21.78,
+          "end": 22.04,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 22.04,
+          "end": 22.57,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 22.57,
+          "end": 23.1,
+          "probability": 1
+        },
+        {
+          "text": "evolution",
+          "start": 23.1,
+          "end": 24.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 24.58,
+      "end": 25.93,
+      "text": "Well, you know",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 24.58,
+          "end": 25.14,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 25.14,
+          "end": 25.48,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 25.48,
+          "end": 25.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 28.37,
+      "end": 31.4,
+      "text": "We all wanna change the world",
+      "words": [
+        {
+          "text": "We",
+          "start": 28.37,
+          "end": 28.62,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 28.62,
+          "end": 29,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 29,
+          "end": 29.63,
+          "probability": 1
+        },
+        {
+          "text": "change",
+          "start": 29.63,
+          "end": 30.39,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 30.39,
+          "end": 30.77,
+          "probability": 1
+        },
+        {
+          "text": "world",
+          "start": 30.77,
+          "end": 31.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 34.52,
+      "end": 37.94,
+      "text": "But when you talk about destruction",
+      "words": [
+        {
+          "text": "But",
+          "start": 34.52,
+          "end": 34.86,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 34.86,
+          "end": 35.32,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 35.32,
+          "end": 35.66,
+          "probability": 1
+        },
+        {
+          "text": "talk",
+          "start": 35.66,
+          "end": 36.12,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 36.12,
+          "end": 36.69,
+          "probability": 1
+        },
+        {
+          "text": "destruction",
+          "start": 36.69,
+          "end": 37.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 38.62,
+      "end": 42.67,
+      "text": "Don't you know that you can count me out?",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 38.62,
+          "end": 39.23,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 39.23,
+          "end": 39.6,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 39.6,
+          "end": 40.09,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 40.09,
+          "end": 40.58,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 40.58,
+          "end": 40.95,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 40.95,
+          "end": 41.32,
+          "probability": 1
+        },
+        {
+          "text": "count",
+          "start": 41.32,
+          "end": 41.93,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 41.93,
+          "end": 42.18,
+          "probability": 1
+        },
+        {
+          "text": "out?",
+          "start": 42.18,
+          "end": 42.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 43.87,
+      "end": 47.28,
+      "text": "Don't you know it's gonna be alright?",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 43.87,
+          "end": 44.42,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 44.42,
+          "end": 44.75,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 44.75,
+          "end": 45.19,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 45.19,
+          "end": 45.63,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 45.63,
+          "end": 46.18,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 46.18,
+          "end": 46.4,
+          "probability": 1
+        },
+        {
+          "text": "alright?",
+          "start": 46.4,
+          "end": 47.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 50.26,
+      "end": 51.02,
+      "text": "Alright",
+      "words": [
+        {
+          "text": "Alright",
+          "start": 50.26,
+          "end": 51.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 53.94,
+      "end": 54.7,
+      "text": "Alright",
+      "words": [
+        {
+          "text": "Alright",
+          "start": 53.94,
+          "end": 54.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.16,
+      "end": 64.07,
+      "text": "You say you got a real solution",
+      "words": [
+        {
+          "text": "You",
+          "start": 61.16,
+          "end": 61.51,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 61.51,
+          "end": 61.86,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 61.86,
+          "end": 62.21,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 62.21,
+          "end": 62.56,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 62.56,
+          "end": 62.68,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 62.68,
+          "end": 63.14,
+          "probability": 1
+        },
+        {
+          "text": "solution",
+          "start": 63.14,
+          "end": 64.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 64.31,
+      "end": 65.66,
+      "text": "Well, you know",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 64.31,
+          "end": 64.87,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 64.87,
+          "end": 65.21,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 65.21,
+          "end": 65.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 68.36,
+      "end": 71.51,
+      "text": "We'd all love to see the plan",
+      "words": [
+        {
+          "text": "We'd",
+          "start": 68.36,
+          "end": 68.91,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 68.91,
+          "end": 69.32,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 69.32,
+          "end": 69.87,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 69.87,
+          "end": 70.14,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 70.14,
+          "end": 70.55,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 70.55,
+          "end": 70.96,
+          "probability": 1
+        },
+        {
+          "text": "plan",
+          "start": 70.96,
+          "end": 71.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 73.88,
+      "end": 77.3,
+      "text": "You ask me for a contribution",
+      "words": [
+        {
+          "text": "You",
+          "start": 73.88,
+          "end": 74.31,
+          "probability": 1
+        },
+        {
+          "text": "ask",
+          "start": 74.31,
+          "end": 74.74,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 74.74,
+          "end": 75.02,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 75.02,
+          "end": 75.45,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 75.45,
+          "end": 75.59,
+          "probability": 1
+        },
+        {
+          "text": "contribution",
+          "start": 75.59,
+          "end": 77.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 77.56,
+      "end": 78.91,
+      "text": "Well, you know",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 77.56,
+          "end": 78.12,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 78.12,
+          "end": 78.46,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 78.46,
+          "end": 78.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.25,
+      "end": 83.95,
+      "text": "We're all doing what we can",
+      "words": [
+        {
+          "text": "We're",
+          "start": 81.25,
+          "end": 81.86,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 81.86,
+          "end": 82.23,
+          "probability": 1
+        },
+        {
+          "text": "doing",
+          "start": 82.23,
+          "end": 82.84,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 82.84,
+          "end": 83.33,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 83.33,
+          "end": 83.58,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 83.58,
+          "end": 83.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 87.03,
+      "end": 90.9,
+      "text": "But if you want money for people with minds that hate",
+      "words": [
+        {
+          "text": "But",
+          "start": 87.03,
+          "end": 87.3,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 87.3,
+          "end": 87.48,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 87.48,
+          "end": 87.75,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 87.75,
+          "end": 88.11,
+          "probability": 1
+        },
+        {
+          "text": "money",
+          "start": 88.11,
+          "end": 88.56,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 88.56,
+          "end": 88.83,
+          "probability": 1
+        },
+        {
+          "text": "people",
+          "start": 88.83,
+          "end": 89.37,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 89.37,
+          "end": 89.73,
+          "probability": 1
+        },
+        {
+          "text": "minds",
+          "start": 89.73,
+          "end": 90.18,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 90.18,
+          "end": 90.54,
+          "probability": 1
+        },
+        {
+          "text": "hate",
+          "start": 90.54,
+          "end": 90.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 91.14,
+      "end": 96.08,
+      "text": "All I can tell you is, brother, you have to wait",
+      "words": [
+        {
+          "text": "All",
+          "start": 91.14,
+          "end": 91.53,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 91.53,
+          "end": 91.66,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 91.66,
+          "end": 92.05,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 92.05,
+          "end": 92.57,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 92.57,
+          "end": 92.96,
+          "probability": 1
+        },
+        {
+          "text": "is,",
+          "start": 92.96,
+          "end": 93.35,
+          "probability": 1
+        },
+        {
+          "text": "brother,",
+          "start": 93.35,
+          "end": 94.39,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 94.39,
+          "end": 94.78,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 94.78,
+          "end": 95.3,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 95.3,
+          "end": 95.56,
+          "probability": 1
+        },
+        {
+          "text": "wait",
+          "start": 95.56,
+          "end": 96.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 96.8,
+      "end": 100.21,
+      "text": "Don't you know it's gonna be alright?",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 96.8,
+          "end": 97.35,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 97.35,
+          "end": 97.68,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 97.68,
+          "end": 98.12,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 98.12,
+          "end": 98.56,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 98.56,
+          "end": 99.11,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 99.11,
+          "end": 99.33,
+          "probability": 1
+        },
+        {
+          "text": "alright?",
+          "start": 99.33,
+          "end": 100.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 103.08,
+      "end": 103.84,
+      "text": "Alright",
+      "words": [
+        {
+          "text": "Alright",
+          "start": 103.08,
+          "end": 103.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 106.64,
+      "end": 107.4,
+      "text": "Alright",
+      "words": [
+        {
+          "text": "Alright",
+          "start": 106.64,
+          "end": 107.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 107.4,
+      "end": 130.19,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 107.4,
+          "end": 130.19,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 130.19,
+      "end": 133.17,
+      "text": "You say you'll change the constitution",
+      "words": [
+        {
+          "text": "You",
+          "start": 130.19,
+          "end": 130.46,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 130.46,
+          "end": 130.73,
+          "probability": 1
+        },
+        {
+          "text": "you'll",
+          "start": 130.73,
+          "end": 131.27,
+          "probability": 1
+        },
+        {
+          "text": "change",
+          "start": 131.27,
+          "end": 131.81,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 131.81,
+          "end": 132.08,
+          "probability": 1
+        },
+        {
+          "text": "constitution",
+          "start": 132.08,
+          "end": 133.17,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.43,
+      "end": 134.78,
+      "text": "Well, you know",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 133.43,
+          "end": 133.99,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 133.99,
+          "end": 134.33,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 134.33,
+          "end": 134.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 137.18,
+      "end": 140.22,
+      "text": "We all wanna change your head",
+      "words": [
+        {
+          "text": "We",
+          "start": 137.18,
+          "end": 137.43,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 137.43,
+          "end": 137.81,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 137.81,
+          "end": 138.44,
+          "probability": 1
+        },
+        {
+          "text": "change",
+          "start": 138.44,
+          "end": 139.2,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 139.2,
+          "end": 139.71,
+          "probability": 1
+        },
+        {
+          "text": "head",
+          "start": 139.71,
+          "end": 140.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142.61,
+      "end": 146.03,
+      "text": "You tell me it's the institution",
+      "words": [
+        {
+          "text": "You",
+          "start": 142.61,
+          "end": 142.99,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 142.99,
+          "end": 143.5,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 143.5,
+          "end": 143.75,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 143.75,
+          "end": 144.26,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 144.26,
+          "end": 144.64,
+          "probability": 1
+        },
+        {
+          "text": "institution",
+          "start": 144.64,
+          "end": 146.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.36,
+      "end": 147.71,
+      "text": "Well, you know",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 146.36,
+          "end": 146.92,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 146.92,
+          "end": 147.26,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 147.26,
+          "end": 147.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 150.05,
+      "end": 153.08,
+      "text": "You better free your mind instead",
+      "words": [
+        {
+          "text": "You",
+          "start": 150.05,
+          "end": 150.38,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 150.38,
+          "end": 151.03,
+          "probability": 1
+        },
+        {
+          "text": "free",
+          "start": 151.03,
+          "end": 151.46,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 151.46,
+          "end": 151.89,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 151.89,
+          "end": 152.32,
+          "probability": 1
+        },
+        {
+          "text": "instead",
+          "start": 152.32,
+          "end": 153.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.96,
+      "end": 159.35,
+      "text": "But if you go carrying pictures of Chairman Mao",
+      "words": [
+        {
+          "text": "But",
+          "start": 155.96,
+          "end": 156.22,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 156.22,
+          "end": 156.39,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 156.39,
+          "end": 156.65,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 156.65,
+          "end": 156.82,
+          "probability": 1
+        },
+        {
+          "text": "carrying",
+          "start": 156.82,
+          "end": 157.52,
+          "probability": 1
+        },
+        {
+          "text": "pictures",
+          "start": 157.52,
+          "end": 158.22,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 158.22,
+          "end": 158.39,
+          "probability": 1
+        },
+        {
+          "text": "Chairman",
+          "start": 158.39,
+          "end": 159.09,
+          "probability": 1
+        },
+        {
+          "text": "Mao",
+          "start": 159.09,
+          "end": 159.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 159.62,
+      "end": 164.71,
+      "text": "You ain't gonna make it with anyone anyhow",
+      "words": [
+        {
+          "text": "You",
+          "start": 159.62,
+          "end": 160.06,
+          "probability": 1
+        },
+        {
+          "text": "ain't",
+          "start": 160.06,
+          "end": 160.79,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 160.79,
+          "end": 161.52,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 161.52,
+          "end": 162.1,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 162.1,
+          "end": 162.39,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 162.39,
+          "end": 162.97,
+          "probability": 1
+        },
+        {
+          "text": "anyone",
+          "start": 162.97,
+          "end": 163.84,
+          "probability": 1
+        },
+        {
+          "text": "anyhow",
+          "start": 163.84,
+          "end": 164.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164.95,
+      "end": 167.58,
+      "text": "Don't you know it's gonna be",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 164.95,
+          "end": 165.52,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 165.52,
+          "end": 165.86,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 165.86,
+          "end": 166.32,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 166.32,
+          "end": 166.78,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 166.78,
+          "end": 167.35,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 167.35,
+          "end": 167.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.83,
+      "end": 168.59,
+      "text": "Alright",
+      "words": [
+        {
+          "text": "Alright",
+          "start": 167.83,
+          "end": 168.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 171.62,
+      "end": 172.38,
+      "text": "Alright",
+      "words": [
+        {
+          "text": "Alright",
+          "start": 171.62,
+          "end": 172.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 175.54,
+      "end": 176.3,
+      "text": "Alright",
+      "words": [
+        {
+          "text": "Alright",
+          "start": 175.54,
+          "end": 176.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 181.9,
+      "end": 183.42,
+      "text": "Alright, alright",
+      "words": [
+        {
+          "text": "Alright,",
+          "start": 181.9,
+          "end": 182.71,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 182.71,
+          "end": 183.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 185.8,
+      "end": 187.32,
+      "text": "Alright, alright",
+      "words": [
+        {
+          "text": "Alright,",
+          "start": 185.8,
+          "end": 186.61,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 186.61,
+          "end": 187.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 189.61,
+      "end": 191.13,
+      "text": "Alright, alright",
+      "words": [
+        {
+          "text": "Alright,",
+          "start": 189.61,
+          "end": 190.42,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 190.42,
+          "end": 191.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 193.72,
+      "end": 195.24,
+      "text": "Alright, alright!",
+      "words": [
+        {
+          "text": "Alright,",
+          "start": 193.72,
+          "end": 194.48,
+          "probability": 1
+        },
+        {
+          "text": "alright!",
+          "start": 194.48,
+          "end": 195.24,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Aah! You say you want a revolution Well, you know We all wanna change the world You tell me that it's evolution Well, you know We all wanna change the world But when you talk about destruction Don't you know that you can count me out? Don't you know it's gonna be alright? Alright Alright You say you got a real solution Well, you know We'd all love to see the plan You ask me for a contribution Well, you know We're all doing what we can But if you want money for people with minds that hate All I can tell you is, brother, you have to wait Don't you know it's gonna be alright? Alright Alright You say you'll change the constitution Well, you know We all wanna change your head You tell me it's the institution Well, you know You better free your mind instead But if you go carrying pictures of Chairman Mao You ain't gonna make it with anyone anyhow Don't you know it's gonna be Alright Alright Alright Alright, alright Alright, alright Alright, alright Alright, alright!"
+}

@@ -1,0 +1,1644 @@
+{
+  "language": "en",
+  "duration": 179,
+  "source": "canonical_synced_lrc_aligned",
+  "segments": [
+    {
+      "start": 0,
+      "end": 7.79,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 7.79,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 7.8,
+      "end": 11.68,
+      "text": "Wise men say",
+      "words": [
+        {
+          "text": "Wise",
+          "start": 7.8,
+          "end": 8.4,
+          "probability": 1
+        },
+        {
+          "text": "men",
+          "start": 9.68,
+          "end": 9.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "men",
+              "start": 9.68,
+              "end": 9.86
+            }
+          ]
+        },
+        {
+          "text": "say",
+          "start": 11.38,
+          "end": 11.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "say",
+              "start": 11.38,
+              "end": 11.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 14.34,
+      "end": 18.56,
+      "text": "Only fools rush in",
+      "words": [
+        {
+          "text": "Only",
+          "start": 14.34,
+          "end": 14.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 14.34,
+              "end": 14.44
+            },
+            {
+              "text": "ly",
+              "start": 14.69,
+              "end": 14.79
+            }
+          ]
+        },
+        {
+          "text": "fools",
+          "start": 15.01,
+          "end": 15.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fools",
+              "start": 15.01,
+              "end": 15.52
+            }
+          ]
+        },
+        {
+          "text": "rush",
+          "start": 16.65,
+          "end": 17.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "rush",
+              "start": 16.65,
+              "end": 17.09
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 18.31,
+          "end": 18.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 18.31,
+              "end": 18.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 21.54,
+      "end": 25.72,
+      "text": "But I can't help",
+      "words": [
+        {
+          "text": "But",
+          "start": 21.54,
+          "end": 21.96,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 21.96,
+          "end": 22.11,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 23.78,
+          "end": 24.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "can't",
+              "start": 23.78,
+              "end": 24.47
+            }
+          ]
+        },
+        {
+          "text": "help",
+          "start": 25.49,
+          "end": 25.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "help",
+              "start": 25.49,
+              "end": 25.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 27.36,
+      "end": 33.21,
+      "text": "Falling in love with you",
+      "words": [
+        {
+          "text": "Falling",
+          "start": 27.36,
+          "end": 28.25,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Fal",
+              "start": 27.36,
+              "end": 27.62
+            },
+            {
+              "text": "ling",
+              "start": 28,
+              "end": 28.25
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 28.54,
+          "end": 28.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 28.54,
+              "end": 28.81
+            }
+          ]
+        },
+        {
+          "text": "love",
+          "start": 29.14,
+          "end": 29.67,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "love",
+              "start": 29.14,
+              "end": 29.67
+            }
+          ]
+        },
+        {
+          "text": "with",
+          "start": 31.07,
+          "end": 31.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 31.07,
+              "end": 31.57
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 32.81,
+          "end": 33.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 32.81,
+              "end": 33.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 36.23,
+      "end": 40.58,
+      "text": "Shall I stay?",
+      "words": [
+        {
+          "text": "Shall",
+          "start": 36.23,
+          "end": 36.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Shall",
+              "start": 36.23,
+              "end": 36.72
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 38.34,
+          "end": 38.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 38.34,
+              "end": 38.46
+            }
+          ]
+        },
+        {
+          "text": "stay?",
+          "start": 39.97,
+          "end": 40.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "stay?",
+              "start": 39.97,
+              "end": 40.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 42.92,
+      "end": 47.21,
+      "text": "Would it be a sin",
+      "words": [
+        {
+          "text": "Would",
+          "start": 42.92,
+          "end": 43.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Would",
+              "start": 42.92,
+              "end": 43.02
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 43.08,
+          "end": 43.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 43.08,
+              "end": 43.41
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 43.55,
+          "end": 43.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 43.55,
+              "end": 43.9
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 45.26,
+          "end": 45.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 45.26,
+              "end": 45.41
+            }
+          ]
+        },
+        {
+          "text": "sin",
+          "start": 46.8,
+          "end": 47.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sin",
+              "start": 46.8,
+              "end": 47.21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 50.2,
+      "end": 54.54,
+      "text": "If I can't help",
+      "words": [
+        {
+          "text": "If",
+          "start": 50.2,
+          "end": 50.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "If",
+              "start": 50.2,
+              "end": 50.41
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 50.52,
+          "end": 50.67,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 52.29,
+          "end": 53.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "can't",
+              "start": 52.29,
+              "end": 53.04
+            }
+          ]
+        },
+        {
+          "text": "help",
+          "start": 53.98,
+          "end": 54.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "help",
+              "start": 53.98,
+              "end": 54.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 55.92,
+      "end": 61.67,
+      "text": "Falling in love with you?",
+      "words": [
+        {
+          "text": "Falling",
+          "start": 55.92,
+          "end": 56.74,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Fal",
+              "start": 55.92,
+              "end": 56.33
+            },
+            {
+              "text": "ling",
+              "start": 56.43,
+              "end": 56.74
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 57.14,
+          "end": 57.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 57.14,
+              "end": 57.39
+            }
+          ]
+        },
+        {
+          "text": "love",
+          "start": 57.73,
+          "end": 58.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "love",
+              "start": 57.73,
+              "end": 58.13
+            }
+          ]
+        },
+        {
+          "text": "with",
+          "start": 59.55,
+          "end": 60.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 59.55,
+              "end": 60.06
+            }
+          ]
+        },
+        {
+          "text": "you?",
+          "start": 61.16,
+          "end": 61.67,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you?",
+              "start": 61.16,
+              "end": 61.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 64.76,
+      "end": 67.24,
+      "text": "Like a river flows",
+      "words": [
+        {
+          "text": "Like",
+          "start": 64.76,
+          "end": 65.37,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 65.37,
+          "end": 65.52,
+          "probability": 1
+        },
+        {
+          "text": "river",
+          "start": 65.78,
+          "end": 66.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ri",
+              "start": 65.78,
+              "end": 65.9
+            },
+            {
+              "text": "ver",
+              "start": 66.11,
+              "end": 66.28
+            }
+          ]
+        },
+        {
+          "text": "flows",
+          "start": 66.48,
+          "end": 67.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "flows",
+              "start": 66.48,
+              "end": 67.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 68.16,
+      "end": 70.77,
+      "text": "Surely to the sea",
+      "words": [
+        {
+          "text": "Surely",
+          "start": 68.16,
+          "end": 69.3,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Su",
+              "start": 68.16,
+              "end": 68.49
+            },
+            {
+              "text": "re",
+              "start": 68.52,
+              "end": 68.84
+            },
+            {
+              "text": "ly",
+              "start": 68.97,
+              "end": 69.3
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 69.32,
+          "end": 69.65,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 69.7,
+          "end": 69.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 69.7,
+              "end": 69.89
+            }
+          ]
+        },
+        {
+          "text": "sea",
+          "start": 69.95,
+          "end": 70.77,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sea",
+              "start": 69.95,
+              "end": 70.77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 71.8,
+      "end": 74,
+      "text": "Darling, so it goes",
+      "words": [
+        {
+          "text": "Darling,",
+          "start": 71.8,
+          "end": 72.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Dar",
+              "start": 71.8,
+              "end": 72.15
+            },
+            {
+              "text": "ling,",
+              "start": 72.41,
+              "end": 72.89
+            }
+          ]
+        },
+        {
+          "text": "so",
+          "start": 73.09,
+          "end": 73.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "so",
+              "start": 73.09,
+              "end": 73.23
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 73.23,
+          "end": 73.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 73.23,
+              "end": 73.47
+            }
+          ]
+        },
+        {
+          "text": "goes",
+          "start": 73.53,
+          "end": 74,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "goes",
+              "start": 73.53,
+              "end": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 75.3,
+      "end": 79.12,
+      "text": "Some things are meant to be",
+      "words": [
+        {
+          "text": "Some",
+          "start": 75.3,
+          "end": 75.85,
+          "probability": 1
+        },
+        {
+          "text": "things",
+          "start": 75.92,
+          "end": 76.75,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 77.68,
+          "end": 78.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "are",
+              "start": 77.68,
+              "end": 78.05
+            }
+          ]
+        },
+        {
+          "text": "meant",
+          "start": 78.28,
+          "end": 78.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "meant",
+              "start": 78.28,
+              "end": 78.56
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 78.62,
+          "end": 78.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 78.62,
+              "end": 78.84
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 78.84,
+          "end": 79.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 78.84,
+              "end": 79.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 82.42,
+      "end": 86.69,
+      "text": "Take my hand",
+      "words": [
+        {
+          "text": "Take",
+          "start": 82.42,
+          "end": 83,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Take",
+              "start": 82.42,
+              "end": 83
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 84.19,
+          "end": 84.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 84.19,
+              "end": 84.33
+            }
+          ]
+        },
+        {
+          "text": "hand",
+          "start": 86.08,
+          "end": 86.69,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hand",
+              "start": 86.08,
+              "end": 86.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 88.53,
+      "end": 93.25,
+      "text": "Take my whole life too",
+      "words": [
+        {
+          "text": "Take",
+          "start": 88.53,
+          "end": 88.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Take",
+              "start": 88.53,
+              "end": 88.9
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 89.08,
+          "end": 89.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 89.08,
+              "end": 89.42
+            }
+          ]
+        },
+        {
+          "text": "whole",
+          "start": 89.47,
+          "end": 90.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "who",
+              "start": 89.47,
+              "end": 89.75
+            },
+            {
+              "text": "le",
+              "start": 90.4,
+              "end": 90.68
+            }
+          ]
+        },
+        {
+          "text": "life",
+          "start": 91.25,
+          "end": 91.61,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "life",
+              "start": 91.25,
+              "end": 91.61
+            }
+          ]
+        },
+        {
+          "text": "too",
+          "start": 92.74,
+          "end": 93.25,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "too",
+              "start": 92.74,
+              "end": 93.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 96.18,
+      "end": 100.63,
+      "text": "For I can't help",
+      "words": [
+        {
+          "text": "For",
+          "start": 96.18,
+          "end": 96.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "For",
+              "start": 96.18,
+              "end": 96.6
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 96.6,
+          "end": 96.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 96.6,
+              "end": 96.75
+            }
+          ]
+        },
+        {
+          "text": "can't",
+          "start": 98.24,
+          "end": 98.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "can't",
+              "start": 98.24,
+              "end": 98.66
+            }
+          ]
+        },
+        {
+          "text": "help",
+          "start": 100.08,
+          "end": 100.63,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "help",
+              "start": 100.08,
+              "end": 100.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 101.76,
+      "end": 107.53,
+      "text": "Falling in love with you",
+      "words": [
+        {
+          "text": "Falling",
+          "start": 101.76,
+          "end": 102.69,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 103.02,
+          "end": 103.25,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 103.02,
+              "end": 103.25
+            }
+          ]
+        },
+        {
+          "text": "love",
+          "start": 103.51,
+          "end": 104.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "love",
+              "start": 103.51,
+              "end": 104.04
+            }
+          ]
+        },
+        {
+          "text": "with",
+          "start": 105.35,
+          "end": 105.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 105.35,
+              "end": 105.84
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 107.13,
+          "end": 107.53,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 107.13,
+              "end": 107.53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 110.56,
+      "end": 113.18,
+      "text": "Like a river flows",
+      "words": [
+        {
+          "text": "Like",
+          "start": 110.56,
+          "end": 110.73,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Like",
+              "start": 110.56,
+              "end": 110.73
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 111.19,
+          "end": 111.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 111.19,
+              "end": 111.34
+            }
+          ]
+        },
+        {
+          "text": "river",
+          "start": 111.81,
+          "end": 112.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ri",
+              "start": 111.81,
+              "end": 111.98
+            },
+            {
+              "text": "ver",
+              "start": 112.05,
+              "end": 112.24
+            }
+          ]
+        },
+        {
+          "text": "flows",
+          "start": 112.42,
+          "end": 113.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "flows",
+              "start": 112.42,
+              "end": 113.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 114,
+      "end": 115.99,
+      "text": "Surely to the sea",
+      "words": [
+        {
+          "text": "Surely",
+          "start": 114,
+          "end": 115.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Su",
+              "start": 114,
+              "end": 114.33
+            },
+            {
+              "text": "re",
+              "start": 114.33,
+              "end": 114.65
+            },
+            {
+              "text": "ly",
+              "start": 114.69,
+              "end": 115.02
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 115.19,
+          "end": 115.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 115.19,
+              "end": 115.32
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 115.54,
+          "end": 115.73,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 115.54,
+              "end": 115.73
+            }
+          ]
+        },
+        {
+          "text": "sea",
+          "start": 115.87,
+          "end": 115.99,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sea",
+              "start": 115.87,
+              "end": 115.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 117.64,
+      "end": 119.47,
+      "text": "Darling, so it goes",
+      "words": [
+        {
+          "text": "Darling,",
+          "start": 117.64,
+          "end": 118.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Dar",
+              "start": 117.64,
+              "end": 117.92
+            },
+            {
+              "text": "ling,",
+              "start": 118.18,
+              "end": 118.28
+            }
+          ]
+        },
+        {
+          "text": "so",
+          "start": 118.85,
+          "end": 119.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "so",
+              "start": 118.85,
+              "end": 119.09
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 119.09,
+          "end": 119.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 119.09,
+              "end": 119.23
+            }
+          ]
+        },
+        {
+          "text": "goes",
+          "start": 119.33,
+          "end": 119.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "goes",
+              "start": 119.33,
+              "end": 119.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 120.9,
+      "end": 124.87,
+      "text": "Some things are meant to be",
+      "words": [
+        {
+          "text": "Some",
+          "start": 120.9,
+          "end": 121.45,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Some",
+              "start": 120.9,
+              "end": 121.45
+            }
+          ]
+        },
+        {
+          "text": "things",
+          "start": 121.58,
+          "end": 122.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "things",
+              "start": 121.58,
+              "end": 122.41
+            }
+          ]
+        },
+        {
+          "text": "are",
+          "start": 123.44,
+          "end": 123.85,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "are",
+              "start": 123.44,
+              "end": 123.85
+            }
+          ]
+        },
+        {
+          "text": "meant",
+          "start": 124.05,
+          "end": 124.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "meant",
+              "start": 124.05,
+              "end": 124.38
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 124.38,
+          "end": 124.59,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 124.38,
+              "end": 124.59
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 124.59,
+          "end": 124.87,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 124.59,
+              "end": 124.87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 128.16,
+      "end": 132.24,
+      "text": "Take my hand",
+      "words": [
+        {
+          "text": "Take",
+          "start": 128.16,
+          "end": 128.77,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Take",
+              "start": 128.16,
+              "end": 128.77
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 129.85,
+          "end": 130.15,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 129.85,
+              "end": 130.15
+            }
+          ]
+        },
+        {
+          "text": "hand",
+          "start": 131.63,
+          "end": 132.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hand",
+              "start": 131.63,
+              "end": 132.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 134.23,
+      "end": 138.94,
+      "text": "Take my whole life too",
+      "words": [
+        {
+          "text": "Take",
+          "start": 134.23,
+          "end": 134.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Take",
+              "start": 134.23,
+              "end": 134.56
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 134.71,
+          "end": 135.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 134.71,
+              "end": 135.05
+            }
+          ]
+        },
+        {
+          "text": "whole",
+          "start": 135.14,
+          "end": 136.4,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "who",
+              "start": 135.14,
+              "end": 135.29
+            },
+            {
+              "text": "le",
+              "start": 136.15,
+              "end": 136.4
+            }
+          ]
+        },
+        {
+          "text": "life",
+          "start": 136.75,
+          "end": 137.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "life",
+              "start": 136.75,
+              "end": 137.21
+            }
+          ]
+        },
+        {
+          "text": "too",
+          "start": 138.43,
+          "end": 138.94,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "too",
+              "start": 138.43,
+              "end": 138.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 141.83,
+      "end": 146.06,
+      "text": "For I can't help",
+      "words": [
+        {
+          "text": "For",
+          "start": 141.83,
+          "end": 142.03,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "For",
+              "start": 141.83,
+              "end": 142.03
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 142.07,
+          "end": 142.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 142.07,
+              "end": 142.21
+            }
+          ]
+        },
+        {
+          "text": "can't",
+          "start": 143.66,
+          "end": 143.83,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 145.51,
+          "end": 146.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "help",
+              "start": 145.51,
+              "end": 146.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 147.42,
+      "end": 152.76,
+      "text": "Falling in love with you",
+      "words": [
+        {
+          "text": "Falling",
+          "start": 147.42,
+          "end": 148.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Fal",
+              "start": 147.42,
+              "end": 147.65
+            },
+            {
+              "text": "ling",
+              "start": 147.92,
+              "end": 148.05
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 148.57,
+          "end": 148.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 148.57,
+              "end": 148.84
+            }
+          ]
+        },
+        {
+          "text": "love",
+          "start": 149.04,
+          "end": 149.52,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 150.99,
+          "end": 151.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 150.99,
+              "end": 151.52
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 152.59,
+          "end": 152.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 152.59,
+              "end": 152.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 155.88,
+      "end": 160.31,
+      "text": "For I can't help",
+      "words": [
+        {
+          "text": "For",
+          "start": 155.88,
+          "end": 156.19,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "For",
+              "start": 155.88,
+              "end": 156.19
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 156.29,
+          "end": 156.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 156.29,
+              "end": 156.44
+            }
+          ]
+        },
+        {
+          "text": "can't",
+          "start": 157.83,
+          "end": 157.99,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "can't",
+              "start": 157.83,
+              "end": 157.99
+            }
+          ]
+        },
+        {
+          "text": "help",
+          "start": 159.76,
+          "end": 160.31,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "help",
+              "start": 159.76,
+              "end": 160.31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 161.54,
+      "end": 169.96,
+      "text": "Falling in love with you",
+      "words": [
+        {
+          "text": "Falling",
+          "start": 161.54,
+          "end": 162.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Fal",
+              "start": 161.54,
+              "end": 161.96
+            },
+            {
+              "text": "ling",
+              "start": 162.14,
+              "end": 162.39
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 162.81,
+          "end": 162.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 162.81,
+              "end": 162.96
+            }
+          ]
+        },
+        {
+          "text": "love",
+          "start": 163.24,
+          "end": 163.76,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 165.64,
+          "end": 166.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 165.64,
+              "end": 166.17
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 169.56,
+          "end": 169.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 169.56,
+              "end": 169.96
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "text": "Wise men say Only fools rush in But I can't help Falling in love with you Shall I stay? Would it be a sin If I can't help Falling in love with you? Like a river flows Surely to the sea Darling, so it goes Some things are meant to be Take my hand Take my whole life too For I can't help Falling in love with you Like a river flows Surely to the sea Darling, so it goes Some things are meant to be Take my hand Take my whole life too For I can't help Falling in love with you For I can't help Falling in love with you"
+}

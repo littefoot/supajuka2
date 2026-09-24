@@ -1,0 +1,2698 @@
+{
+  "language": "en",
+  "duration": 214,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 43.71,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 43.71,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 43.71,
+      "end": 44.9,
+      "text": "When it began",
+      "words": [
+        {
+          "text": "When",
+          "start": 43.71,
+          "end": 44.14,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 44.14,
+          "end": 44.36,
+          "probability": 1
+        },
+        {
+          "text": "began",
+          "start": 44.36,
+          "end": 44.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.15,
+      "end": 46.61,
+      "text": "I had nothing to say",
+      "words": [
+        {
+          "text": "I",
+          "start": 45.15,
+          "end": 45.27,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 45.27,
+          "end": 45.54,
+          "probability": 1
+        },
+        {
+          "text": "nothing",
+          "start": 45.54,
+          "end": 46.16,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 46.16,
+          "end": 46.34,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 46.34,
+          "end": 46.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 46.82,
+      "end": 49.48,
+      "text": "And I get lost in the nothingness inside of me",
+      "words": [
+        {
+          "text": "And",
+          "start": 46.82,
+          "end": 47.03,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 47.03,
+          "end": 47.15,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 47.15,
+          "end": 47.36,
+          "probability": 1
+        },
+        {
+          "text": "lost",
+          "start": 47.36,
+          "end": 47.64,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 47.64,
+          "end": 47.78,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 47.78,
+          "end": 47.99,
+          "probability": 1
+        },
+        {
+          "text": "nothingness",
+          "start": 47.99,
+          "end": 48.77,
+          "probability": 1
+        },
+        {
+          "text": "inside",
+          "start": 48.77,
+          "end": 49.2,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 49.2,
+          "end": 49.34,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 49.34,
+          "end": 49.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 49.7,
+      "end": 50.37,
+      "text": "(I was confused)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 49.7,
+          "end": 49.82,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 49.82,
+          "end": 49.96,
+          "probability": 1
+        },
+        {
+          "text": "confused)",
+          "start": 49.96,
+          "end": 50.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 50.59,
+      "end": 52.39,
+      "text": "And I let it all out to find",
+      "words": [
+        {
+          "text": "And",
+          "start": 50.59,
+          "end": 50.84,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 50.84,
+          "end": 50.96,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 50.96,
+          "end": 51.21,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 51.21,
+          "end": 51.38,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 51.38,
+          "end": 51.63,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 51.63,
+          "end": 51.88,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 51.88,
+          "end": 52.05,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 52.05,
+          "end": 52.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 52.6,
+      "end": 55.26,
+      "text": "That I'm not the only person with these things in mind",
+      "words": [
+        {
+          "text": "That",
+          "start": 52.6,
+          "end": 52.84,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 52.84,
+          "end": 53.02,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 53.02,
+          "end": 53.2,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 53.2,
+          "end": 53.38,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 53.38,
+          "end": 53.62,
+          "probability": 1
+        },
+        {
+          "text": "person",
+          "start": 53.62,
+          "end": 53.99,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 53.99,
+          "end": 54.23,
+          "probability": 1
+        },
+        {
+          "text": "these",
+          "start": 54.23,
+          "end": 54.53,
+          "probability": 1
+        },
+        {
+          "text": "things",
+          "start": 54.53,
+          "end": 54.9,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 54.9,
+          "end": 55.02,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 55.02,
+          "end": 55.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 55.53,
+      "end": 56.21,
+      "text": "(Inside of me)",
+      "words": [
+        {
+          "text": "(Inside",
+          "start": 55.53,
+          "end": 55.92,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 55.92,
+          "end": 56.04,
+          "probability": 1
+        },
+        {
+          "text": "me)",
+          "start": 56.04,
+          "end": 56.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 56.45,
+      "end": 58.46,
+      "text": "But all that they can see the words revealed",
+      "words": [
+        {
+          "text": "But",
+          "start": 56.45,
+          "end": 56.62,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 56.62,
+          "end": 56.79,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 56.79,
+          "end": 57.01,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 57.01,
+          "end": 57.23,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 57.23,
+          "end": 57.4,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 57.4,
+          "end": 57.57,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 57.57,
+          "end": 57.74,
+          "probability": 1
+        },
+        {
+          "text": "words",
+          "start": 57.74,
+          "end": 58.02,
+          "probability": 1
+        },
+        {
+          "text": "revealed",
+          "start": 58.02,
+          "end": 58.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 58.68,
+      "end": 61.2,
+      "text": "Is the only real thing that I've got left to feel",
+      "words": [
+        {
+          "text": "Is",
+          "start": 58.68,
+          "end": 58.81,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 58.81,
+          "end": 59,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 59,
+          "end": 59.26,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 59.26,
+          "end": 59.52,
+          "probability": 1
+        },
+        {
+          "text": "thing",
+          "start": 59.52,
+          "end": 59.84,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 59.84,
+          "end": 60.1,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 60.1,
+          "end": 60.36,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 60.36,
+          "end": 60.55,
+          "probability": 1
+        },
+        {
+          "text": "left",
+          "start": 60.55,
+          "end": 60.81,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 60.81,
+          "end": 60.94,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 60.94,
+          "end": 61.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.45,
+      "end": 62.14,
+      "text": "(Nothing to lose)",
+      "words": [
+        {
+          "text": "(Nothing",
+          "start": 61.45,
+          "end": 61.8,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 61.8,
+          "end": 61.92,
+          "probability": 1
+        },
+        {
+          "text": "lose)",
+          "start": 61.92,
+          "end": 62.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 62.36,
+      "end": 64.2,
+      "text": "Just stuck, hollow and alone",
+      "words": [
+        {
+          "text": "Just",
+          "start": 62.36,
+          "end": 62.67,
+          "probability": 1
+        },
+        {
+          "text": "stuck,",
+          "start": 62.67,
+          "end": 63.13,
+          "probability": 1
+        },
+        {
+          "text": "hollow",
+          "start": 63.13,
+          "end": 63.59,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 63.59,
+          "end": 63.82,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 63.82,
+          "end": 64.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 64.44,
+      "end": 67.26,
+      "text": "And the fault is my own, and the fault is my own",
+      "words": [
+        {
+          "text": "And",
+          "start": 64.44,
+          "end": 64.67,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 64.67,
+          "end": 64.9,
+          "probability": 1
+        },
+        {
+          "text": "fault",
+          "start": 64.9,
+          "end": 65.28,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 65.28,
+          "end": 65.43,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 65.43,
+          "end": 65.58,
+          "probability": 1
+        },
+        {
+          "text": "own,",
+          "start": 65.58,
+          "end": 65.89,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 65.89,
+          "end": 66.12,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 66.12,
+          "end": 66.35,
+          "probability": 1
+        },
+        {
+          "text": "fault",
+          "start": 66.35,
+          "end": 66.73,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 66.73,
+          "end": 66.88,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 66.88,
+          "end": 67.03,
+          "probability": 1
+        },
+        {
+          "text": "own",
+          "start": 67.03,
+          "end": 67.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 67.53,
+      "end": 73.06,
+      "text": "I wanna heal, I wanna feel, what I thought was never real",
+      "words": [
+        {
+          "text": "I",
+          "start": 67.53,
+          "end": 67.65,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 67.65,
+          "end": 68.25,
+          "probability": 1
+        },
+        {
+          "text": "heal,",
+          "start": 68.25,
+          "end": 68.85,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 68.85,
+          "end": 68.97,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 68.97,
+          "end": 69.57,
+          "probability": 1
+        },
+        {
+          "text": "feel,",
+          "start": 69.57,
+          "end": 70.17,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 70.17,
+          "end": 70.65,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 70.65,
+          "end": 70.77,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 70.77,
+          "end": 71.62,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 71.62,
+          "end": 71.98,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 71.98,
+          "end": 72.58,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 72.58,
+          "end": 73.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 73.34,
+      "end": 77.09,
+      "text": "I wanna let go of the pain I've felt so long",
+      "words": [
+        {
+          "text": "I",
+          "start": 73.34,
+          "end": 73.46,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 73.46,
+          "end": 74.01,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 74.01,
+          "end": 74.34,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 74.34,
+          "end": 74.56,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 74.56,
+          "end": 74.78,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 74.78,
+          "end": 75.11,
+          "probability": 1
+        },
+        {
+          "text": "pain",
+          "start": 75.11,
+          "end": 75.55,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 75.55,
+          "end": 75.99,
+          "probability": 1
+        },
+        {
+          "text": "felt",
+          "start": 75.99,
+          "end": 76.43,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 76.43,
+          "end": 76.65,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 76.65,
+          "end": 77.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 77.3,
+      "end": 79.04,
+      "text": "(Erase all the pain till it's gone)",
+      "words": [
+        {
+          "text": "(Erase",
+          "start": 77.3,
+          "end": 77.66,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 77.66,
+          "end": 77.84,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 77.84,
+          "end": 78.02,
+          "probability": 1
+        },
+        {
+          "text": "pain",
+          "start": 78.02,
+          "end": 78.26,
+          "probability": 1
+        },
+        {
+          "text": "till",
+          "start": 78.26,
+          "end": 78.5,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 78.5,
+          "end": 78.74,
+          "probability": 1
+        },
+        {
+          "text": "gone)",
+          "start": 78.74,
+          "end": 79.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 79.29,
+      "end": 84.97,
+      "text": "I wanna heal, I wanna feel, like I'm close to something real",
+      "words": [
+        {
+          "text": "I",
+          "start": 79.29,
+          "end": 79.41,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 79.41,
+          "end": 79.99,
+          "probability": 1
+        },
+        {
+          "text": "heal,",
+          "start": 79.99,
+          "end": 80.57,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 80.57,
+          "end": 80.69,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 80.69,
+          "end": 81.27,
+          "probability": 1
+        },
+        {
+          "text": "feel,",
+          "start": 81.27,
+          "end": 81.85,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 81.85,
+          "end": 82.31,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 82.31,
+          "end": 82.66,
+          "probability": 1
+        },
+        {
+          "text": "close",
+          "start": 82.66,
+          "end": 83.24,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 83.24,
+          "end": 83.47,
+          "probability": 1
+        },
+        {
+          "text": "something",
+          "start": 83.47,
+          "end": 84.51,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 84.51,
+          "end": 84.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 85.2,
+      "end": 89.85,
+      "text": "I wanna find something I've wanted all along",
+      "words": [
+        {
+          "text": "I",
+          "start": 85.2,
+          "end": 85.33,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 85.33,
+          "end": 85.96,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 85.96,
+          "end": 86.46,
+          "probability": 1
+        },
+        {
+          "text": "something",
+          "start": 86.46,
+          "end": 87.59,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 87.59,
+          "end": 88.09,
+          "probability": 1
+        },
+        {
+          "text": "wanted",
+          "start": 88.09,
+          "end": 88.84,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 88.84,
+          "end": 89.22,
+          "probability": 1
+        },
+        {
+          "text": "along",
+          "start": 89.22,
+          "end": 89.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 90.09,
+      "end": 92.24,
+      "text": "Somewhere I belong",
+      "words": [
+        {
+          "text": "Somewhere",
+          "start": 90.09,
+          "end": 91.3,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 91.3,
+          "end": 91.43,
+          "probability": 1
+        },
+        {
+          "text": "belong",
+          "start": 91.43,
+          "end": 92.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.49,
+      "end": 93.81,
+      "text": "And I've got nothing to say",
+      "words": [
+        {
+          "text": "And",
+          "start": 92.49,
+          "end": 92.67,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 92.67,
+          "end": 92.91,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 92.91,
+          "end": 93.09,
+          "probability": 1
+        },
+        {
+          "text": "nothing",
+          "start": 93.09,
+          "end": 93.51,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 93.51,
+          "end": 93.63,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 93.63,
+          "end": 93.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 94.07,
+      "end": 96.91,
+      "text": "I can't believe I didn't fall right down on my face",
+      "words": [
+        {
+          "text": "I",
+          "start": 94.07,
+          "end": 94.19,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 94.19,
+          "end": 94.52,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 94.52,
+          "end": 94.99,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 94.99,
+          "end": 95.11,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 95.11,
+          "end": 95.51,
+          "probability": 1
+        },
+        {
+          "text": "fall",
+          "start": 95.51,
+          "end": 95.78,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 95.78,
+          "end": 96.11,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 96.11,
+          "end": 96.38,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 96.38,
+          "end": 96.51,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 96.51,
+          "end": 96.64,
+          "probability": 1
+        },
+        {
+          "text": "face",
+          "start": 96.64,
+          "end": 96.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 97.06,
+      "end": 97.77,
+      "text": "(I was confused)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 97.06,
+          "end": 97.18,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 97.18,
+          "end": 97.33,
+          "probability": 1
+        },
+        {
+          "text": "confused)",
+          "start": 97.33,
+          "end": 97.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 98,
+      "end": 99.83,
+      "text": "Looking everywhere only to find",
+      "words": [
+        {
+          "text": "Looking",
+          "start": 98,
+          "end": 98.47,
+          "probability": 1
+        },
+        {
+          "text": "everywhere",
+          "start": 98.47,
+          "end": 99.15,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 99.15,
+          "end": 99.42,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 99.42,
+          "end": 99.56,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 99.56,
+          "end": 99.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 100.08,
+      "end": 102.72,
+      "text": "That it's not the way I have imagined it all in my mind",
+      "words": [
+        {
+          "text": "That",
+          "start": 100.08,
+          "end": 100.32,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 100.32,
+          "end": 100.56,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 100.56,
+          "end": 100.74,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 100.74,
+          "end": 100.92,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 100.92,
+          "end": 101.1,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 101.1,
+          "end": 101.22,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 101.22,
+          "end": 101.46,
+          "probability": 1
+        },
+        {
+          "text": "imagined",
+          "start": 101.46,
+          "end": 101.94,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 101.94,
+          "end": 102.06,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 102.06,
+          "end": 102.24,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 102.24,
+          "end": 102.36,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 102.36,
+          "end": 102.48,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 102.48,
+          "end": 102.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.93,
+      "end": 103.68,
+      "text": "(So what am I)",
+      "words": [
+        {
+          "text": "(So",
+          "start": 102.93,
+          "end": 103.13,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 103.13,
+          "end": 103.4,
+          "probability": 1
+        },
+        {
+          "text": "am",
+          "start": 103.4,
+          "end": 103.54,
+          "probability": 1
+        },
+        {
+          "text": "I)",
+          "start": 103.54,
+          "end": 103.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 103.93,
+      "end": 105.66,
+      "text": "What do I have but negativity",
+      "words": [
+        {
+          "text": "What",
+          "start": 103.93,
+          "end": 104.21,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 104.21,
+          "end": 104.35,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 104.35,
+          "end": 104.47,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 104.47,
+          "end": 104.75,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 104.75,
+          "end": 104.96,
+          "probability": 1
+        },
+        {
+          "text": "negativity",
+          "start": 104.96,
+          "end": 105.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.85,
+      "end": 108.62,
+      "text": "'Cause I can't justify the way everyone is looking at me",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 105.85,
+          "end": 106.2,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 106.2,
+          "end": 106.32,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 106.32,
+          "end": 106.61,
+          "probability": 1
+        },
+        {
+          "text": "justify",
+          "start": 106.61,
+          "end": 107.02,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 107.02,
+          "end": 107.2,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 107.2,
+          "end": 107.38,
+          "probability": 1
+        },
+        {
+          "text": "everyone",
+          "start": 107.38,
+          "end": 107.85,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 107.85,
+          "end": 107.97,
+          "probability": 1
+        },
+        {
+          "text": "looking",
+          "start": 107.97,
+          "end": 108.38,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 108.38,
+          "end": 108.5,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 108.5,
+          "end": 108.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 108.8,
+      "end": 109.58,
+      "text": "(Nothing to lose)",
+      "words": [
+        {
+          "text": "(Nothing",
+          "start": 108.8,
+          "end": 109.21,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 109.21,
+          "end": 109.33,
+          "probability": 1
+        },
+        {
+          "text": "lose)",
+          "start": 109.33,
+          "end": 109.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.81,
+      "end": 111.55,
+      "text": "Nothing to gain, hollow and alone",
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 109.81,
+          "end": 110.25,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 110.25,
+          "end": 110.37,
+          "probability": 1
+        },
+        {
+          "text": "gain,",
+          "start": 110.37,
+          "end": 110.68,
+          "probability": 1
+        },
+        {
+          "text": "hollow",
+          "start": 110.68,
+          "end": 111.05,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 111.05,
+          "end": 111.24,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 111.24,
+          "end": 111.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 111.8,
+      "end": 114.54,
+      "text": "And the fault is my own, and the fault is my own",
+      "words": [
+        {
+          "text": "And",
+          "start": 111.8,
+          "end": 112.02,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 112.02,
+          "end": 112.24,
+          "probability": 1
+        },
+        {
+          "text": "fault",
+          "start": 112.24,
+          "end": 112.61,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 112.61,
+          "end": 112.76,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 112.76,
+          "end": 112.91,
+          "probability": 1
+        },
+        {
+          "text": "own,",
+          "start": 112.91,
+          "end": 113.21,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 113.21,
+          "end": 113.43,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 113.43,
+          "end": 113.65,
+          "probability": 1
+        },
+        {
+          "text": "fault",
+          "start": 113.65,
+          "end": 114.02,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 114.02,
+          "end": 114.17,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 114.17,
+          "end": 114.32,
+          "probability": 1
+        },
+        {
+          "text": "own",
+          "start": 114.32,
+          "end": 114.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 114.8,
+      "end": 120.41,
+      "text": "I wanna heal, I wanna feel, what I thought was never real",
+      "words": [
+        {
+          "text": "I",
+          "start": 114.8,
+          "end": 114.92,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 114.92,
+          "end": 115.53,
+          "probability": 1
+        },
+        {
+          "text": "heal,",
+          "start": 115.53,
+          "end": 116.14,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 116.14,
+          "end": 116.26,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 116.26,
+          "end": 116.87,
+          "probability": 1
+        },
+        {
+          "text": "feel,",
+          "start": 116.87,
+          "end": 117.48,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 117.48,
+          "end": 117.97,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 117.97,
+          "end": 118.09,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 118.09,
+          "end": 118.94,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 118.94,
+          "end": 119.31,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 119.31,
+          "end": 119.92,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 119.92,
+          "end": 120.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 120.66,
+      "end": 124.34,
+      "text": "I wanna let go of the pain I've felt so long",
+      "words": [
+        {
+          "text": "I",
+          "start": 120.66,
+          "end": 120.78,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 120.78,
+          "end": 121.32,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 121.32,
+          "end": 121.64,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 121.64,
+          "end": 121.86,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 121.86,
+          "end": 122.08,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 122.08,
+          "end": 122.4,
+          "probability": 1
+        },
+        {
+          "text": "pain",
+          "start": 122.4,
+          "end": 122.83,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 122.83,
+          "end": 123.26,
+          "probability": 1
+        },
+        {
+          "text": "felt",
+          "start": 123.26,
+          "end": 123.69,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 123.69,
+          "end": 123.91,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 123.91,
+          "end": 124.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 124.58,
+      "end": 126.39,
+      "text": "(Erase all the pain till it's gone)",
+      "words": [
+        {
+          "text": "(Erase",
+          "start": 124.58,
+          "end": 124.95,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 124.95,
+          "end": 125.14,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 125.14,
+          "end": 125.33,
+          "probability": 1
+        },
+        {
+          "text": "pain",
+          "start": 125.33,
+          "end": 125.58,
+          "probability": 1
+        },
+        {
+          "text": "till",
+          "start": 125.58,
+          "end": 125.83,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 125.83,
+          "end": 126.08,
+          "probability": 1
+        },
+        {
+          "text": "gone)",
+          "start": 126.08,
+          "end": 126.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 126.62,
+      "end": 132.39,
+      "text": "I wanna heal, I wanna feel, like I'm close to something real",
+      "words": [
+        {
+          "text": "I",
+          "start": 126.62,
+          "end": 126.74,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 126.74,
+          "end": 127.33,
+          "probability": 1
+        },
+        {
+          "text": "heal,",
+          "start": 127.33,
+          "end": 127.92,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 127.92,
+          "end": 128.04,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 128.04,
+          "end": 128.63,
+          "probability": 1
+        },
+        {
+          "text": "feel,",
+          "start": 128.63,
+          "end": 129.22,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 129.22,
+          "end": 129.69,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 129.69,
+          "end": 130.04,
+          "probability": 1
+        },
+        {
+          "text": "close",
+          "start": 130.04,
+          "end": 130.63,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 130.63,
+          "end": 130.86,
+          "probability": 1
+        },
+        {
+          "text": "something",
+          "start": 130.86,
+          "end": 131.92,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 131.92,
+          "end": 132.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 132.62,
+      "end": 137.22,
+      "text": "I wanna find something I've wanted all along",
+      "words": [
+        {
+          "text": "I",
+          "start": 132.62,
+          "end": 132.74,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 132.74,
+          "end": 133.36,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 133.36,
+          "end": 133.86,
+          "probability": 1
+        },
+        {
+          "text": "something",
+          "start": 133.86,
+          "end": 134.98,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 134.98,
+          "end": 135.48,
+          "probability": 1
+        },
+        {
+          "text": "wanted",
+          "start": 135.48,
+          "end": 136.23,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 136.23,
+          "end": 136.6,
+          "probability": 1
+        },
+        {
+          "text": "along",
+          "start": 136.6,
+          "end": 137.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 137.49,
+      "end": 139.58,
+      "text": "Somewhere I belong",
+      "words": [
+        {
+          "text": "Somewhere",
+          "start": 137.49,
+          "end": 138.67,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 138.67,
+          "end": 138.8,
+          "probability": 1
+        },
+        {
+          "text": "belong",
+          "start": 138.8,
+          "end": 139.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 139.83,
+      "end": 145.42,
+      "text": "I will never know myself until I do this on my own",
+      "words": [
+        {
+          "text": "I",
+          "start": 139.83,
+          "end": 139.97,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 139.97,
+          "end": 140.54,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 140.54,
+          "end": 141.26,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 141.26,
+          "end": 141.83,
+          "probability": 1
+        },
+        {
+          "text": "myself",
+          "start": 141.83,
+          "end": 142.69,
+          "probability": 1
+        },
+        {
+          "text": "until",
+          "start": 142.69,
+          "end": 143.41,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 143.41,
+          "end": 143.55,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 143.55,
+          "end": 143.84,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 143.84,
+          "end": 144.41,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 144.41,
+          "end": 144.7,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 144.7,
+          "end": 144.99,
+          "probability": 1
+        },
+        {
+          "text": "own",
+          "start": 144.99,
+          "end": 145.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 145.68,
+      "end": 151.31,
+      "text": "And I will never feel anything else until my wounds are healed",
+      "words": [
+        {
+          "text": "And",
+          "start": 145.68,
+          "end": 146.01,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 146.01,
+          "end": 146.13,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 146.13,
+          "end": 146.57,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 146.57,
+          "end": 147.12,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 147.12,
+          "end": 147.56,
+          "probability": 1
+        },
+        {
+          "text": "anything",
+          "start": 147.56,
+          "end": 148.45,
+          "probability": 1
+        },
+        {
+          "text": "else",
+          "start": 148.45,
+          "end": 148.89,
+          "probability": 1
+        },
+        {
+          "text": "until",
+          "start": 148.89,
+          "end": 149.44,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 149.44,
+          "end": 149.66,
+          "probability": 1
+        },
+        {
+          "text": "wounds",
+          "start": 149.66,
+          "end": 150.32,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 150.32,
+          "end": 150.65,
+          "probability": 1
+        },
+        {
+          "text": "healed",
+          "start": 150.65,
+          "end": 151.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 151.58,
+      "end": 157.19,
+      "text": "I will never be anything till I break away from me",
+      "words": [
+        {
+          "text": "I",
+          "start": 151.58,
+          "end": 151.72,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 151.72,
+          "end": 152.28,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 152.28,
+          "end": 152.98,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 152.98,
+          "end": 153.26,
+          "probability": 1
+        },
+        {
+          "text": "anything",
+          "start": 153.26,
+          "end": 154.39,
+          "probability": 1
+        },
+        {
+          "text": "till",
+          "start": 154.39,
+          "end": 154.95,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 154.95,
+          "end": 155.09,
+          "probability": 1
+        },
+        {
+          "text": "break",
+          "start": 155.09,
+          "end": 155.79,
+          "probability": 1
+        },
+        {
+          "text": "away",
+          "start": 155.79,
+          "end": 156.35,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 156.35,
+          "end": 156.91,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 156.91,
+          "end": 157.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 157.46,
+      "end": 161.62,
+      "text": "I will break away, I'll find myself today",
+      "words": [
+        {
+          "text": "I",
+          "start": 157.46,
+          "end": 157.58,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 157.58,
+          "end": 158.07,
+          "probability": 1
+        },
+        {
+          "text": "break",
+          "start": 158.07,
+          "end": 158.68,
+          "probability": 1
+        },
+        {
+          "text": "away,",
+          "start": 158.68,
+          "end": 159.29,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 159.29,
+          "end": 159.78,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 159.78,
+          "end": 160.27,
+          "probability": 1
+        },
+        {
+          "text": "myself",
+          "start": 160.27,
+          "end": 161.01,
+          "probability": 1
+        },
+        {
+          "text": "today",
+          "start": 161.01,
+          "end": 161.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.15,
+      "end": 172.85,
+      "text": "I wanna heal, I wanna feel, what I thought was never real",
+      "words": [
+        {
+          "text": "I",
+          "start": 167.15,
+          "end": 167.27,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 167.27,
+          "end": 167.89,
+          "probability": 1
+        },
+        {
+          "text": "heal,",
+          "start": 167.89,
+          "end": 168.51,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 168.51,
+          "end": 168.63,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 168.63,
+          "end": 169.25,
+          "probability": 1
+        },
+        {
+          "text": "feel,",
+          "start": 169.25,
+          "end": 169.87,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 169.87,
+          "end": 170.37,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 170.37,
+          "end": 170.49,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 170.49,
+          "end": 171.36,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 171.36,
+          "end": 171.73,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 171.73,
+          "end": 172.35,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 172.35,
+          "end": 172.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 173.99,
+      "end": 177.89,
+      "text": "I wanna let go of the pain I've felt so long",
+      "words": [
+        {
+          "text": "I",
+          "start": 173.99,
+          "end": 174.11,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 174.11,
+          "end": 174.68,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 174.68,
+          "end": 175.02,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 175.02,
+          "end": 175.25,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 175.25,
+          "end": 175.48,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 175.48,
+          "end": 175.82,
+          "probability": 1
+        },
+        {
+          "text": "pain",
+          "start": 175.82,
+          "end": 176.28,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 176.28,
+          "end": 176.74,
+          "probability": 1
+        },
+        {
+          "text": "felt",
+          "start": 176.74,
+          "end": 177.2,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 177.2,
+          "end": 177.43,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 177.43,
+          "end": 177.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 178.11,
+      "end": 179.69,
+      "text": "(Erase all the pain till it's gone)",
+      "words": [
+        {
+          "text": "(Erase",
+          "start": 178.11,
+          "end": 178.44,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 178.44,
+          "end": 178.6,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 178.6,
+          "end": 178.76,
+          "probability": 1
+        },
+        {
+          "text": "pain",
+          "start": 178.76,
+          "end": 178.98,
+          "probability": 1
+        },
+        {
+          "text": "till",
+          "start": 178.98,
+          "end": 179.2,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 179.2,
+          "end": 179.42,
+          "probability": 1
+        },
+        {
+          "text": "gone)",
+          "start": 179.42,
+          "end": 179.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 179.95,
+      "end": 185.63,
+      "text": "I wanna heal, I wanna feel, like I'm close to something real",
+      "words": [
+        {
+          "text": "I",
+          "start": 179.95,
+          "end": 180.07,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 180.07,
+          "end": 180.65,
+          "probability": 1
+        },
+        {
+          "text": "heal,",
+          "start": 180.65,
+          "end": 181.23,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 181.23,
+          "end": 181.35,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 181.35,
+          "end": 181.93,
+          "probability": 1
+        },
+        {
+          "text": "feel,",
+          "start": 181.93,
+          "end": 182.51,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 182.51,
+          "end": 182.97,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 182.97,
+          "end": 183.32,
+          "probability": 1
+        },
+        {
+          "text": "close",
+          "start": 183.32,
+          "end": 183.9,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 183.9,
+          "end": 184.13,
+          "probability": 1
+        },
+        {
+          "text": "something",
+          "start": 184.13,
+          "end": 185.17,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 185.17,
+          "end": 185.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 185.86,
+      "end": 190.58,
+      "text": "I wanna find something I've wanted all along",
+      "words": [
+        {
+          "text": "I",
+          "start": 185.86,
+          "end": 185.99,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 185.99,
+          "end": 186.63,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 186.63,
+          "end": 187.14,
+          "probability": 1
+        },
+        {
+          "text": "something",
+          "start": 187.14,
+          "end": 188.29,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 188.29,
+          "end": 188.8,
+          "probability": 1
+        },
+        {
+          "text": "wanted",
+          "start": 188.8,
+          "end": 189.56,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 189.56,
+          "end": 189.94,
+          "probability": 1
+        },
+        {
+          "text": "along",
+          "start": 189.94,
+          "end": 190.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 190.82,
+      "end": 192.97,
+      "text": "Somewhere I belong",
+      "words": [
+        {
+          "text": "Somewhere",
+          "start": 190.82,
+          "end": 192.03,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 192.03,
+          "end": 192.16,
+          "probability": 1
+        },
+        {
+          "text": "belong",
+          "start": 192.16,
+          "end": 192.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 193.22,
+      "end": 198.67,
+      "text": "(I wanna heal, I wanna feel like I'm somewhere I belong)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 193.22,
+          "end": 193.46,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 193.46,
+          "end": 194.05,
+          "probability": 1
+        },
+        {
+          "text": "heal,",
+          "start": 194.05,
+          "end": 194.64,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 194.64,
+          "end": 194.76,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 194.76,
+          "end": 195.35,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 195.35,
+          "end": 195.82,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 195.82,
+          "end": 196.29,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 196.29,
+          "end": 196.65,
+          "probability": 1
+        },
+        {
+          "text": "somewhere",
+          "start": 196.65,
+          "end": 197.72,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 197.72,
+          "end": 197.84,
+          "probability": 1
+        },
+        {
+          "text": "belong)",
+          "start": 197.84,
+          "end": 198.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 198.93,
+      "end": 205.76,
+      "text": "(I wanna heal, I wanna feel like I'm somewhere I belong)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 198.93,
+          "end": 199.23,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 199.23,
+          "end": 199.97,
+          "probability": 1
+        },
+        {
+          "text": "heal,",
+          "start": 199.97,
+          "end": 200.71,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 200.71,
+          "end": 200.86,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 200.86,
+          "end": 201.6,
+          "probability": 1
+        },
+        {
+          "text": "feel",
+          "start": 201.6,
+          "end": 202.19,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 202.19,
+          "end": 202.78,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 202.78,
+          "end": 203.23,
+          "probability": 1
+        },
+        {
+          "text": "somewhere",
+          "start": 203.23,
+          "end": 204.57,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 204.57,
+          "end": 204.72,
+          "probability": 1
+        },
+        {
+          "text": "belong)",
+          "start": 204.72,
+          "end": 205.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 208.66,
+      "end": 211.33,
+      "text": "Somewhere I belong",
+      "words": [
+        {
+          "text": "Somewhere",
+          "start": 208.66,
+          "end": 210.16,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 210.16,
+          "end": 210.33,
+          "probability": 1
+        },
+        {
+          "text": "belong",
+          "start": 210.33,
+          "end": 211.33,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "When it began I had nothing to say And I get lost in the nothingness inside of me (I was confused) And I let it all out to find That I'm not the only person with these things in mind (Inside of me) But all that they can see the words revealed Is the only real thing that I've got left to feel (Nothing to lose) Just stuck, hollow and alone And the fault is my own, and the fault is my own I wanna heal, I wanna feel, what I thought was never real I wanna let go of the pain I've felt so long (Erase all the pain till it's gone) I wanna heal, I wanna feel, like I'm close to something real I wanna find something I've wanted all along Somewhere I belong And I've got nothing to say I can't believe I didn't fall right down on my face (I was confused) Looking everywhere only to find That it's not the way I have imagined it all in my mind (So what am I) What do I have but negativity 'Cause I can't justify the way everyone is looking at me (Nothing to lose) Nothing to gain, hollow and alone And the fault is my own, and the fault is my own I wanna heal, I wanna feel, what I thought was never real I wanna let go of the pain I've felt so long (Erase all the pain till it's gone) I wanna heal, I wanna feel, like I'm close to something real I wanna find something I've wanted all along Somewhere I belong I will never know myself until I do this on my own And I will never feel anything else until my wounds are healed I will never be anything till I break away from me I will break away, I'll find myself today I wanna heal, I wanna feel, what I thought was never real I wanna let go of the pain I've felt so long (Erase all the pain till it's gone) I wanna heal, I wanna feel, like I'm close to something real I wanna find something I've wanted all along Somewhere I belong (I wanna heal, I wanna feel like I'm somewhere I belong) (I wanna heal, I wanna feel like I'm somewhere I belong) Somewhere I belong"
+}

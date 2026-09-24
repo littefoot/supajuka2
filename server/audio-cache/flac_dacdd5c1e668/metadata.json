@@ -1,0 +1,19 @@
+{
+  "id": "flac_dacdd5c1e668",
+  "source": "local",
+  "title": "Yesterday (2023 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1962 – 1966 (2023 Edition)",
+  "duration": 124,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_dacdd5c1e668/cover.jpg",
+  "cachedAt": 1790184488233,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_dacdd5c1e668/original.flac",
+  "instrumentalUrl": "/audio/flac_dacdd5c1e668/instrumental.flac",
+  "vocalsUrl": "/audio/flac_dacdd5c1e668/vocals.flac"
+}

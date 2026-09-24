@@ -1,0 +1,5123 @@
+{
+  "language": "en",
+  "duration": 266,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0.32,
+      "end": 1.68,
+      "text": "Oh my God",
+      "words": [
+        {
+          "text": "Oh",
+          "start": 0.32,
+          "end": 0.71,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 0.71,
+          "end": 1.1,
+          "probability": 1
+        },
+        {
+          "text": "God",
+          "start": 1.1,
+          "end": 1.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 2.41,
+      "end": 4.16,
+      "text": "Becky, look at her butt",
+      "words": [
+        {
+          "text": "Becky,",
+          "start": 2.41,
+          "end": 2.96,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 2.96,
+          "end": 3.33,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 3.33,
+          "end": 3.51,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 3.51,
+          "end": 3.79,
+          "probability": 1
+        },
+        {
+          "text": "butt",
+          "start": 3.79,
+          "end": 4.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 4.41,
+      "end": 5.76,
+      "text": "It's so big",
+      "words": [
+        {
+          "text": "It's",
+          "start": 4.41,
+          "end": 5.01,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 5.01,
+          "end": 5.31,
+          "probability": 1
+        },
+        {
+          "text": "big",
+          "start": 5.31,
+          "end": 5.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 6.04,
+      "end": 9.72,
+      "text": "She looks like one of those rap guys' girlfriends",
+      "words": [
+        {
+          "text": "She",
+          "start": 6.04,
+          "end": 6.31,
+          "probability": 1
+        },
+        {
+          "text": "looks",
+          "start": 6.31,
+          "end": 6.76,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 6.76,
+          "end": 7.12,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 7.12,
+          "end": 7.39,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 7.39,
+          "end": 7.57,
+          "probability": 1
+        },
+        {
+          "text": "those",
+          "start": 7.57,
+          "end": 8.02,
+          "probability": 1
+        },
+        {
+          "text": "rap",
+          "start": 8.02,
+          "end": 8.29,
+          "probability": 1
+        },
+        {
+          "text": "guys'",
+          "start": 8.29,
+          "end": 8.74,
+          "probability": 1
+        },
+        {
+          "text": "girlfriends",
+          "start": 8.74,
+          "end": 9.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 9.96,
+      "end": 11.31,
+      "text": "But, you know",
+      "words": [
+        {
+          "text": "But,",
+          "start": 9.96,
+          "end": 10.45,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 10.45,
+          "end": 10.82,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 10.82,
+          "end": 11.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 11.72,
+      "end": 13.45,
+      "text": "Who understands those rap guys?",
+      "words": [
+        {
+          "text": "Who",
+          "start": 11.72,
+          "end": 11.91,
+          "probability": 1
+        },
+        {
+          "text": "understands",
+          "start": 11.91,
+          "end": 12.62,
+          "probability": 1
+        },
+        {
+          "text": "those",
+          "start": 12.62,
+          "end": 12.94,
+          "probability": 1
+        },
+        {
+          "text": "rap",
+          "start": 12.94,
+          "end": 13.13,
+          "probability": 1
+        },
+        {
+          "text": "guys?",
+          "start": 13.13,
+          "end": 13.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 13.72,
+      "end": 18.89,
+      "text": "They only talk to her because she looks like a total prostitute, okay",
+      "words": [
+        {
+          "text": "They",
+          "start": 13.72,
+          "end": 14.08,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 14.08,
+          "end": 14.44,
+          "probability": 1
+        },
+        {
+          "text": "talk",
+          "start": 14.44,
+          "end": 14.8,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 14.8,
+          "end": 14.98,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 14.98,
+          "end": 15.25,
+          "probability": 1
+        },
+        {
+          "text": "because",
+          "start": 15.25,
+          "end": 15.88,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 15.88,
+          "end": 16.15,
+          "probability": 1
+        },
+        {
+          "text": "looks",
+          "start": 16.15,
+          "end": 16.6,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 16.6,
+          "end": 16.96,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 16.96,
+          "end": 17.08,
+          "probability": 1
+        },
+        {
+          "text": "total",
+          "start": 17.08,
+          "end": 17.53,
+          "probability": 1
+        },
+        {
+          "text": "prostitute,",
+          "start": 17.53,
+          "end": 18.53,
+          "probability": 1
+        },
+        {
+          "text": "okay",
+          "start": 18.53,
+          "end": 18.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 19.13,
+      "end": 20.76,
+      "text": "I mean her butt",
+      "words": [
+        {
+          "text": "I",
+          "start": 19.13,
+          "end": 19.27,
+          "probability": 1
+        },
+        {
+          "text": "mean",
+          "start": 19.27,
+          "end": 19.81,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 19.81,
+          "end": 20.22,
+          "probability": 1
+        },
+        {
+          "text": "butt",
+          "start": 20.22,
+          "end": 20.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 21.01,
+      "end": 22.81,
+      "text": "It's just so big",
+      "words": [
+        {
+          "text": "It's",
+          "start": 21.01,
+          "end": 21.56,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 21.56,
+          "end": 22.11,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 22.11,
+          "end": 22.39,
+          "probability": 1
+        },
+        {
+          "text": "big",
+          "start": 22.39,
+          "end": 22.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 23.27,
+      "end": 25.31,
+      "text": "I can't believe it's so round",
+      "words": [
+        {
+          "text": "I",
+          "start": 23.27,
+          "end": 23.39,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 23.39,
+          "end": 23.81,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 23.81,
+          "end": 24.39,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 24.39,
+          "end": 24.72,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 24.72,
+          "end": 24.89,
+          "probability": 1
+        },
+        {
+          "text": "round",
+          "start": 24.89,
+          "end": 25.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 25.52,
+      "end": 26.18,
+      "text": "It's like, out there",
+      "words": [
+        {
+          "text": "It's",
+          "start": 25.52,
+          "end": 25.68,
+          "probability": 1
+        },
+        {
+          "text": "like,",
+          "start": 25.68,
+          "end": 25.87,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 25.87,
+          "end": 25.99,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 25.99,
+          "end": 26.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 26.43,
+      "end": 28.09,
+      "text": "I mean, it's gross",
+      "words": [
+        {
+          "text": "I",
+          "start": 26.43,
+          "end": 26.55,
+          "probability": 1
+        },
+        {
+          "text": "mean,",
+          "start": 26.55,
+          "end": 27.1,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 27.1,
+          "end": 27.54,
+          "probability": 1
+        },
+        {
+          "text": "gross",
+          "start": 27.54,
+          "end": 28.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 28.33,
+      "end": 30.59,
+      "text": "Look, she's just so black",
+      "words": [
+        {
+          "text": "Look,",
+          "start": 28.33,
+          "end": 28.87,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 28.87,
+          "end": 29.41,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 29.41,
+          "end": 29.84,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 29.84,
+          "end": 30.05,
+          "probability": 1
+        },
+        {
+          "text": "black",
+          "start": 30.05,
+          "end": 30.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 31.98,
+      "end": 34.17,
+      "text": "I like big butts and I cannot lie",
+      "words": [
+        {
+          "text": "I",
+          "start": 31.98,
+          "end": 32.1,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 32.1,
+          "end": 32.43,
+          "probability": 1
+        },
+        {
+          "text": "big",
+          "start": 32.43,
+          "end": 32.67,
+          "probability": 1
+        },
+        {
+          "text": "butts",
+          "start": 32.67,
+          "end": 33.08,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 33.08,
+          "end": 33.32,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 33.32,
+          "end": 33.44,
+          "probability": 1
+        },
+        {
+          "text": "cannot",
+          "start": 33.44,
+          "end": 33.93,
+          "probability": 1
+        },
+        {
+          "text": "lie",
+          "start": 33.93,
+          "end": 34.17,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 34.35,
+      "end": 36.24,
+      "text": "You other brothers can't deny",
+      "words": [
+        {
+          "text": "You",
+          "start": 34.35,
+          "end": 34.58,
+          "probability": 1
+        },
+        {
+          "text": "other",
+          "start": 34.58,
+          "end": 34.96,
+          "probability": 1
+        },
+        {
+          "text": "brothers",
+          "start": 34.96,
+          "end": 35.56,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 35.56,
+          "end": 35.94,
+          "probability": 1
+        },
+        {
+          "text": "deny",
+          "start": 35.94,
+          "end": 36.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 36.49,
+      "end": 38.33,
+      "text": "That when a girl walks in with an itty bitty waist",
+      "words": [
+        {
+          "text": "That",
+          "start": 36.49,
+          "end": 36.66,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 36.66,
+          "end": 36.83,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 36.83,
+          "end": 36.95,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 36.95,
+          "end": 37.12,
+          "probability": 1
+        },
+        {
+          "text": "walks",
+          "start": 37.12,
+          "end": 37.33,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 37.33,
+          "end": 37.45,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 37.45,
+          "end": 37.62,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 37.62,
+          "end": 37.74,
+          "probability": 1
+        },
+        {
+          "text": "itty",
+          "start": 37.74,
+          "end": 37.91,
+          "probability": 1
+        },
+        {
+          "text": "bitty",
+          "start": 37.91,
+          "end": 38.12,
+          "probability": 1
+        },
+        {
+          "text": "waist",
+          "start": 38.12,
+          "end": 38.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 38.44,
+      "end": 39.73,
+      "text": "And a round thing in your face",
+      "words": [
+        {
+          "text": "And",
+          "start": 38.44,
+          "end": 38.59,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 38.59,
+          "end": 38.71,
+          "probability": 1
+        },
+        {
+          "text": "round",
+          "start": 38.71,
+          "end": 38.96,
+          "probability": 1
+        },
+        {
+          "text": "thing",
+          "start": 38.96,
+          "end": 39.21,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 39.21,
+          "end": 39.33,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 39.33,
+          "end": 39.53,
+          "probability": 1
+        },
+        {
+          "text": "face",
+          "start": 39.53,
+          "end": 39.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 39.89,
+      "end": 41.13,
+      "text": "You get sprung",
+      "words": [
+        {
+          "text": "You",
+          "start": 39.89,
+          "end": 40.2,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 40.2,
+          "end": 40.51,
+          "probability": 1
+        },
+        {
+          "text": "sprung",
+          "start": 40.51,
+          "end": 41.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 41.37,
+      "end": 42.08,
+      "text": "Wanna pull up tough",
+      "words": [
+        {
+          "text": "Wanna",
+          "start": 41.37,
+          "end": 41.58,
+          "probability": 1
+        },
+        {
+          "text": "pull",
+          "start": 41.58,
+          "end": 41.75,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 41.75,
+          "end": 41.87,
+          "probability": 1
+        },
+        {
+          "text": "tough",
+          "start": 41.87,
+          "end": 42.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.28,
+      "end": 43.83,
+      "text": "'Cause you notice that butt was stuffed",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 42.28,
+          "end": 42.56,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 42.56,
+          "end": 42.7,
+          "probability": 1
+        },
+        {
+          "text": "notice",
+          "start": 42.7,
+          "end": 42.98,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 42.98,
+          "end": 43.17,
+          "probability": 1
+        },
+        {
+          "text": "butt",
+          "start": 43.17,
+          "end": 43.36,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 43.36,
+          "end": 43.5,
+          "probability": 1
+        },
+        {
+          "text": "stuffed",
+          "start": 43.5,
+          "end": 43.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 44.08,
+      "end": 45.37,
+      "text": "Deep in the jeans she's wearing",
+      "words": [
+        {
+          "text": "Deep",
+          "start": 44.08,
+          "end": 44.28,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 44.28,
+          "end": 44.4,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 44.4,
+          "end": 44.55,
+          "probability": 1
+        },
+        {
+          "text": "jeans",
+          "start": 44.55,
+          "end": 44.79,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 44.79,
+          "end": 45.03,
+          "probability": 1
+        },
+        {
+          "text": "wearing",
+          "start": 45.03,
+          "end": 45.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.6,
+      "end": 47.15,
+      "text": "I'm hooked and I can't stop staring",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 45.6,
+          "end": 45.75,
+          "probability": 1
+        },
+        {
+          "text": "hooked",
+          "start": 45.75,
+          "end": 46.06,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 46.06,
+          "end": 46.21,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 46.21,
+          "end": 46.33,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 46.33,
+          "end": 46.59,
+          "probability": 1
+        },
+        {
+          "text": "stop",
+          "start": 46.59,
+          "end": 46.79,
+          "probability": 1
+        },
+        {
+          "text": "staring",
+          "start": 46.79,
+          "end": 47.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 47.33,
+      "end": 49.34,
+      "text": "Oh, baby I wanna get with ya",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 47.33,
+          "end": 47.6,
+          "probability": 1
+        },
+        {
+          "text": "baby",
+          "start": 47.6,
+          "end": 47.96,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 47.96,
+          "end": 48.08,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 48.08,
+          "end": 48.53,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 48.53,
+          "end": 48.8,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 48.8,
+          "end": 49.16,
+          "probability": 1
+        },
+        {
+          "text": "ya",
+          "start": 49.16,
+          "end": 49.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 49.57,
+      "end": 51.2,
+      "text": "And take your picture",
+      "words": [
+        {
+          "text": "And",
+          "start": 49.57,
+          "end": 49.84,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 49.84,
+          "end": 50.2,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 50.2,
+          "end": 50.56,
+          "probability": 1
+        },
+        {
+          "text": "picture",
+          "start": 50.56,
+          "end": 51.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.46,
+      "end": 52.81,
+      "text": "My homeboys tried to warn me",
+      "words": [
+        {
+          "text": "My",
+          "start": 51.46,
+          "end": 51.58,
+          "probability": 1
+        },
+        {
+          "text": "homeboys",
+          "start": 51.58,
+          "end": 52.05,
+          "probability": 1
+        },
+        {
+          "text": "tried",
+          "start": 52.05,
+          "end": 52.34,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 52.34,
+          "end": 52.46,
+          "probability": 1
+        },
+        {
+          "text": "warn",
+          "start": 52.46,
+          "end": 52.69,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 52.69,
+          "end": 52.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 53.06,
+      "end": 53.96,
+      "text": "But that butt you got",
+      "words": [
+        {
+          "text": "But",
+          "start": 53.06,
+          "end": 53.22,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 53.22,
+          "end": 53.43,
+          "probability": 1
+        },
+        {
+          "text": "butt",
+          "start": 53.43,
+          "end": 53.64,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 53.64,
+          "end": 53.8,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 53.8,
+          "end": 53.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 54.21,
+      "end": 55.11,
+      "text": "Makes (me so horny)",
+      "words": [
+        {
+          "text": "Makes",
+          "start": 54.21,
+          "end": 54.49,
+          "probability": 1
+        },
+        {
+          "text": "(me",
+          "start": 54.49,
+          "end": 54.66,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 54.66,
+          "end": 54.78,
+          "probability": 1
+        },
+        {
+          "text": "horny)",
+          "start": 54.78,
+          "end": 55.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 55.34,
+      "end": 56.88,
+      "text": "Ooh, rump of smooth skin",
+      "words": [
+        {
+          "text": "Ooh,",
+          "start": 55.34,
+          "end": 55.65,
+          "probability": 1
+        },
+        {
+          "text": "rump",
+          "start": 55.65,
+          "end": 55.96,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 55.96,
+          "end": 56.11,
+          "probability": 1
+        },
+        {
+          "text": "smooth",
+          "start": 56.11,
+          "end": 56.57,
+          "probability": 1
+        },
+        {
+          "text": "skin",
+          "start": 56.57,
+          "end": 56.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 57.12,
+      "end": 58.54,
+      "text": "You say you wanna get in my Benz",
+      "words": [
+        {
+          "text": "You",
+          "start": 57.12,
+          "end": 57.29,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 57.29,
+          "end": 57.46,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 57.46,
+          "end": 57.63,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 57.63,
+          "end": 57.91,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 57.91,
+          "end": 58.08,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 58.08,
+          "end": 58.2,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 58.2,
+          "end": 58.32,
+          "probability": 1
+        },
+        {
+          "text": "Benz",
+          "start": 58.32,
+          "end": 58.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 58.77,
+      "end": 62.57,
+      "text": "Well use me, use me 'cause you aint that average groupie",
+      "words": [
+        {
+          "text": "Well",
+          "start": 58.77,
+          "end": 59.1,
+          "probability": 1
+        },
+        {
+          "text": "use",
+          "start": 59.1,
+          "end": 59.35,
+          "probability": 1
+        },
+        {
+          "text": "me,",
+          "start": 59.35,
+          "end": 59.6,
+          "probability": 1
+        },
+        {
+          "text": "use",
+          "start": 59.6,
+          "end": 59.85,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 59.85,
+          "end": 60.01,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 60.01,
+          "end": 60.5,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 60.5,
+          "end": 60.75,
+          "probability": 1
+        },
+        {
+          "text": "aint",
+          "start": 60.75,
+          "end": 61.08,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 61.08,
+          "end": 61.41,
+          "probability": 1
+        },
+        {
+          "text": "average",
+          "start": 61.41,
+          "end": 61.99,
+          "probability": 1
+        },
+        {
+          "text": "groupie",
+          "start": 61.99,
+          "end": 62.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 62.81,
+      "end": 64.81,
+      "text": "I've seen them dancin'",
+      "words": [
+        {
+          "text": "I've",
+          "start": 62.81,
+          "end": 63.23,
+          "probability": 1
+        },
+        {
+          "text": "seen",
+          "start": 63.23,
+          "end": 63.65,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 63.65,
+          "end": 64.07,
+          "probability": 1
+        },
+        {
+          "text": "dancin'",
+          "start": 64.07,
+          "end": 64.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 65.06,
+      "end": 66.15,
+      "text": "To hell with romancin'",
+      "words": [
+        {
+          "text": "To",
+          "start": 65.06,
+          "end": 65.18,
+          "probability": 1
+        },
+        {
+          "text": "hell",
+          "start": 65.18,
+          "end": 65.41,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 65.41,
+          "end": 65.64,
+          "probability": 1
+        },
+        {
+          "text": "romancin'",
+          "start": 65.64,
+          "end": 66.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 66.39,
+      "end": 67.77,
+      "text": "She's sweat and wet",
+      "words": [
+        {
+          "text": "She's",
+          "start": 66.39,
+          "end": 66.82,
+          "probability": 1
+        },
+        {
+          "text": "sweat",
+          "start": 66.82,
+          "end": 67.25,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 67.25,
+          "end": 67.51,
+          "probability": 1
+        },
+        {
+          "text": "wet",
+          "start": 67.51,
+          "end": 67.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 68.03,
+      "end": 69.99,
+      "text": "Got it goin' like a turbo 'Vette",
+      "words": [
+        {
+          "text": "Got",
+          "start": 68.03,
+          "end": 68.25,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 68.25,
+          "end": 68.4,
+          "probability": 1
+        },
+        {
+          "text": "goin'",
+          "start": 68.4,
+          "end": 68.77,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 68.77,
+          "end": 69.06,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 69.06,
+          "end": 69.18,
+          "probability": 1
+        },
+        {
+          "text": "turbo",
+          "start": 69.18,
+          "end": 69.55,
+          "probability": 1
+        },
+        {
+          "text": "'Vette",
+          "start": 69.55,
+          "end": 69.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 70.19,
+      "end": 71.71,
+      "text": "I'm tired of magazines",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 70.19,
+          "end": 70.43,
+          "probability": 1
+        },
+        {
+          "text": "tired",
+          "start": 70.43,
+          "end": 70.83,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 70.83,
+          "end": 70.99,
+          "probability": 1
+        },
+        {
+          "text": "magazines",
+          "start": 70.99,
+          "end": 71.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 71.95,
+      "end": 73.32,
+      "text": "Saying flat butts are the thing",
+      "words": [
+        {
+          "text": "Saying",
+          "start": 71.95,
+          "end": 72.27,
+          "probability": 1
+        },
+        {
+          "text": "flat",
+          "start": 72.27,
+          "end": 72.48,
+          "probability": 1
+        },
+        {
+          "text": "butts",
+          "start": 72.48,
+          "end": 72.74,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 72.74,
+          "end": 72.9,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 72.9,
+          "end": 73.06,
+          "probability": 1
+        },
+        {
+          "text": "thing",
+          "start": 73.06,
+          "end": 73.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 73.57,
+      "end": 75.56,
+      "text": "Take the average black man and ask him that",
+      "words": [
+        {
+          "text": "Take",
+          "start": 73.57,
+          "end": 73.8,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 73.8,
+          "end": 73.97,
+          "probability": 1
+        },
+        {
+          "text": "average",
+          "start": 73.97,
+          "end": 74.37,
+          "probability": 1
+        },
+        {
+          "text": "black",
+          "start": 74.37,
+          "end": 74.65,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 74.65,
+          "end": 74.82,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 74.82,
+          "end": 74.99,
+          "probability": 1
+        },
+        {
+          "text": "ask",
+          "start": 74.99,
+          "end": 75.16,
+          "probability": 1
+        },
+        {
+          "text": "him",
+          "start": 75.16,
+          "end": 75.33,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 75.33,
+          "end": 75.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.81,
+      "end": 77.01,
+      "text": "She gotta pack much back",
+      "words": [
+        {
+          "text": "She",
+          "start": 75.81,
+          "end": 75.99,
+          "probability": 1
+        },
+        {
+          "text": "gotta",
+          "start": 75.99,
+          "end": 76.29,
+          "probability": 1
+        },
+        {
+          "text": "pack",
+          "start": 76.29,
+          "end": 76.53,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 76.53,
+          "end": 76.77,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 76.77,
+          "end": 77.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 77.28,
+      "end": 79.31,
+      "text": "So, fellas! (Yeah), fellas (yeah)",
+      "words": [
+        {
+          "text": "So,",
+          "start": 77.28,
+          "end": 77.49,
+          "probability": 1
+        },
+        {
+          "text": "fellas!",
+          "start": 77.49,
+          "end": 77.98,
+          "probability": 1
+        },
+        {
+          "text": "(Yeah),",
+          "start": 77.98,
+          "end": 78.47,
+          "probability": 1
+        },
+        {
+          "text": "fellas",
+          "start": 78.47,
+          "end": 78.89,
+          "probability": 1
+        },
+        {
+          "text": "(yeah)",
+          "start": 78.89,
+          "end": 79.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 79.57,
+      "end": 81.34,
+      "text": "Has your girlfriend got the butt? (Hell yeah)",
+      "words": [
+        {
+          "text": "Has",
+          "start": 79.57,
+          "end": 79.71,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 79.71,
+          "end": 79.9,
+          "probability": 1
+        },
+        {
+          "text": "girlfriend",
+          "start": 79.9,
+          "end": 80.37,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 80.37,
+          "end": 80.51,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 80.51,
+          "end": 80.65,
+          "probability": 1
+        },
+        {
+          "text": "butt?",
+          "start": 80.65,
+          "end": 80.88,
+          "probability": 1
+        },
+        {
+          "text": "(Hell",
+          "start": 80.88,
+          "end": 81.11,
+          "probability": 1
+        },
+        {
+          "text": "yeah)",
+          "start": 81.11,
+          "end": 81.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.59,
+      "end": 83.15,
+      "text": "Tell 'em to shake it! (Shake it), shake it (shake it)",
+      "words": [
+        {
+          "text": "Tell",
+          "start": 81.59,
+          "end": 81.72,
+          "probability": 1
+        },
+        {
+          "text": "'em",
+          "start": 81.72,
+          "end": 81.84,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 81.84,
+          "end": 81.96,
+          "probability": 1
+        },
+        {
+          "text": "shake",
+          "start": 81.96,
+          "end": 82.12,
+          "probability": 1
+        },
+        {
+          "text": "it!",
+          "start": 82.12,
+          "end": 82.24,
+          "probability": 1
+        },
+        {
+          "text": "(Shake",
+          "start": 82.24,
+          "end": 82.43,
+          "probability": 1
+        },
+        {
+          "text": "it),",
+          "start": 82.43,
+          "end": 82.56,
+          "probability": 1
+        },
+        {
+          "text": "shake",
+          "start": 82.56,
+          "end": 82.72,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 82.72,
+          "end": 82.84,
+          "probability": 1
+        },
+        {
+          "text": "(shake",
+          "start": 82.84,
+          "end": 83.03,
+          "probability": 1
+        },
+        {
+          "text": "it)",
+          "start": 83.03,
+          "end": 83.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 83.21,
+      "end": 84.16,
+      "text": "Shake that healthy butt",
+      "words": [
+        {
+          "text": "Shake",
+          "start": 83.21,
+          "end": 83.45,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 83.45,
+          "end": 83.64,
+          "probability": 1
+        },
+        {
+          "text": "healthy",
+          "start": 83.64,
+          "end": 83.97,
+          "probability": 1
+        },
+        {
+          "text": "butt",
+          "start": 83.97,
+          "end": 84.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 84.4,
+      "end": 85.07,
+      "text": "Baby got back!",
+      "words": [
+        {
+          "text": "Baby",
+          "start": 84.4,
+          "end": 84.62,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 84.62,
+          "end": 84.79,
+          "probability": 1
+        },
+        {
+          "text": "back!",
+          "start": 84.79,
+          "end": 85.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 85.32,
+      "end": 88.75,
+      "text": "(L.A. face with a Oakland booty)",
+      "words": [
+        {
+          "text": "(L.A.",
+          "start": 85.32,
+          "end": 85.95,
+          "probability": 1
+        },
+        {
+          "text": "face",
+          "start": 85.95,
+          "end": 86.46,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 86.46,
+          "end": 86.97,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 86.97,
+          "end": 87.1,
+          "probability": 1
+        },
+        {
+          "text": "Oakland",
+          "start": 87.1,
+          "end": 87.99,
+          "probability": 1
+        },
+        {
+          "text": "booty)",
+          "start": 87.99,
+          "end": 88.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 91.79,
+      "end": 92.61,
+      "text": "Baby got back!",
+      "words": [
+        {
+          "text": "Baby",
+          "start": 91.79,
+          "end": 92.06,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 92.06,
+          "end": 92.27,
+          "probability": 1
+        },
+        {
+          "text": "back!",
+          "start": 92.27,
+          "end": 92.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.86,
+      "end": 94.43,
+      "text": "(L.A. face with a Oakland booty)",
+      "words": [
+        {
+          "text": "(L.A.",
+          "start": 92.86,
+          "end": 93.14,
+          "probability": 1
+        },
+        {
+          "text": "face",
+          "start": 93.14,
+          "end": 93.36,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 93.36,
+          "end": 93.58,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 93.58,
+          "end": 93.7,
+          "probability": 1
+        },
+        {
+          "text": "Oakland",
+          "start": 93.7,
+          "end": 94.09,
+          "probability": 1
+        },
+        {
+          "text": "booty)",
+          "start": 94.09,
+          "end": 94.43,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 94.62,
+      "end": 98.05,
+      "text": "(L.A. face with a Oakland booty)",
+      "words": [
+        {
+          "text": "(L.A.",
+          "start": 94.62,
+          "end": 95.25,
+          "probability": 1
+        },
+        {
+          "text": "face",
+          "start": 95.25,
+          "end": 95.76,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 95.76,
+          "end": 96.27,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 96.27,
+          "end": 96.4,
+          "probability": 1
+        },
+        {
+          "text": "Oakland",
+          "start": 96.4,
+          "end": 97.29,
+          "probability": 1
+        },
+        {
+          "text": "booty)",
+          "start": 97.29,
+          "end": 98.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 100.63,
+      "end": 102.24,
+      "text": "I like 'em round and big",
+      "words": [
+        {
+          "text": "I",
+          "start": 100.63,
+          "end": 100.75,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 100.75,
+          "end": 101.08,
+          "probability": 1
+        },
+        {
+          "text": "'em",
+          "start": 101.08,
+          "end": 101.33,
+          "probability": 1
+        },
+        {
+          "text": "round",
+          "start": 101.33,
+          "end": 101.74,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 101.74,
+          "end": 101.99,
+          "probability": 1
+        },
+        {
+          "text": "big",
+          "start": 101.99,
+          "end": 102.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.45,
+      "end": 103.91,
+      "text": "And when I'm throwin a gig",
+      "words": [
+        {
+          "text": "And",
+          "start": 102.45,
+          "end": 102.65,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 102.65,
+          "end": 102.92,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 102.92,
+          "end": 103.12,
+          "probability": 1
+        },
+        {
+          "text": "throwin",
+          "start": 103.12,
+          "end": 103.59,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 103.59,
+          "end": 103.71,
+          "probability": 1
+        },
+        {
+          "text": "gig",
+          "start": 103.71,
+          "end": 103.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 104.1,
+      "end": 105.13,
+      "text": "I just can't help myself",
+      "words": [
+        {
+          "text": "I",
+          "start": 104.1,
+          "end": 104.22,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 104.22,
+          "end": 104.41,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 104.41,
+          "end": 104.65,
+          "probability": 1
+        },
+        {
+          "text": "help",
+          "start": 104.65,
+          "end": 104.84,
+          "probability": 1
+        },
+        {
+          "text": "myself",
+          "start": 104.84,
+          "end": 105.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.31,
+      "end": 106.32,
+      "text": "I'm actin like an animal",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 105.31,
+          "end": 105.46,
+          "probability": 1
+        },
+        {
+          "text": "actin",
+          "start": 105.46,
+          "end": 105.71,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 105.71,
+          "end": 105.91,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 105.91,
+          "end": 106.03,
+          "probability": 1
+        },
+        {
+          "text": "animal",
+          "start": 106.03,
+          "end": 106.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 106.54,
+      "end": 107.3,
+      "text": "Now here's my scandal",
+      "words": [
+        {
+          "text": "Now",
+          "start": 106.54,
+          "end": 106.66,
+          "probability": 1
+        },
+        {
+          "text": "here's",
+          "start": 106.66,
+          "end": 106.9,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 106.9,
+          "end": 107.02,
+          "probability": 1
+        },
+        {
+          "text": "scandal",
+          "start": 107.02,
+          "end": 107.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 107.5,
+      "end": 108.92,
+      "text": "I wanna get you home",
+      "words": [
+        {
+          "text": "I",
+          "start": 107.5,
+          "end": 107.62,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 107.62,
+          "end": 108.05,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 108.05,
+          "end": 108.31,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 108.31,
+          "end": 108.57,
+          "probability": 1
+        },
+        {
+          "text": "home",
+          "start": 108.57,
+          "end": 108.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.14,
+      "end": 111.06,
+      "text": "And ugh, double-up, ugh, ugh",
+      "words": [
+        {
+          "text": "And",
+          "start": 109.14,
+          "end": 109.38,
+          "probability": 1
+        },
+        {
+          "text": "ugh,",
+          "start": 109.38,
+          "end": 109.7,
+          "probability": 1
+        },
+        {
+          "text": "double-up,",
+          "start": 109.7,
+          "end": 110.5,
+          "probability": 1
+        },
+        {
+          "text": "ugh,",
+          "start": 110.5,
+          "end": 110.82,
+          "probability": 1
+        },
+        {
+          "text": "ugh",
+          "start": 110.82,
+          "end": 111.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 111.32,
+      "end": 112.78,
+      "text": "I ain't talkin' 'bout Playboy",
+      "words": [
+        {
+          "text": "I",
+          "start": 111.32,
+          "end": 111.44,
+          "probability": 1
+        },
+        {
+          "text": "ain't",
+          "start": 111.44,
+          "end": 111.72,
+          "probability": 1
+        },
+        {
+          "text": "talkin'",
+          "start": 111.72,
+          "end": 112.11,
+          "probability": 1
+        },
+        {
+          "text": "'bout",
+          "start": 112.11,
+          "end": 112.39,
+          "probability": 1
+        },
+        {
+          "text": "Playboy",
+          "start": 112.39,
+          "end": 112.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 112.97,
+      "end": 114.76,
+      "text": "'Cause silicone parts are made for toys",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 112.97,
+          "end": 113.3,
+          "probability": 1
+        },
+        {
+          "text": "silicone",
+          "start": 113.3,
+          "end": 113.73,
+          "probability": 1
+        },
+        {
+          "text": "parts",
+          "start": 113.73,
+          "end": 114,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 114,
+          "end": 114.16,
+          "probability": 1
+        },
+        {
+          "text": "made",
+          "start": 114.16,
+          "end": 114.38,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 114.38,
+          "end": 114.54,
+          "probability": 1
+        },
+        {
+          "text": "toys",
+          "start": 114.54,
+          "end": 114.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 115.01,
+      "end": 117.29,
+      "text": "I want 'em real thick and juicy",
+      "words": [
+        {
+          "text": "I",
+          "start": 115.01,
+          "end": 115.13,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 115.13,
+          "end": 115.49,
+          "probability": 1
+        },
+        {
+          "text": "'em",
+          "start": 115.49,
+          "end": 115.76,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 115.76,
+          "end": 116.12,
+          "probability": 1
+        },
+        {
+          "text": "thick",
+          "start": 116.12,
+          "end": 116.57,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 116.57,
+          "end": 116.84,
+          "probability": 1
+        },
+        {
+          "text": "juicy",
+          "start": 116.84,
+          "end": 117.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.53,
+      "end": 119.17,
+      "text": "So find that juicy double",
+      "words": [
+        {
+          "text": "So",
+          "start": 117.53,
+          "end": 117.69,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 117.69,
+          "end": 118,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 118,
+          "end": 118.31,
+          "probability": 1
+        },
+        {
+          "text": "juicy",
+          "start": 118.31,
+          "end": 118.7,
+          "probability": 1
+        },
+        {
+          "text": "double",
+          "start": 118.7,
+          "end": 119.17,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 119.42,
+      "end": 120.31,
+      "text": "Mix-a-Lot's in trouble",
+      "words": [
+        {
+          "text": "Mix-a-Lot's",
+          "start": 119.42,
+          "end": 119.89,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 119.89,
+          "end": 120.01,
+          "probability": 1
+        },
+        {
+          "text": "trouble",
+          "start": 120.01,
+          "end": 120.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 120.53,
+      "end": 122.13,
+      "text": "Beggin' for a piece of that bubble",
+      "words": [
+        {
+          "text": "Beggin'",
+          "start": 120.53,
+          "end": 120.91,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 120.91,
+          "end": 121.07,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 121.07,
+          "end": 121.19,
+          "probability": 1
+        },
+        {
+          "text": "piece",
+          "start": 121.19,
+          "end": 121.46,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 121.46,
+          "end": 121.58,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 121.58,
+          "end": 121.8,
+          "probability": 1
+        },
+        {
+          "text": "bubble",
+          "start": 121.8,
+          "end": 122.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 122.31,
+      "end": 123.89,
+      "text": "So I'm lookin' at rock videos",
+      "words": [
+        {
+          "text": "So",
+          "start": 122.31,
+          "end": 122.44,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 122.44,
+          "end": 122.64,
+          "probability": 1
+        },
+        {
+          "text": "lookin'",
+          "start": 122.64,
+          "end": 123.1,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 123.1,
+          "end": 123.23,
+          "probability": 1
+        },
+        {
+          "text": "rock",
+          "start": 123.23,
+          "end": 123.49,
+          "probability": 1
+        },
+        {
+          "text": "videos",
+          "start": 123.49,
+          "end": 123.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 124.14,
+      "end": 126.24,
+      "text": "Knock-kneeded bimbos walkin' like hoes",
+      "words": [
+        {
+          "text": "Knock-kneeded",
+          "start": 124.14,
+          "end": 124.94,
+          "probability": 1
+        },
+        {
+          "text": "bimbos",
+          "start": 124.94,
+          "end": 125.31,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 125.31,
+          "end": 125.74,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 125.74,
+          "end": 125.99,
+          "probability": 1
+        },
+        {
+          "text": "hoes",
+          "start": 125.99,
+          "end": 126.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 126.48,
+      "end": 127.54,
+      "text": "You can have them bimbos",
+      "words": [
+        {
+          "text": "You",
+          "start": 126.48,
+          "end": 126.64,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 126.64,
+          "end": 126.8,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 126.8,
+          "end": 127.01,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 127.01,
+          "end": 127.22,
+          "probability": 1
+        },
+        {
+          "text": "bimbos",
+          "start": 127.22,
+          "end": 127.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 127.8,
+      "end": 129.72,
+      "text": "I'll keep my women like Flo Jo",
+      "words": [
+        {
+          "text": "I'll",
+          "start": 127.8,
+          "end": 128.12,
+          "probability": 1
+        },
+        {
+          "text": "keep",
+          "start": 128.12,
+          "end": 128.44,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 128.44,
+          "end": 128.6,
+          "probability": 1
+        },
+        {
+          "text": "women",
+          "start": 128.6,
+          "end": 129,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 129,
+          "end": 129.32,
+          "probability": 1
+        },
+        {
+          "text": "Flo",
+          "start": 129.32,
+          "end": 129.56,
+          "probability": 1
+        },
+        {
+          "text": "Jo",
+          "start": 129.56,
+          "end": 129.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 129.99,
+      "end": 132.48,
+      "text": "A word to the thick soul sistas, I wanna get with ya",
+      "words": [
+        {
+          "text": "A",
+          "start": 129.99,
+          "end": 130.11,
+          "probability": 1
+        },
+        {
+          "text": "word",
+          "start": 130.11,
+          "end": 130.34,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 130.34,
+          "end": 130.46,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 130.46,
+          "end": 130.63,
+          "probability": 1
+        },
+        {
+          "text": "thick",
+          "start": 130.63,
+          "end": 130.92,
+          "probability": 1
+        },
+        {
+          "text": "soul",
+          "start": 130.92,
+          "end": 131.15,
+          "probability": 1
+        },
+        {
+          "text": "sistas,",
+          "start": 131.15,
+          "end": 131.55,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 131.55,
+          "end": 131.67,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 131.67,
+          "end": 131.96,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 131.96,
+          "end": 132.13,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 132.13,
+          "end": 132.36,
+          "probability": 1
+        },
+        {
+          "text": "ya",
+          "start": 132.36,
+          "end": 132.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 132.58,
+      "end": 133.75,
+      "text": "I won't cuss or hit ya",
+      "words": [
+        {
+          "text": "I",
+          "start": 132.58,
+          "end": 132.7,
+          "probability": 1
+        },
+        {
+          "text": "won't",
+          "start": 132.7,
+          "end": 133.03,
+          "probability": 1
+        },
+        {
+          "text": "cuss",
+          "start": 133.03,
+          "end": 133.29,
+          "probability": 1
+        },
+        {
+          "text": "or",
+          "start": 133.29,
+          "end": 133.42,
+          "probability": 1
+        },
+        {
+          "text": "hit",
+          "start": 133.42,
+          "end": 133.62,
+          "probability": 1
+        },
+        {
+          "text": "ya",
+          "start": 133.62,
+          "end": 133.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.95,
+      "end": 135.92,
+      "text": "But I gotta be straight when I say I wanna",
+      "words": [
+        {
+          "text": "But",
+          "start": 133.95,
+          "end": 134.11,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 134.11,
+          "end": 134.23,
+          "probability": 1
+        },
+        {
+          "text": "gotta",
+          "start": 134.23,
+          "end": 134.5,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 134.5,
+          "end": 134.62,
+          "probability": 1
+        },
+        {
+          "text": "straight",
+          "start": 134.62,
+          "end": 135.04,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 135.04,
+          "end": 135.25,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 135.25,
+          "end": 135.37,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 135.37,
+          "end": 135.53,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 135.53,
+          "end": 135.65,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 135.65,
+          "end": 135.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 135.95,
+      "end": 137.25,
+      "text": "'Til the break of dawn",
+      "words": [
+        {
+          "text": "'Til",
+          "start": 135.95,
+          "end": 136.24,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 136.24,
+          "end": 136.46,
+          "probability": 1
+        },
+        {
+          "text": "break",
+          "start": 136.46,
+          "end": 136.82,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 136.82,
+          "end": 136.96,
+          "probability": 1
+        },
+        {
+          "text": "dawn",
+          "start": 136.96,
+          "end": 137.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 137.49,
+      "end": 139.09,
+      "text": "Baby got it goin' on",
+      "words": [
+        {
+          "text": "Baby",
+          "start": 137.49,
+          "end": 137.89,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 137.89,
+          "end": 138.19,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 138.19,
+          "end": 138.39,
+          "probability": 1
+        },
+        {
+          "text": "goin'",
+          "start": 138.39,
+          "end": 138.89,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 138.89,
+          "end": 139.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 139.34,
+      "end": 140.77,
+      "text": "A lot of simps won't like this song",
+      "words": [
+        {
+          "text": "A",
+          "start": 139.34,
+          "end": 139.46,
+          "probability": 1
+        },
+        {
+          "text": "lot",
+          "start": 139.46,
+          "end": 139.6,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 139.6,
+          "end": 139.72,
+          "probability": 1
+        },
+        {
+          "text": "simps",
+          "start": 139.72,
+          "end": 139.96,
+          "probability": 1
+        },
+        {
+          "text": "won't",
+          "start": 139.96,
+          "end": 140.2,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 140.2,
+          "end": 140.39,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 140.39,
+          "end": 140.58,
+          "probability": 1
+        },
+        {
+          "text": "song",
+          "start": 140.58,
+          "end": 140.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 140.92,
+      "end": 142.72,
+      "text": "'Cause them punks like to hit it and quit it",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 140.92,
+          "end": 141.21,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 141.21,
+          "end": 141.41,
+          "probability": 1
+        },
+        {
+          "text": "punks",
+          "start": 141.41,
+          "end": 141.66,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 141.66,
+          "end": 141.86,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 141.86,
+          "end": 141.98,
+          "probability": 1
+        },
+        {
+          "text": "hit",
+          "start": 141.98,
+          "end": 142.13,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 142.13,
+          "end": 142.25,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 142.25,
+          "end": 142.4,
+          "probability": 1
+        },
+        {
+          "text": "quit",
+          "start": 142.4,
+          "end": 142.6,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 142.6,
+          "end": 142.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142.89,
+      "end": 144.4,
+      "text": "And I'd rather stay and play",
+      "words": [
+        {
+          "text": "And",
+          "start": 142.89,
+          "end": 143.09,
+          "probability": 1
+        },
+        {
+          "text": "I'd",
+          "start": 143.09,
+          "end": 143.29,
+          "probability": 1
+        },
+        {
+          "text": "rather",
+          "start": 143.29,
+          "end": 143.68,
+          "probability": 1
+        },
+        {
+          "text": "stay",
+          "start": 143.68,
+          "end": 143.94,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 143.94,
+          "end": 144.14,
+          "probability": 1
+        },
+        {
+          "text": "play",
+          "start": 144.14,
+          "end": 144.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 144.65,
+      "end": 146.18,
+      "text": "'Cause I'm long, and I'm strong",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 144.65,
+          "end": 145,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 145,
+          "end": 145.18,
+          "probability": 1
+        },
+        {
+          "text": "long,",
+          "start": 145.18,
+          "end": 145.47,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 145.47,
+          "end": 145.65,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 145.65,
+          "end": 145.83,
+          "probability": 1
+        },
+        {
+          "text": "strong",
+          "start": 145.83,
+          "end": 146.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.42,
+      "end": 148.01,
+      "text": "And I'm down to get the friction on",
+      "words": [
+        {
+          "text": "And",
+          "start": 146.42,
+          "end": 146.59,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 146.59,
+          "end": 146.76,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 146.76,
+          "end": 146.98,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 146.98,
+          "end": 147.1,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 147.1,
+          "end": 147.27,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 147.27,
+          "end": 147.44,
+          "probability": 1
+        },
+        {
+          "text": "friction",
+          "start": 147.44,
+          "end": 147.89,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 147.89,
+          "end": 148.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 148.23,
+      "end": 150.19,
+      "text": "So, ladies (yeah), ladies (yeah)",
+      "words": [
+        {
+          "text": "So,",
+          "start": 148.23,
+          "end": 148.44,
+          "probability": 1
+        },
+        {
+          "text": "ladies",
+          "start": 148.44,
+          "end": 148.86,
+          "probability": 1
+        },
+        {
+          "text": "(yeah),",
+          "start": 148.86,
+          "end": 149.35,
+          "probability": 1
+        },
+        {
+          "text": "ladies",
+          "start": 149.35,
+          "end": 149.77,
+          "probability": 1
+        },
+        {
+          "text": "(yeah)",
+          "start": 149.77,
+          "end": 150.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 150.45,
+      "end": 152.25,
+      "text": "If you wanna roll in my Mercedes (yeah)",
+      "words": [
+        {
+          "text": "If",
+          "start": 150.45,
+          "end": 150.57,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 150.57,
+          "end": 150.74,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 150.74,
+          "end": 151.02,
+          "probability": 1
+        },
+        {
+          "text": "roll",
+          "start": 151.02,
+          "end": 151.24,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 151.24,
+          "end": 151.36,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 151.36,
+          "end": 151.48,
+          "probability": 1
+        },
+        {
+          "text": "Mercedes",
+          "start": 151.48,
+          "end": 151.92,
+          "probability": 1
+        },
+        {
+          "text": "(yeah)",
+          "start": 151.92,
+          "end": 152.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 152.48,
+      "end": 153.98,
+      "text": "Then turn around, stick it out",
+      "words": [
+        {
+          "text": "Then",
+          "start": 152.48,
+          "end": 152.72,
+          "probability": 1
+        },
+        {
+          "text": "turn",
+          "start": 152.72,
+          "end": 152.96,
+          "probability": 1
+        },
+        {
+          "text": "around,",
+          "start": 152.96,
+          "end": 153.38,
+          "probability": 1
+        },
+        {
+          "text": "stick",
+          "start": 153.38,
+          "end": 153.68,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 153.68,
+          "end": 153.8,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 153.8,
+          "end": 153.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 154.24,
+      "end": 155.27,
+      "text": "Even white boys got to shout",
+      "words": [
+        {
+          "text": "Even",
+          "start": 154.24,
+          "end": 154.41,
+          "probability": 1
+        },
+        {
+          "text": "white",
+          "start": 154.41,
+          "end": 154.63,
+          "probability": 1
+        },
+        {
+          "text": "boys",
+          "start": 154.63,
+          "end": 154.8,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 154.8,
+          "end": 154.93,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 154.93,
+          "end": 155.05,
+          "probability": 1
+        },
+        {
+          "text": "shout",
+          "start": 155.05,
+          "end": 155.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.49,
+      "end": 157,
+      "text": "Baby got back",
+      "words": [
+        {
+          "text": "Baby",
+          "start": 155.49,
+          "end": 156.04,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 156.04,
+          "end": 156.45,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 156.45,
+          "end": 157,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 162.74,
+      "end": 164.25,
+      "text": "Baby got back",
+      "words": [
+        {
+          "text": "Baby",
+          "start": 162.74,
+          "end": 163.29,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 163.29,
+          "end": 163.7,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 163.7,
+          "end": 164.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164.74,
+      "end": 170.95,
+      "text": "Yeah baby, when it comes to females, Cosmo ain't got nothin'",
+      "words": [
+        {
+          "text": "Yeah",
+          "start": 164.74,
+          "end": 165.24,
+          "probability": 1
+        },
+        {
+          "text": "baby,",
+          "start": 165.24,
+          "end": 165.86,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 165.86,
+          "end": 166.36,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 166.36,
+          "end": 166.61,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 166.61,
+          "end": 167.23,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 167.23,
+          "end": 167.48,
+          "probability": 1
+        },
+        {
+          "text": "females,",
+          "start": 167.48,
+          "end": 168.47,
+          "probability": 1
+        },
+        {
+          "text": "Cosmo",
+          "start": 168.47,
+          "end": 169.09,
+          "probability": 1
+        },
+        {
+          "text": "ain't",
+          "start": 169.09,
+          "end": 169.71,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 169.71,
+          "end": 170.08,
+          "probability": 1
+        },
+        {
+          "text": "nothin'",
+          "start": 170.08,
+          "end": 170.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 171.19,
+      "end": 176.91,
+      "text": "To do with my selection, 36-24-36? Ha-ha, only if she's 5'3\"",
+      "words": [
+        {
+          "text": "To",
+          "start": 171.19,
+          "end": 171.42,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 171.42,
+          "end": 171.65,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 171.65,
+          "end": 172.11,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 172.11,
+          "end": 172.34,
+          "probability": 1
+        },
+        {
+          "text": "selection,",
+          "start": 172.34,
+          "end": 173.48,
+          "probability": 1
+        },
+        {
+          "text": "36-24-36?",
+          "start": 173.48,
+          "end": 174.51,
+          "probability": 1
+        },
+        {
+          "text": "Ha-ha,",
+          "start": 174.51,
+          "end": 175.19,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 175.19,
+          "end": 175.65,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 175.65,
+          "end": 175.88,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 175.88,
+          "end": 176.45,
+          "probability": 1
+        },
+        {
+          "text": "5'3\"",
+          "start": 176.45,
+          "end": 176.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 178.49,
+      "end": 179.98,
+      "text": "So your girlfriend rolls a Honda",
+      "words": [
+        {
+          "text": "So",
+          "start": 178.49,
+          "end": 178.61,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 178.61,
+          "end": 178.82,
+          "probability": 1
+        },
+        {
+          "text": "girlfriend",
+          "start": 178.82,
+          "end": 179.34,
+          "probability": 1
+        },
+        {
+          "text": "rolls",
+          "start": 179.34,
+          "end": 179.6,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 179.6,
+          "end": 179.72,
+          "probability": 1
+        },
+        {
+          "text": "Honda",
+          "start": 179.72,
+          "end": 179.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 180.15,
+      "end": 181.8,
+      "text": "Playin' workout tapes by Fonda",
+      "words": [
+        {
+          "text": "Playin'",
+          "start": 180.15,
+          "end": 180.59,
+          "probability": 1
+        },
+        {
+          "text": "workout",
+          "start": 180.59,
+          "end": 181.03,
+          "probability": 1
+        },
+        {
+          "text": "tapes",
+          "start": 181.03,
+          "end": 181.35,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 181.35,
+          "end": 181.48,
+          "probability": 1
+        },
+        {
+          "text": "Fonda",
+          "start": 181.48,
+          "end": 181.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 182.04,
+      "end": 184.61,
+      "text": "But Fonda ain't got a motor in the back of her Honda",
+      "words": [
+        {
+          "text": "But",
+          "start": 182.04,
+          "end": 182.22,
+          "probability": 1
+        },
+        {
+          "text": "Fonda",
+          "start": 182.22,
+          "end": 182.53,
+          "probability": 1
+        },
+        {
+          "text": "ain't",
+          "start": 182.53,
+          "end": 182.84,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 182.84,
+          "end": 183.02,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 183.02,
+          "end": 183.14,
+          "probability": 1
+        },
+        {
+          "text": "motor",
+          "start": 183.14,
+          "end": 183.45,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 183.45,
+          "end": 183.57,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 183.57,
+          "end": 183.75,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 183.75,
+          "end": 184,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 184,
+          "end": 184.12,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 184.12,
+          "end": 184.3,
+          "probability": 1
+        },
+        {
+          "text": "Honda",
+          "start": 184.3,
+          "end": 184.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 184.81,
+      "end": 186.98,
+      "text": "My anaconda don't want none",
+      "words": [
+        {
+          "text": "My",
+          "start": 184.81,
+          "end": 185,
+          "probability": 1
+        },
+        {
+          "text": "anaconda",
+          "start": 185,
+          "end": 185.75,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 185.75,
+          "end": 186.22,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 186.22,
+          "end": 186.6,
+          "probability": 1
+        },
+        {
+          "text": "none",
+          "start": 186.6,
+          "end": 186.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 187.23,
+      "end": 189.4,
+      "text": "Unless you've got buns, hun",
+      "words": [
+        {
+          "text": "Unless",
+          "start": 187.23,
+          "end": 187.8,
+          "probability": 1
+        },
+        {
+          "text": "you've",
+          "start": 187.8,
+          "end": 188.37,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 188.37,
+          "end": 188.65,
+          "probability": 1
+        },
+        {
+          "text": "buns,",
+          "start": 188.65,
+          "end": 189.12,
+          "probability": 1
+        },
+        {
+          "text": "hun",
+          "start": 189.12,
+          "end": 189.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 189.66,
+      "end": 191.21,
+      "text": "You can do side bends or sit-ups",
+      "words": [
+        {
+          "text": "You",
+          "start": 189.66,
+          "end": 189.84,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 189.84,
+          "end": 190.02,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 190.02,
+          "end": 190.14,
+          "probability": 1
+        },
+        {
+          "text": "side",
+          "start": 190.14,
+          "end": 190.38,
+          "probability": 1
+        },
+        {
+          "text": "bends",
+          "start": 190.38,
+          "end": 190.68,
+          "probability": 1
+        },
+        {
+          "text": "or",
+          "start": 190.68,
+          "end": 190.8,
+          "probability": 1
+        },
+        {
+          "text": "sit-ups",
+          "start": 190.8,
+          "end": 191.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 191.45,
+      "end": 193.09,
+      "text": "But please don't lose that butt",
+      "words": [
+        {
+          "text": "But",
+          "start": 191.45,
+          "end": 191.64,
+          "probability": 1
+        },
+        {
+          "text": "please",
+          "start": 191.64,
+          "end": 192.02,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 192.02,
+          "end": 192.34,
+          "probability": 1
+        },
+        {
+          "text": "lose",
+          "start": 192.34,
+          "end": 192.59,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 192.59,
+          "end": 192.84,
+          "probability": 1
+        },
+        {
+          "text": "butt",
+          "start": 192.84,
+          "end": 193.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 193.35,
+      "end": 194.84,
+      "text": "Some brothers wanna play that hard role",
+      "words": [
+        {
+          "text": "Some",
+          "start": 193.35,
+          "end": 193.53,
+          "probability": 1
+        },
+        {
+          "text": "brothers",
+          "start": 193.53,
+          "end": 193.89,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 193.89,
+          "end": 194.12,
+          "probability": 1
+        },
+        {
+          "text": "play",
+          "start": 194.12,
+          "end": 194.3,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 194.3,
+          "end": 194.48,
+          "probability": 1
+        },
+        {
+          "text": "hard",
+          "start": 194.48,
+          "end": 194.66,
+          "probability": 1
+        },
+        {
+          "text": "role",
+          "start": 194.66,
+          "end": 194.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 195.1,
+      "end": 196.82,
+      "text": "And tell you that the butt ain't gold",
+      "words": [
+        {
+          "text": "And",
+          "start": 195.1,
+          "end": 195.27,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 195.27,
+          "end": 195.5,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 195.5,
+          "end": 195.67,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 195.67,
+          "end": 195.9,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 195.9,
+          "end": 196.07,
+          "probability": 1
+        },
+        {
+          "text": "butt",
+          "start": 196.07,
+          "end": 196.3,
+          "probability": 1
+        },
+        {
+          "text": "ain't",
+          "start": 196.3,
+          "end": 196.59,
+          "probability": 1
+        },
+        {
+          "text": "gold",
+          "start": 196.59,
+          "end": 196.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 197.06,
+      "end": 198.56,
+      "text": "So they toss it and leave it",
+      "words": [
+        {
+          "text": "So",
+          "start": 197.06,
+          "end": 197.2,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 197.2,
+          "end": 197.47,
+          "probability": 1
+        },
+        {
+          "text": "toss",
+          "start": 197.47,
+          "end": 197.74,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 197.74,
+          "end": 197.88,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 197.88,
+          "end": 198.08,
+          "probability": 1
+        },
+        {
+          "text": "leave",
+          "start": 198.08,
+          "end": 198.42,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 198.42,
+          "end": 198.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 198.8,
+      "end": 200.7,
+      "text": "And I pull up quick to retrieve it",
+      "words": [
+        {
+          "text": "And",
+          "start": 198.8,
+          "end": 199,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 199,
+          "end": 199.12,
+          "probability": 1
+        },
+        {
+          "text": "pull",
+          "start": 199.12,
+          "end": 199.39,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 199.39,
+          "end": 199.53,
+          "probability": 1
+        },
+        {
+          "text": "quick",
+          "start": 199.53,
+          "end": 199.87,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 199.87,
+          "end": 200.01,
+          "probability": 1
+        },
+        {
+          "text": "retrieve",
+          "start": 200.01,
+          "end": 200.56,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 200.56,
+          "end": 200.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 200.89,
+      "end": 202.61,
+      "text": "So Cosmo says you're fat",
+      "words": [
+        {
+          "text": "So",
+          "start": 200.89,
+          "end": 201.06,
+          "probability": 1
+        },
+        {
+          "text": "Cosmo",
+          "start": 201.06,
+          "end": 201.49,
+          "probability": 1
+        },
+        {
+          "text": "says",
+          "start": 201.49,
+          "end": 201.83,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 201.83,
+          "end": 202.35,
+          "probability": 1
+        },
+        {
+          "text": "fat",
+          "start": 202.35,
+          "end": 202.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 202.86,
+      "end": 204.29,
+      "text": "Well I ain't down with that",
+      "words": [
+        {
+          "text": "Well",
+          "start": 202.86,
+          "end": 203.11,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 203.11,
+          "end": 203.23,
+          "probability": 1
+        },
+        {
+          "text": "ain't",
+          "start": 203.23,
+          "end": 203.54,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 203.54,
+          "end": 203.79,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 203.79,
+          "end": 204.04,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 204.04,
+          "end": 204.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 204.48,
+      "end": 206.65,
+      "text": "'Cause your waist is small and your curves are kickin'",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 204.48,
+          "end": 204.77,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 204.77,
+          "end": 204.96,
+          "probability": 1
+        },
+        {
+          "text": "waist",
+          "start": 204.96,
+          "end": 205.2,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 205.2,
+          "end": 205.32,
+          "probability": 1
+        },
+        {
+          "text": "small",
+          "start": 205.32,
+          "end": 205.56,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 205.56,
+          "end": 205.7,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 205.7,
+          "end": 205.89,
+          "probability": 1
+        },
+        {
+          "text": "curves",
+          "start": 205.89,
+          "end": 206.18,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 206.18,
+          "end": 206.32,
+          "probability": 1
+        },
+        {
+          "text": "kickin'",
+          "start": 206.32,
+          "end": 206.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 206.87,
+      "end": 208.17,
+      "text": "And I'm thinkin' 'bout stickin'",
+      "words": [
+        {
+          "text": "And",
+          "start": 206.87,
+          "end": 207.01,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 207.01,
+          "end": 207.15,
+          "probability": 1
+        },
+        {
+          "text": "thinkin'",
+          "start": 207.15,
+          "end": 207.54,
+          "probability": 1
+        },
+        {
+          "text": "'bout",
+          "start": 207.54,
+          "end": 207.78,
+          "probability": 1
+        },
+        {
+          "text": "stickin'",
+          "start": 207.78,
+          "end": 208.17,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 208.42,
+      "end": 209.94,
+      "text": "To the beanpole dames in the magazines",
+      "words": [
+        {
+          "text": "To",
+          "start": 208.42,
+          "end": 208.54,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 208.54,
+          "end": 208.68,
+          "probability": 1
+        },
+        {
+          "text": "beanpole",
+          "start": 208.68,
+          "end": 209.04,
+          "probability": 1
+        },
+        {
+          "text": "dames",
+          "start": 209.04,
+          "end": 209.27,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 209.27,
+          "end": 209.39,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 209.39,
+          "end": 209.53,
+          "probability": 1
+        },
+        {
+          "text": "magazines",
+          "start": 209.53,
+          "end": 209.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 210.12,
+      "end": 211.83,
+      "text": "You ain't it, Miss Thing",
+      "words": [
+        {
+          "text": "You",
+          "start": 210.12,
+          "end": 210.38,
+          "probability": 1
+        },
+        {
+          "text": "ain't",
+          "start": 210.38,
+          "end": 210.81,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 210.81,
+          "end": 211.07,
+          "probability": 1
+        },
+        {
+          "text": "Miss",
+          "start": 211.07,
+          "end": 211.41,
+          "probability": 1
+        },
+        {
+          "text": "Thing",
+          "start": 211.41,
+          "end": 211.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 212.07,
+      "end": 213.68,
+      "text": "Give me a sister, I can't resist her",
+      "words": [
+        {
+          "text": "Give",
+          "start": 212.07,
+          "end": 212.27,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 212.27,
+          "end": 212.39,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 212.39,
+          "end": 212.51,
+          "probability": 1
+        },
+        {
+          "text": "sister,",
+          "start": 212.51,
+          "end": 212.86,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 212.86,
+          "end": 212.98,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 212.98,
+          "end": 213.23,
+          "probability": 1
+        },
+        {
+          "text": "resist",
+          "start": 213.23,
+          "end": 213.53,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 213.53,
+          "end": 213.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 213.76,
+      "end": 215.6,
+      "text": "Red beans and rice didn't miss her",
+      "words": [
+        {
+          "text": "Red",
+          "start": 213.76,
+          "end": 213.96,
+          "probability": 1
+        },
+        {
+          "text": "beans",
+          "start": 213.96,
+          "end": 214.29,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 214.29,
+          "end": 214.49,
+          "probability": 1
+        },
+        {
+          "text": "rice",
+          "start": 214.49,
+          "end": 214.75,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 214.75,
+          "end": 215.14,
+          "probability": 1
+        },
+        {
+          "text": "miss",
+          "start": 215.14,
+          "end": 215.4,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 215.4,
+          "end": 215.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 215.84,
+      "end": 217.32,
+      "text": "Some knucklehead tried to diss",
+      "words": [
+        {
+          "text": "Some",
+          "start": 215.84,
+          "end": 216.07,
+          "probability": 1
+        },
+        {
+          "text": "knucklehead",
+          "start": 216.07,
+          "end": 216.69,
+          "probability": 1
+        },
+        {
+          "text": "tried",
+          "start": 216.69,
+          "end": 216.97,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 216.97,
+          "end": 217.09,
+          "probability": 1
+        },
+        {
+          "text": "diss",
+          "start": 217.09,
+          "end": 217.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 217.56,
+      "end": 219.16,
+      "text": "'Cause his girls are on my list",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 217.56,
+          "end": 217.94,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 217.94,
+          "end": 218.13,
+          "probability": 1
+        },
+        {
+          "text": "girls",
+          "start": 218.13,
+          "end": 218.45,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 218.45,
+          "end": 218.64,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 218.64,
+          "end": 218.77,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 218.77,
+          "end": 218.9,
+          "probability": 1
+        },
+        {
+          "text": "list",
+          "start": 218.9,
+          "end": 219.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 219.41,
+      "end": 221.03,
+      "text": "He had game but he chose to hit 'em",
+      "words": [
+        {
+          "text": "He",
+          "start": 219.41,
+          "end": 219.53,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 219.53,
+          "end": 219.71,
+          "probability": 1
+        },
+        {
+          "text": "game",
+          "start": 219.71,
+          "end": 219.95,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 219.95,
+          "end": 220.13,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 220.13,
+          "end": 220.25,
+          "probability": 1
+        },
+        {
+          "text": "chose",
+          "start": 220.25,
+          "end": 220.55,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 220.55,
+          "end": 220.67,
+          "probability": 1
+        },
+        {
+          "text": "hit",
+          "start": 220.67,
+          "end": 220.85,
+          "probability": 1
+        },
+        {
+          "text": "'em",
+          "start": 220.85,
+          "end": 221.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 221.26,
+      "end": 223.07,
+      "text": "And I pull up quick to get wit 'em",
+      "words": [
+        {
+          "text": "And",
+          "start": 221.26,
+          "end": 221.46,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 221.46,
+          "end": 221.58,
+          "probability": 1
+        },
+        {
+          "text": "pull",
+          "start": 221.58,
+          "end": 221.85,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 221.85,
+          "end": 221.99,
+          "probability": 1
+        },
+        {
+          "text": "quick",
+          "start": 221.99,
+          "end": 222.33,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 222.33,
+          "end": 222.47,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 222.47,
+          "end": 222.67,
+          "probability": 1
+        },
+        {
+          "text": "wit",
+          "start": 222.67,
+          "end": 222.87,
+          "probability": 1
+        },
+        {
+          "text": "'em",
+          "start": 222.87,
+          "end": 223.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 223.28,
+      "end": 224.8,
+      "text": "So ladies, if the butt is round",
+      "words": [
+        {
+          "text": "So",
+          "start": 223.28,
+          "end": 223.4,
+          "probability": 1
+        },
+        {
+          "text": "ladies,",
+          "start": 223.4,
+          "end": 223.83,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 223.83,
+          "end": 223.95,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 223.95,
+          "end": 224.13,
+          "probability": 1
+        },
+        {
+          "text": "butt",
+          "start": 224.13,
+          "end": 224.37,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 224.37,
+          "end": 224.49,
+          "probability": 1
+        },
+        {
+          "text": "round",
+          "start": 224.49,
+          "end": 224.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 225.06,
+      "end": 226.73,
+      "text": "And you want a triple X throw down",
+      "words": [
+        {
+          "text": "And",
+          "start": 225.06,
+          "end": 225.23,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 225.23,
+          "end": 225.4,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 225.4,
+          "end": 225.63,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 225.63,
+          "end": 225.75,
+          "probability": 1
+        },
+        {
+          "text": "triple",
+          "start": 225.75,
+          "end": 226.09,
+          "probability": 1
+        },
+        {
+          "text": "X",
+          "start": 226.09,
+          "end": 226.21,
+          "probability": 1
+        },
+        {
+          "text": "throw",
+          "start": 226.21,
+          "end": 226.5,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 226.5,
+          "end": 226.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 226.85,
+      "end": 228.37,
+      "text": "Dial 1-900-Mix-A-Lot",
+      "words": [
+        {
+          "text": "Dial",
+          "start": 226.85,
+          "end": 227.17,
+          "probability": 1
+        },
+        {
+          "text": "1-900-Mix-A-Lot",
+          "start": 227.17,
+          "end": 228.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 228.73,
+      "end": 229.99,
+      "text": "And kick them nasty thoughts",
+      "words": [
+        {
+          "text": "And",
+          "start": 228.73,
+          "end": 228.89,
+          "probability": 1
+        },
+        {
+          "text": "kick",
+          "start": 228.89,
+          "end": 229.1,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 229.1,
+          "end": 229.31,
+          "probability": 1
+        },
+        {
+          "text": "nasty",
+          "start": 229.31,
+          "end": 229.57,
+          "probability": 1
+        },
+        {
+          "text": "thoughts",
+          "start": 229.57,
+          "end": 229.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 230.24,
+      "end": 231.75,
+      "text": "Baby got back",
+      "words": [
+        {
+          "text": "Baby",
+          "start": 230.24,
+          "end": 230.79,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 230.79,
+          "end": 231.2,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 231.2,
+          "end": 231.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 237.2,
+      "end": 238.71,
+      "text": "Baby got back",
+      "words": [
+        {
+          "text": "Baby",
+          "start": 237.2,
+          "end": 237.75,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 237.75,
+          "end": 238.16,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 238.16,
+          "end": 238.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 238.71,
+      "end": 246.28,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 238.71,
+          "end": 246.28,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 246.28,
+      "end": 249.08,
+      "text": "(Little in the middle but she got much back)",
+      "words": [
+        {
+          "text": "(Little",
+          "start": 246.28,
+          "end": 246.83,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 246.83,
+          "end": 246.99,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 246.99,
+          "end": 247.22,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 247.22,
+          "end": 247.69,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 247.69,
+          "end": 247.92,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 247.92,
+          "end": 248.15,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 248.15,
+          "end": 248.38,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 248.38,
+          "end": 248.69,
+          "probability": 1
+        },
+        {
+          "text": "back)",
+          "start": 248.69,
+          "end": 249.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 249.34,
+      "end": 253.26,
+      "text": "(Little in the middle but she got much back)",
+      "words": [
+        {
+          "text": "(Little",
+          "start": 249.34,
+          "end": 250.1,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 250.1,
+          "end": 250.32,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 250.32,
+          "end": 250.65,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 250.65,
+          "end": 251.3,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 251.3,
+          "end": 251.63,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 251.63,
+          "end": 251.96,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 251.96,
+          "end": 252.29,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 252.29,
+          "end": 252.72,
+          "probability": 1
+        },
+        {
+          "text": "back)",
+          "start": 252.72,
+          "end": 253.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 253.49,
+      "end": 256.69,
+      "text": "(Little in the middle but she got much back)",
+      "words": [
+        {
+          "text": "(Little",
+          "start": 253.49,
+          "end": 254.11,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 254.11,
+          "end": 254.29,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 254.29,
+          "end": 254.56,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 254.56,
+          "end": 255.09,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 255.09,
+          "end": 255.36,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 255.36,
+          "end": 255.63,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 255.63,
+          "end": 255.9,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 255.9,
+          "end": 256.25,
+          "probability": 1
+        },
+        {
+          "text": "back)",
+          "start": 256.25,
+          "end": 256.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 256.93,
+      "end": 260.68,
+      "text": "(Little in the middle but she got much back)",
+      "words": [
+        {
+          "text": "(Little",
+          "start": 256.93,
+          "end": 257.66,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 257.66,
+          "end": 257.87,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 257.87,
+          "end": 258.18,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 258.18,
+          "end": 258.81,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 258.81,
+          "end": 259.12,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 259.12,
+          "end": 259.43,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 259.43,
+          "end": 259.74,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 259.74,
+          "end": 260.16,
+          "probability": 1
+        },
+        {
+          "text": "back)",
+          "start": 260.16,
+          "end": 260.68,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Oh my God Becky, look at her butt It's so big She looks like one of those rap guys' girlfriends But, you know Who understands those rap guys? They only talk to her because she looks like a total prostitute, okay I mean her butt It's just so big I can't believe it's so round It's like, out there I mean, it's gross Look, she's just so black I like big butts and I cannot lie You other brothers can't deny That when a girl walks in with an itty bitty waist And a round thing in your face You get sprung Wanna pull up tough 'Cause you notice that butt was stuffed Deep in the jeans she's wearing I'm hooked and I can't stop staring Oh, baby I wanna get with ya And take your picture My homeboys tried to warn me But that butt you got Makes (me so horny) Ooh, rump of smooth skin You say you wanna get in my Benz Well use me, use me 'cause you aint that average groupie I've seen them dancin' To hell with romancin' She's sweat and wet Got it goin' like a turbo 'Vette I'm tired of magazines Saying flat butts are the thing Take the average black man and ask him that She gotta pack much back So, fellas! (Yeah), fellas (yeah) Has your girlfriend got the butt? (Hell yeah) Tell 'em to shake it! (Shake it), shake it (shake it) Shake that healthy butt Baby got back! (L.A. face with a Oakland booty) Baby got back! (L.A. face with a Oakland booty) (L.A. face with a Oakland booty) I like 'em round and big And when I'm throwin a gig I just can't help myself I'm actin like an animal Now here's my scandal I wanna get you home And ugh, double-up, ugh, ugh I ain't talkin' 'bout Playboy 'Cause silicone parts are made for toys I want 'em real thick and juicy So find that juicy double Mix-a-Lot's in trouble Beggin' for a piece of that bubble So I'm lookin' at rock videos Knock-kneeded bimbos walkin' like hoes You can have them bimbos I'll keep my women like Flo Jo A word to the thick soul sistas, I wanna get with ya I won't cuss or hit ya But I gotta be straight when I say I wanna 'Til the break of dawn Baby got it goin' on A lot of simps won't like this song 'Cause them punks like to hit it and quit it And I'd rather stay and play 'Cause I'm long, and I'm strong And I'm down to get the friction on So, ladies (yeah), ladies (yeah) If you wanna roll in my Mercedes (yeah) Then turn around, stick it out Even white boys got to shout Baby got back Baby got back Yeah baby, when it comes to females, Cosmo ain't got nothin' To do with my selection, 36-24-36? Ha-ha, only if she's 5'3\" So your girlfriend rolls a Honda Playin' workout tapes by Fonda But Fonda ain't got a motor in the back of her Honda My anaconda don't want none Unless you've got buns, hun You can do side bends or sit-ups But please don't lose that butt Some brothers wanna play that hard role And tell you that the butt ain't gold So they toss it and leave it And I pull up quick to retrieve it So Cosmo says you're fat Well I ain't down with that 'Cause your waist is small and your curves are kickin' And I'm thinkin' 'bout stickin' To the beanpole dames in the magazines You ain't it, Miss Thing Give me a sister, I can't resist her Red beans and rice didn't miss her Some knucklehead tried to diss 'Cause his girls are on my list He had game but he chose to hit 'em And I pull up quick to get wit 'em So ladies, if the butt is round And you want a triple X throw down Dial 1-900-Mix-A-Lot And kick them nasty thoughts Baby got back Baby got back (Little in the middle but she got much back) (Little in the middle but she got much back) (Little in the middle but she got much back) (Little in the middle but she got much back)"
+}

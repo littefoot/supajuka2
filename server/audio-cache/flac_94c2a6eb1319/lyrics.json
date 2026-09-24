@@ -4,15 +4,15 @@
   "duration": 252.52,
   "segments": [
     {
-      "start": 1.0,
+      "start": 1,
       "end": 18.32,
       "text": "[INSTRUMENTAL]",
       "words": [
         {
           "text": "🎶",
-          "start": 1.0,
+          "start": 1,
           "end": 18.32,
-          "probability": 1.0,
+          "probability": 1,
           "isMarker": true
         }
       ]
@@ -32,7 +32,7 @@
           "text": "I",
           "start": 21.6,
           "end": 21.86,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "ran",
@@ -44,13 +44,13 @@
           "text": "into",
           "start": 22.18,
           "end": 22.82,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "you",
           "start": 22.82,
           "end": 23.48,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "down",
@@ -68,7 +68,7 @@
           "text": "the",
           "start": 24.94,
           "end": 25.58,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "street",
@@ -99,13 +99,13 @@
           "text": "turned",
           "start": 29.88,
           "end": 30.14,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "out",
           "start": 30.14,
           "end": 30.5,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "to",
@@ -129,13 +129,13 @@
           "text": "a",
           "start": 32.68,
           "end": 33.64,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "dream",
           "start": 33.64,
           "end": 34.24,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
@@ -154,7 +154,7 @@
           "text": "made",
           "start": 37.54,
           "end": 37.92,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "a",
@@ -166,19 +166,19 @@
           "text": "point",
           "start": 38.16,
           "end": 38.56,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "to",
           "start": 38.56,
           "end": 38.98,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "burn",
           "start": 39.18,
           "end": 39.62,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "all",
@@ -196,13 +196,13 @@
           "text": "the",
           "start": 40.9,
           "end": 41.26,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "photographs",
           "start": 41.46,
           "end": 42.4,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
@@ -221,13 +221,13 @@
           "text": "went",
           "start": 45.54,
           "end": 45.96,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "away",
           "start": 45.96,
           "end": 46.5,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "and",
@@ -244,32 +244,32 @@
         {
           "text": "I",
           "start": 47.46,
-          "end": 48.0,
-          "probability": 1.0
+          "end": 48,
+          "probability": 1
         },
         {
           "text": "took",
           "start": 48.12,
           "end": 48.62,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "a",
           "start": 48.92,
           "end": 49.32,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "different",
           "start": 49.7,
           "end": 49.84,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "path",
           "start": 50.22,
           "end": 50.76,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
@@ -319,13 +319,13 @@
           "text": "I",
           "start": 55.9,
           "end": 56.16,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "can't",
           "start": 56.26,
           "end": 56.92,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "recall",
@@ -343,7 +343,7 @@
           "text": "name",
           "start": 58.04,
           "end": 58.7,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
@@ -362,13 +362,13 @@
           "text": "I",
           "start": 61.14,
           "end": 61.4,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "wonder",
           "start": 61.4,
           "end": 61.9,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "how",
@@ -392,7 +392,7 @@
           "text": "name",
           "start": 63.2,
           "end": 63.68,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "has",
@@ -404,27 +404,27 @@
           "text": "been",
           "start": 64.22,
           "end": 64.7,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
     {
       "start": 65.7,
-      "end": 78.76,
+      "end": 81.28,
       "text": "[INSTRUMENTAL]",
       "words": [
         {
           "text": "🎶",
           "start": 65.7,
-          "end": 78.76,
-          "probability": 1.0,
+          "end": 81.28,
+          "probability": 1,
           "isMarker": true
         }
       ]
     },
     {
       "start": 81.28,
-      "end": 86.54,
+      "end": 86.75,
       "text": "Seems that she disappeared without a trace",
       "words": [
         {
@@ -443,31 +443,79 @@
           "text": "she",
           "start": 81.92,
           "end": 82.16,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "disappeared",
           "start": 82.16,
-          "end": 83.3,
-          "probability": 0.99
+          "end": 83.62,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "di",
+              "start": 82.16,
+              "end": 82.45
+            },
+            {
+              "text": "sap",
+              "start": 82.58,
+              "end": 82.73
+            },
+            {
+              "text": "pea",
+              "start": 83.29,
+              "end": 83.42
+            },
+            {
+              "text": "red",
+              "start": 83.42,
+              "end": 83.62
+            }
+          ]
         },
         {
           "text": "without",
-          "start": 83.3,
-          "end": 84.14,
-          "probability": 0.94
+          "start": 83.76,
+          "end": 84.94,
+          "probability": 0.94,
+          "syllables": [
+            {
+              "text": "wit",
+              "start": 83.76,
+              "end": 84.01
+            },
+            {
+              "text": "hout",
+              "start": 84.52,
+              "end": 84.94
+            }
+          ]
         },
         {
           "text": "a",
-          "start": 84.48,
+          "start": 85.08,
           "end": 85.72,
-          "probability": 1.0
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 85.08,
+              "end": 85.72
+            }
+          ]
         },
         {
           "text": "trace",
-          "start": 85.72,
-          "end": 86.54,
-          "probability": 1.0
+          "start": 85.93,
+          "end": 86.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "trace",
+              "start": 85.93,
+              "end": 86.75
+            }
+          ]
         }
       ]
     },
@@ -486,13 +534,13 @@
           "text": "she",
           "start": 89.6,
           "end": 89.9,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "ever",
           "start": 89.9,
           "end": 90.42,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "marry,",
@@ -508,27 +556,41 @@
         },
         {
           "text": "what's",
-          "start": 92.06,
-          "end": 93.34,
-          "probability": 0.79
+          "start": 92.51,
+          "end": 92.97,
+          "probability": 0.79,
+          "syllables": [
+            {
+              "text": "what's",
+              "start": 92.51,
+              "end": 92.97
+            }
+          ]
         },
         {
           "text": "his",
-          "start": 93.34,
-          "end": 93.84,
-          "probability": 0.72
+          "start": 93.16,
+          "end": 93.66,
+          "probability": 0.72,
+          "syllables": [
+            {
+              "text": "his",
+              "start": 93.16,
+              "end": 93.66
+            }
+          ]
         },
         {
           "text": "face",
           "start": 93.98,
           "end": 94.96,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
     {
       "start": 97.46,
-      "end": 102.64,
+      "end": 102.41,
       "text": "I made a point to burn all of the photographs",
       "words": [
         {
@@ -553,13 +615,13 @@
           "text": "point",
           "start": 98.22,
           "end": 98.62,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "to",
           "start": 98.62,
           "end": 99.06,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "burn",
@@ -583,13 +645,30 @@
           "text": "the",
           "start": 100.94,
           "end": 101.34,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "photographs",
-          "start": 102.22,
-          "end": 102.64,
-          "probability": 1.0
+          "start": 101.56,
+          "end": 102.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "pho",
+              "start": 101.56,
+              "end": 101.7
+            },
+            {
+              "text": "tog",
+              "start": 101.81,
+              "end": 101.95
+            },
+            {
+              "text": "raphs",
+              "start": 102.27,
+              "end": 102.41
+            }
+          ]
         }
       ]
     },
@@ -614,7 +693,7 @@
           "text": "away",
           "start": 106.04,
           "end": 106.52,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "and",
@@ -632,17 +711,17 @@
           "text": "I",
           "start": 107.6,
           "end": 108.06,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "took",
           "start": 108.2,
           "end": 108.64,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "a",
-          "start": 109.0,
+          "start": 109,
           "end": 109.36,
           "probability": 0.99
         },
@@ -650,19 +729,19 @@
           "text": "different",
           "start": 109.48,
           "end": 109.86,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "path",
           "start": 110.24,
           "end": 110.72,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
     {
       "start": 113.46,
-      "end": 119.0,
+      "end": 119,
       "text": "I remember the face but I can't recall the name",
       "words": [
         {
@@ -709,122 +788,266 @@
         },
         {
           "text": "recall",
-          "start": 117.48,
-          "end": 117.72,
-          "probability": 1.0
+          "start": 117.13,
+          "end": 117.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "re",
+              "start": 117.13,
+              "end": 117.25
+            },
+            {
+              "text": "call",
+              "start": 117.5,
+              "end": 117.62
+            }
+          ]
         },
         {
           "text": "the",
-          "start": 117.72,
+          "start": 117.84,
           "end": 118.14,
-          "probability": 0.97
+          "probability": 0.97,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 117.84,
+              "end": 118.14
+            }
+          ]
         },
         {
           "text": "name",
-          "start": 118.14,
-          "end": 119.0,
-          "probability": 1.0
+          "start": 118.29,
+          "end": 119,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "name",
+              "start": 118.29,
+              "end": 119
+            }
+          ]
         }
       ]
     },
     {
-      "start": 120.98,
+      "start": 121.05,
       "end": 124.78,
-      "text": "Now I wonder what her name has been",
+      "text": "Now I wonder how what her name has been",
       "words": [
         {
           "text": "Now",
-          "start": 120.98,
-          "end": 121.24,
-          "probability": 0.98
+          "start": 121.05,
+          "end": 121.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Now",
+              "start": 121.05,
+              "end": 121.13
+            }
+          ]
         },
         {
           "text": "I",
-          "start": 121.24,
-          "end": 121.48,
-          "probability": 1.0
+          "start": 121.32,
+          "end": 121.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 121.32,
+              "end": 121.51
+            }
+          ]
         },
         {
           "text": "wonder",
-          "start": 121.74,
-          "end": 121.9,
-          "probability": 1.0
+          "start": 121.54,
+          "end": 122.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "won",
+              "start": 121.54,
+              "end": 121.89
+            },
+            {
+              "text": "der",
+              "start": 121.89,
+              "end": 122.02
+            }
+          ]
+        },
+        {
+          "text": "how",
+          "start": 122.1,
+          "end": 122.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "how",
+              "start": 122.1,
+              "end": 122.2
+            }
+          ]
         },
         {
           "text": "what",
-          "start": 121.9,
-          "end": 122.36,
-          "probability": 0.41
+          "start": 122.35,
+          "end": 122.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "what",
+              "start": 122.35,
+              "end": 122.6
+            }
+          ]
         },
         {
           "text": "her",
-          "start": 122.74,
-          "end": 123.16,
-          "probability": 0.94
+          "start": 122.82,
+          "end": 123.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "her",
+              "start": 122.82,
+              "end": 123.24
+            }
+          ]
         },
         {
           "text": "name",
-          "start": 123.16,
-          "end": 123.62,
-          "probability": 1.0
+          "start": 123.32,
+          "end": 123.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "name",
+              "start": 123.32,
+              "end": 123.75
+            }
+          ]
         },
         {
           "text": "has",
-          "start": 123.62,
-          "end": 124.26,
-          "probability": 1.0
+          "start": 123.82,
+          "end": 124.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "has",
+              "start": 123.82,
+              "end": 124.24
+            }
+          ]
         },
         {
           "text": "been",
-          "start": 124.26,
+          "start": 124.36,
           "end": 124.78,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
     {
       "start": 125.78,
-      "end": 154.18,
+      "end": 156.54,
       "text": "[INSTRUMENTAL]",
       "words": [
         {
           "text": "🎶",
           "start": 125.78,
-          "end": 154.18,
-          "probability": 1.0,
+          "end": 156.54,
+          "probability": 1,
           "isMarker": true
         }
       ]
     },
     {
-      "start": 157.32,
+      "start": 157.07,
       "end": 159.82,
       "text": "Remember, whatever",
       "words": [
         {
           "text": "Remember,",
-          "start": 157.32,
-          "end": 157.58,
-          "probability": 0.76
+          "start": 157.07,
+          "end": 157.91,
+          "probability": 0.76,
+          "syllables": [
+            {
+              "text": "Re",
+              "start": 157.07,
+              "end": 157.16
+            },
+            {
+              "text": "mem",
+              "start": 157.38,
+              "end": 157.46
+            },
+            {
+              "text": "ber,",
+              "start": 157.82,
+              "end": 157.91
+            }
+          ]
         },
         {
           "text": "whatever",
           "start": 159.02,
           "end": 159.82,
-          "probability": 0.91
+          "probability": 0.91,
+          "syllables": [
+            {
+              "text": "wha",
+              "start": 159.02,
+              "end": 159.23
+            },
+            {
+              "text": "te",
+              "start": 159.29,
+              "end": 159.48
+            },
+            {
+              "text": "ver",
+              "start": 159.55,
+              "end": 159.82
+            }
+          ]
         }
       ]
     },
     {
       "start": 159.82,
-      "end": 164.3,
+      "end": 164.57,
       "text": "Remember, it seems like forever ago",
       "words": [
         {
           "text": "Remember,",
           "start": 159.82,
-          "end": 161.02,
-          "probability": 0.31
+          "end": 160.88,
+          "probability": 0.31,
+          "syllables": [
+            {
+              "text": "Re",
+              "start": 159.82,
+              "end": 160.07
+            },
+            {
+              "text": "mem",
+              "start": 160.18,
+              "end": 160.27
+            },
+            {
+              "text": "ber,",
+              "start": 160.35,
+              "end": 160.88
+            }
+          ]
         },
         {
           "text": "it",
@@ -834,9 +1057,16 @@
         },
         {
           "text": "seems",
-          "start": 161.68,
-          "end": 161.78,
-          "probability": 0.99
+          "start": 161.31,
+          "end": 161.43,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "seems",
+              "start": 161.31,
+              "end": 161.43
+            }
+          ]
         },
         {
           "text": "like",
@@ -846,34 +1076,92 @@
         },
         {
           "text": "forever",
-          "start": 162.16,
-          "end": 162.9,
-          "probability": 0.99
+          "start": 162.34,
+          "end": 163.63,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "fo",
+              "start": 162.34,
+              "end": 162.59
+            },
+            {
+              "text": "re",
+              "start": 162.84,
+              "end": 163.08
+            },
+            {
+              "text": "ver",
+              "start": 163.38,
+              "end": 163.63
+            }
+          ]
         },
         {
           "text": "ago",
-          "start": 163.3,
-          "end": 164.3,
-          "probability": 0.99
+          "start": 164.02,
+          "end": 164.57,
+          "probability": 0.99,
+          "syllables": [
+            {
+              "text": "ago",
+              "start": 164.02,
+              "end": 164.57
+            }
+          ]
         }
       ]
     },
     {
-      "start": 165.32,
-      "end": 167.62,
+      "start": 165.16,
+      "end": 168.56,
       "text": "Remember, whatever",
       "words": [
         {
           "text": "Remember,",
-          "start": 165.32,
-          "end": 165.44,
-          "probability": 0.86
+          "start": 165.16,
+          "end": 166.51,
+          "probability": 0.86,
+          "syllables": [
+            {
+              "text": "Re",
+              "start": 165.16,
+              "end": 165.2
+            },
+            {
+              "text": "mem",
+              "start": 165.43,
+              "end": 165.47
+            },
+            {
+              "text": "ber,",
+              "start": 165.85,
+              "end": 166.51
+            }
+          ]
         },
         {
           "text": "whatever",
-          "start": 166.88,
-          "end": 167.62,
-          "probability": 0.91
+          "start": 167.07,
+          "end": 168.56,
+          "probability": 0.91,
+          "syllables": [
+            {
+              "text": "wha",
+              "start": 167.07,
+              "end": 167.32
+            },
+            {
+              "text": "te",
+              "start": 167.66,
+              "end": 167.9
+            },
+            {
+              "text": "ver",
+              "start": 168.31,
+              "end": 168.56
+            }
+          ]
         }
       ]
     },
@@ -892,25 +1180,25 @@
           "text": "seems",
           "start": 169.24,
           "end": 169.78,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "like",
           "start": 169.78,
           "end": 170.18,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "forever",
           "start": 170.3,
           "end": 170.94,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "ago",
           "start": 171.32,
           "end": 172.52,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
@@ -959,7 +1247,7 @@
           "text": "mind",
           "start": 176.56,
           "end": 177.06,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
@@ -1039,19 +1327,19 @@
           "text": "regrets,",
           "start": 181.26,
           "end": 182.36,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "no",
           "start": 183.06,
           "end": 183.26,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "regrets",
           "start": 183.26,
           "end": 183.76,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "in",
@@ -1063,7 +1351,7 @@
           "text": "my",
           "start": 184.3,
           "end": 184.52,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "mind",
@@ -1082,13 +1370,13 @@
           "text": "She's",
           "start": 185.4,
           "end": 185.92,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "in",
           "start": 185.92,
           "end": 186.12,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "my",
@@ -1112,13 +1400,13 @@
           "text": "long",
           "start": 187.18,
           "end": 187.8,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "ago",
           "start": 188.02,
           "end": 188.36,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
@@ -1131,7 +1419,7 @@
           "text": "🎶",
           "start": 189.36,
           "end": 202.14,
-          "probability": 1.0,
+          "probability": 1,
           "isMarker": true
         }
       ]
@@ -1157,7 +1445,7 @@
           "text": "the",
           "start": 205.74,
           "end": 206.2,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "darkest",
@@ -1217,13 +1505,13 @@
       ]
     },
     {
-      "start": 213.0,
+      "start": 213,
       "end": 215.84,
       "text": "I'll never turn back, dive",
       "words": [
         {
           "text": "I'll",
-          "start": 213.0,
+          "start": 213,
           "end": 213.36,
           "probability": 0.96
         },
@@ -1231,13 +1519,13 @@
           "text": "never",
           "start": 213.36,
           "end": 213.94,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "turn",
           "start": 213.94,
           "end": 214.74,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "back,",
@@ -1268,7 +1556,7 @@
           "text": "you",
           "start": 218.26,
           "end": 218.74,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "but",
@@ -1280,19 +1568,19 @@
           "text": "not",
           "start": 219.22,
           "end": 219.76,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "the",
           "start": 219.86,
           "end": 220.08,
-          "probability": 1.0
+          "probability": 1
         },
         {
           "text": "time",
           "start": 220.08,
           "end": 220.54,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     },
@@ -1305,7 +1593,7 @@
           "text": "🎶",
           "start": 221.54,
           "end": 244.5,
-          "probability": 1.0,
+          "probability": 1,
           "isMarker": true
         }
       ]
@@ -1325,7 +1613,7 @@
           "text": "you.",
           "start": 246.54,
           "end": 246.56,
-          "probability": 1.0
+          "probability": 1
         }
       ]
     }

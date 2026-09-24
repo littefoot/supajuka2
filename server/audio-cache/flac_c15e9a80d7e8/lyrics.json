@@ -1,0 +1,6138 @@
+{
+  "language": "en",
+  "duration": 235.36,
+  "source": "word_stream_acoustic_v4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.02,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0.0,
+          "end": 14.02,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 14.5,
+      "end": 17.0,
+      "text": "Come out, Virginia, don't let me wait",
+      "words": [
+        {
+          "text": "Come",
+          "start": 14.5,
+          "end": 14.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Come",
+              "start": 14.5,
+              "end": 14.7
+            }
+          ]
+        },
+        {
+          "text": "out,",
+          "start": 14.7,
+          "end": 15.04,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "out,",
+              "start": 14.7,
+              "end": 15.04
+            }
+          ]
+        },
+        {
+          "text": "Virginia,",
+          "start": 15.36,
+          "end": 16.04,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Vir",
+              "start": 15.36,
+              "end": 15.44
+            },
+            {
+              "text": "ginia,",
+              "start": 15.96,
+              "end": 16.04
+            }
+          ]
+        },
+        {
+          "text": "don't",
+          "start": 16.12,
+          "end": 16.22,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "don't",
+              "start": 16.12,
+              "end": 16.22
+            }
+          ]
+        },
+        {
+          "text": "let",
+          "start": 16.22,
+          "end": 16.48,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "let",
+              "start": 16.22,
+              "end": 16.48
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 16.48,
+          "end": 16.66,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 16.48,
+              "end": 16.66
+            }
+          ]
+        },
+        {
+          "text": "wait",
+          "start": 16.66,
+          "end": 17.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "wait",
+              "start": 16.66,
+              "end": 17.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 17.06,
+      "end": 20.18,
+      "text": "You Catholic girls start much too late",
+      "words": [
+        {
+          "text": "You",
+          "start": 17.06,
+          "end": 17.66,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 17.06,
+              "end": 17.66
+            }
+          ]
+        },
+        {
+          "text": "Catholic",
+          "start": 17.7,
+          "end": 18.14,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Catholic",
+              "start": 17.7,
+              "end": 18.14
+            }
+          ]
+        },
+        {
+          "text": "girls",
+          "start": 18.38,
+          "end": 18.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "girls",
+              "start": 18.38,
+              "end": 18.62
+            }
+          ]
+        },
+        {
+          "text": "start",
+          "start": 18.78,
+          "end": 19.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "start",
+              "start": 18.78,
+              "end": 19.0
+            }
+          ]
+        },
+        {
+          "text": "much",
+          "start": 19.04,
+          "end": 19.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "much",
+              "start": 19.04,
+              "end": 19.32
+            }
+          ]
+        },
+        {
+          "text": "too",
+          "start": 19.5,
+          "end": 19.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "too",
+              "start": 19.5,
+              "end": 19.76
+            }
+          ]
+        },
+        {
+          "text": "late",
+          "start": 19.76,
+          "end": 20.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "late",
+              "start": 19.76,
+              "end": 20.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 20.34,
+      "end": 23.56,
+      "text": "Aw, but sooner or later, it comes down to fate",
+      "words": [
+        {
+          "text": "Aw,",
+          "start": 20.34,
+          "end": 20.6,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Aw,",
+              "start": 20.34,
+              "end": 20.6
+            }
+          ]
+        },
+        {
+          "text": "but",
+          "start": 20.6,
+          "end": 20.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "but",
+              "start": 20.6,
+              "end": 20.88
+            }
+          ]
+        },
+        {
+          "text": "sooner",
+          "start": 20.88,
+          "end": 21.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "soon",
+              "start": 20.88,
+              "end": 21.02
+            },
+            {
+              "text": "er",
+              "start": 21.02,
+              "end": 21.16
+            }
+          ]
+        },
+        {
+          "text": "or",
+          "start": 21.16,
+          "end": 21.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "or",
+              "start": 21.16,
+              "end": 21.5
+            }
+          ]
+        },
+        {
+          "text": "later,",
+          "start": 21.5,
+          "end": 21.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "lat",
+              "start": 21.5,
+              "end": 21.73
+            },
+            {
+              "text": "er,",
+              "start": 21.73,
+              "end": 21.96
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 21.96,
+          "end": 22.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 21.96,
+              "end": 22.2
+            }
+          ]
+        },
+        {
+          "text": "comes",
+          "start": 22.26,
+          "end": 22.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "comes",
+              "start": 22.26,
+              "end": 22.58
+            }
+          ]
+        },
+        {
+          "text": "down",
+          "start": 22.72,
+          "end": 22.98,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "down",
+              "start": 22.72,
+              "end": 22.98
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 22.98,
+          "end": 23.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 22.98,
+              "end": 23.24
+            }
+          ]
+        },
+        {
+          "text": "fate",
+          "start": 23.26,
+          "end": 23.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "fate",
+              "start": 23.26,
+              "end": 23.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 24.1,
+      "end": 26.02,
+      "text": "I might as well be the one",
+      "words": [
+        {
+          "text": "I",
+          "start": 24.1,
+          "end": 24.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 24.1,
+              "end": 24.16
+            }
+          ]
+        },
+        {
+          "text": "might",
+          "start": 24.16,
+          "end": 24.36,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "might",
+              "start": 24.16,
+              "end": 24.36
+            }
+          ]
+        },
+        {
+          "text": "as",
+          "start": 24.52,
+          "end": 24.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "as",
+              "start": 24.52,
+              "end": 24.62
+            }
+          ]
+        },
+        {
+          "text": "well",
+          "start": 24.74,
+          "end": 24.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "well",
+              "start": 24.74,
+              "end": 24.96
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 24.96,
+          "end": 25.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 24.96,
+              "end": 25.2
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 25.2,
+          "end": 25.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 25.2,
+              "end": 25.52
+            }
+          ]
+        },
+        {
+          "text": "one",
+          "start": 25.52,
+          "end": 26.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "one",
+              "start": 25.52,
+              "end": 26.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 26.78,
+      "end": 29.92,
+      "text": "Well, they showed you a statue, told you to pray",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 26.78,
+          "end": 26.98,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Well,",
+              "start": 26.78,
+              "end": 26.98
+            }
+          ]
+        },
+        {
+          "text": "they",
+          "start": 26.98,
+          "end": 27.14,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "they",
+              "start": 26.98,
+              "end": 27.14
+            }
+          ]
+        },
+        {
+          "text": "showed",
+          "start": 27.14,
+          "end": 27.42,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "showed",
+              "start": 27.14,
+              "end": 27.42
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 27.6,
+          "end": 27.8,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 27.6,
+              "end": 27.8
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 27.8,
+          "end": 28.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 27.8,
+              "end": 28.0
+            }
+          ]
+        },
+        {
+          "text": "statue,",
+          "start": 28.0,
+          "end": 28.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "stat",
+              "start": 28.0,
+              "end": 28.19
+            },
+            {
+              "text": "ue,",
+              "start": 28.2,
+              "end": 28.38
+            }
+          ]
+        },
+        {
+          "text": "told",
+          "start": 28.72,
+          "end": 29.08,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "told",
+              "start": 28.72,
+              "end": 29.08
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 29.08,
+          "end": 29.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 29.08,
+              "end": 29.34
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 29.54,
+          "end": 29.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 29.54,
+              "end": 29.62
+            }
+          ]
+        },
+        {
+          "text": "pray",
+          "start": 29.62,
+          "end": 29.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "pray",
+              "start": 29.62,
+              "end": 29.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 30.38,
+      "end": 33.0,
+      "text": "They built you a temple and locked you away",
+      "words": [
+        {
+          "text": "They",
+          "start": 30.38,
+          "end": 30.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "They",
+              "start": 30.38,
+              "end": 30.56
+            }
+          ]
+        },
+        {
+          "text": "built",
+          "start": 30.56,
+          "end": 30.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "built",
+              "start": 30.56,
+              "end": 30.82
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 31.3,
+          "end": 31.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 31.3,
+              "end": 31.7
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 31.7,
+          "end": 31.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 31.7,
+              "end": 31.9
+            }
+          ]
+        },
+        {
+          "text": "temple",
+          "start": 31.9,
+          "end": 32.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "temple",
+              "start": 31.9,
+              "end": 32.1
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 32.1,
+          "end": 32.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 32.1,
+              "end": 32.3
+            }
+          ]
+        },
+        {
+          "text": "locked",
+          "start": 32.3,
+          "end": 32.4,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "locked",
+              "start": 32.3,
+              "end": 32.4
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 32.4,
+          "end": 32.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 32.4,
+              "end": 32.56
+            }
+          ]
+        },
+        {
+          "text": "away",
+          "start": 32.56,
+          "end": 33.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 32.56,
+              "end": 32.78
+            },
+            {
+              "text": "way",
+              "start": 32.78,
+              "end": 33.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 33.1,
+      "end": 36.26,
+      "text": "Aw, but they never told you the price that you'd pay",
+      "words": [
+        {
+          "text": "Aw,",
+          "start": 33.1,
+          "end": 33.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Aw,",
+              "start": 33.1,
+              "end": 33.54
+            }
+          ]
+        },
+        {
+          "text": "but",
+          "start": 33.54,
+          "end": 33.68,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "but",
+              "start": 33.54,
+              "end": 33.68
+            }
+          ]
+        },
+        {
+          "text": "they",
+          "start": 33.7,
+          "end": 33.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "they",
+              "start": 33.7,
+              "end": 33.9
+            }
+          ]
+        },
+        {
+          "text": "never",
+          "start": 33.9,
+          "end": 34.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "nev",
+              "start": 33.9,
+              "end": 34.04
+            },
+            {
+              "text": "er",
+              "start": 34.04,
+              "end": 34.18
+            }
+          ]
+        },
+        {
+          "text": "told",
+          "start": 34.3,
+          "end": 34.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "told",
+              "start": 34.3,
+              "end": 34.58
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 34.58,
+          "end": 34.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 34.58,
+              "end": 34.88
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 34.88,
+          "end": 35.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 34.88,
+              "end": 35.06
+            }
+          ]
+        },
+        {
+          "text": "price",
+          "start": 35.1,
+          "end": 35.4,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "price",
+              "start": 35.1,
+              "end": 35.4
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 35.4,
+          "end": 35.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 35.4,
+              "end": 35.7
+            }
+          ]
+        },
+        {
+          "text": "you'd",
+          "start": 35.72,
+          "end": 35.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you'd",
+              "start": 35.72,
+              "end": 35.88
+            }
+          ]
+        },
+        {
+          "text": "pay",
+          "start": 35.92,
+          "end": 36.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "pay",
+              "start": 35.92,
+              "end": 36.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 36.76,
+      "end": 39.24,
+      "text": "For things that you might have done",
+      "words": [
+        {
+          "text": "For",
+          "start": 36.76,
+          "end": 36.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "For",
+              "start": 36.76,
+              "end": 36.86
+            }
+          ]
+        },
+        {
+          "text": "things",
+          "start": 36.88,
+          "end": 37.14,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "things",
+              "start": 36.88,
+              "end": 37.14
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 37.14,
+          "end": 37.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 37.14,
+              "end": 37.32
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 37.32,
+          "end": 37.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 37.32,
+              "end": 37.5
+            }
+          ]
+        },
+        {
+          "text": "might",
+          "start": 37.5,
+          "end": 37.8,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "might",
+              "start": 37.5,
+              "end": 37.8
+            }
+          ]
+        },
+        {
+          "text": "have",
+          "start": 37.8,
+          "end": 38.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "have",
+              "start": 37.8,
+              "end": 38.2
+            }
+          ]
+        },
+        {
+          "text": "done",
+          "start": 38.28,
+          "end": 39.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "done",
+              "start": 38.28,
+              "end": 39.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 40.36,
+      "end": 42.62,
+      "text": "Only the good die young",
+      "words": [
+        {
+          "text": "Only",
+          "start": 40.36,
+          "end": 40.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 40.36,
+              "end": 40.44
+            },
+            {
+              "text": "ly",
+              "start": 40.44,
+              "end": 40.52
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 40.52,
+          "end": 40.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 40.52,
+              "end": 40.72
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 40.8,
+          "end": 41.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 40.8,
+              "end": 41.16
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 41.22,
+          "end": 41.94,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 41.22,
+              "end": 41.94
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 41.94,
+          "end": 42.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 41.94,
+              "end": 42.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 44.02,
+      "end": 45.54,
+      "text": "That's what I said",
+      "words": [
+        {
+          "text": "That's",
+          "start": 44.02,
+          "end": 44.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "That's",
+              "start": 44.02,
+              "end": 44.38
+            }
+          ]
+        },
+        {
+          "text": "what",
+          "start": 44.4,
+          "end": 44.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "what",
+              "start": 44.4,
+              "end": 44.62
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 44.62,
+          "end": 44.8,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 44.62,
+              "end": 44.8
+            }
+          ]
+        },
+        {
+          "text": "said",
+          "start": 44.8,
+          "end": 45.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "said",
+              "start": 44.8,
+              "end": 45.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 45.58,
+      "end": 50.2,
+      "text": "Only the good die young",
+      "words": [
+        {
+          "text": "Only",
+          "start": 45.58,
+          "end": 47.68,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 45.58,
+              "end": 46.63
+            },
+            {
+              "text": "ly",
+              "start": 47.32,
+              "end": 47.68
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 47.68,
+          "end": 47.98,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 47.68,
+              "end": 47.98
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 47.98,
+          "end": 48.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 47.98,
+              "end": 48.32
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 48.52,
+          "end": 49.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 48.52,
+              "end": 49.3
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 49.3,
+          "end": 50.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 49.3,
+              "end": 50.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 50.36,
+      "end": 52.76,
+      "text": "Only the good die young",
+      "words": [
+        {
+          "text": "Only",
+          "start": 50.36,
+          "end": 50.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 50.36,
+              "end": 50.48
+            },
+            {
+              "text": "ly",
+              "start": 50.48,
+              "end": 50.72
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 50.72,
+          "end": 51.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 50.72,
+              "end": 51.06
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 51.14,
+          "end": 51.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 51.14,
+              "end": 51.38
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 51.5,
+          "end": 51.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 51.5,
+              "end": 51.9
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 51.9,
+          "end": 52.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 51.9,
+              "end": 52.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 53.3,
+      "end": 57.16,
+      "text": "You might-a heard I run with a dangerous crowd",
+      "words": [
+        {
+          "text": "You",
+          "start": 53.3,
+          "end": 53.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 53.3,
+              "end": 53.58
+            }
+          ]
+        },
+        {
+          "text": "might-a",
+          "start": 53.58,
+          "end": 54.19,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "might",
+              "start": 53.58,
+              "end": 53.85
+            },
+            {
+              "text": "a",
+              "start": 53.92,
+              "end": 54.19
+            }
+          ]
+        },
+        {
+          "text": "heard",
+          "start": 54.22,
+          "end": 54.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "heard",
+              "start": 54.22,
+              "end": 54.52
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 54.52,
+          "end": 54.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 54.52,
+              "end": 54.92
+            }
+          ]
+        },
+        {
+          "text": "run",
+          "start": 54.92,
+          "end": 55.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "run",
+              "start": 54.92,
+              "end": 55.26
+            }
+          ]
+        },
+        {
+          "text": "with",
+          "start": 55.26,
+          "end": 55.6,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 55.26,
+              "end": 55.6
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 55.68,
+          "end": 55.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 55.68,
+              "end": 55.84
+            }
+          ]
+        },
+        {
+          "text": "dangerous",
+          "start": 55.88,
+          "end": 56.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "dan",
+              "start": 55.88,
+              "end": 56.06
+            },
+            {
+              "text": "ger",
+              "start": 56.06,
+              "end": 56.28
+            },
+            {
+              "text": "ous",
+              "start": 56.28,
+              "end": 56.5
+            }
+          ]
+        },
+        {
+          "text": "crowd",
+          "start": 56.84,
+          "end": 57.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "crowd",
+              "start": 56.84,
+              "end": 57.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 57.42,
+      "end": 60.18,
+      "text": "We ain't too pretty, we ain't too proud",
+      "words": [
+        {
+          "text": "We",
+          "start": 57.42,
+          "end": 57.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "We",
+              "start": 57.42,
+              "end": 57.62
+            }
+          ]
+        },
+        {
+          "text": "ain't",
+          "start": 57.62,
+          "end": 58.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ain't",
+              "start": 57.62,
+              "end": 58.02
+            }
+          ]
+        },
+        {
+          "text": "too",
+          "start": 58.02,
+          "end": 58.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "too",
+              "start": 58.02,
+              "end": 58.26
+            }
+          ]
+        },
+        {
+          "text": "pretty,",
+          "start": 58.38,
+          "end": 58.68,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "pret",
+              "start": 58.38,
+              "end": 58.47
+            },
+            {
+              "text": "ty,",
+              "start": 58.47,
+              "end": 58.68
+            }
+          ]
+        },
+        {
+          "text": "we",
+          "start": 59.04,
+          "end": 59.14,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "we",
+              "start": 59.04,
+              "end": 59.14
+            }
+          ]
+        },
+        {
+          "text": "ain't",
+          "start": 59.14,
+          "end": 59.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ain't",
+              "start": 59.14,
+              "end": 59.32
+            }
+          ]
+        },
+        {
+          "text": "too",
+          "start": 59.36,
+          "end": 59.66,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "too",
+              "start": 59.36,
+              "end": 59.66
+            }
+          ]
+        },
+        {
+          "text": "proud",
+          "start": 59.82,
+          "end": 60.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "proud",
+              "start": 59.82,
+              "end": 60.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 60.18,
+      "end": 63.38,
+      "text": "We might be laughing a bit too loud",
+      "words": [
+        {
+          "text": "We",
+          "start": 60.18,
+          "end": 60.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "We",
+              "start": 60.18,
+              "end": 60.76
+            }
+          ]
+        },
+        {
+          "text": "might",
+          "start": 60.76,
+          "end": 61.04,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "might",
+              "start": 60.76,
+              "end": 61.04
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 61.04,
+          "end": 61.48,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 61.04,
+              "end": 61.48
+            }
+          ]
+        },
+        {
+          "text": "laughing",
+          "start": 61.48,
+          "end": 61.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "laugh",
+              "start": 61.48,
+              "end": 61.72
+            },
+            {
+              "text": "ing",
+              "start": 61.72,
+              "end": 61.96
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 61.96,
+          "end": 62.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 61.96,
+              "end": 62.16
+            }
+          ]
+        },
+        {
+          "text": "bit",
+          "start": 62.22,
+          "end": 62.4,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "bit",
+              "start": 62.22,
+              "end": 62.4
+            }
+          ]
+        },
+        {
+          "text": "too",
+          "start": 62.5,
+          "end": 62.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "too",
+              "start": 62.5,
+              "end": 62.84
+            }
+          ]
+        },
+        {
+          "text": "loud",
+          "start": 62.84,
+          "end": 63.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "loud",
+              "start": 62.84,
+              "end": 63.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 63.38,
+      "end": 65.92,
+      "text": "Aw, but that never hurt no one",
+      "words": [
+        {
+          "text": "Aw,",
+          "start": 63.38,
+          "end": 63.66,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Aw,",
+              "start": 63.38,
+              "end": 63.66
+            }
+          ]
+        },
+        {
+          "text": "but",
+          "start": 63.88,
+          "end": 63.94,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "but",
+              "start": 63.88,
+              "end": 63.94
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 63.94,
+          "end": 64.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 63.94,
+              "end": 64.16
+            }
+          ]
+        },
+        {
+          "text": "never",
+          "start": 64.16,
+          "end": 64.44,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "nev",
+              "start": 64.16,
+              "end": 64.3
+            },
+            {
+              "text": "er",
+              "start": 64.3,
+              "end": 64.44
+            }
+          ]
+        },
+        {
+          "text": "hurt",
+          "start": 64.44,
+          "end": 64.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "hurt",
+              "start": 64.44,
+              "end": 64.76
+            }
+          ]
+        },
+        {
+          "text": "no",
+          "start": 64.9,
+          "end": 65.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "no",
+              "start": 64.9,
+              "end": 65.16
+            }
+          ]
+        },
+        {
+          "text": "one",
+          "start": 65.16,
+          "end": 65.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "one",
+              "start": 65.16,
+              "end": 65.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 66.5,
+      "end": 69.74,
+      "text": "So come on, Virginia, show me the sign",
+      "words": [
+        {
+          "text": "So",
+          "start": 66.5,
+          "end": 66.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "So",
+              "start": 66.5,
+              "end": 66.7
+            }
+          ]
+        },
+        {
+          "text": "come",
+          "start": 66.74,
+          "end": 66.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "come",
+              "start": 66.74,
+              "end": 66.96
+            }
+          ]
+        },
+        {
+          "text": "on,",
+          "start": 66.96,
+          "end": 67.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "on,",
+              "start": 66.96,
+              "end": 67.56
+            }
+          ]
+        },
+        {
+          "text": "Virginia,",
+          "start": 67.72,
+          "end": 68.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Vir",
+              "start": 67.72,
+              "end": 67.82
+            },
+            {
+              "text": "ginia,",
+              "start": 67.82,
+              "end": 68.06
+            }
+          ]
+        },
+        {
+          "text": "show",
+          "start": 68.42,
+          "end": 68.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "show",
+              "start": 68.42,
+              "end": 68.76
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 68.76,
+          "end": 69.14,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 68.76,
+              "end": 69.14
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 69.14,
+          "end": 69.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 69.14,
+              "end": 69.38
+            }
+          ]
+        },
+        {
+          "text": "sign",
+          "start": 69.38,
+          "end": 69.74,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sign",
+              "start": 69.38,
+              "end": 69.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 70.18,
+      "end": 72.92,
+      "text": "Send up a signal, I'll throw you the line",
+      "words": [
+        {
+          "text": "Send",
+          "start": 70.18,
+          "end": 70.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Send",
+              "start": 70.18,
+              "end": 70.46
+            }
+          ]
+        },
+        {
+          "text": "up",
+          "start": 70.54,
+          "end": 70.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "up",
+              "start": 70.54,
+              "end": 70.7
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 70.7,
+          "end": 70.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 70.7,
+              "end": 70.96
+            }
+          ]
+        },
+        {
+          "text": "signal,",
+          "start": 70.96,
+          "end": 71.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sig",
+              "start": 70.96,
+              "end": 71.13
+            },
+            {
+              "text": "nal,",
+              "start": 71.13,
+              "end": 71.3
+            }
+          ]
+        },
+        {
+          "text": "I'll",
+          "start": 71.3,
+          "end": 71.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I'll",
+              "start": 71.3,
+              "end": 71.82
+            }
+          ]
+        },
+        {
+          "text": "throw",
+          "start": 71.9,
+          "end": 72.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "throw",
+              "start": 71.9,
+              "end": 72.06
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 72.06,
+          "end": 72.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 72.06,
+              "end": 72.3
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 72.3,
+          "end": 72.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 72.3,
+              "end": 72.52
+            }
+          ]
+        },
+        {
+          "text": "line",
+          "start": 72.52,
+          "end": 72.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "line",
+              "start": 72.52,
+              "end": 72.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 72.92,
+      "end": 76.06,
+      "text": "The stained-glass curtain you're hiding behind",
+      "words": [
+        {
+          "text": "The",
+          "start": 72.92,
+          "end": 73.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "The",
+              "start": 72.92,
+              "end": 73.2
+            }
+          ]
+        },
+        {
+          "text": "stained-glass",
+          "start": 73.36,
+          "end": 74.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "stained",
+              "start": 73.36,
+              "end": 73.43
+            },
+            {
+              "text": "",
+              "start": 73.5,
+              "end": 73.62
+            },
+            {
+              "text": "glass",
+              "start": 73.84,
+              "end": 74.02
+            }
+          ]
+        },
+        {
+          "text": "curtain",
+          "start": 74.06,
+          "end": 74.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "cur",
+              "start": 74.06,
+              "end": 74.29
+            },
+            {
+              "text": "tain",
+              "start": 74.29,
+              "end": 74.52
+            }
+          ]
+        },
+        {
+          "text": "you're",
+          "start": 74.56,
+          "end": 74.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you're",
+              "start": 74.56,
+              "end": 74.88
+            }
+          ]
+        },
+        {
+          "text": "hiding",
+          "start": 74.88,
+          "end": 75.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "hid",
+              "start": 74.88,
+              "end": 75.08
+            },
+            {
+              "text": "ing",
+              "start": 75.08,
+              "end": 75.28
+            }
+          ]
+        },
+        {
+          "text": "behind",
+          "start": 75.28,
+          "end": 76.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 75.28,
+              "end": 75.67
+            },
+            {
+              "text": "hind",
+              "start": 75.67,
+              "end": 76.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 76.06,
+      "end": 78.8,
+      "text": "Never lets in the sun",
+      "words": [
+        {
+          "text": "Never",
+          "start": 76.06,
+          "end": 76.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Nev",
+              "start": 76.06,
+              "end": 76.44
+            },
+            {
+              "text": "er",
+              "start": 76.48,
+              "end": 76.86
+            }
+          ]
+        },
+        {
+          "text": "lets",
+          "start": 76.88,
+          "end": 77.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "lets",
+              "start": 76.88,
+              "end": 77.34
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 77.34,
+          "end": 77.78,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 77.34,
+              "end": 77.78
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 77.78,
+          "end": 78.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 77.78,
+              "end": 78.0
+            }
+          ]
+        },
+        {
+          "text": "sun",
+          "start": 78.0,
+          "end": 78.8,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sun",
+              "start": 78.0,
+              "end": 78.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 78.8,
+      "end": 83.04,
+      "text": "Darlin', only the good die young",
+      "words": [
+        {
+          "text": "Darlin',",
+          "start": 78.8,
+          "end": 80.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Dar",
+              "start": 78.8,
+              "end": 79.3
+            },
+            {
+              "text": "lin',",
+              "start": 79.56,
+              "end": 80.0
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 80.0,
+          "end": 80.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 80.0,
+              "end": 80.15
+            },
+            {
+              "text": "ly",
+              "start": 80.15,
+              "end": 80.3
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 80.3,
+          "end": 80.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 80.3,
+              "end": 80.56
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 80.6,
+          "end": 80.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 80.6,
+              "end": 80.88
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 81.0,
+          "end": 81.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 81.0,
+              "end": 81.76
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 81.76,
+          "end": 83.04,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 81.76,
+              "end": 83.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 83.04,
+      "end": 84.8,
+      "text": "Ooh-whoa, whoa, whoa-oh",
+      "words": [
+        {
+          "text": "Ooh-whoa,",
+          "start": 83.04,
+          "end": 83.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Ooh",
+              "start": 83.04,
+              "end": 83.42
+            },
+            {
+              "text": "whoa,",
+              "start": 83.58,
+              "end": 83.84
+            }
+          ]
+        },
+        {
+          "text": "whoa,",
+          "start": 83.84,
+          "end": 84.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "whoa,",
+              "start": 83.84,
+              "end": 84.06
+            }
+          ]
+        },
+        {
+          "text": "whoa-oh",
+          "start": 84.06,
+          "end": 84.8,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "whoa",
+              "start": 84.06,
+              "end": 84.43
+            },
+            {
+              "text": "oh",
+              "start": 84.43,
+              "end": 84.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 86.56,
+      "end": 89.88,
+      "text": "I tell you only the good die young",
+      "words": [
+        {
+          "text": "I",
+          "start": 86.56,
+          "end": 86.64,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 86.56,
+              "end": 86.64
+            }
+          ]
+        },
+        {
+          "text": "tell",
+          "start": 86.7,
+          "end": 86.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "tell",
+              "start": 86.7,
+              "end": 86.9
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 87.14,
+          "end": 87.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 87.14,
+              "end": 87.38
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 87.38,
+          "end": 87.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 87.38,
+              "end": 87.45
+            },
+            {
+              "text": "ly",
+              "start": 87.45,
+              "end": 87.5
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 87.5,
+          "end": 87.68,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 87.5,
+              "end": 87.68
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 87.68,
+          "end": 88.08,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 87.68,
+              "end": 88.08
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 88.34,
+          "end": 88.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 88.34,
+              "end": 88.9
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 88.9,
+          "end": 89.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 88.9,
+              "end": 89.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 89.88,
+      "end": 92.84,
+      "text": "Only the good die young",
+      "words": [
+        {
+          "text": "Only",
+          "start": 89.88,
+          "end": 90.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 89.88,
+              "end": 90.19
+            },
+            {
+              "text": "ly",
+              "start": 90.19,
+              "end": 90.5
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 90.5,
+          "end": 90.98,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 90.5,
+              "end": 90.98
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 90.98,
+          "end": 91.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 90.98,
+              "end": 91.32
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 91.46,
+          "end": 91.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 91.46,
+              "end": 91.82
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 91.82,
+          "end": 92.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 91.82,
+              "end": 92.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 93.74,
+      "end": 97.7,
+      "text": "You've got a nice white dress and a party on your confirmation",
+      "words": [
+        {
+          "text": "You've",
+          "start": 93.74,
+          "end": 93.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "You've",
+              "start": 93.74,
+              "end": 93.86
+            }
+          ]
+        },
+        {
+          "text": "got",
+          "start": 93.86,
+          "end": 94.12,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "got",
+              "start": 93.86,
+              "end": 94.12
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 94.12,
+          "end": 94.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 94.12,
+              "end": 94.28
+            }
+          ]
+        },
+        {
+          "text": "nice",
+          "start": 94.28,
+          "end": 94.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "nice",
+              "start": 94.28,
+              "end": 94.54
+            }
+          ]
+        },
+        {
+          "text": "white",
+          "start": 94.68,
+          "end": 94.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "white",
+              "start": 94.68,
+              "end": 94.92
+            }
+          ]
+        },
+        {
+          "text": "dress",
+          "start": 95.04,
+          "end": 95.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "dress",
+              "start": 95.04,
+              "end": 95.32
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 95.32,
+          "end": 95.74,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 95.32,
+              "end": 95.74
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 95.74,
+          "end": 95.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 95.74,
+              "end": 95.86
+            }
+          ]
+        },
+        {
+          "text": "party",
+          "start": 95.88,
+          "end": 96.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "par",
+              "start": 95.88,
+              "end": 96.02
+            },
+            {
+              "text": "ty",
+              "start": 96.02,
+              "end": 96.18
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 96.18,
+          "end": 96.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 96.18,
+              "end": 96.52
+            }
+          ]
+        },
+        {
+          "text": "your",
+          "start": 96.52,
+          "end": 96.68,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "your",
+              "start": 96.52,
+              "end": 96.68
+            }
+          ]
+        },
+        {
+          "text": "confirmation",
+          "start": 96.68,
+          "end": 97.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "con",
+              "start": 96.68,
+              "end": 96.94
+            },
+            {
+              "text": "fir",
+              "start": 97.12,
+              "end": 97.19
+            },
+            {
+              "text": "ma",
+              "start": 97.26,
+              "end": 97.45
+            },
+            {
+              "text": "tion",
+              "start": 97.45,
+              "end": 97.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 99.46,
+      "end": 104.66,
+      "text": "You've got a brand-new soul, mm, and a cross of gold",
+      "words": [
+        {
+          "text": "You've",
+          "start": 99.46,
+          "end": 99.78,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "You've",
+              "start": 99.46,
+              "end": 99.78
+            }
+          ]
+        },
+        {
+          "text": "got",
+          "start": 100.12,
+          "end": 100.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "got",
+              "start": 100.12,
+              "end": 100.32
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 100.32,
+          "end": 100.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 100.32,
+              "end": 100.5
+            }
+          ]
+        },
+        {
+          "text": "brand-new",
+          "start": 100.52,
+          "end": 100.78,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "brand",
+              "start": 100.52,
+              "end": 100.64
+            },
+            {
+              "text": "new",
+              "start": 100.64,
+              "end": 100.78
+            }
+          ]
+        },
+        {
+          "text": "soul,",
+          "start": 101.06,
+          "end": 101.94,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "soul,",
+              "start": 101.06,
+              "end": 101.94
+            }
+          ]
+        },
+        {
+          "text": "mm,",
+          "start": 101.94,
+          "end": 102.14,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "mm,",
+              "start": 101.94,
+              "end": 102.14
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 102.66,
+          "end": 103.4,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 102.66,
+              "end": 103.4
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 103.4,
+          "end": 103.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 103.4,
+              "end": 103.58
+            }
+          ]
+        },
+        {
+          "text": "cross",
+          "start": 103.58,
+          "end": 103.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "cross",
+              "start": 103.58,
+              "end": 103.86
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 103.86,
+          "end": 104.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 103.86,
+              "end": 104.26
+            }
+          ]
+        },
+        {
+          "text": "gold",
+          "start": 104.26,
+          "end": 104.66,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "gold",
+              "start": 104.26,
+              "end": 104.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 106.52,
+      "end": 110.56,
+      "text": "But, Virginia, they didn't give you quite enough information",
+      "words": [
+        {
+          "text": "But,",
+          "start": 106.52,
+          "end": 106.68,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "But,",
+              "start": 106.52,
+              "end": 106.68
+            }
+          ]
+        },
+        {
+          "text": "Virginia,",
+          "start": 106.68,
+          "end": 107.22,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Vir",
+              "start": 106.68,
+              "end": 106.94
+            },
+            {
+              "text": "ginia,",
+              "start": 106.96,
+              "end": 107.22
+            }
+          ]
+        },
+        {
+          "text": "they",
+          "start": 107.26,
+          "end": 107.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "they",
+              "start": 107.26,
+              "end": 107.5
+            }
+          ]
+        },
+        {
+          "text": "didn't",
+          "start": 107.58,
+          "end": 107.94,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "didn't",
+              "start": 107.58,
+              "end": 107.94
+            }
+          ]
+        },
+        {
+          "text": "give",
+          "start": 107.94,
+          "end": 108.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "give",
+              "start": 107.94,
+              "end": 108.16
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 108.16,
+          "end": 108.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 108.16,
+              "end": 108.34
+            }
+          ]
+        },
+        {
+          "text": "quite",
+          "start": 108.34,
+          "end": 108.74,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "quite",
+              "start": 108.34,
+              "end": 108.74
+            }
+          ]
+        },
+        {
+          "text": "enough",
+          "start": 108.74,
+          "end": 109.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "enough",
+              "start": 108.74,
+              "end": 109.3
+            }
+          ]
+        },
+        {
+          "text": "information",
+          "start": 109.34,
+          "end": 110.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 109.34,
+              "end": 109.61
+            },
+            {
+              "text": "for",
+              "start": 109.76,
+              "end": 109.93
+            },
+            {
+              "text": "ma",
+              "start": 109.93,
+              "end": 110.25
+            },
+            {
+              "text": "tion",
+              "start": 110.25,
+              "end": 110.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 112.12,
+      "end": 114.36,
+      "text": "You didn't count on me",
+      "words": [
+        {
+          "text": "You",
+          "start": 112.12,
+          "end": 112.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 112.12,
+              "end": 112.54
+            }
+          ]
+        },
+        {
+          "text": "didn't",
+          "start": 112.74,
+          "end": 113.14,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "didn't",
+              "start": 112.74,
+              "end": 113.14
+            }
+          ]
+        },
+        {
+          "text": "count",
+          "start": 113.14,
+          "end": 113.48,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "count",
+              "start": 113.14,
+              "end": 113.48
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 113.48,
+          "end": 113.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 113.48,
+              "end": 113.84
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 113.84,
+          "end": 114.36,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 113.84,
+              "end": 114.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 115.12,
+      "end": 119.02,
+      "text": "When you were countin' on your rosary, oh, whoa, whoa",
+      "words": [
+        {
+          "text": "When",
+          "start": 115.12,
+          "end": 115.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "When",
+              "start": 115.12,
+              "end": 115.26
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 115.26,
+          "end": 115.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 115.26,
+              "end": 115.5
+            }
+          ]
+        },
+        {
+          "text": "were",
+          "start": 115.6,
+          "end": 115.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "were",
+              "start": 115.6,
+              "end": 115.82
+            }
+          ]
+        },
+        {
+          "text": "countin'",
+          "start": 115.82,
+          "end": 115.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "countin'",
+              "start": 115.82,
+              "end": 115.96
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 115.96,
+          "end": 116.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 115.96,
+              "end": 116.28
+            }
+          ]
+        },
+        {
+          "text": "your",
+          "start": 116.28,
+          "end": 116.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "your",
+              "start": 116.28,
+              "end": 116.52
+            }
+          ]
+        },
+        {
+          "text": "rosary,",
+          "start": 116.52,
+          "end": 117.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ro",
+              "start": 116.52,
+              "end": 116.77
+            },
+            {
+              "text": "sa",
+              "start": 116.77,
+              "end": 117.01
+            },
+            {
+              "text": "ry,",
+              "start": 117.01,
+              "end": 117.26
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 117.98,
+          "end": 118.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 117.98,
+              "end": 118.38
+            }
+          ]
+        },
+        {
+          "text": "whoa,",
+          "start": 118.38,
+          "end": 118.7,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "whoa,",
+              "start": 118.38,
+              "end": 118.7
+            }
+          ]
+        },
+        {
+          "text": "whoa",
+          "start": 118.7,
+          "end": 119.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "whoa",
+              "start": 118.7,
+              "end": 119.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 119.04,
+      "end": 122.72,
+      "text": "And they say there's a heaven for those who will wait",
+      "words": [
+        {
+          "text": "And",
+          "start": 119.04,
+          "end": 119.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 119.04,
+              "end": 119.18
+            }
+          ]
+        },
+        {
+          "text": "they",
+          "start": 119.18,
+          "end": 119.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "they",
+              "start": 119.18,
+              "end": 119.34
+            }
+          ]
+        },
+        {
+          "text": "say",
+          "start": 119.34,
+          "end": 119.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "say",
+              "start": 119.34,
+              "end": 119.62
+            }
+          ]
+        },
+        {
+          "text": "there's",
+          "start": 119.84,
+          "end": 120.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "there's",
+              "start": 119.84,
+              "end": 120.1
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 120.1,
+          "end": 120.22,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 120.1,
+              "end": 120.22
+            }
+          ]
+        },
+        {
+          "text": "heaven",
+          "start": 120.22,
+          "end": 120.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "heav",
+              "start": 120.22,
+              "end": 120.36
+            },
+            {
+              "text": "en",
+              "start": 120.36,
+              "end": 120.5
+            }
+          ]
+        },
+        {
+          "text": "for",
+          "start": 120.8,
+          "end": 120.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "for",
+              "start": 120.8,
+              "end": 120.96
+            }
+          ]
+        },
+        {
+          "text": "those",
+          "start": 121.02,
+          "end": 121.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "those",
+              "start": 121.02,
+              "end": 121.34
+            }
+          ]
+        },
+        {
+          "text": "who",
+          "start": 121.34,
+          "end": 121.64,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "who",
+              "start": 121.34,
+              "end": 121.64
+            }
+          ]
+        },
+        {
+          "text": "will",
+          "start": 121.64,
+          "end": 121.78,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "will",
+              "start": 121.64,
+              "end": 121.78
+            }
+          ]
+        },
+        {
+          "text": "wait",
+          "start": 122.58,
+          "end": 122.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "wait",
+              "start": 122.58,
+              "end": 122.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 122.72,
+      "end": 125.32,
+      "text": "Some say it's better, but I say it ain't",
+      "words": [
+        {
+          "text": "Some",
+          "start": 122.72,
+          "end": 122.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Some",
+              "start": 122.72,
+              "end": 122.96
+            }
+          ]
+        },
+        {
+          "text": "say",
+          "start": 122.96,
+          "end": 123.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "say",
+              "start": 122.96,
+              "end": 123.38
+            }
+          ]
+        },
+        {
+          "text": "it's",
+          "start": 123.38,
+          "end": 123.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "it's",
+              "start": 123.38,
+              "end": 123.54
+            }
+          ]
+        },
+        {
+          "text": "better,",
+          "start": 123.6,
+          "end": 123.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "bet",
+              "start": 123.6,
+              "end": 123.7
+            },
+            {
+              "text": "ter,",
+              "start": 123.7,
+              "end": 123.86
+            }
+          ]
+        },
+        {
+          "text": "but",
+          "start": 123.98,
+          "end": 124.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "but",
+              "start": 123.98,
+              "end": 124.2
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 124.2,
+          "end": 124.44,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 124.2,
+              "end": 124.44
+            }
+          ]
+        },
+        {
+          "text": "say",
+          "start": 124.44,
+          "end": 124.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "say",
+              "start": 124.44,
+              "end": 124.86
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 124.86,
+          "end": 125.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 124.86,
+              "end": 125.1
+            }
+          ]
+        },
+        {
+          "text": "ain't",
+          "start": 125.1,
+          "end": 125.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ain't",
+              "start": 125.1,
+              "end": 125.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 125.54,
+      "end": 128.46,
+      "text": "I'd rather laugh with the sinners than cry with the saints",
+      "words": [
+        {
+          "text": "I'd",
+          "start": 125.54,
+          "end": 125.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I'd",
+              "start": 125.54,
+              "end": 125.62
+            }
+          ]
+        },
+        {
+          "text": "rather",
+          "start": 125.62,
+          "end": 125.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "rather",
+              "start": 125.62,
+              "end": 125.84
+            }
+          ]
+        },
+        {
+          "text": "laugh",
+          "start": 125.84,
+          "end": 126.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "laugh",
+              "start": 125.84,
+              "end": 126.24
+            }
+          ]
+        },
+        {
+          "text": "with",
+          "start": 126.32,
+          "end": 126.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 126.32,
+              "end": 126.54
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 126.54,
+          "end": 126.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 126.54,
+              "end": 126.72
+            }
+          ]
+        },
+        {
+          "text": "sinners",
+          "start": 126.72,
+          "end": 126.98,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sin",
+              "start": 126.72,
+              "end": 126.85
+            },
+            {
+              "text": "ners",
+              "start": 126.85,
+              "end": 126.98
+            }
+          ]
+        },
+        {
+          "text": "than",
+          "start": 126.98,
+          "end": 127.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "than",
+              "start": 126.98,
+              "end": 127.28
+            }
+          ]
+        },
+        {
+          "text": "cry",
+          "start": 127.3,
+          "end": 127.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "cry",
+              "start": 127.3,
+              "end": 127.58
+            }
+          ]
+        },
+        {
+          "text": "with",
+          "start": 127.58,
+          "end": 127.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "with",
+              "start": 127.58,
+              "end": 127.88
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 127.9,
+          "end": 128.08,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 127.9,
+              "end": 128.08
+            }
+          ]
+        },
+        {
+          "text": "saints",
+          "start": 128.08,
+          "end": 128.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "saints",
+              "start": 128.08,
+              "end": 128.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 128.46,
+      "end": 131.18,
+      "text": "The sinners are much more fun",
+      "words": [
+        {
+          "text": "The",
+          "start": 128.46,
+          "end": 129.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "The",
+              "start": 128.46,
+              "end": 129.02
+            }
+          ]
+        },
+        {
+          "text": "sinners",
+          "start": 129.02,
+          "end": 129.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "sin",
+              "start": 129.02,
+              "end": 129.16
+            },
+            {
+              "text": "ners",
+              "start": 129.16,
+              "end": 129.3
+            }
+          ]
+        },
+        {
+          "text": "are",
+          "start": 129.3,
+          "end": 129.68,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "are",
+              "start": 129.3,
+              "end": 129.68
+            }
+          ]
+        },
+        {
+          "text": "much",
+          "start": 129.68,
+          "end": 129.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "much",
+              "start": 129.68,
+              "end": 129.9
+            }
+          ]
+        },
+        {
+          "text": "more",
+          "start": 130.1,
+          "end": 130.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "more",
+              "start": 130.1,
+              "end": 130.38
+            }
+          ]
+        },
+        {
+          "text": "fun",
+          "start": 130.52,
+          "end": 131.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "fun",
+              "start": 130.52,
+              "end": 131.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 131.74,
+      "end": 134.46,
+      "text": "You know that only the good die young",
+      "words": [
+        {
+          "text": "You",
+          "start": 131.74,
+          "end": 131.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 131.74,
+              "end": 131.9
+            }
+          ]
+        },
+        {
+          "text": "know",
+          "start": 131.9,
+          "end": 132.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "know",
+              "start": 131.9,
+              "end": 132.16
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 132.16,
+          "end": 132.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 132.16,
+              "end": 132.34
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 132.34,
+          "end": 132.66,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 132.34,
+              "end": 132.5
+            },
+            {
+              "text": "ly",
+              "start": 132.5,
+              "end": 132.66
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 132.72,
+          "end": 132.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 132.72,
+              "end": 132.88
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 132.92,
+          "end": 133.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 132.92,
+              "end": 133.26
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 133.3,
+          "end": 133.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 133.3,
+              "end": 133.92
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 133.92,
+          "end": 134.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 133.92,
+              "end": 134.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 135.78,
+      "end": 136.94,
+      "text": "Oh-oh, oh, baby",
+      "words": [
+        {
+          "text": "Oh-oh,",
+          "start": 135.78,
+          "end": 136.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Oh",
+              "start": 135.78,
+              "end": 135.82
+            },
+            {
+              "text": "oh,",
+              "start": 135.82,
+              "end": 136.18
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 136.18,
+          "end": 136.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 136.18,
+              "end": 136.38
+            }
+          ]
+        },
+        {
+          "text": "baby",
+          "start": 136.58,
+          "end": 136.94,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ba",
+              "start": 136.58,
+              "end": 136.66
+            },
+            {
+              "text": "by",
+              "start": 136.66,
+              "end": 136.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 139.0,
+      "end": 142.26,
+      "text": "I tell ya, only the good die young",
+      "words": [
+        {
+          "text": "I",
+          "start": 139.0,
+          "end": 139.08,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 139.0,
+              "end": 139.08
+            }
+          ]
+        },
+        {
+          "text": "tell",
+          "start": 139.1,
+          "end": 139.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "tell",
+              "start": 139.1,
+              "end": 139.3
+            }
+          ]
+        },
+        {
+          "text": "ya,",
+          "start": 139.52,
+          "end": 139.8,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ya,",
+              "start": 139.52,
+              "end": 139.8
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 139.8,
+          "end": 139.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 139.8,
+              "end": 139.85
+            },
+            {
+              "text": "ly",
+              "start": 139.85,
+              "end": 139.9
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 139.9,
+          "end": 140.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 139.9,
+              "end": 140.1
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 140.12,
+          "end": 140.36,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 140.12,
+              "end": 140.36
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 140.5,
+          "end": 141.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 140.5,
+              "end": 141.54
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 141.54,
+          "end": 142.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 141.54,
+              "end": 142.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 142.26,
+      "end": 145.54,
+      "text": "Only the good die young",
+      "words": [
+        {
+          "text": "Only",
+          "start": 142.26,
+          "end": 142.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 142.26,
+              "end": 142.56
+            },
+            {
+              "text": "ly",
+              "start": 142.56,
+              "end": 142.86
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 143.08,
+          "end": 143.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 143.08,
+              "end": 143.24
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 143.28,
+          "end": 143.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 143.28,
+              "end": 143.5
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 143.62,
+          "end": 144.04,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 143.62,
+              "end": 144.04
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 144.04,
+          "end": 145.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 144.04,
+              "end": 145.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 146.24,
+      "end": 151.0,
+      "text": "You said your mother told you all that I could give you was a reputation",
+      "words": [
+        {
+          "text": "You",
+          "start": 146.24,
+          "end": 146.28,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 146.24,
+              "end": 146.28
+            }
+          ]
+        },
+        {
+          "text": "said",
+          "start": 146.28,
+          "end": 146.6,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "said",
+              "start": 146.28,
+              "end": 146.6
+            }
+          ]
+        },
+        {
+          "text": "your",
+          "start": 146.66,
+          "end": 146.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "your",
+              "start": 146.66,
+              "end": 146.92
+            }
+          ]
+        },
+        {
+          "text": "mother",
+          "start": 146.92,
+          "end": 147.4,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "moth",
+              "start": 146.92,
+              "end": 147.16
+            },
+            {
+              "text": "er",
+              "start": 147.16,
+              "end": 147.4
+            }
+          ]
+        },
+        {
+          "text": "told",
+          "start": 147.4,
+          "end": 147.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "told",
+              "start": 147.4,
+              "end": 147.72
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 147.72,
+          "end": 147.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 147.72,
+              "end": 147.96
+            }
+          ]
+        },
+        {
+          "text": "all",
+          "start": 147.96,
+          "end": 148.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "all",
+              "start": 147.96,
+              "end": 148.2
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 148.2,
+          "end": 148.52,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 148.2,
+              "end": 148.52
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 148.52,
+          "end": 148.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 148.52,
+              "end": 148.76
+            }
+          ]
+        },
+        {
+          "text": "could",
+          "start": 148.76,
+          "end": 149.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "could",
+              "start": 148.76,
+              "end": 149.16
+            }
+          ]
+        },
+        {
+          "text": "give",
+          "start": 149.16,
+          "end": 149.48,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "give",
+              "start": 149.16,
+              "end": 149.48
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 149.48,
+          "end": 149.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 149.48,
+              "end": 149.72
+            }
+          ]
+        },
+        {
+          "text": "was",
+          "start": 149.72,
+          "end": 149.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "was",
+              "start": 149.72,
+              "end": 149.96
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 149.96,
+          "end": 150.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 149.96,
+              "end": 150.2
+            }
+          ]
+        },
+        {
+          "text": "reputation",
+          "start": 150.2,
+          "end": 151.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "rep",
+              "start": 150.2,
+              "end": 150.4
+            },
+            {
+              "text": "u",
+              "start": 150.4,
+              "end": 150.6
+            },
+            {
+              "text": "ta",
+              "start": 150.6,
+              "end": 150.8
+            },
+            {
+              "text": "tion",
+              "start": 150.8,
+              "end": 151.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 151.0,
+      "end": 161.54,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 151.0,
+          "end": 161.54,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 161.46,
+      "end": 166.88,
+      "text": "Aw, she never cared for me",
+      "words": [
+        {
+          "text": "Aw,",
+          "start": 161.46,
+          "end": 161.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Aw,",
+              "start": 161.46,
+              "end": 161.62
+            }
+          ]
+        },
+        {
+          "text": "she",
+          "start": 164.7,
+          "end": 165.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "she",
+              "start": 164.7,
+              "end": 165.2
+            }
+          ]
+        },
+        {
+          "text": "never",
+          "start": 165.26,
+          "end": 165.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "nev",
+              "start": 165.26,
+              "end": 165.41
+            },
+            {
+              "text": "er",
+              "start": 165.41,
+              "end": 165.56
+            }
+          ]
+        },
+        {
+          "text": "cared",
+          "start": 165.64,
+          "end": 165.94,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "cared",
+              "start": 165.64,
+              "end": 165.94
+            }
+          ]
+        },
+        {
+          "text": "for",
+          "start": 165.94,
+          "end": 166.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "for",
+              "start": 165.94,
+              "end": 166.2
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 166.2,
+          "end": 166.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 166.2,
+              "end": 166.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 167.5,
+      "end": 170.58,
+      "text": "But did she ever say a prayer for me?",
+      "words": [
+        {
+          "text": "But",
+          "start": 167.5,
+          "end": 167.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "But",
+              "start": 167.5,
+              "end": 167.62
+            }
+          ]
+        },
+        {
+          "text": "did",
+          "start": 167.64,
+          "end": 167.8,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "did",
+              "start": 167.64,
+              "end": 167.8
+            }
+          ]
+        },
+        {
+          "text": "she",
+          "start": 167.8,
+          "end": 168.04,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "she",
+              "start": 167.8,
+              "end": 168.04
+            }
+          ]
+        },
+        {
+          "text": "ever",
+          "start": 168.04,
+          "end": 168.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ev",
+              "start": 168.04,
+              "end": 168.19
+            },
+            {
+              "text": "er",
+              "start": 168.19,
+              "end": 168.34
+            }
+          ]
+        },
+        {
+          "text": "say",
+          "start": 168.34,
+          "end": 168.64,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "say",
+              "start": 168.34,
+              "end": 168.64
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 168.64,
+          "end": 168.82,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 168.64,
+              "end": 168.82
+            }
+          ]
+        },
+        {
+          "text": "prayer",
+          "start": 168.84,
+          "end": 169.12,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "prayer",
+              "start": 168.84,
+              "end": 169.12
+            }
+          ]
+        },
+        {
+          "text": "for",
+          "start": 169.4,
+          "end": 169.66,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "for",
+              "start": 169.4,
+              "end": 169.66
+            }
+          ]
+        },
+        {
+          "text": "me?",
+          "start": 170.36,
+          "end": 170.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "me?",
+              "start": 170.36,
+              "end": 170.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 170.58,
+      "end": 171.54,
+      "text": "Oh-whoa, whoa",
+      "words": [
+        {
+          "text": "Oh-whoa,",
+          "start": 170.58,
+          "end": 171.22,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Oh",
+              "start": 170.58,
+              "end": 170.9
+            },
+            {
+              "text": "whoa,",
+              "start": 170.9,
+              "end": 171.22
+            }
+          ]
+        },
+        {
+          "text": "whoa",
+          "start": 171.22,
+          "end": 171.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "whoa",
+              "start": 171.22,
+              "end": 171.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 171.6,
+      "end": 175.0,
+      "text": "Come out, come out, come out Virginia, don't let me wait",
+      "words": [
+        {
+          "text": "Come",
+          "start": 171.6,
+          "end": 171.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Come",
+              "start": 171.6,
+              "end": 171.76
+            }
+          ]
+        },
+        {
+          "text": "out,",
+          "start": 171.76,
+          "end": 172.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "out,",
+              "start": 171.76,
+              "end": 172.1
+            }
+          ]
+        },
+        {
+          "text": "come",
+          "start": 172.2,
+          "end": 172.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "come",
+              "start": 172.2,
+              "end": 172.3
+            }
+          ]
+        },
+        {
+          "text": "out,",
+          "start": 172.3,
+          "end": 172.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "out,",
+              "start": 172.3,
+              "end": 172.58
+            }
+          ]
+        },
+        {
+          "text": "come",
+          "start": 172.68,
+          "end": 172.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "come",
+              "start": 172.68,
+              "end": 172.86
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 172.86,
+          "end": 173.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 172.86,
+              "end": 173.24
+            }
+          ]
+        },
+        {
+          "text": "Virginia,",
+          "start": 173.32,
+          "end": 173.68,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Vir",
+              "start": 173.32,
+              "end": 173.46
+            },
+            {
+              "text": "ginia,",
+              "start": 173.46,
+              "end": 173.68
+            }
+          ]
+        },
+        {
+          "text": "don't",
+          "start": 173.68,
+          "end": 174.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "don't",
+              "start": 173.68,
+              "end": 174.18
+            }
+          ]
+        },
+        {
+          "text": "let",
+          "start": 174.18,
+          "end": 174.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "let",
+              "start": 174.18,
+              "end": 174.46
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 174.46,
+          "end": 174.66,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 174.46,
+              "end": 174.66
+            }
+          ]
+        },
+        {
+          "text": "wait",
+          "start": 174.94,
+          "end": 175.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "wait",
+              "start": 174.94,
+              "end": 175.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 175.0,
+      "end": 178.34,
+      "text": "You Catholic girls start much too late",
+      "words": [
+        {
+          "text": "You",
+          "start": 175.0,
+          "end": 175.64,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 175.0,
+              "end": 175.64
+            }
+          ]
+        },
+        {
+          "text": "Catholic",
+          "start": 176.1,
+          "end": 176.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Catholic",
+              "start": 176.1,
+              "end": 176.2
+            }
+          ]
+        },
+        {
+          "text": "girls",
+          "start": 176.48,
+          "end": 176.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "girls",
+              "start": 176.48,
+              "end": 176.72
+            }
+          ]
+        },
+        {
+          "text": "start",
+          "start": 176.88,
+          "end": 177.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "start",
+              "start": 176.88,
+              "end": 177.06
+            }
+          ]
+        },
+        {
+          "text": "much",
+          "start": 177.26,
+          "end": 177.44,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "much",
+              "start": 177.26,
+              "end": 177.44
+            }
+          ]
+        },
+        {
+          "text": "too",
+          "start": 177.6,
+          "end": 177.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "too",
+              "start": 177.6,
+              "end": 177.84
+            }
+          ]
+        },
+        {
+          "text": "late",
+          "start": 177.84,
+          "end": 178.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "late",
+              "start": 177.84,
+              "end": 178.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 178.42,
+      "end": 180.96,
+      "text": "But sooner or later, it comes down to fate",
+      "words": [
+        {
+          "text": "But",
+          "start": 178.42,
+          "end": 178.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "But",
+              "start": 178.42,
+              "end": 178.54
+            }
+          ]
+        },
+        {
+          "text": "sooner",
+          "start": 178.54,
+          "end": 178.76,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "soon",
+              "start": 178.54,
+              "end": 178.65
+            },
+            {
+              "text": "er",
+              "start": 178.65,
+              "end": 178.76
+            }
+          ]
+        },
+        {
+          "text": "or",
+          "start": 178.76,
+          "end": 179.06,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "or",
+              "start": 178.76,
+              "end": 179.06
+            }
+          ]
+        },
+        {
+          "text": "later,",
+          "start": 179.06,
+          "end": 179.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "lat",
+              "start": 179.06,
+              "end": 179.19
+            },
+            {
+              "text": "er,",
+              "start": 179.19,
+              "end": 179.32
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 179.32,
+          "end": 179.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 179.32,
+              "end": 179.56
+            }
+          ]
+        },
+        {
+          "text": "comes",
+          "start": 179.58,
+          "end": 179.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "comes",
+              "start": 179.58,
+              "end": 179.84
+            }
+          ]
+        },
+        {
+          "text": "down",
+          "start": 180.02,
+          "end": 180.3,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "down",
+              "start": 180.02,
+              "end": 180.3
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 180.38,
+          "end": 180.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 180.38,
+              "end": 180.54
+            }
+          ]
+        },
+        {
+          "text": "fate",
+          "start": 180.56,
+          "end": 180.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "fate",
+              "start": 180.56,
+              "end": 180.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 181.18,
+      "end": 183.38,
+      "text": "I might as well be the one",
+      "words": [
+        {
+          "text": "I",
+          "start": 181.18,
+          "end": 181.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 181.18,
+              "end": 181.32
+            }
+          ]
+        },
+        {
+          "text": "might",
+          "start": 181.36,
+          "end": 181.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "might",
+              "start": 181.36,
+              "end": 181.56
+            }
+          ]
+        },
+        {
+          "text": "as",
+          "start": 181.58,
+          "end": 181.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "as",
+              "start": 181.58,
+              "end": 181.72
+            }
+          ]
+        },
+        {
+          "text": "well",
+          "start": 181.76,
+          "end": 181.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "well",
+              "start": 181.76,
+              "end": 181.96
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 182.18,
+          "end": 182.4,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 182.18,
+              "end": 182.4
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 182.4,
+          "end": 182.74,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 182.4,
+              "end": 182.74
+            }
+          ]
+        },
+        {
+          "text": "one",
+          "start": 182.74,
+          "end": 183.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "one",
+              "start": 182.74,
+              "end": 183.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 184.04,
+      "end": 186.26,
+      "text": "You know that only the good die young",
+      "words": [
+        {
+          "text": "You",
+          "start": 184.04,
+          "end": 184.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 184.04,
+              "end": 184.18
+            }
+          ]
+        },
+        {
+          "text": "know",
+          "start": 184.18,
+          "end": 184.44,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "know",
+              "start": 184.18,
+              "end": 184.44
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 184.44,
+          "end": 184.64,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 184.44,
+              "end": 184.64
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 184.64,
+          "end": 184.94,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 184.64,
+              "end": 184.79
+            },
+            {
+              "text": "ly",
+              "start": 184.79,
+              "end": 184.94
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 184.94,
+          "end": 185.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 184.94,
+              "end": 185.16
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 185.24,
+          "end": 185.5,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 185.24,
+              "end": 185.5
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 185.6,
+          "end": 185.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 185.6,
+              "end": 185.96
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 185.96,
+          "end": 186.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 185.96,
+              "end": 186.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 186.7,
+      "end": 188.58,
+      "text": "Tell ya, baby",
+      "words": [
+        {
+          "text": "Tell",
+          "start": 186.7,
+          "end": 187.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Tell",
+              "start": 186.7,
+              "end": 187.02
+            }
+          ]
+        },
+        {
+          "text": "ya,",
+          "start": 187.02,
+          "end": 187.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ya,",
+              "start": 187.02,
+              "end": 187.26
+            }
+          ]
+        },
+        {
+          "text": "baby",
+          "start": 187.26,
+          "end": 188.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ba",
+              "start": 187.26,
+              "end": 187.42
+            },
+            {
+              "text": "by",
+              "start": 188.42,
+              "end": 188.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 192.0,
+      "end": 196.89,
+      "text": "You know that only the good die young",
+      "words": [
+        {
+          "text": "You",
+          "start": 192.0,
+          "end": 192.1,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "You",
+              "start": 192.0,
+              "end": 192.1
+            }
+          ]
+        },
+        {
+          "text": "know",
+          "start": 192.1,
+          "end": 192.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "know",
+              "start": 192.1,
+              "end": 192.2
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 192.32,
+          "end": 192.42,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 192.32,
+              "end": 192.42
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 194.7,
+          "end": 195.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 194.7,
+              "end": 194.72
+            },
+            {
+              "text": "ly",
+              "start": 194.72,
+              "end": 195.02
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 195.3,
+          "end": 195.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 195.3,
+              "end": 195.46
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 195.52,
+          "end": 195.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 195.52,
+              "end": 195.72
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 195.78,
+          "end": 196.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 195.78,
+              "end": 196.2
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 196.2,
+          "end": 196.89,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 196.2,
+              "end": 196.89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 197.63,
+      "end": 203.96,
+      "text": "Only the good die young",
+      "words": [
+        {
+          "text": "Only",
+          "start": 197.63,
+          "end": 198.32,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 197.63,
+              "end": 197.97
+            },
+            {
+              "text": "ly",
+              "start": 197.98,
+              "end": 198.32
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 198.32,
+          "end": 198.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 198.32,
+              "end": 198.56
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 198.58,
+          "end": 199.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 198.58,
+              "end": 199.24
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 201.98,
+          "end": 202.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 201.98,
+              "end": 202.56
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 202.56,
+          "end": 203.96,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 202.56,
+              "end": 203.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 203.96,
+      "end": 222.64,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 203.96,
+          "end": 222.64,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 222.64,
+      "end": 223.84,
+      "text": "Only the good",
+      "words": [
+        {
+          "text": "Only",
+          "start": 222.64,
+          "end": 223.26,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 222.64,
+              "end": 222.95
+            },
+            {
+              "text": "ly",
+              "start": 222.95,
+              "end": 223.26
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 223.26,
+          "end": 223.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 223.26,
+              "end": 223.46
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 223.46,
+          "end": 223.84,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 223.46,
+              "end": 223.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 225.64,
+      "end": 229.0,
+      "text": "Only the good die young",
+      "words": [
+        {
+          "text": "Only",
+          "start": 225.64,
+          "end": 226.38,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 225.64,
+              "end": 226.01
+            },
+            {
+              "text": "ly",
+              "start": 226.01,
+              "end": 226.38
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 226.38,
+          "end": 226.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 226.38,
+              "end": 226.92
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 226.92,
+          "end": 227.62,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 226.92,
+              "end": 227.62
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 227.62,
+          "end": 228.36,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 227.62,
+              "end": 228.36
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 228.36,
+          "end": 229.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 228.36,
+              "end": 229.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 229.5,
+      "end": 231.02,
+      "text": "Ooh-hoo, hoo, ooh-hoo",
+      "words": [
+        {
+          "text": "Ooh-hoo,",
+          "start": 229.5,
+          "end": 230.14,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Ooh",
+              "start": 229.5,
+              "end": 229.82
+            },
+            {
+              "text": "hoo,",
+              "start": 229.82,
+              "end": 230.14
+            }
+          ]
+        },
+        {
+          "text": "hoo,",
+          "start": 230.14,
+          "end": 230.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "hoo,",
+              "start": 230.14,
+              "end": 230.46
+            }
+          ]
+        },
+        {
+          "text": "ooh-hoo",
+          "start": 230.46,
+          "end": 231.02,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ooh",
+              "start": 230.46,
+              "end": 230.74
+            },
+            {
+              "text": "hoo",
+              "start": 230.74,
+              "end": 231.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 231.52,
+      "end": 232.72,
+      "text": "Ooh-ooh, hoo, ooh",
+      "words": [
+        {
+          "text": "Ooh-ooh,",
+          "start": 231.52,
+          "end": 232.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Ooh",
+              "start": 231.52,
+              "end": 231.84
+            },
+            {
+              "text": "ooh,",
+              "start": 231.84,
+              "end": 232.16
+            }
+          ]
+        },
+        {
+          "text": "hoo,",
+          "start": 232.16,
+          "end": 232.48,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "hoo,",
+              "start": 232.16,
+              "end": 232.48
+            }
+          ]
+        },
+        {
+          "text": "ooh",
+          "start": 232.48,
+          "end": 232.72,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ooh",
+              "start": 232.48,
+              "end": 232.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 233.22,
+      "end": 234.74,
+      "text": "Ooh-hoo, hoo, ooh-hoo",
+      "words": [
+        {
+          "text": "Ooh-hoo,",
+          "start": 233.22,
+          "end": 233.86,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Ooh",
+              "start": 233.22,
+              "end": 233.54
+            },
+            {
+              "text": "hoo,",
+              "start": 233.54,
+              "end": 233.86
+            }
+          ]
+        },
+        {
+          "text": "hoo,",
+          "start": 233.86,
+          "end": 234.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "hoo,",
+              "start": 233.86,
+              "end": 234.18
+            }
+          ]
+        },
+        {
+          "text": "ooh-hoo",
+          "start": 234.18,
+          "end": 234.74,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ooh",
+              "start": 234.18,
+              "end": 234.46
+            },
+            {
+              "text": "hoo",
+              "start": 234.46,
+              "end": 234.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 235.24,
+      "end": 236.44,
+      "text": "Ooh-ooh, hoo, ooh",
+      "words": [
+        {
+          "text": "Ooh-ooh,",
+          "start": 235.24,
+          "end": 235.88,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Ooh",
+              "start": 235.24,
+              "end": 235.56
+            },
+            {
+              "text": "ooh,",
+              "start": 235.56,
+              "end": 235.88
+            }
+          ]
+        },
+        {
+          "text": "hoo,",
+          "start": 235.88,
+          "end": 236.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "hoo,",
+              "start": 235.88,
+              "end": 236.2
+            }
+          ]
+        },
+        {
+          "text": "ooh",
+          "start": 236.2,
+          "end": 236.44,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ooh",
+              "start": 236.2,
+              "end": 236.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 236.94,
+      "end": 238.46,
+      "text": "Ooh-hoo, hoo, ooh-hoo",
+      "words": [
+        {
+          "text": "Ooh-hoo,",
+          "start": 236.94,
+          "end": 237.58,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Ooh",
+              "start": 236.94,
+              "end": 237.26
+            },
+            {
+              "text": "hoo,",
+              "start": 237.26,
+              "end": 237.58
+            }
+          ]
+        },
+        {
+          "text": "hoo,",
+          "start": 237.58,
+          "end": 237.9,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "hoo,",
+              "start": 237.58,
+              "end": 237.9
+            }
+          ]
+        },
+        {
+          "text": "ooh-hoo",
+          "start": 237.9,
+          "end": 238.46,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ooh",
+              "start": 237.9,
+              "end": 238.18
+            },
+            {
+              "text": "hoo",
+              "start": 238.18,
+              "end": 238.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 238.96,
+      "end": 240.16,
+      "text": "Ooh-ooh, hoo, ooh",
+      "words": [
+        {
+          "text": "Ooh-ooh,",
+          "start": 238.96,
+          "end": 239.6,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Ooh",
+              "start": 238.96,
+              "end": 239.28
+            },
+            {
+              "text": "ooh,",
+              "start": 239.28,
+              "end": 239.6
+            }
+          ]
+        },
+        {
+          "text": "hoo,",
+          "start": 239.6,
+          "end": 239.92,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "hoo,",
+              "start": 239.6,
+              "end": 239.92
+            }
+          ]
+        },
+        {
+          "text": "ooh",
+          "start": 239.92,
+          "end": 240.16,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ooh",
+              "start": 239.92,
+              "end": 240.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 240.66,
+      "end": 242.18,
+      "text": "Only the good die young",
+      "words": [
+        {
+          "text": "Only",
+          "start": 240.66,
+          "end": 240.98,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 240.66,
+              "end": 240.82
+            },
+            {
+              "text": "ly",
+              "start": 240.82,
+              "end": 240.98
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 240.98,
+          "end": 241.22,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 240.98,
+              "end": 241.22
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 241.22,
+          "end": 241.54,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 241.22,
+              "end": 241.54
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 241.54,
+          "end": 241.78,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 241.54,
+              "end": 241.78
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 241.78,
+          "end": 242.18,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 241.78,
+              "end": 242.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 242.68,
+      "end": 244.2,
+      "text": "Only the good die young",
+      "words": [
+        {
+          "text": "Only",
+          "start": 242.68,
+          "end": 243.0,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "On",
+              "start": 242.68,
+              "end": 242.84
+            },
+            {
+              "text": "ly",
+              "start": 242.84,
+              "end": 243.0
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 243.0,
+          "end": 243.24,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 243.0,
+              "end": 243.24
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 243.24,
+          "end": 243.56,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 243.24,
+              "end": 243.56
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "start": 243.56,
+          "end": 243.8,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "die",
+              "start": 243.56,
+              "end": 243.8
+            }
+          ]
+        },
+        {
+          "text": "young",
+          "start": 243.8,
+          "end": 244.2,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "young",
+              "start": 243.8,
+              "end": 244.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 244.7,
+      "end": 235.36,
+      "text": "Ooh-ooh, hoo, ooh-hoo...",
+      "words": [
+        {
+          "text": "Ooh-ooh,",
+          "start": 244.7,
+          "end": 245.34,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "Ooh",
+              "start": 244.7,
+              "end": 245.02
+            },
+            {
+              "text": "ooh,",
+              "start": 245.02,
+              "end": 245.34
+            }
+          ]
+        },
+        {
+          "text": "hoo,",
+          "start": 245.34,
+          "end": 245.66,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "hoo,",
+              "start": 245.34,
+              "end": 245.66
+            }
+          ]
+        },
+        {
+          "text": "ooh-hoo...",
+          "start": 245.66,
+          "end": 235.36,
+          "probability": 1.0,
+          "syllables": [
+            {
+              "text": "ooh",
+              "start": 245.66,
+              "end": 246.06
+            },
+            {
+              "text": "hoo...",
+              "start": 246.06,
+              "end": 235.36
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "text": "Come out, Virginia, don't let me wait You Catholic girls start much too late Aw, but sooner or later, it comes down to fate I might as well be the one Well, they showed you a statue, told you to pray They built you a temple and locked you away Aw, but they never told you the price that you'd pay For things that you might have done Only the good die young That's what I said Only the good die young Only the good die young You might-a heard I run with a dangerous crowd We ain't too pretty, we ain't too proud We might be laughing a bit too loud Aw, but that never hurt no one So come on, Virginia, show me the sign Send up a signal, I'll throw you the line The stained-glass curtain you're hiding behind Never lets in the sun Darlin', only the good die young Ooh-whoa, whoa, whoa-oh I tell you only the good die young Only the good die young You've got a nice white dress and a party on your confirmation You've got a brand-new soul, mm, and a cross of gold But, Virginia, they didn't give you quite enough information You didn't count on me When you were countin' on your rosary, oh, whoa, whoa And they say there's a heaven for those who will wait Some say it's better, but I say it ain't I'd rather laugh with the sinners than cry with the saints The sinners are much more fun You know that only the good die young Oh-oh, oh, baby I tell ya, only the good die young Only the good die young You said your mother told you all that I could give you was a reputation Aw, she never cared for me But did she ever say a prayer for me? Oh-whoa, whoa Come out, come out, come out Virginia, don't let me wait You Catholic girls start much too late But sooner or later, it comes down to fate I might as well be the one You know that only the good die young Tell ya, baby You know that only the good die young Only the good die young Only the good Only the good die young Ooh-hoo, hoo, ooh-hoo Ooh-ooh, hoo, ooh Ooh-hoo, hoo, ooh-hoo Ooh-ooh, hoo, ooh Ooh-hoo, hoo, ooh-hoo Ooh-ooh, hoo, ooh Only the good die young Only the good die young Ooh-ooh, hoo, ooh-hoo..."
+}

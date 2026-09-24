@@ -1,0 +1,2213 @@
+{
+  "language": "en",
+  "duration": 238,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 22.25,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 22.25,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 22.25,
+      "end": 24.53,
+      "text": "Flashing lights (lights, lights, lights)",
+      "words": [
+        {
+          "text": "Flashing",
+          "start": 22.25,
+          "end": 22.76,
+          "probability": 1
+        },
+        {
+          "text": "lights",
+          "start": 22.76,
+          "end": 23.14,
+          "probability": 1
+        },
+        {
+          "text": "(lights,",
+          "start": 23.14,
+          "end": 23.65,
+          "probability": 1
+        },
+        {
+          "text": "lights,",
+          "start": 23.65,
+          "end": 24.09,
+          "probability": 1
+        },
+        {
+          "text": "lights)",
+          "start": 24.09,
+          "end": 24.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 27.53,
+      "end": 29.81,
+      "text": "Flashing lights (lights, lights, lights)",
+      "words": [
+        {
+          "text": "Flashing",
+          "start": 27.53,
+          "end": 28.04,
+          "probability": 1
+        },
+        {
+          "text": "lights",
+          "start": 28.04,
+          "end": 28.42,
+          "probability": 1
+        },
+        {
+          "text": "(lights,",
+          "start": 28.42,
+          "end": 28.93,
+          "probability": 1
+        },
+        {
+          "text": "lights,",
+          "start": 28.93,
+          "end": 29.37,
+          "probability": 1
+        },
+        {
+          "text": "lights)",
+          "start": 29.37,
+          "end": 29.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 32.74,
+      "end": 35.02,
+      "text": "Flashing lights (lights, lights, lights)",
+      "words": [
+        {
+          "text": "Flashing",
+          "start": 32.74,
+          "end": 33.25,
+          "probability": 1
+        },
+        {
+          "text": "lights",
+          "start": 33.25,
+          "end": 33.63,
+          "probability": 1
+        },
+        {
+          "text": "(lights,",
+          "start": 33.63,
+          "end": 34.14,
+          "probability": 1
+        },
+        {
+          "text": "lights,",
+          "start": 34.14,
+          "end": 34.58,
+          "probability": 1
+        },
+        {
+          "text": "lights)",
+          "start": 34.58,
+          "end": 35.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 38.3,
+      "end": 40.58,
+      "text": "Flashing lights (lights, lights, lights)",
+      "words": [
+        {
+          "text": "Flashing",
+          "start": 38.3,
+          "end": 38.81,
+          "probability": 1
+        },
+        {
+          "text": "lights",
+          "start": 38.81,
+          "end": 39.19,
+          "probability": 1
+        },
+        {
+          "text": "(lights,",
+          "start": 39.19,
+          "end": 39.7,
+          "probability": 1
+        },
+        {
+          "text": "lights,",
+          "start": 39.7,
+          "end": 40.14,
+          "probability": 1
+        },
+        {
+          "text": "lights)",
+          "start": 40.14,
+          "end": 40.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.68,
+      "end": 44.89,
+      "text": "She don't believe in shooting stars,",
+      "words": [
+        {
+          "text": "She",
+          "start": 42.68,
+          "end": 42.89,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 42.89,
+          "end": 43.25,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 43.25,
+          "end": 43.75,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 43.75,
+          "end": 43.89,
+          "probability": 1
+        },
+        {
+          "text": "shooting",
+          "start": 43.89,
+          "end": 44.46,
+          "probability": 1
+        },
+        {
+          "text": "stars,",
+          "start": 44.46,
+          "end": 44.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.14,
+      "end": 47.56,
+      "text": "But she believe in shoes & cars",
+      "words": [
+        {
+          "text": "But",
+          "start": 45.14,
+          "end": 45.43,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 45.43,
+          "end": 45.72,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 45.72,
+          "end": 46.39,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 46.39,
+          "end": 46.58,
+          "probability": 1
+        },
+        {
+          "text": "shoes",
+          "start": 46.58,
+          "end": 47.06,
+          "probability": 1
+        },
+        {
+          "text": "&",
+          "start": 47.06,
+          "end": 47.18,
+          "probability": 1
+        },
+        {
+          "text": "cars",
+          "start": 47.18,
+          "end": 47.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 47.79,
+      "end": 49.97,
+      "text": "Wood floors in the new apartment,",
+      "words": [
+        {
+          "text": "Wood",
+          "start": 47.79,
+          "end": 48.1,
+          "probability": 1
+        },
+        {
+          "text": "floors",
+          "start": 48.1,
+          "end": 48.57,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 48.57,
+          "end": 48.73,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 48.73,
+          "end": 48.96,
+          "probability": 1
+        },
+        {
+          "text": "new",
+          "start": 48.96,
+          "end": 49.19,
+          "probability": 1
+        },
+        {
+          "text": "apartment,",
+          "start": 49.19,
+          "end": 49.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 50.23,
+      "end": 52.84,
+      "text": "Couture from the store's department",
+      "words": [
+        {
+          "text": "Couture",
+          "start": 50.23,
+          "end": 50.82,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 50.82,
+          "end": 51.16,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 51.16,
+          "end": 51.41,
+          "probability": 1
+        },
+        {
+          "text": "store's",
+          "start": 51.41,
+          "end": 52,
+          "probability": 1
+        },
+        {
+          "text": "department",
+          "start": 52,
+          "end": 52.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 53.08,
+      "end": 55.56,
+      "text": "You more like L'eau de Stardee shit,",
+      "words": [
+        {
+          "text": "You",
+          "start": 53.08,
+          "end": 53.33,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 53.33,
+          "end": 53.66,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 53.66,
+          "end": 53.99,
+          "probability": 1
+        },
+        {
+          "text": "L'eau",
+          "start": 53.99,
+          "end": 54.4,
+          "probability": 1
+        },
+        {
+          "text": "de",
+          "start": 54.4,
+          "end": 54.57,
+          "probability": 1
+        },
+        {
+          "text": "Stardee",
+          "start": 54.57,
+          "end": 55.15,
+          "probability": 1
+        },
+        {
+          "text": "shit,",
+          "start": 55.15,
+          "end": 55.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 55.81,
+      "end": 57.82,
+      "text": "I'm more of the, trips to Florida",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 55.81,
+          "end": 56.03,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 56.03,
+          "end": 56.33,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 56.33,
+          "end": 56.48,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 56.48,
+          "end": 56.78,
+          "probability": 1
+        },
+        {
+          "text": "trips",
+          "start": 56.78,
+          "end": 57.15,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 57.15,
+          "end": 57.3,
+          "probability": 1
+        },
+        {
+          "text": "Florida",
+          "start": 57.3,
+          "end": 57.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 58.06,
+      "end": 60.51,
+      "text": "Order the h'orderves, views of the Water",
+      "words": [
+        {
+          "text": "Order",
+          "start": 58.06,
+          "end": 58.42,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 58.42,
+          "end": 58.64,
+          "probability": 1
+        },
+        {
+          "text": "h'orderves,",
+          "start": 58.64,
+          "end": 59.43,
+          "probability": 1
+        },
+        {
+          "text": "views",
+          "start": 59.43,
+          "end": 59.79,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 59.79,
+          "end": 59.93,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 59.93,
+          "end": 60.15,
+          "probability": 1
+        },
+        {
+          "text": "Water",
+          "start": 60.15,
+          "end": 60.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 60.75,
+      "end": 63.5,
+      "text": "Straight from the page of your favorite author",
+      "words": [
+        {
+          "text": "Straight",
+          "start": 60.75,
+          "end": 61.32,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 61.32,
+          "end": 61.6,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 61.6,
+          "end": 61.81,
+          "probability": 1
+        },
+        {
+          "text": "page",
+          "start": 61.81,
+          "end": 62.09,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 62.09,
+          "end": 62.23,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 62.23,
+          "end": 62.51,
+          "probability": 1
+        },
+        {
+          "text": "favorite",
+          "start": 62.51,
+          "end": 63.08,
+          "probability": 1
+        },
+        {
+          "text": "author",
+          "start": 63.08,
+          "end": 63.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 63.76,
+      "end": 65.76,
+      "text": "And the weather so breezy,",
+      "words": [
+        {
+          "text": "And",
+          "start": 63.76,
+          "end": 64.03,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 64.03,
+          "end": 64.3,
+          "probability": 1
+        },
+        {
+          "text": "weather",
+          "start": 64.3,
+          "end": 64.94,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 64.94,
+          "end": 65.12,
+          "probability": 1
+        },
+        {
+          "text": "breezy,",
+          "start": 65.12,
+          "end": 65.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 66.02,
+      "end": 69.21,
+      "text": "Man why can't life always be this easy",
+      "words": [
+        {
+          "text": "Man",
+          "start": 66.02,
+          "end": 66.33,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 66.33,
+          "end": 66.64,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 66.64,
+          "end": 67.15,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 67.15,
+          "end": 67.56,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 67.56,
+          "end": 68.18,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 68.18,
+          "end": 68.39,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 68.39,
+          "end": 68.8,
+          "probability": 1
+        },
+        {
+          "text": "easy",
+          "start": 68.8,
+          "end": 69.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.46,
+      "end": 71.26,
+      "text": "She in the mirror dancing so sleazy,",
+      "words": [
+        {
+          "text": "She",
+          "start": 69.46,
+          "end": 69.64,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 69.64,
+          "end": 69.76,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 69.76,
+          "end": 69.94,
+          "probability": 1
+        },
+        {
+          "text": "mirror",
+          "start": 69.94,
+          "end": 70.3,
+          "probability": 1
+        },
+        {
+          "text": "dancing",
+          "start": 70.3,
+          "end": 70.72,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 70.72,
+          "end": 70.84,
+          "probability": 1
+        },
+        {
+          "text": "sleazy,",
+          "start": 70.84,
+          "end": 71.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 71.53,
+      "end": 73.93,
+      "text": "I get a call like where are you Yeezy",
+      "words": [
+        {
+          "text": "I",
+          "start": 71.53,
+          "end": 71.65,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 71.65,
+          "end": 71.89,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 71.89,
+          "end": 72.01,
+          "probability": 1
+        },
+        {
+          "text": "call",
+          "start": 72.01,
+          "end": 72.33,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 72.33,
+          "end": 72.65,
+          "probability": 1
+        },
+        {
+          "text": "where",
+          "start": 72.65,
+          "end": 73.05,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 73.05,
+          "end": 73.29,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 73.29,
+          "end": 73.53,
+          "probability": 1
+        },
+        {
+          "text": "Yeezy",
+          "start": 73.53,
+          "end": 73.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 74.12,
+      "end": 76.73,
+      "text": "Try to hit you with a 'Oeur de Whopee'",
+      "words": [
+        {
+          "text": "Try",
+          "start": 74.12,
+          "end": 74.38,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 74.38,
+          "end": 74.55,
+          "probability": 1
+        },
+        {
+          "text": "hit",
+          "start": 74.55,
+          "end": 74.81,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 74.81,
+          "end": 75.07,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 75.07,
+          "end": 75.41,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 75.41,
+          "end": 75.53,
+          "probability": 1
+        },
+        {
+          "text": "'Oeur",
+          "start": 75.53,
+          "end": 75.96,
+          "probability": 1
+        },
+        {
+          "text": "de",
+          "start": 75.96,
+          "end": 76.13,
+          "probability": 1
+        },
+        {
+          "text": "Whopee'",
+          "start": 76.13,
+          "end": 76.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 76.94,
+      "end": 79.67,
+      "text": "Till I get flashed by the paparazzi",
+      "words": [
+        {
+          "text": "Till",
+          "start": 76.94,
+          "end": 77.31,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 77.31,
+          "end": 77.43,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 77.43,
+          "end": 77.71,
+          "probability": 1
+        },
+        {
+          "text": "flashed",
+          "start": 77.71,
+          "end": 78.36,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 78.36,
+          "end": 78.55,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 78.55,
+          "end": 78.83,
+          "probability": 1
+        },
+        {
+          "text": "paparazzi",
+          "start": 78.83,
+          "end": 79.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 79.9,
+      "end": 81.96,
+      "text": "Damn, these nigga's got me,",
+      "words": [
+        {
+          "text": "Damn,",
+          "start": 79.9,
+          "end": 80.35,
+          "probability": 1
+        },
+        {
+          "text": "these",
+          "start": 80.35,
+          "end": 80.8,
+          "probability": 1
+        },
+        {
+          "text": "nigga's",
+          "start": 80.8,
+          "end": 81.42,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 81.42,
+          "end": 81.69,
+          "probability": 1
+        },
+        {
+          "text": "me,",
+          "start": 81.69,
+          "end": 81.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.2,
+      "end": 84.42,
+      "text": "I hate these nigga's more than the Nazis",
+      "words": [
+        {
+          "text": "I",
+          "start": 82.2,
+          "end": 82.32,
+          "probability": 1
+        },
+        {
+          "text": "hate",
+          "start": 82.32,
+          "end": 82.58,
+          "probability": 1
+        },
+        {
+          "text": "these",
+          "start": 82.58,
+          "end": 82.91,
+          "probability": 1
+        },
+        {
+          "text": "nigga's",
+          "start": 82.91,
+          "end": 83.37,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 83.37,
+          "end": 83.63,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 83.63,
+          "end": 83.89,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 83.89,
+          "end": 84.09,
+          "probability": 1
+        },
+        {
+          "text": "Nazis",
+          "start": 84.09,
+          "end": 84.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 84.61,
+      "end": 88.01,
+      "text": "As I recall, I know you love to show off,",
+      "words": [
+        {
+          "text": "As",
+          "start": 84.61,
+          "end": 84.82,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 84.82,
+          "end": 84.94,
+          "probability": 1
+        },
+        {
+          "text": "recall,",
+          "start": 84.94,
+          "end": 85.68,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 85.68,
+          "end": 85.8,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 85.8,
+          "end": 86.22,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 86.22,
+          "end": 86.54,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 86.54,
+          "end": 86.96,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 86.96,
+          "end": 87.17,
+          "probability": 1
+        },
+        {
+          "text": "show",
+          "start": 87.17,
+          "end": 87.59,
+          "probability": 1
+        },
+        {
+          "text": "off,",
+          "start": 87.59,
+          "end": 88.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 88.22,
+      "end": 93.15,
+      "text": "But I never thought that you would take it this far",
+      "words": [
+        {
+          "text": "But",
+          "start": 88.22,
+          "end": 88.58,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 88.58,
+          "end": 88.7,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 88.7,
+          "end": 89.3,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 89.3,
+          "end": 90.15,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 90.15,
+          "end": 90.63,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 90.63,
+          "end": 90.99,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 90.99,
+          "end": 91.59,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 91.59,
+          "end": 92.07,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 92.07,
+          "end": 92.31,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 92.31,
+          "end": 92.79,
+          "probability": 1
+        },
+        {
+          "text": "far",
+          "start": 92.79,
+          "end": 93.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 93.73,
+      "end": 97.83,
+      "text": "What do I know? Flashing lights (lights, lights, lights)",
+      "words": [
+        {
+          "text": "What",
+          "start": 93.73,
+          "end": 94.07,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 94.07,
+          "end": 94.24,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 94.24,
+          "end": 94.36,
+          "probability": 1
+        },
+        {
+          "text": "know?",
+          "start": 94.36,
+          "end": 94.78,
+          "probability": 1
+        },
+        {
+          "text": "Flashing",
+          "start": 94.78,
+          "end": 95.46,
+          "probability": 1
+        },
+        {
+          "text": "lights",
+          "start": 95.46,
+          "end": 95.97,
+          "probability": 1
+        },
+        {
+          "text": "(lights,",
+          "start": 95.97,
+          "end": 96.65,
+          "probability": 1
+        },
+        {
+          "text": "lights,",
+          "start": 96.65,
+          "end": 97.24,
+          "probability": 1
+        },
+        {
+          "text": "lights)",
+          "start": 97.24,
+          "end": 97.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 100.39,
+      "end": 104.49,
+      "text": "What do I know? Flashing lights (lights, lights, lights)",
+      "words": [
+        {
+          "text": "What",
+          "start": 100.39,
+          "end": 100.73,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 100.73,
+          "end": 100.9,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 100.9,
+          "end": 101.02,
+          "probability": 1
+        },
+        {
+          "text": "know?",
+          "start": 101.02,
+          "end": 101.44,
+          "probability": 1
+        },
+        {
+          "text": "Flashing",
+          "start": 101.44,
+          "end": 102.12,
+          "probability": 1
+        },
+        {
+          "text": "lights",
+          "start": 102.12,
+          "end": 102.63,
+          "probability": 1
+        },
+        {
+          "text": "(lights,",
+          "start": 102.63,
+          "end": 103.31,
+          "probability": 1
+        },
+        {
+          "text": "lights,",
+          "start": 103.31,
+          "end": 103.9,
+          "probability": 1
+        },
+        {
+          "text": "lights)",
+          "start": 103.9,
+          "end": 104.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 107.48,
+      "end": 108.39,
+      "text": "I know it's been a while,",
+      "words": [
+        {
+          "text": "I",
+          "start": 107.48,
+          "end": 107.6,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 107.6,
+          "end": 107.75,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 107.75,
+          "end": 107.9,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 107.9,
+          "end": 108.05,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 108.05,
+          "end": 108.17,
+          "probability": 1
+        },
+        {
+          "text": "while,",
+          "start": 108.17,
+          "end": 108.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 108.47,
+      "end": 111.72,
+      "text": "Sweetheart, we hardly talk, I was doing my thing",
+      "words": [
+        {
+          "text": "Sweetheart,",
+          "start": 108.47,
+          "end": 109.36,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 109.36,
+          "end": 109.52,
+          "probability": 1
+        },
+        {
+          "text": "hardly",
+          "start": 109.52,
+          "end": 110,
+          "probability": 1
+        },
+        {
+          "text": "talk,",
+          "start": 110,
+          "end": 110.4,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 110.4,
+          "end": 110.52,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 110.52,
+          "end": 110.76,
+          "probability": 1
+        },
+        {
+          "text": "doing",
+          "start": 110.76,
+          "end": 111.16,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 111.16,
+          "end": 111.32,
+          "probability": 1
+        },
+        {
+          "text": "thing",
+          "start": 111.32,
+          "end": 111.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 111.95,
+      "end": 114,
+      "text": "I know I was foul bay-bay,",
+      "words": [
+        {
+          "text": "I",
+          "start": 111.95,
+          "end": 112.07,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 112.07,
+          "end": 112.45,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 112.45,
+          "end": 112.57,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 112.57,
+          "end": 112.86,
+          "probability": 1
+        },
+        {
+          "text": "foul",
+          "start": 112.86,
+          "end": 113.24,
+          "probability": 1
+        },
+        {
+          "text": "bay-bay,",
+          "start": 113.24,
+          "end": 114,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 114.2,
+      "end": 117.18,
+      "text": "A-bay lately you been all on my brain,",
+      "words": [
+        {
+          "text": "A-bay",
+          "start": 114.2,
+          "end": 114.68,
+          "probability": 1
+        },
+        {
+          "text": "lately",
+          "start": 114.68,
+          "end": 115.26,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 115.26,
+          "end": 115.55,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 115.55,
+          "end": 115.93,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 115.93,
+          "end": 116.22,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 116.22,
+          "end": 116.41,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 116.41,
+          "end": 116.6,
+          "probability": 1
+        },
+        {
+          "text": "brain,",
+          "start": 116.6,
+          "end": 117.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.43,
+      "end": 120.03,
+      "text": "And if somebody would've told me a month ago",
+      "words": [
+        {
+          "text": "And",
+          "start": 117.43,
+          "end": 117.64,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 117.64,
+          "end": 117.78,
+          "probability": 1
+        },
+        {
+          "text": "somebody",
+          "start": 117.78,
+          "end": 118.35,
+          "probability": 1
+        },
+        {
+          "text": "would've",
+          "start": 118.35,
+          "end": 118.92,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 118.92,
+          "end": 119.2,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 119.2,
+          "end": 119.34,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 119.34,
+          "end": 119.46,
+          "probability": 1
+        },
+        {
+          "text": "month",
+          "start": 119.46,
+          "end": 119.82,
+          "probability": 1
+        },
+        {
+          "text": "ago",
+          "start": 119.82,
+          "end": 120.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 120.24,
+      "end": 122,
+      "text": "Fronting though, yo I wouldn't wanna know",
+      "words": [
+        {
+          "text": "Fronting",
+          "start": 120.24,
+          "end": 120.62,
+          "probability": 1
+        },
+        {
+          "text": "though,",
+          "start": 120.62,
+          "end": 120.95,
+          "probability": 1
+        },
+        {
+          "text": "yo",
+          "start": 120.95,
+          "end": 121.07,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 121.07,
+          "end": 121.19,
+          "probability": 1
+        },
+        {
+          "text": "wouldn't",
+          "start": 121.19,
+          "end": 121.57,
+          "probability": 1
+        },
+        {
+          "text": "wanna",
+          "start": 121.57,
+          "end": 121.81,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 121.81,
+          "end": 122,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 122.16,
+      "end": 124.98,
+      "text": "If somebody would've told me a year ago",
+      "words": [
+        {
+          "text": "If",
+          "start": 122.16,
+          "end": 122.33,
+          "probability": 1
+        },
+        {
+          "text": "somebody",
+          "start": 122.33,
+          "end": 123.03,
+          "probability": 1
+        },
+        {
+          "text": "would've",
+          "start": 123.03,
+          "end": 123.73,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 123.73,
+          "end": 124.08,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 124.08,
+          "end": 124.25,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 124.25,
+          "end": 124.37,
+          "probability": 1
+        },
+        {
+          "text": "year",
+          "start": 124.37,
+          "end": 124.72,
+          "probability": 1
+        },
+        {
+          "text": "ago",
+          "start": 124.72,
+          "end": 124.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.19,
+      "end": 127.72,
+      "text": "It'd go, get this difficult",
+      "words": [
+        {
+          "text": "It'd",
+          "start": 125.19,
+          "end": 125.63,
+          "probability": 1
+        },
+        {
+          "text": "go,",
+          "start": 125.63,
+          "end": 125.96,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 125.96,
+          "end": 126.29,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 126.29,
+          "end": 126.73,
+          "probability": 1
+        },
+        {
+          "text": "difficult",
+          "start": 126.73,
+          "end": 127.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 127.98,
+      "end": 130.35,
+      "text": "Feeling like Katrina with no fema",
+      "words": [
+        {
+          "text": "Feeling",
+          "start": 127.98,
+          "end": 128.57,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 128.57,
+          "end": 128.91,
+          "probability": 1
+        },
+        {
+          "text": "Katrina",
+          "start": 128.91,
+          "end": 129.5,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 129.5,
+          "end": 129.84,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 129.84,
+          "end": 130.01,
+          "probability": 1
+        },
+        {
+          "text": "fema",
+          "start": 130.01,
+          "end": 130.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 130.6,
+      "end": 133.14,
+      "text": "Like Martin with no Gina",
+      "words": [
+        {
+          "text": "Like",
+          "start": 130.6,
+          "end": 131.11,
+          "probability": 1
+        },
+        {
+          "text": "Martin",
+          "start": 131.11,
+          "end": 131.87,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 131.87,
+          "end": 132.38,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 132.38,
+          "end": 132.63,
+          "probability": 1
+        },
+        {
+          "text": "Gina",
+          "start": 132.63,
+          "end": 133.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.39,
+      "end": 134.95,
+      "text": "Like a flight with no visa",
+      "words": [
+        {
+          "text": "Like",
+          "start": 133.39,
+          "end": 133.68,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 133.68,
+          "end": 133.8,
+          "probability": 1
+        },
+        {
+          "text": "flight",
+          "start": 133.8,
+          "end": 134.23,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 134.23,
+          "end": 134.52,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 134.52,
+          "end": 134.66,
+          "probability": 1
+        },
+        {
+          "text": "visa",
+          "start": 134.66,
+          "end": 134.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 135.16,
+      "end": 137.93,
+      "text": "First class with the seat back I still see ya",
+      "words": [
+        {
+          "text": "First",
+          "start": 135.16,
+          "end": 135.54,
+          "probability": 1
+        },
+        {
+          "text": "class",
+          "start": 135.54,
+          "end": 135.92,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 135.92,
+          "end": 136.22,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 136.22,
+          "end": 136.45,
+          "probability": 1
+        },
+        {
+          "text": "seat",
+          "start": 136.45,
+          "end": 136.75,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 136.75,
+          "end": 137.05,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 137.05,
+          "end": 137.17,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 137.17,
+          "end": 137.55,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 137.55,
+          "end": 137.78,
+          "probability": 1
+        },
+        {
+          "text": "ya",
+          "start": 137.78,
+          "end": 137.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 138.15,
+      "end": 141.17,
+      "text": "In my past, you on the other side of the glass",
+      "words": [
+        {
+          "text": "In",
+          "start": 138.15,
+          "end": 138.32,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 138.32,
+          "end": 138.49,
+          "probability": 1
+        },
+        {
+          "text": "past,",
+          "start": 138.49,
+          "end": 138.91,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 138.91,
+          "end": 139.16,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 139.16,
+          "end": 139.33,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 139.33,
+          "end": 139.58,
+          "probability": 1
+        },
+        {
+          "text": "other",
+          "start": 139.58,
+          "end": 140,
+          "probability": 1
+        },
+        {
+          "text": "side",
+          "start": 140,
+          "end": 140.33,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 140.33,
+          "end": 140.5,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 140.5,
+          "end": 140.75,
+          "probability": 1
+        },
+        {
+          "text": "glass",
+          "start": 140.75,
+          "end": 141.17,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 141.39,
+      "end": 143.03,
+      "text": "Of my memory's museum,",
+      "words": [
+        {
+          "text": "Of",
+          "start": 141.39,
+          "end": 141.56,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 141.56,
+          "end": 141.73,
+          "probability": 1
+        },
+        {
+          "text": "memory's",
+          "start": 141.73,
+          "end": 142.42,
+          "probability": 1
+        },
+        {
+          "text": "museum,",
+          "start": 142.42,
+          "end": 143.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 143.29,
+      "end": 145.38,
+      "text": "I'm just saying, Hey Mona Lisa,",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 143.29,
+          "end": 143.53,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 143.53,
+          "end": 143.85,
+          "probability": 1
+        },
+        {
+          "text": "saying,",
+          "start": 143.85,
+          "end": 144.42,
+          "probability": 1
+        },
+        {
+          "text": "Hey",
+          "start": 144.42,
+          "end": 144.66,
+          "probability": 1
+        },
+        {
+          "text": "Mona",
+          "start": 144.66,
+          "end": 144.98,
+          "probability": 1
+        },
+        {
+          "text": "Lisa,",
+          "start": 144.98,
+          "end": 145.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 145.64,
+      "end": 148.04,
+      "text": "Come home you know you can't roam without Caesar",
+      "words": [
+        {
+          "text": "Come",
+          "start": 145.64,
+          "end": 145.88,
+          "probability": 1
+        },
+        {
+          "text": "home",
+          "start": 145.88,
+          "end": 146.12,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 146.12,
+          "end": 146.3,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 146.3,
+          "end": 146.54,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 146.54,
+          "end": 146.72,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 146.72,
+          "end": 147.02,
+          "probability": 1
+        },
+        {
+          "text": "roam",
+          "start": 147.02,
+          "end": 147.26,
+          "probability": 1
+        },
+        {
+          "text": "without",
+          "start": 147.26,
+          "end": 147.68,
+          "probability": 1
+        },
+        {
+          "text": "Caesar",
+          "start": 147.68,
+          "end": 148.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 148.3,
+      "end": 151.84,
+      "text": "As I recall, I know you love to show off,",
+      "words": [
+        {
+          "text": "As",
+          "start": 148.3,
+          "end": 148.52,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 148.52,
+          "end": 148.64,
+          "probability": 1
+        },
+        {
+          "text": "recall,",
+          "start": 148.64,
+          "end": 149.41,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 149.41,
+          "end": 149.53,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 149.53,
+          "end": 149.97,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 149.97,
+          "end": 150.3,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 150.3,
+          "end": 150.74,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 150.74,
+          "end": 150.96,
+          "probability": 1
+        },
+        {
+          "text": "show",
+          "start": 150.96,
+          "end": 151.4,
+          "probability": 1
+        },
+        {
+          "text": "off,",
+          "start": 151.4,
+          "end": 151.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 152.06,
+      "end": 156.99,
+      "text": "But I never thought that you would take it this far",
+      "words": [
+        {
+          "text": "But",
+          "start": 152.06,
+          "end": 152.42,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 152.42,
+          "end": 152.54,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 152.54,
+          "end": 153.14,
+          "probability": 1
+        },
+        {
+          "text": "thought",
+          "start": 153.14,
+          "end": 153.99,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 153.99,
+          "end": 154.47,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 154.47,
+          "end": 154.83,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 154.83,
+          "end": 155.43,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 155.43,
+          "end": 155.91,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 155.91,
+          "end": 156.15,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 156.15,
+          "end": 156.63,
+          "probability": 1
+        },
+        {
+          "text": "far",
+          "start": 156.63,
+          "end": 156.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 157.5,
+      "end": 161.3,
+      "text": "What do I know? Flashing lights (lights, lights, lights)",
+      "words": [
+        {
+          "text": "What",
+          "start": 157.5,
+          "end": 157.81,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 157.81,
+          "end": 157.97,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 157.97,
+          "end": 158.09,
+          "probability": 1
+        },
+        {
+          "text": "know?",
+          "start": 158.09,
+          "end": 158.48,
+          "probability": 1
+        },
+        {
+          "text": "Flashing",
+          "start": 158.48,
+          "end": 159.1,
+          "probability": 1
+        },
+        {
+          "text": "lights",
+          "start": 159.1,
+          "end": 159.57,
+          "probability": 1
+        },
+        {
+          "text": "(lights,",
+          "start": 159.57,
+          "end": 160.2,
+          "probability": 1
+        },
+        {
+          "text": "lights,",
+          "start": 160.2,
+          "end": 160.75,
+          "probability": 1
+        },
+        {
+          "text": "lights)",
+          "start": 160.75,
+          "end": 161.3,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Flashing lights (lights, lights, lights) Flashing lights (lights, lights, lights) Flashing lights (lights, lights, lights) Flashing lights (lights, lights, lights) She don't believe in shooting stars, But she believe in shoes & cars Wood floors in the new apartment, Couture from the store's department You more like L'eau de Stardee shit, I'm more of the, trips to Florida Order the h'orderves, views of the Water Straight from the page of your favorite author And the weather so breezy, Man why can't life always be this easy She in the mirror dancing so sleazy, I get a call like where are you Yeezy Try to hit you with a 'Oeur de Whopee' Till I get flashed by the paparazzi Damn, these nigga's got me, I hate these nigga's more than the Nazis As I recall, I know you love to show off, But I never thought that you would take it this far What do I know? Flashing lights (lights, lights, lights) What do I know? Flashing lights (lights, lights, lights) I know it's been a while, Sweetheart, we hardly talk, I was doing my thing I know I was foul bay-bay, A-bay lately you been all on my brain, And if somebody would've told me a month ago Fronting though, yo I wouldn't wanna know If somebody would've told me a year ago It'd go, get this difficult Feeling like Katrina with no fema Like Martin with no Gina Like a flight with no visa First class with the seat back I still see ya In my past, you on the other side of the glass Of my memory's museum, I'm just saying, Hey Mona Lisa, Come home you know you can't roam without Caesar As I recall, I know you love to show off, But I never thought that you would take it this far What do I know? Flashing lights (lights, lights, lights)"
+}

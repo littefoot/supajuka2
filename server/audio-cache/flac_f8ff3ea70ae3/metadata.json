@@ -1,0 +1,18 @@
+{
+  "id": "flac_f8ff3ea70ae3",
+  "source": "local",
+  "title": "Good Morning",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 195,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790187826526,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_f8ff3ea70ae3/original.flac",
+  "instrumentalUrl": "/audio/flac_f8ff3ea70ae3/instrumental.flac",
+  "vocalsUrl": "/audio/flac_f8ff3ea70ae3/vocals.flac"
+}

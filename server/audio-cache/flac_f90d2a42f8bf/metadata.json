@@ -1,0 +1,19 @@
+{
+  "id": "flac_f90d2a42f8bf",
+  "source": "local",
+  "title": "Ticket To Ride (2023 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1962 – 1966 (2023 Edition)",
+  "duration": 191,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_f90d2a42f8bf/cover.jpg",
+  "cachedAt": 1790184570028,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_f90d2a42f8bf/original.flac",
+  "instrumentalUrl": "/audio/flac_f90d2a42f8bf/instrumental.flac",
+  "vocalsUrl": "/audio/flac_f90d2a42f8bf/vocals.flac"
+}

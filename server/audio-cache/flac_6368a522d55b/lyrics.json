@@ -1,0 +1,1666 @@
+{
+  "language": "en",
+  "duration": 312,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 11.86,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 11.86,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 11.86,
+      "end": 16.03,
+      "text": "Ali dances and the audience applauds",
+      "words": [
+        {
+          "text": "Ali",
+          "start": 11.86,
+          "end": 12.26,
+          "probability": 1
+        },
+        {
+          "text": "dances",
+          "start": 12.26,
+          "end": 13.07,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 13.07,
+          "end": 13.47,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 13.47,
+          "end": 13.87,
+          "probability": 1
+        },
+        {
+          "text": "audience",
+          "start": 13.87,
+          "end": 14.95,
+          "probability": 1
+        },
+        {
+          "text": "applauds",
+          "start": 14.95,
+          "end": 16.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 17.2,
+      "end": 21.75,
+      "text": "Though he's bathed in sweat, he hasn't lost his style",
+      "words": [
+        {
+          "text": "Though",
+          "start": 17.2,
+          "end": 17.82,
+          "probability": 1
+        },
+        {
+          "text": "he's",
+          "start": 17.82,
+          "end": 18.23,
+          "probability": 1
+        },
+        {
+          "text": "bathed",
+          "start": 18.23,
+          "end": 18.85,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 18.85,
+          "end": 19.06,
+          "probability": 1
+        },
+        {
+          "text": "sweat,",
+          "start": 19.06,
+          "end": 19.68,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 19.68,
+          "end": 19.89,
+          "probability": 1
+        },
+        {
+          "text": "hasn't",
+          "start": 19.89,
+          "end": 20.51,
+          "probability": 1
+        },
+        {
+          "text": "lost",
+          "start": 20.51,
+          "end": 20.92,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 20.92,
+          "end": 21.23,
+          "probability": 1
+        },
+        {
+          "text": "style",
+          "start": 21.23,
+          "end": 21.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 24.89,
+      "end": 27.54,
+      "text": "Ali don't you go downtown",
+      "words": [
+        {
+          "text": "Ali",
+          "start": 24.89,
+          "end": 25.27,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 25.27,
+          "end": 25.9,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 25.9,
+          "end": 26.28,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 26.28,
+          "end": 26.53,
+          "probability": 1
+        },
+        {
+          "text": "downtown",
+          "start": 26.53,
+          "end": 27.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 27.84,
+      "end": 32.39,
+      "text": "You gave away another round for free, whoa",
+      "words": [
+        {
+          "text": "You",
+          "start": 27.84,
+          "end": 28.23,
+          "probability": 1
+        },
+        {
+          "text": "gave",
+          "start": 28.23,
+          "end": 28.75,
+          "probability": 1
+        },
+        {
+          "text": "away",
+          "start": 28.75,
+          "end": 29.27,
+          "probability": 1
+        },
+        {
+          "text": "another",
+          "start": 29.27,
+          "end": 30.18,
+          "probability": 1
+        },
+        {
+          "text": "round",
+          "start": 30.18,
+          "end": 30.83,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 30.83,
+          "end": 31.22,
+          "probability": 1
+        },
+        {
+          "text": "free,",
+          "start": 31.22,
+          "end": 31.87,
+          "probability": 1
+        },
+        {
+          "text": "whoa",
+          "start": 31.87,
+          "end": 32.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 34.16,
+      "end": 38.72,
+      "text": "Me, I'm just another face at Zanzibar",
+      "words": [
+        {
+          "text": "Me,",
+          "start": 34.16,
+          "end": 34.6,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 34.6,
+          "end": 35.04,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 35.04,
+          "end": 35.63,
+          "probability": 1
+        },
+        {
+          "text": "another",
+          "start": 35.63,
+          "end": 36.66,
+          "probability": 1
+        },
+        {
+          "text": "face",
+          "start": 36.66,
+          "end": 37.25,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 37.25,
+          "end": 37.54,
+          "probability": 1
+        },
+        {
+          "text": "Zanzibar",
+          "start": 37.54,
+          "end": 38.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 39.8,
+      "end": 45.1,
+      "text": "But the waitress always serves a secret smile, whoa",
+      "words": [
+        {
+          "text": "But",
+          "start": 39.8,
+          "end": 40.17,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 40.17,
+          "end": 40.54,
+          "probability": 1
+        },
+        {
+          "text": "waitress",
+          "start": 40.54,
+          "end": 41.53,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 41.53,
+          "end": 42.27,
+          "probability": 1
+        },
+        {
+          "text": "serves",
+          "start": 42.27,
+          "end": 43.01,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 43.01,
+          "end": 43.13,
+          "probability": 1
+        },
+        {
+          "text": "secret",
+          "start": 43.13,
+          "end": 43.87,
+          "probability": 1
+        },
+        {
+          "text": "smile,",
+          "start": 43.87,
+          "end": 44.61,
+          "probability": 1
+        },
+        {
+          "text": "whoa",
+          "start": 44.61,
+          "end": 45.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 46.88,
+      "end": 49.93,
+      "text": "She's waiting out in Shantytown",
+      "words": [
+        {
+          "text": "She's",
+          "start": 46.88,
+          "end": 47.44,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 47.44,
+          "end": 48.23,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 48.23,
+          "end": 48.57,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 48.57,
+          "end": 48.8,
+          "probability": 1
+        },
+        {
+          "text": "Shantytown",
+          "start": 48.8,
+          "end": 49.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 50.49,
+      "end": 55.05,
+      "text": "She's gonna pull the curtains down for me, for me",
+      "words": [
+        {
+          "text": "She's",
+          "start": 50.49,
+          "end": 51.06,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 51.06,
+          "end": 51.63,
+          "probability": 1
+        },
+        {
+          "text": "pull",
+          "start": 51.63,
+          "end": 52.09,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 52.09,
+          "end": 52.43,
+          "probability": 1
+        },
+        {
+          "text": "curtains",
+          "start": 52.43,
+          "end": 53.34,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 53.34,
+          "end": 53.8,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 53.8,
+          "end": 54.14,
+          "probability": 1
+        },
+        {
+          "text": "me,",
+          "start": 54.14,
+          "end": 54.48,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 54.48,
+          "end": 54.82,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 54.82,
+          "end": 55.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 57.81,
+      "end": 60.52,
+      "text": "I've got the old man's car",
+      "words": [
+        {
+          "text": "I've",
+          "start": 57.81,
+          "end": 58.32,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 58.32,
+          "end": 58.71,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 58.71,
+          "end": 59.1,
+          "probability": 1
+        },
+        {
+          "text": "old",
+          "start": 59.1,
+          "end": 59.49,
+          "probability": 1
+        },
+        {
+          "text": "man's",
+          "start": 59.49,
+          "end": 60.13,
+          "probability": 1
+        },
+        {
+          "text": "car",
+          "start": 60.13,
+          "end": 60.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.28,
+      "end": 63.94,
+      "text": "I've got a jazz guitar",
+      "words": [
+        {
+          "text": "I've",
+          "start": 61.28,
+          "end": 61.87,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 61.87,
+          "end": 62.31,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 62.31,
+          "end": 62.46,
+          "probability": 1
+        },
+        {
+          "text": "jazz",
+          "start": 62.46,
+          "end": 63.05,
+          "probability": 1
+        },
+        {
+          "text": "guitar",
+          "start": 63.05,
+          "end": 63.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 64.5,
+      "end": 67.92,
+      "text": "I've got a tab at Zanzibar",
+      "words": [
+        {
+          "text": "I've",
+          "start": 64.5,
+          "end": 65.15,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 65.15,
+          "end": 65.64,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 65.64,
+          "end": 65.8,
+          "probability": 1
+        },
+        {
+          "text": "tab",
+          "start": 65.8,
+          "end": 66.29,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 66.29,
+          "end": 66.62,
+          "probability": 1
+        },
+        {
+          "text": "Zanzibar",
+          "start": 66.62,
+          "end": 67.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 68.95,
+      "end": 72.36,
+      "text": "Tonight that's where I'll be, I'll be",
+      "words": [
+        {
+          "text": "Tonight",
+          "start": 68.95,
+          "end": 69.72,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 69.72,
+          "end": 70.38,
+          "probability": 1
+        },
+        {
+          "text": "where",
+          "start": 70.38,
+          "end": 70.93,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 70.93,
+          "end": 71.37,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 71.37,
+          "end": 71.7,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 71.7,
+          "end": 72.14,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 72.14,
+          "end": 72.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 72.36,
+      "end": 86.54,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 72.36,
+          "end": 86.54,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 86.54,
+      "end": 91.48,
+      "text": "Rose, he knows he's such a credit to the game",
+      "words": [
+        {
+          "text": "Rose,",
+          "start": 86.54,
+          "end": 87.23,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 87.23,
+          "end": 87.5,
+          "probability": 1
+        },
+        {
+          "text": "knows",
+          "start": 87.5,
+          "end": 88.19,
+          "probability": 1
+        },
+        {
+          "text": "he's",
+          "start": 88.19,
+          "end": 88.74,
+          "probability": 1
+        },
+        {
+          "text": "such",
+          "start": 88.74,
+          "end": 89.29,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 89.29,
+          "end": 89.43,
+          "probability": 1
+        },
+        {
+          "text": "credit",
+          "start": 89.43,
+          "end": 90.25,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 90.25,
+          "end": 90.52,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 90.52,
+          "end": 90.93,
+          "probability": 1
+        },
+        {
+          "text": "game",
+          "start": 90.93,
+          "end": 91.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 91.96,
+      "end": 97.28,
+      "text": "But the Yankees grab the headlines every time",
+      "words": [
+        {
+          "text": "But",
+          "start": 91.96,
+          "end": 92.38,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 92.38,
+          "end": 92.8,
+          "probability": 1
+        },
+        {
+          "text": "Yankees",
+          "start": 92.8,
+          "end": 93.78,
+          "probability": 1
+        },
+        {
+          "text": "grab",
+          "start": 93.78,
+          "end": 94.34,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 94.34,
+          "end": 94.76,
+          "probability": 1
+        },
+        {
+          "text": "headlines",
+          "start": 94.76,
+          "end": 96.02,
+          "probability": 1
+        },
+        {
+          "text": "every",
+          "start": 96.02,
+          "end": 96.72,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 96.72,
+          "end": 97.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 99.68,
+      "end": 102.32,
+      "text": "Melodrama's so much fun",
+      "words": [
+        {
+          "text": "Melodrama's",
+          "start": 99.68,
+          "end": 101.13,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 101.13,
+          "end": 101.39,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 101.39,
+          "end": 101.92,
+          "probability": 1
+        },
+        {
+          "text": "fun",
+          "start": 101.92,
+          "end": 102.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.57,
+      "end": 107.51,
+      "text": "In black and white for everyone to see, whoa",
+      "words": [
+        {
+          "text": "In",
+          "start": 102.57,
+          "end": 102.84,
+          "probability": 1
+        },
+        {
+          "text": "black",
+          "start": 102.84,
+          "end": 103.53,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 103.53,
+          "end": 103.94,
+          "probability": 1
+        },
+        {
+          "text": "white",
+          "start": 103.94,
+          "end": 104.63,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 104.63,
+          "end": 105.04,
+          "probability": 1
+        },
+        {
+          "text": "everyone",
+          "start": 105.04,
+          "end": 106.14,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 106.14,
+          "end": 106.41,
+          "probability": 1
+        },
+        {
+          "text": "see,",
+          "start": 106.41,
+          "end": 106.96,
+          "probability": 1
+        },
+        {
+          "text": "whoa",
+          "start": 106.96,
+          "end": 107.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.64,
+      "end": 113.82,
+      "text": "Me, I'm trying just to get to second base",
+      "words": [
+        {
+          "text": "Me,",
+          "start": 109.64,
+          "end": 110.02,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 110.02,
+          "end": 110.4,
+          "probability": 1
+        },
+        {
+          "text": "trying",
+          "start": 110.4,
+          "end": 111.16,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 111.16,
+          "end": 111.67,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 111.67,
+          "end": 111.92,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 111.92,
+          "end": 112.3,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 112.3,
+          "end": 112.55,
+          "probability": 1
+        },
+        {
+          "text": "second",
+          "start": 112.55,
+          "end": 113.31,
+          "probability": 1
+        },
+        {
+          "text": "base",
+          "start": 113.31,
+          "end": 113.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 114.97,
+      "end": 119.91,
+      "text": "And I'd steal it if she only gave the sign, whoa",
+      "words": [
+        {
+          "text": "And",
+          "start": 114.97,
+          "end": 115.36,
+          "probability": 1
+        },
+        {
+          "text": "I'd",
+          "start": 115.36,
+          "end": 115.75,
+          "probability": 1
+        },
+        {
+          "text": "steal",
+          "start": 115.75,
+          "end": 116.4,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 116.4,
+          "end": 116.66,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 116.66,
+          "end": 116.92,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 116.92,
+          "end": 117.31,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 117.31,
+          "end": 117.83,
+          "probability": 1
+        },
+        {
+          "text": "gave",
+          "start": 117.83,
+          "end": 118.35,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 118.35,
+          "end": 118.74,
+          "probability": 1
+        },
+        {
+          "text": "sign,",
+          "start": 118.74,
+          "end": 119.39,
+          "probability": 1
+        },
+        {
+          "text": "whoa",
+          "start": 119.39,
+          "end": 119.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 122.37,
+      "end": 125.44,
+      "text": "She's gonna give the go ahead",
+      "words": [
+        {
+          "text": "She's",
+          "start": 122.37,
+          "end": 123.01,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 123.01,
+          "end": 123.65,
+          "probability": 1
+        },
+        {
+          "text": "give",
+          "start": 123.65,
+          "end": 124.16,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 124.16,
+          "end": 124.54,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 124.54,
+          "end": 124.8,
+          "probability": 1
+        },
+        {
+          "text": "ahead",
+          "start": 124.8,
+          "end": 125.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.69,
+      "end": 129.85,
+      "text": "The inning isn't over yet for me, for me",
+      "words": [
+        {
+          "text": "The",
+          "start": 125.69,
+          "end": 126.08,
+          "probability": 1
+        },
+        {
+          "text": "inning",
+          "start": 126.08,
+          "end": 126.86,
+          "probability": 1
+        },
+        {
+          "text": "isn't",
+          "start": 126.86,
+          "end": 127.51,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 127.51,
+          "end": 128.03,
+          "probability": 1
+        },
+        {
+          "text": "yet",
+          "start": 128.03,
+          "end": 128.42,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 128.42,
+          "end": 128.81,
+          "probability": 1
+        },
+        {
+          "text": "me,",
+          "start": 128.81,
+          "end": 129.2,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 129.2,
+          "end": 129.59,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 129.59,
+          "end": 129.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.03,
+      "end": 135.74,
+      "text": "I've got the old man's car",
+      "words": [
+        {
+          "text": "I've",
+          "start": 133.03,
+          "end": 133.54,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 133.54,
+          "end": 133.93,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 133.93,
+          "end": 134.32,
+          "probability": 1
+        },
+        {
+          "text": "old",
+          "start": 134.32,
+          "end": 134.71,
+          "probability": 1
+        },
+        {
+          "text": "man's",
+          "start": 134.71,
+          "end": 135.35,
+          "probability": 1
+        },
+        {
+          "text": "car",
+          "start": 135.35,
+          "end": 135.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 136.33,
+      "end": 138.99,
+      "text": "I've got a jazz guitar",
+      "words": [
+        {
+          "text": "I've",
+          "start": 136.33,
+          "end": 136.92,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 136.92,
+          "end": 137.36,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 137.36,
+          "end": 137.51,
+          "probability": 1
+        },
+        {
+          "text": "jazz",
+          "start": 137.51,
+          "end": 138.1,
+          "probability": 1
+        },
+        {
+          "text": "guitar",
+          "start": 138.1,
+          "end": 138.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 139.69,
+      "end": 143.11,
+      "text": "I've got a tab at Zanzibar",
+      "words": [
+        {
+          "text": "I've",
+          "start": 139.69,
+          "end": 140.34,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 140.34,
+          "end": 140.83,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 140.83,
+          "end": 140.99,
+          "probability": 1
+        },
+        {
+          "text": "tab",
+          "start": 140.99,
+          "end": 141.48,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 141.48,
+          "end": 141.81,
+          "probability": 1
+        },
+        {
+          "text": "Zanzibar",
+          "start": 141.81,
+          "end": 143.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 143.36,
+      "end": 146.77,
+      "text": "Tonight that's where I'll be, I'll be",
+      "words": [
+        {
+          "text": "Tonight",
+          "start": 143.36,
+          "end": 144.13,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 144.13,
+          "end": 144.79,
+          "probability": 1
+        },
+        {
+          "text": "where",
+          "start": 144.79,
+          "end": 145.34,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 145.34,
+          "end": 145.78,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 145.78,
+          "end": 146.11,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 146.11,
+          "end": 146.55,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 146.55,
+          "end": 146.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.77,
+      "end": 215.62,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 146.77,
+          "end": 215.62,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 215.62,
+      "end": 220.18,
+      "text": "Tell the waitress I'll come back to Zanzibar",
+      "words": [
+        {
+          "text": "Tell",
+          "start": 215.62,
+          "end": 216.11,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 216.11,
+          "end": 216.48,
+          "probability": 1
+        },
+        {
+          "text": "waitress",
+          "start": 216.48,
+          "end": 217.47,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 217.47,
+          "end": 217.96,
+          "probability": 1
+        },
+        {
+          "text": "come",
+          "start": 217.96,
+          "end": 218.45,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 218.45,
+          "end": 218.94,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 218.94,
+          "end": 219.19,
+          "probability": 1
+        },
+        {
+          "text": "Zanzibar",
+          "start": 219.19,
+          "end": 220.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 220.57,
+      "end": 225.14,
+      "text": "I'll be hiding in the darkness with my beer, whoa",
+      "words": [
+        {
+          "text": "I'll",
+          "start": 220.57,
+          "end": 221.03,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 221.03,
+          "end": 221.26,
+          "probability": 1
+        },
+        {
+          "text": "hiding",
+          "start": 221.26,
+          "end": 221.94,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 221.94,
+          "end": 222.17,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 222.17,
+          "end": 222.51,
+          "probability": 1
+        },
+        {
+          "text": "darkness",
+          "start": 222.51,
+          "end": 223.42,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 223.42,
+          "end": 223.88,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 223.88,
+          "end": 224.11,
+          "probability": 1
+        },
+        {
+          "text": "beer,",
+          "start": 224.11,
+          "end": 224.68,
+          "probability": 1
+        },
+        {
+          "text": "whoa",
+          "start": 224.68,
+          "end": 225.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 228.02,
+      "end": 231.07,
+      "text": "She's waiting out in Shantytown",
+      "words": [
+        {
+          "text": "She's",
+          "start": 228.02,
+          "end": 228.58,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 228.58,
+          "end": 229.37,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 229.37,
+          "end": 229.71,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 229.71,
+          "end": 229.94,
+          "probability": 1
+        },
+        {
+          "text": "Shantytown",
+          "start": 229.94,
+          "end": 231.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 231.56,
+      "end": 236.12,
+      "text": "She's gonna pull the curtains down for me, for me",
+      "words": [
+        {
+          "text": "She's",
+          "start": 231.56,
+          "end": 232.13,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 232.13,
+          "end": 232.7,
+          "probability": 1
+        },
+        {
+          "text": "pull",
+          "start": 232.7,
+          "end": 233.16,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 233.16,
+          "end": 233.5,
+          "probability": 1
+        },
+        {
+          "text": "curtains",
+          "start": 233.5,
+          "end": 234.41,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 234.41,
+          "end": 234.87,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 234.87,
+          "end": 235.21,
+          "probability": 1
+        },
+        {
+          "text": "me,",
+          "start": 235.21,
+          "end": 235.55,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 235.55,
+          "end": 235.89,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 235.89,
+          "end": 236.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 239,
+      "end": 241.71,
+      "text": "I've got the old man's car",
+      "words": [
+        {
+          "text": "I've",
+          "start": 239,
+          "end": 239.51,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 239.51,
+          "end": 239.9,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 239.9,
+          "end": 240.29,
+          "probability": 1
+        },
+        {
+          "text": "old",
+          "start": 240.29,
+          "end": 240.68,
+          "probability": 1
+        },
+        {
+          "text": "man's",
+          "start": 240.68,
+          "end": 241.32,
+          "probability": 1
+        },
+        {
+          "text": "car",
+          "start": 241.32,
+          "end": 241.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 242.07,
+      "end": 245.07,
+      "text": "And I've got a jazz guitar",
+      "words": [
+        {
+          "text": "And",
+          "start": 242.07,
+          "end": 242.5,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 242.5,
+          "end": 243.07,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 243.07,
+          "end": 243.5,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 243.5,
+          "end": 243.64,
+          "probability": 1
+        },
+        {
+          "text": "jazz",
+          "start": 243.64,
+          "end": 244.21,
+          "probability": 1
+        },
+        {
+          "text": "guitar",
+          "start": 244.21,
+          "end": 245.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 245.33,
+      "end": 248.75,
+      "text": "I've got a tab at Zanzibar",
+      "words": [
+        {
+          "text": "I've",
+          "start": 245.33,
+          "end": 245.98,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 245.98,
+          "end": 246.47,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 246.47,
+          "end": 246.63,
+          "probability": 1
+        },
+        {
+          "text": "tab",
+          "start": 246.63,
+          "end": 247.12,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 247.12,
+          "end": 247.45,
+          "probability": 1
+        },
+        {
+          "text": "Zanzibar",
+          "start": 247.45,
+          "end": 248.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 249.96,
+      "end": 253.37,
+      "text": "Tonight that's where I'll be, I'll be",
+      "words": [
+        {
+          "text": "Tonight",
+          "start": 249.96,
+          "end": 250.73,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 250.73,
+          "end": 251.39,
+          "probability": 1
+        },
+        {
+          "text": "where",
+          "start": 251.39,
+          "end": 251.94,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 251.94,
+          "end": 252.38,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 252.38,
+          "end": 252.71,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 252.71,
+          "end": 253.15,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 253.15,
+          "end": 253.37,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Ali dances and the audience applauds Though he's bathed in sweat, he hasn't lost his style Ali don't you go downtown You gave away another round for free, whoa Me, I'm just another face at Zanzibar But the waitress always serves a secret smile, whoa She's waiting out in Shantytown She's gonna pull the curtains down for me, for me I've got the old man's car I've got a jazz guitar I've got a tab at Zanzibar Tonight that's where I'll be, I'll be Rose, he knows he's such a credit to the game But the Yankees grab the headlines every time Melodrama's so much fun In black and white for everyone to see, whoa Me, I'm trying just to get to second base And I'd steal it if she only gave the sign, whoa She's gonna give the go ahead The inning isn't over yet for me, for me I've got the old man's car I've got a jazz guitar I've got a tab at Zanzibar Tonight that's where I'll be, I'll be Tell the waitress I'll come back to Zanzibar I'll be hiding in the darkness with my beer, whoa She's waiting out in Shantytown She's gonna pull the curtains down for me, for me I've got the old man's car And I've got a jazz guitar I've got a tab at Zanzibar Tonight that's where I'll be, I'll be"
+}

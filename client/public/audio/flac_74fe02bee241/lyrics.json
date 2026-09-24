@@ -1,0 +1,1453 @@
+{
+  "language": "en",
+  "language_probability": 0.99,
+  "duration": 174.69,
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 8.56,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 1.0,
+          "end": 8.56,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 10.96,
+      "end": 13.12,
+      "text": "Don't want to be an American idiot",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 10.96,
+          "end": 11.16,
+          "probability": 0.94
+        },
+        {
+          "text": "want",
+          "start": 11.16,
+          "end": 11.3,
+          "probability": 0.35
+        },
+        {
+          "text": "to",
+          "start": 11.3,
+          "end": 11.42,
+          "probability": 0.95
+        },
+        {
+          "text": "be",
+          "start": 11.42,
+          "end": 11.64,
+          "probability": 1.0
+        },
+        {
+          "text": "an",
+          "start": 11.64,
+          "end": 11.84,
+          "probability": 0.92
+        },
+        {
+          "text": "American",
+          "start": 11.84,
+          "end": 12.52,
+          "probability": 0.98
+        },
+        {
+          "text": "idiot",
+          "start": 12.52,
+          "end": 13.12,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "start": 16.16,
+      "end": 18.44,
+      "text": "Don't want a nation under the new media",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 16.16,
+          "end": 16.36,
+          "probability": 0.88
+        },
+        {
+          "text": "want",
+          "start": 16.36,
+          "end": 16.52,
+          "probability": 1.0
+        },
+        {
+          "text": "a",
+          "start": 16.52,
+          "end": 16.64,
+          "probability": 0.97
+        },
+        {
+          "text": "nation",
+          "start": 16.64,
+          "end": 16.94,
+          "probability": 1.0
+        },
+        {
+          "text": "under",
+          "start": 16.94,
+          "end": 17.24,
+          "probability": 0.94
+        },
+        {
+          "text": "the",
+          "start": 17.24,
+          "end": 17.62,
+          "probability": 0.99
+        },
+        {
+          "text": "new",
+          "start": 17.62,
+          "end": 17.9,
+          "probability": 0.99
+        },
+        {
+          "text": "media",
+          "start": 17.9,
+          "end": 18.44,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "start": 21.3,
+      "end": 23.84,
+      "text": "Hey can you hear the sound of hysteria",
+      "words": [
+        {
+          "text": "Hey",
+          "start": 21.3,
+          "end": 21.44,
+          "probability": 0.68
+        },
+        {
+          "text": "can",
+          "start": 21.44,
+          "end": 21.6,
+          "probability": 0.65
+        },
+        {
+          "text": "you",
+          "start": 21.6,
+          "end": 21.8,
+          "probability": 0.97
+        },
+        {
+          "text": "hear",
+          "start": 21.8,
+          "end": 21.96,
+          "probability": 0.99
+        },
+        {
+          "text": "the",
+          "start": 21.96,
+          "end": 22.16,
+          "probability": 0.99
+        },
+        {
+          "text": "sound",
+          "start": 22.16,
+          "end": 22.6,
+          "probability": 0.98
+        },
+        {
+          "text": "of",
+          "start": 22.6,
+          "end": 22.94,
+          "probability": 0.99
+        },
+        {
+          "text": "hysteria",
+          "start": 22.94,
+          "end": 23.84,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 26.52,
+      "end": 28.6,
+      "text": "The subliminal mind, fuck America",
+      "words": [
+        {
+          "text": "The",
+          "start": 26.52,
+          "end": 26.78,
+          "probability": 0.23
+        },
+        {
+          "text": "subliminal",
+          "start": 26.96,
+          "end": 27.38,
+          "probability": 0.96
+        },
+        {
+          "text": "mind,",
+          "start": 27.38,
+          "end": 27.7,
+          "probability": 0.83
+        },
+        {
+          "text": "fuck",
+          "start": 27.84,
+          "end": 28.02,
+          "probability": 0.92
+        },
+        {
+          "text": "America",
+          "start": 28.02,
+          "end": 28.6,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "start": 31.62,
+      "end": 33.88,
+      "text": "Welcome to a new kind of tension",
+      "words": [
+        {
+          "text": "Welcome",
+          "start": 31.62,
+          "end": 32.02,
+          "probability": 0.45
+        },
+        {
+          "text": "to",
+          "start": 32.02,
+          "end": 32.3,
+          "probability": 0.99
+        },
+        {
+          "text": "a",
+          "start": 32.3,
+          "end": 32.56,
+          "probability": 0.58
+        },
+        {
+          "text": "new",
+          "start": 32.56,
+          "end": 32.84,
+          "probability": 0.98
+        },
+        {
+          "text": "kind",
+          "start": 32.84,
+          "end": 33.28,
+          "probability": 0.76
+        },
+        {
+          "text": "of",
+          "start": 33.28,
+          "end": 33.44,
+          "probability": 0.95
+        },
+        {
+          "text": "tension",
+          "start": 33.44,
+          "end": 33.88,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "start": 33.88,
+      "end": 36.5,
+      "text": "All across the alien nation",
+      "words": [
+        {
+          "text": "All",
+          "start": 33.88,
+          "end": 34.58,
+          "probability": 0.71
+        },
+        {
+          "text": "across",
+          "start": 34.7,
+          "end": 34.92,
+          "probability": 1.0
+        },
+        {
+          "text": "the",
+          "start": 34.92,
+          "end": 35.26,
+          "probability": 0.99
+        },
+        {
+          "text": "alien",
+          "start": 35.26,
+          "end": 35.74,
+          "probability": 0.96
+        },
+        {
+          "text": "nation",
+          "start": 35.98,
+          "end": 36.5,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "start": 36.5,
+      "end": 39.54,
+      "text": "Everything isn't meant to be okay",
+      "words": [
+        {
+          "text": "Everything",
+          "start": 36.5,
+          "end": 37.46,
+          "probability": 0.81
+        },
+        {
+          "text": "isn't",
+          "start": 37.46,
+          "end": 37.78,
+          "probability": 0.9
+        },
+        {
+          "text": "meant",
+          "start": 37.78,
+          "end": 38.1,
+          "probability": 1.0
+        },
+        {
+          "text": "to",
+          "start": 38.1,
+          "end": 38.3,
+          "probability": 1.0
+        },
+        {
+          "text": "be",
+          "start": 38.3,
+          "end": 38.8,
+          "probability": 1.0
+        },
+        {
+          "text": "okay",
+          "start": 39.18,
+          "end": 39.54,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "start": 41.94,
+      "end": 44.14,
+      "text": "Television dreams of tomorrow",
+      "words": [
+        {
+          "text": "Television",
+          "start": 41.94,
+          "end": 42.62,
+          "probability": 0.5
+        },
+        {
+          "text": "dreams",
+          "start": 42.92,
+          "end": 43.3,
+          "probability": 0.97
+        },
+        {
+          "text": "of",
+          "start": 43.3,
+          "end": 43.58,
+          "probability": 0.98
+        },
+        {
+          "text": "tomorrow",
+          "start": 43.58,
+          "end": 44.14,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 44.7,
+      "end": 46.6,
+      "text": "We're not the ones I'm meant to follow",
+      "words": [
+        {
+          "text": "We're",
+          "start": 44.7,
+          "end": 45.0,
+          "probability": 0.99
+        },
+        {
+          "text": "not",
+          "start": 45.0,
+          "end": 45.26,
+          "probability": 1.0
+        },
+        {
+          "text": "the",
+          "start": 45.36,
+          "end": 45.5,
+          "probability": 1.0
+        },
+        {
+          "text": "ones",
+          "start": 45.5,
+          "end": 45.82,
+          "probability": 0.99
+        },
+        {
+          "text": "I'm",
+          "start": 45.82,
+          "end": 46.14,
+          "probability": 0.67
+        },
+        {
+          "text": "meant",
+          "start": 46.14,
+          "end": 46.2,
+          "probability": 0.93
+        },
+        {
+          "text": "to",
+          "start": 46.2,
+          "end": 46.32,
+          "probability": 1.0
+        },
+        {
+          "text": "follow",
+          "start": 46.32,
+          "end": 46.6,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 46.6,
+      "end": 49.28,
+      "text": "But that's enough to argue",
+      "words": [
+        {
+          "text": "But",
+          "start": 46.6,
+          "end": 47.4,
+          "probability": 0.38
+        },
+        {
+          "text": "that's",
+          "start": 47.4,
+          "end": 47.94,
+          "probability": 0.99
+        },
+        {
+          "text": "enough",
+          "start": 47.94,
+          "end": 48.36,
+          "probability": 1.0
+        },
+        {
+          "text": "to",
+          "start": 48.36,
+          "end": 48.64,
+          "probability": 1.0
+        },
+        {
+          "text": "argue",
+          "start": 49.06,
+          "end": 49.28,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 57.46,
+      "end": 59.66,
+      "text": "Well, maybe I'm the faggot of America",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 57.46,
+          "end": 57.58,
+          "probability": 0.56
+        },
+        {
+          "text": "maybe",
+          "start": 57.76,
+          "end": 57.88,
+          "probability": 0.99
+        },
+        {
+          "text": "I'm",
+          "start": 57.88,
+          "end": 58.28,
+          "probability": 0.99
+        },
+        {
+          "text": "the",
+          "start": 58.28,
+          "end": 58.4,
+          "probability": 0.97
+        },
+        {
+          "text": "faggot",
+          "start": 58.78,
+          "end": 59.06,
+          "probability": 0.98
+        },
+        {
+          "text": "of",
+          "start": 59.06,
+          "end": 59.3,
+          "probability": 0.42
+        },
+        {
+          "text": "America",
+          "start": 59.56,
+          "end": 59.66,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "start": 62.66,
+      "end": 64.8,
+      "text": "I'm not a part of a redneck agenda",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 62.66,
+          "end": 62.84,
+          "probability": 0.86
+        },
+        {
+          "text": "not",
+          "start": 62.84,
+          "end": 63.02,
+          "probability": 1.0
+        },
+        {
+          "text": "a",
+          "start": 63.02,
+          "end": 63.18,
+          "probability": 0.97
+        },
+        {
+          "text": "part",
+          "start": 63.18,
+          "end": 63.36,
+          "probability": 1.0
+        },
+        {
+          "text": "of",
+          "start": 63.36,
+          "end": 63.52,
+          "probability": 1.0
+        },
+        {
+          "text": "a",
+          "start": 63.52,
+          "end": 63.64,
+          "probability": 0.95
+        },
+        {
+          "text": "redneck",
+          "start": 63.92,
+          "end": 64.2,
+          "probability": 0.99
+        },
+        {
+          "text": "agenda",
+          "start": 64.4,
+          "end": 64.8,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 67.8,
+      "end": 69.94,
+      "text": "Now everybody do the propaganda",
+      "words": [
+        {
+          "text": "Now",
+          "start": 67.8,
+          "end": 67.98,
+          "probability": 0.97
+        },
+        {
+          "text": "everybody",
+          "start": 68.3,
+          "end": 68.54,
+          "probability": 0.79
+        },
+        {
+          "text": "do",
+          "start": 68.76,
+          "end": 68.98,
+          "probability": 0.73
+        },
+        {
+          "text": "the",
+          "start": 68.98,
+          "end": 69.2,
+          "probability": 1.0
+        },
+        {
+          "text": "propaganda",
+          "start": 69.58,
+          "end": 69.94,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 72.98,
+      "end": 75.26,
+      "text": "And sing along to the age of paranoia",
+      "words": [
+        {
+          "text": "And",
+          "start": 72.98,
+          "end": 73.1,
+          "probability": 0.95
+        },
+        {
+          "text": "sing",
+          "start": 73.1,
+          "end": 73.34,
+          "probability": 1.0
+        },
+        {
+          "text": "along",
+          "start": 73.34,
+          "end": 73.62,
+          "probability": 0.99
+        },
+        {
+          "text": "to",
+          "start": 73.62,
+          "end": 73.76,
+          "probability": 0.89
+        },
+        {
+          "text": "the",
+          "start": 73.76,
+          "end": 73.9,
+          "probability": 0.92
+        },
+        {
+          "text": "age",
+          "start": 73.9,
+          "end": 74.28,
+          "probability": 0.69
+        },
+        {
+          "text": "of",
+          "start": 74.28,
+          "end": 74.46,
+          "probability": 1.0
+        },
+        {
+          "text": "paranoia",
+          "start": 74.46,
+          "end": 75.26,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 78.12,
+      "end": 80.4,
+      "text": "Welcome to a new kind of tension",
+      "words": [
+        {
+          "text": "Welcome",
+          "start": 78.12,
+          "end": 78.54,
+          "probability": 0.85
+        },
+        {
+          "text": "to",
+          "start": 78.54,
+          "end": 78.8,
+          "probability": 1.0
+        },
+        {
+          "text": "a",
+          "start": 78.8,
+          "end": 79.1,
+          "probability": 0.72
+        },
+        {
+          "text": "new",
+          "start": 79.1,
+          "end": 79.4,
+          "probability": 0.99
+        },
+        {
+          "text": "kind",
+          "start": 79.4,
+          "end": 79.76,
+          "probability": 0.96
+        },
+        {
+          "text": "of",
+          "start": 79.88,
+          "end": 79.98,
+          "probability": 0.85
+        },
+        {
+          "text": "tension",
+          "start": 79.94,
+          "end": 80.4,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "start": 80.4,
+      "end": 83.04,
+      "text": "All across the area, a new show",
+      "words": [
+        {
+          "text": "All",
+          "start": 80.4,
+          "end": 81.06,
+          "probability": 0.73
+        },
+        {
+          "text": "across",
+          "start": 81.18,
+          "end": 81.44,
+          "probability": 0.99
+        },
+        {
+          "text": "the",
+          "start": 81.44,
+          "end": 81.74,
+          "probability": 0.99
+        },
+        {
+          "text": "area,",
+          "start": 81.74,
+          "end": 82.1,
+          "probability": 0.89
+        },
+        {
+          "text": "a",
+          "start": 82.1,
+          "end": 82.58,
+          "probability": 0.16
+        },
+        {
+          "text": "new",
+          "start": 82.58,
+          "end": 82.7,
+          "probability": 0.63
+        },
+        {
+          "text": "show",
+          "start": 82.7,
+          "end": 83.04,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "start": 83.04,
+      "end": 85.98,
+      "text": "Where everything is meant to be okay",
+      "words": [
+        {
+          "text": "Where",
+          "start": 83.04,
+          "end": 83.54,
+          "probability": 0.83
+        },
+        {
+          "text": "everything",
+          "start": 83.54,
+          "end": 83.88,
+          "probability": 1.0
+        },
+        {
+          "text": "is",
+          "start": 83.88,
+          "end": 84.16,
+          "probability": 0.91
+        },
+        {
+          "text": "meant",
+          "start": 84.16,
+          "end": 84.46,
+          "probability": 0.96
+        },
+        {
+          "text": "to",
+          "start": 84.46,
+          "end": 84.82,
+          "probability": 1.0
+        },
+        {
+          "text": "be",
+          "start": 84.96,
+          "end": 85.24,
+          "probability": 1.0
+        },
+        {
+          "text": "okay",
+          "start": 85.68,
+          "end": 85.98,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "start": 88.6,
+      "end": 90.68,
+      "text": "Don't think you're dreams of tomorrow",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 88.6,
+          "end": 88.94,
+          "probability": 0.89
+        },
+        {
+          "text": "think",
+          "start": 88.94,
+          "end": 89.08,
+          "probability": 0.25
+        },
+        {
+          "text": "you're",
+          "start": 89.08,
+          "end": 89.34,
+          "probability": 0.45
+        },
+        {
+          "text": "dreams",
+          "start": 89.34,
+          "end": 89.78,
+          "probability": 0.23
+        },
+        {
+          "text": "of",
+          "start": 89.78,
+          "end": 90.02,
+          "probability": 0.62
+        },
+        {
+          "text": "tomorrow",
+          "start": 90.02,
+          "end": 90.68,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 91.2,
+      "end": 93.2,
+      "text": "We're not the ones I'm meant to follow",
+      "words": [
+        {
+          "text": "We're",
+          "start": 91.2,
+          "end": 91.46,
+          "probability": 0.85
+        },
+        {
+          "text": "not",
+          "start": 91.46,
+          "end": 91.74,
+          "probability": 0.79
+        },
+        {
+          "text": "the",
+          "start": 91.84,
+          "end": 91.98,
+          "probability": 0.81
+        },
+        {
+          "text": "ones",
+          "start": 91.98,
+          "end": 92.32,
+          "probability": 0.99
+        },
+        {
+          "text": "I'm",
+          "start": 92.32,
+          "end": 92.56,
+          "probability": 0.65
+        },
+        {
+          "text": "meant",
+          "start": 92.56,
+          "end": 92.72,
+          "probability": 0.99
+        },
+        {
+          "text": "to",
+          "start": 92.72,
+          "end": 92.84,
+          "probability": 1.0
+        },
+        {
+          "text": "follow",
+          "start": 92.84,
+          "end": 93.2,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "start": 93.2,
+      "end": 95.98,
+      "text": "Hey, that's enough to work you",
+      "words": [
+        {
+          "text": "Hey,",
+          "start": 93.2,
+          "end": 94.04,
+          "probability": 0.19
+        },
+        {
+          "text": "that's",
+          "start": 94.28,
+          "end": 94.42,
+          "probability": 1.0
+        },
+        {
+          "text": "enough",
+          "start": 94.42,
+          "end": 94.86,
+          "probability": 1.0
+        },
+        {
+          "text": "to",
+          "start": 94.86,
+          "end": 95.18,
+          "probability": 0.99
+        },
+        {
+          "text": "work",
+          "start": 95.54,
+          "end": 95.64,
+          "probability": 0.42
+        },
+        {
+          "text": "you",
+          "start": 95.64,
+          "end": 95.98,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "start": 96.98,
+      "end": 130.08,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "🎶",
+          "start": 96.98,
+          "end": 130.08,
+          "probability": 1.0,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 132.36,
+      "end": 134.62,
+      "text": "So what have you been a mad kind of idiot?",
+      "words": [
+        {
+          "text": "So",
+          "start": 132.36,
+          "end": 132.52,
+          "probability": 0.5
+        },
+        {
+          "text": "what",
+          "start": 132.52,
+          "end": 132.72,
+          "probability": 0.35
+        },
+        {
+          "text": "have",
+          "start": 132.72,
+          "end": 132.86,
+          "probability": 0.56
+        },
+        {
+          "text": "you",
+          "start": 132.86,
+          "end": 133.06,
+          "probability": 0.23
+        },
+        {
+          "text": "been",
+          "start": 133.06,
+          "end": 133.24,
+          "probability": 0.99
+        },
+        {
+          "text": "a",
+          "start": 133.24,
+          "end": 133.36,
+          "probability": 0.89
+        },
+        {
+          "text": "mad",
+          "start": 133.78,
+          "end": 133.88,
+          "probability": 0.68
+        },
+        {
+          "text": "kind",
+          "start": 133.82,
+          "end": 134.1,
+          "probability": 0.88
+        },
+        {
+          "text": "of",
+          "start": 134.1,
+          "end": 134.32,
+          "probability": 0.59
+        },
+        {
+          "text": "idiot?",
+          "start": 134.32,
+          "end": 134.62,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "start": 135.1,
+      "end": 137.2,
+      "text": "One nation controlled by the media",
+      "words": [
+        {
+          "text": "One",
+          "start": 135.1,
+          "end": 135.36,
+          "probability": 0.86
+        },
+        {
+          "text": "nation",
+          "start": 135.36,
+          "end": 135.7,
+          "probability": 0.95
+        },
+        {
+          "text": "controlled",
+          "start": 135.9,
+          "end": 136.04,
+          "probability": 0.95
+        },
+        {
+          "text": "by",
+          "start": 136.28,
+          "end": 136.52,
+          "probability": 1.0
+        },
+        {
+          "text": "the",
+          "start": 136.52,
+          "end": 136.72,
+          "probability": 0.99
+        },
+        {
+          "text": "media",
+          "start": 136.72,
+          "end": 137.2,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "start": 137.7,
+      "end": 139.94,
+      "text": "Information nature of hysteria",
+      "words": [
+        {
+          "text": "Information",
+          "start": 137.7,
+          "end": 138.12,
+          "probability": 0.8
+        },
+        {
+          "text": "nature",
+          "start": 138.54,
+          "end": 138.9,
+          "probability": 0.48
+        },
+        {
+          "text": "of",
+          "start": 139.14,
+          "end": 139.24,
+          "probability": 0.79
+        },
+        {
+          "text": "hysteria",
+          "start": 139.2,
+          "end": 139.94,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "start": 139.94,
+      "end": 142.28,
+      "text": "Is calling out to idiot America",
+      "words": [
+        {
+          "text": "Is",
+          "start": 139.94,
+          "end": 140.26,
+          "probability": 0.53
+        },
+        {
+          "text": "calling",
+          "start": 140.26,
+          "end": 140.58,
+          "probability": 0.97
+        },
+        {
+          "text": "out",
+          "start": 140.58,
+          "end": 140.9,
+          "probability": 1.0
+        },
+        {
+          "text": "to",
+          "start": 140.9,
+          "end": 141.08,
+          "probability": 0.97
+        },
+        {
+          "text": "idiot",
+          "start": 141.08,
+          "end": 141.66,
+          "probability": 0.9
+        },
+        {
+          "text": "America",
+          "start": 141.94,
+          "end": 142.28,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "start": 142.68,
+      "end": 144.92,
+      "text": "Welcome to a new kind of tension",
+      "words": [
+        {
+          "text": "Welcome",
+          "start": 142.68,
+          "end": 143.1,
+          "probability": 0.93
+        },
+        {
+          "text": "to",
+          "start": 143.1,
+          "end": 143.36,
+          "probability": 1.0
+        },
+        {
+          "text": "a",
+          "start": 143.36,
+          "end": 143.64,
+          "probability": 0.8
+        },
+        {
+          "text": "new",
+          "start": 143.64,
+          "end": 143.9,
+          "probability": 1.0
+        },
+        {
+          "text": "kind",
+          "start": 143.9,
+          "end": 144.32,
+          "probability": 0.98
+        },
+        {
+          "text": "of",
+          "start": 144.32,
+          "end": 144.54,
+          "probability": 0.84
+        },
+        {
+          "text": "tension",
+          "start": 144.54,
+          "end": 144.92,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "start": 145.44,
+      "end": 147.46,
+      "text": "All across the alien nation",
+      "words": [
+        {
+          "text": "All",
+          "start": 145.44,
+          "end": 145.62,
+          "probability": 0.96
+        },
+        {
+          "text": "across",
+          "start": 145.74,
+          "end": 145.98,
+          "probability": 1.0
+        },
+        {
+          "text": "the",
+          "start": 145.98,
+          "end": 146.3,
+          "probability": 0.99
+        },
+        {
+          "text": "alien",
+          "start": 146.3,
+          "end": 146.78,
+          "probability": 0.99
+        },
+        {
+          "text": "nation",
+          "start": 147.02,
+          "end": 147.46,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "start": 148.38,
+      "end": 150.54,
+      "text": "Everything is meant to be okay",
+      "words": [
+        {
+          "text": "Everything",
+          "start": 148.38,
+          "end": 148.5,
+          "probability": 0.97
+        },
+        {
+          "text": "is",
+          "start": 148.5,
+          "end": 148.72,
+          "probability": 0.75
+        },
+        {
+          "text": "meant",
+          "start": 148.72,
+          "end": 149.0,
+          "probability": 0.77
+        },
+        {
+          "text": "to",
+          "start": 149.0,
+          "end": 149.4,
+          "probability": 1.0
+        },
+        {
+          "text": "be",
+          "start": 149.52,
+          "end": 149.82,
+          "probability": 1.0
+        },
+        {
+          "text": "okay",
+          "start": 150.26,
+          "end": 150.54,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "start": 153.18,
+      "end": 155.24,
+      "text": "Tell a piece like dreams of tomorrow",
+      "words": [
+        {
+          "text": "Tell",
+          "start": 153.18,
+          "end": 153.38,
+          "probability": 0.31
+        },
+        {
+          "text": "a",
+          "start": 153.38,
+          "end": 153.52,
+          "probability": 0.28
+        },
+        {
+          "text": "piece",
+          "start": 153.52,
+          "end": 153.7,
+          "probability": 0.23
+        },
+        {
+          "text": "like",
+          "start": 153.7,
+          "end": 153.94,
+          "probability": 0.92
+        },
+        {
+          "text": "dreams",
+          "start": 153.94,
+          "end": 154.32,
+          "probability": 0.98
+        },
+        {
+          "text": "of",
+          "start": 154.32,
+          "end": 154.64,
+          "probability": 0.97
+        },
+        {
+          "text": "tomorrow",
+          "start": 154.64,
+          "end": 155.24,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "start": 155.78,
+      "end": 157.78,
+      "text": "We're not the ones we're meant to follow",
+      "words": [
+        {
+          "text": "We're",
+          "start": 155.78,
+          "end": 156.08,
+          "probability": 0.97
+        },
+        {
+          "text": "not",
+          "start": 156.08,
+          "end": 156.32,
+          "probability": 0.99
+        },
+        {
+          "text": "the",
+          "start": 156.32,
+          "end": 156.56,
+          "probability": 1.0
+        },
+        {
+          "text": "ones",
+          "start": 156.56,
+          "end": 156.92,
+          "probability": 0.95
+        },
+        {
+          "text": "we're",
+          "start": 156.92,
+          "end": 157.14,
+          "probability": 0.32
+        },
+        {
+          "text": "meant",
+          "start": 157.14,
+          "end": 157.26,
+          "probability": 0.93
+        },
+        {
+          "text": "to",
+          "start": 157.26,
+          "end": 157.36,
+          "probability": 1.0
+        },
+        {
+          "text": "follow",
+          "start": 157.36,
+          "end": 157.78,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 157.78,
+      "end": 160.32,
+      "text": "For less enough to argue",
+      "words": [
+        {
+          "text": "For",
+          "start": 157.78,
+          "end": 158.58,
+          "probability": 0.84
+        },
+        {
+          "text": "less",
+          "start": 158.86,
+          "end": 158.96,
+          "probability": 0.49
+        },
+        {
+          "text": "enough",
+          "start": 158.94,
+          "end": 159.4,
+          "probability": 0.92
+        },
+        {
+          "text": "to",
+          "start": 159.4,
+          "end": 159.86,
+          "probability": 1.0
+        },
+        {
+          "text": "argue",
+          "start": 160.14,
+          "end": 160.32,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "start": 169.54,
+      "end": 171.7,
+      "text": "We'll be right back.",
+      "words": [
+        {
+          "text": "We'll",
+          "start": 169.54,
+          "end": 170.6,
+          "probability": 0.49
+        },
+        {
+          "text": "be",
+          "start": 170.6,
+          "end": 171.66,
+          "probability": 0.55
+        },
+        {
+          "text": "right",
+          "start": 171.66,
+          "end": 171.66,
+          "probability": 0.89
+        },
+        {
+          "text": "back.",
+          "start": 171.66,
+          "end": 171.7,
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "text": "Don't want to be an American idiot Don't want a nation under the new media Hey can you hear the sound of hysteria The subliminal mind, fuck America Welcome to a new kind of tension All across the alien nation Everything isn't meant to be okay Television dreams of tomorrow We're not the ones I'm meant to follow But that's enough to argue Well, maybe I'm the faggot of America I'm not a part of a redneck agenda Now everybody do the propaganda And sing along to the age of paranoia Welcome to a new kind of tension All across the area, a new show Where everything is meant to be okay Don't think you're dreams of tomorrow We're not the ones I'm meant to follow Hey, that's enough to work you So what have you been a mad kind of idiot? One nation controlled by the media Information nature of hysteria Is calling out to idiot America Welcome to a new kind of tension All across the alien nation Everything is meant to be okay Tell a piece like dreams of tomorrow We're not the ones we're meant to follow For less enough to argue We'll be right back."
+}

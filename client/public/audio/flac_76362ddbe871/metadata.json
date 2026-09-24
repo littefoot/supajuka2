@@ -1,0 +1,19 @@
+{
+  "id": "flac_76362ddbe871",
+  "source": "local",
+  "title": "Give Me Novacaine",
+  "artist": "Green Day",
+  "album": "American Idiot (20th\u00a0Anniversary Deluxe Edition)",
+  "duration": 206,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 192000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_76362ddbe871/cover.jpg",
+  "cachedAt": 1789523850062,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_76362ddbe871/original.flac",
+  "instrumentalUrl": "/audio/flac_76362ddbe871/instrumental.flac",
+  "vocalsUrl": "/audio/flac_76362ddbe871/vocals.flac"
+}

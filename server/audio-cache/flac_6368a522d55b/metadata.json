@@ -1,0 +1,19 @@
+{
+  "id": "flac_6368a522d55b",
+  "source": "local",
+  "title": "Zanzibar",
+  "artist": "Billy Joel",
+  "album": "50 Years of the Piano Man",
+  "duration": 312,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_6368a522d55b/cover.jpg",
+  "cachedAt": 1790186779470,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_6368a522d55b/original.flac",
+  "instrumentalUrl": "/audio/flac_6368a522d55b/instrumental.flac",
+  "vocalsUrl": "/audio/flac_6368a522d55b/vocals.flac"
+}

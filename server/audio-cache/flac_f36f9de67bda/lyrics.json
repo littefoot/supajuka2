@@ -1,0 +1,2193 @@
+{
+  "language": "en",
+  "duration": 178,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 8.05,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 8.05,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 8.05,
+      "end": 10.58,
+      "text": "What's the matter with the clothes I'm wearing?",
+      "words": [
+        {
+          "text": "What's",
+          "start": 8.05,
+          "end": 8.43,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 8.43,
+          "end": 8.62,
+          "probability": 1
+        },
+        {
+          "text": "matter",
+          "start": 8.62,
+          "end": 9,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 9,
+          "end": 9.25,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 9.25,
+          "end": 9.44,
+          "probability": 1
+        },
+        {
+          "text": "clothes",
+          "start": 9.44,
+          "end": 9.88,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 9.88,
+          "end": 10.07,
+          "probability": 1
+        },
+        {
+          "text": "wearing?",
+          "start": 10.07,
+          "end": 10.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 10.84,
+      "end": 14.47,
+      "text": "Can't you tell that your tie's too wide?",
+      "words": [
+        {
+          "text": "Can't",
+          "start": 10.84,
+          "end": 11.39,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 11.39,
+          "end": 11.72,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 11.72,
+          "end": 12.16,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 12.16,
+          "end": 12.6,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 12.6,
+          "end": 13.04,
+          "probability": 1
+        },
+        {
+          "text": "tie's",
+          "start": 13.04,
+          "end": 13.59,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 13.59,
+          "end": 13.92,
+          "probability": 1
+        },
+        {
+          "text": "wide?",
+          "start": 13.92,
+          "end": 14.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 14.91,
+      "end": 17.63,
+      "text": "Maybe I should buy some old tab collars?",
+      "words": [
+        {
+          "text": "Maybe",
+          "start": 14.91,
+          "end": 15.32,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 15.32,
+          "end": 15.44,
+          "probability": 1
+        },
+        {
+          "text": "should",
+          "start": 15.44,
+          "end": 15.93,
+          "probability": 1
+        },
+        {
+          "text": "buy",
+          "start": 15.93,
+          "end": 16.17,
+          "probability": 1
+        },
+        {
+          "text": "some",
+          "start": 16.17,
+          "end": 16.5,
+          "probability": 1
+        },
+        {
+          "text": "old",
+          "start": 16.5,
+          "end": 16.74,
+          "probability": 1
+        },
+        {
+          "text": "tab",
+          "start": 16.74,
+          "end": 16.98,
+          "probability": 1
+        },
+        {
+          "text": "collars?",
+          "start": 16.98,
+          "end": 17.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 17.85,
+      "end": 21.61,
+      "text": "Welcome back to the age of jive",
+      "words": [
+        {
+          "text": "Welcome",
+          "start": 17.85,
+          "end": 18.91,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 18.91,
+          "end": 19.51,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 19.51,
+          "end": 19.81,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 19.81,
+          "end": 20.26,
+          "probability": 1
+        },
+        {
+          "text": "age",
+          "start": 20.26,
+          "end": 20.71,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 20.71,
+          "end": 21.01,
+          "probability": 1
+        },
+        {
+          "text": "jive",
+          "start": 21.01,
+          "end": 21.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 21.88,
+      "end": 23.89,
+      "text": "Where have you been hidin' out lately, honey?",
+      "words": [
+        {
+          "text": "Where",
+          "start": 21.88,
+          "end": 22.14,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 22.14,
+          "end": 22.35,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 22.35,
+          "end": 22.51,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 22.51,
+          "end": 22.72,
+          "probability": 1
+        },
+        {
+          "text": "hidin'",
+          "start": 22.72,
+          "end": 23.04,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 23.04,
+          "end": 23.2,
+          "probability": 1
+        },
+        {
+          "text": "lately,",
+          "start": 23.2,
+          "end": 23.57,
+          "probability": 1
+        },
+        {
+          "text": "honey?",
+          "start": 23.57,
+          "end": 23.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 24.13,
+      "end": 27.53,
+      "text": "You can't dress trashy till you spend a lot of money",
+      "words": [
+        {
+          "text": "You",
+          "start": 24.13,
+          "end": 24.37,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 24.37,
+          "end": 24.77,
+          "probability": 1
+        },
+        {
+          "text": "dress",
+          "start": 24.77,
+          "end": 25.17,
+          "probability": 1
+        },
+        {
+          "text": "trashy",
+          "start": 25.17,
+          "end": 25.65,
+          "probability": 1
+        },
+        {
+          "text": "till",
+          "start": 25.65,
+          "end": 25.97,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 25.97,
+          "end": 26.21,
+          "probability": 1
+        },
+        {
+          "text": "spend",
+          "start": 26.21,
+          "end": 26.61,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 26.61,
+          "end": 26.73,
+          "probability": 1
+        },
+        {
+          "text": "lot",
+          "start": 26.73,
+          "end": 26.97,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 26.97,
+          "end": 27.13,
+          "probability": 1
+        },
+        {
+          "text": "money",
+          "start": 27.13,
+          "end": 27.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 27.76,
+      "end": 30.28,
+      "text": "Everybody's talkin' 'bout the new sound",
+      "words": [
+        {
+          "text": "Everybody's",
+          "start": 27.76,
+          "end": 28.58,
+          "probability": 1
+        },
+        {
+          "text": "talkin'",
+          "start": 28.58,
+          "end": 29.1,
+          "probability": 1
+        },
+        {
+          "text": "'bout",
+          "start": 29.1,
+          "end": 29.47,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 29.47,
+          "end": 29.69,
+          "probability": 1
+        },
+        {
+          "text": "new",
+          "start": 29.69,
+          "end": 29.91,
+          "probability": 1
+        },
+        {
+          "text": "sound",
+          "start": 29.91,
+          "end": 30.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 30.55,
+      "end": 34.61,
+      "text": "Funny, but it's still rock and roll to me",
+      "words": [
+        {
+          "text": "Funny,",
+          "start": 30.55,
+          "end": 31.29,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 31.29,
+          "end": 31.66,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 31.66,
+          "end": 32.15,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 32.15,
+          "end": 32.76,
+          "probability": 1
+        },
+        {
+          "text": "rock",
+          "start": 32.76,
+          "end": 33.25,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 33.25,
+          "end": 33.62,
+          "probability": 1
+        },
+        {
+          "text": "roll",
+          "start": 33.62,
+          "end": 34.11,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 34.11,
+          "end": 34.36,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 34.36,
+          "end": 34.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 36.69,
+      "end": 39.19,
+      "text": "What's the matter with the car I'm driving?",
+      "words": [
+        {
+          "text": "What's",
+          "start": 36.69,
+          "end": 37.1,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 37.1,
+          "end": 37.31,
+          "probability": 1
+        },
+        {
+          "text": "matter",
+          "start": 37.31,
+          "end": 37.73,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 37.73,
+          "end": 38.01,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 38.01,
+          "end": 38.22,
+          "probability": 1
+        },
+        {
+          "text": "car",
+          "start": 38.22,
+          "end": 38.43,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 38.43,
+          "end": 38.64,
+          "probability": 1
+        },
+        {
+          "text": "driving?",
+          "start": 38.64,
+          "end": 39.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 39.43,
+      "end": 43.02,
+      "text": "Can't you tell that it's out of style?",
+      "words": [
+        {
+          "text": "Can't",
+          "start": 39.43,
+          "end": 40.01,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 40.01,
+          "end": 40.36,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 40.36,
+          "end": 40.82,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 40.82,
+          "end": 41.28,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 41.28,
+          "end": 41.74,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 41.74,
+          "end": 42.09,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 42.09,
+          "end": 42.32,
+          "probability": 1
+        },
+        {
+          "text": "style?",
+          "start": 42.32,
+          "end": 43.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 43.46,
+      "end": 46.18,
+      "text": "Should I get a set of white wall tires?",
+      "words": [
+        {
+          "text": "Should",
+          "start": 43.46,
+          "end": 43.97,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 43.97,
+          "end": 44.09,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 44.09,
+          "end": 44.35,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 44.35,
+          "end": 44.47,
+          "probability": 1
+        },
+        {
+          "text": "set",
+          "start": 44.47,
+          "end": 44.73,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 44.73,
+          "end": 44.9,
+          "probability": 1
+        },
+        {
+          "text": "white",
+          "start": 44.9,
+          "end": 45.33,
+          "probability": 1
+        },
+        {
+          "text": "wall",
+          "start": 45.33,
+          "end": 45.67,
+          "probability": 1
+        },
+        {
+          "text": "tires?",
+          "start": 45.67,
+          "end": 46.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 46.37,
+      "end": 50.21,
+      "text": "Are you gonna cruise the miracle mile?",
+      "words": [
+        {
+          "text": "Are",
+          "start": 46.37,
+          "end": 46.73,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 46.73,
+          "end": 47.09,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 47.09,
+          "end": 47.69,
+          "probability": 1
+        },
+        {
+          "text": "cruise",
+          "start": 47.69,
+          "end": 48.41,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 48.41,
+          "end": 48.77,
+          "probability": 1
+        },
+        {
+          "text": "miracle",
+          "start": 48.77,
+          "end": 49.61,
+          "probability": 1
+        },
+        {
+          "text": "mile?",
+          "start": 49.61,
+          "end": 50.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 50.45,
+      "end": 53.72,
+      "text": "Nowadays you can't be too sentimental",
+      "words": [
+        {
+          "text": "Nowadays",
+          "start": 50.45,
+          "end": 51.27,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 51.27,
+          "end": 51.58,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 51.58,
+          "end": 52.09,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 52.09,
+          "end": 52.29,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 52.29,
+          "end": 52.6,
+          "probability": 1
+        },
+        {
+          "text": "sentimental",
+          "start": 52.6,
+          "end": 53.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 53.96,
+      "end": 56.51,
+      "text": "Your best bet's a true baby blue continental",
+      "words": [
+        {
+          "text": "Your",
+          "start": 53.96,
+          "end": 54.23,
+          "probability": 1
+        },
+        {
+          "text": "best",
+          "start": 54.23,
+          "end": 54.5,
+          "probability": 1
+        },
+        {
+          "text": "bet's",
+          "start": 54.5,
+          "end": 54.84,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 54.84,
+          "end": 54.96,
+          "probability": 1
+        },
+        {
+          "text": "true",
+          "start": 54.96,
+          "end": 55.23,
+          "probability": 1
+        },
+        {
+          "text": "baby",
+          "start": 55.23,
+          "end": 55.5,
+          "probability": 1
+        },
+        {
+          "text": "blue",
+          "start": 55.5,
+          "end": 55.77,
+          "probability": 1
+        },
+        {
+          "text": "continental",
+          "start": 55.77,
+          "end": 56.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 56.7,
+      "end": 59.84,
+      "text": "Hot funk, cool punk, even if it's old junk",
+      "words": [
+        {
+          "text": "Hot",
+          "start": 56.7,
+          "end": 56.98,
+          "probability": 1
+        },
+        {
+          "text": "funk,",
+          "start": 56.98,
+          "end": 57.44,
+          "probability": 1
+        },
+        {
+          "text": "cool",
+          "start": 57.44,
+          "end": 57.81,
+          "probability": 1
+        },
+        {
+          "text": "punk,",
+          "start": 57.81,
+          "end": 58.27,
+          "probability": 1
+        },
+        {
+          "text": "even",
+          "start": 58.27,
+          "end": 58.64,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 58.64,
+          "end": 58.82,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 58.82,
+          "end": 59.19,
+          "probability": 1
+        },
+        {
+          "text": "old",
+          "start": 59.19,
+          "end": 59.47,
+          "probability": 1
+        },
+        {
+          "text": "junk",
+          "start": 59.47,
+          "end": 59.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 60.07,
+      "end": 63.23,
+      "text": "It's still rock and roll to me",
+      "words": [
+        {
+          "text": "It's",
+          "start": 60.07,
+          "end": 60.6,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 60.6,
+          "end": 61.26,
+          "probability": 1
+        },
+        {
+          "text": "rock",
+          "start": 61.26,
+          "end": 61.79,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 61.79,
+          "end": 62.18,
+          "probability": 1
+        },
+        {
+          "text": "roll",
+          "start": 62.18,
+          "end": 62.71,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 62.71,
+          "end": 62.97,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 62.97,
+          "end": 63.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 65.73,
+      "end": 67.97,
+      "text": "Oh, it doesn't matter what they say in the papers",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 65.73,
+          "end": 65.9,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 65.9,
+          "end": 66.02,
+          "probability": 1
+        },
+        {
+          "text": "doesn't",
+          "start": 66.02,
+          "end": 66.41,
+          "probability": 1
+        },
+        {
+          "text": "matter",
+          "start": 66.41,
+          "end": 66.74,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 66.74,
+          "end": 66.96,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 66.96,
+          "end": 67.18,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 67.18,
+          "end": 67.35,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 67.35,
+          "end": 67.47,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 67.47,
+          "end": 67.64,
+          "probability": 1
+        },
+        {
+          "text": "papers",
+          "start": 67.64,
+          "end": 67.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 68.2,
+      "end": 71.35,
+      "text": "'Cause it's always been the same old scene",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 68.2,
+          "end": 68.74,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 68.74,
+          "end": 69.1,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 69.1,
+          "end": 69.64,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 69.64,
+          "end": 70,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 70,
+          "end": 70.27,
+          "probability": 1
+        },
+        {
+          "text": "same",
+          "start": 70.27,
+          "end": 70.63,
+          "probability": 1
+        },
+        {
+          "text": "old",
+          "start": 70.63,
+          "end": 70.9,
+          "probability": 1
+        },
+        {
+          "text": "scene",
+          "start": 70.9,
+          "end": 71.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 71.58,
+      "end": 73.05,
+      "text": "There's a new band in town",
+      "words": [
+        {
+          "text": "There's",
+          "start": 71.58,
+          "end": 72.05,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 72.05,
+          "end": 72.17,
+          "probability": 1
+        },
+        {
+          "text": "new",
+          "start": 72.17,
+          "end": 72.37,
+          "probability": 1
+        },
+        {
+          "text": "band",
+          "start": 72.37,
+          "end": 72.64,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 72.64,
+          "end": 72.78,
+          "probability": 1
+        },
+        {
+          "text": "town",
+          "start": 72.78,
+          "end": 73.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 73.25,
+      "end": 78.79,
+      "text": "But, you can't get the sound from a story in a magazine",
+      "words": [
+        {
+          "text": "But,",
+          "start": 73.25,
+          "end": 73.75,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 73.75,
+          "end": 74.13,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 74.13,
+          "end": 74.76,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 74.76,
+          "end": 75.14,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 75.14,
+          "end": 75.52,
+          "probability": 1
+        },
+        {
+          "text": "sound",
+          "start": 75.52,
+          "end": 76.15,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 76.15,
+          "end": 76.65,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 76.65,
+          "end": 76.78,
+          "probability": 1
+        },
+        {
+          "text": "story",
+          "start": 76.78,
+          "end": 77.41,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 77.41,
+          "end": 77.66,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 77.66,
+          "end": 77.79,
+          "probability": 1
+        },
+        {
+          "text": "magazine",
+          "start": 77.79,
+          "end": 78.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 79.02,
+      "end": 82.44,
+      "text": "Aimed at your average teen",
+      "words": [
+        {
+          "text": "Aimed",
+          "start": 79.02,
+          "end": 79.8,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 79.8,
+          "end": 80.11,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 80.11,
+          "end": 80.73,
+          "probability": 1
+        },
+        {
+          "text": "average",
+          "start": 80.73,
+          "end": 81.82,
+          "probability": 1
+        },
+        {
+          "text": "teen",
+          "start": 81.82,
+          "end": 82.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 84.8,
+      "end": 87.05,
+      "text": "How about a pair of pink sidewinders",
+      "words": [
+        {
+          "text": "How",
+          "start": 84.8,
+          "end": 85.02,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 85.02,
+          "end": 85.39,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 85.39,
+          "end": 85.51,
+          "probability": 1
+        },
+        {
+          "text": "pair",
+          "start": 85.51,
+          "end": 85.8,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 85.8,
+          "end": 85.95,
+          "probability": 1
+        },
+        {
+          "text": "pink",
+          "start": 85.95,
+          "end": 86.24,
+          "probability": 1
+        },
+        {
+          "text": "sidewinders",
+          "start": 86.24,
+          "end": 87.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 87.25,
+      "end": 90.66,
+      "text": "And a bright orange pair of pants?",
+      "words": [
+        {
+          "text": "And",
+          "start": 87.25,
+          "end": 87.62,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 87.62,
+          "end": 87.74,
+          "probability": 1
+        },
+        {
+          "text": "bright",
+          "start": 87.74,
+          "end": 88.47,
+          "probability": 1
+        },
+        {
+          "text": "orange",
+          "start": 88.47,
+          "end": 89.2,
+          "probability": 1
+        },
+        {
+          "text": "pair",
+          "start": 89.2,
+          "end": 89.69,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 89.69,
+          "end": 89.93,
+          "probability": 1
+        },
+        {
+          "text": "pants?",
+          "start": 89.93,
+          "end": 90.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 91.21,
+      "end": 93.57,
+      "text": "You could really be a Beau Brummell baby",
+      "words": [
+        {
+          "text": "You",
+          "start": 91.21,
+          "end": 91.42,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 91.42,
+          "end": 91.77,
+          "probability": 1
+        },
+        {
+          "text": "really",
+          "start": 91.77,
+          "end": 92.19,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 92.19,
+          "end": 92.33,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 92.33,
+          "end": 92.45,
+          "probability": 1
+        },
+        {
+          "text": "Beau",
+          "start": 92.45,
+          "end": 92.73,
+          "probability": 1
+        },
+        {
+          "text": "Brummell",
+          "start": 92.73,
+          "end": 93.29,
+          "probability": 1
+        },
+        {
+          "text": "baby",
+          "start": 93.29,
+          "end": 93.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 93.77,
+      "end": 97.27,
+      "text": "If you just give it half a chance",
+      "words": [
+        {
+          "text": "If",
+          "start": 93.77,
+          "end": 94.04,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 94.04,
+          "end": 94.44,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 94.44,
+          "end": 94.98,
+          "probability": 1
+        },
+        {
+          "text": "give",
+          "start": 94.98,
+          "end": 95.52,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 95.52,
+          "end": 95.79,
+          "probability": 1
+        },
+        {
+          "text": "half",
+          "start": 95.79,
+          "end": 96.33,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 96.33,
+          "end": 96.46,
+          "probability": 1
+        },
+        {
+          "text": "chance",
+          "start": 96.46,
+          "end": 97.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 97.51,
+      "end": 100.55,
+      "text": "Don't waste your money on a new set of speakers",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 97.51,
+          "end": 97.9,
+          "probability": 1
+        },
+        {
+          "text": "waste",
+          "start": 97.9,
+          "end": 98.29,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 98.29,
+          "end": 98.61,
+          "probability": 1
+        },
+        {
+          "text": "money",
+          "start": 98.61,
+          "end": 99,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 99,
+          "end": 99.16,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 99.16,
+          "end": 99.28,
+          "probability": 1
+        },
+        {
+          "text": "new",
+          "start": 99.28,
+          "end": 99.52,
+          "probability": 1
+        },
+        {
+          "text": "set",
+          "start": 99.52,
+          "end": 99.76,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 99.76,
+          "end": 99.92,
+          "probability": 1
+        },
+        {
+          "text": "speakers",
+          "start": 99.92,
+          "end": 100.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 100.76,
+      "end": 103.86,
+      "text": "You get more mileage from a cheap pair of sneakers",
+      "words": [
+        {
+          "text": "You",
+          "start": 100.76,
+          "end": 100.98,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 100.98,
+          "end": 101.2,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 101.2,
+          "end": 101.5,
+          "probability": 1
+        },
+        {
+          "text": "mileage",
+          "start": 101.5,
+          "end": 102.02,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 102.02,
+          "end": 102.32,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 102.32,
+          "end": 102.44,
+          "probability": 1
+        },
+        {
+          "text": "cheap",
+          "start": 102.44,
+          "end": 102.81,
+          "probability": 1
+        },
+        {
+          "text": "pair",
+          "start": 102.81,
+          "end": 103.11,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 103.11,
+          "end": 103.26,
+          "probability": 1
+        },
+        {
+          "text": "sneakers",
+          "start": 103.26,
+          "end": 103.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 104.08,
+      "end": 107.24,
+      "text": "Next phase, new wave, dance craze, anyways",
+      "words": [
+        {
+          "text": "Next",
+          "start": 104.08,
+          "end": 104.43,
+          "probability": 1
+        },
+        {
+          "text": "phase,",
+          "start": 104.43,
+          "end": 104.96,
+          "probability": 1
+        },
+        {
+          "text": "new",
+          "start": 104.96,
+          "end": 105.22,
+          "probability": 1
+        },
+        {
+          "text": "wave,",
+          "start": 105.22,
+          "end": 105.66,
+          "probability": 1
+        },
+        {
+          "text": "dance",
+          "start": 105.66,
+          "end": 106.1,
+          "probability": 1
+        },
+        {
+          "text": "craze,",
+          "start": 106.1,
+          "end": 106.63,
+          "probability": 1
+        },
+        {
+          "text": "anyways",
+          "start": 106.63,
+          "end": 107.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 107.49,
+      "end": 110.65,
+      "text": "It's still rock and roll to me",
+      "words": [
+        {
+          "text": "It's",
+          "start": 107.49,
+          "end": 108.02,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 108.02,
+          "end": 108.68,
+          "probability": 1
+        },
+        {
+          "text": "rock",
+          "start": 108.68,
+          "end": 109.21,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 109.21,
+          "end": 109.6,
+          "probability": 1
+        },
+        {
+          "text": "roll",
+          "start": 109.6,
+          "end": 110.13,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 110.13,
+          "end": 110.39,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 110.39,
+          "end": 110.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 110.65,
+      "end": 133.47,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 110.65,
+          "end": 133.47,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 133.47,
+      "end": 135.65,
+      "text": "What's the matter with the crowd I'm seeing?",
+      "words": [
+        {
+          "text": "What's",
+          "start": 133.47,
+          "end": 133.82,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 133.82,
+          "end": 134,
+          "probability": 1
+        },
+        {
+          "text": "matter",
+          "start": 134,
+          "end": 134.35,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 134.35,
+          "end": 134.59,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 134.59,
+          "end": 134.77,
+          "probability": 1
+        },
+        {
+          "text": "crowd",
+          "start": 134.77,
+          "end": 135.06,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 135.06,
+          "end": 135.24,
+          "probability": 1
+        },
+        {
+          "text": "seeing?",
+          "start": 135.24,
+          "end": 135.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 135.9,
+      "end": 139.49,
+      "text": "Don't you know that they're out of touch?",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 135.9,
+          "end": 136.43,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 136.43,
+          "end": 136.75,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 136.75,
+          "end": 137.17,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 137.17,
+          "end": 137.59,
+          "probability": 1
+        },
+        {
+          "text": "they're",
+          "start": 137.59,
+          "end": 138.33,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 138.33,
+          "end": 138.65,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 138.65,
+          "end": 138.86,
+          "probability": 1
+        },
+        {
+          "text": "touch?",
+          "start": 138.86,
+          "end": 139.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 139.73,
+      "end": 142.46,
+      "text": "Should I try to be a straight 'A' student?",
+      "words": [
+        {
+          "text": "Should",
+          "start": 139.73,
+          "end": 140.2,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 140.2,
+          "end": 140.32,
+          "probability": 1
+        },
+        {
+          "text": "try",
+          "start": 140.32,
+          "end": 140.55,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 140.55,
+          "end": 140.71,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 140.71,
+          "end": 140.87,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 140.87,
+          "end": 140.99,
+          "probability": 1
+        },
+        {
+          "text": "straight",
+          "start": 140.99,
+          "end": 141.61,
+          "probability": 1
+        },
+        {
+          "text": "'A'",
+          "start": 141.61,
+          "end": 141.84,
+          "probability": 1
+        },
+        {
+          "text": "student?",
+          "start": 141.84,
+          "end": 142.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142.62,
+      "end": 146.05,
+      "text": "If you are then you think too much",
+      "words": [
+        {
+          "text": "If",
+          "start": 142.62,
+          "end": 142.87,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 142.87,
+          "end": 143.25,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 143.25,
+          "end": 143.63,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 143.63,
+          "end": 144.14,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 144.14,
+          "end": 144.52,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 144.52,
+          "end": 145.16,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 145.16,
+          "end": 145.54,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 145.54,
+          "end": 146.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.31,
+      "end": 149.05,
+      "text": "Don't you know about the new fashion honey?",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 146.31,
+          "end": 146.69,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 146.69,
+          "end": 146.92,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 146.92,
+          "end": 147.22,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 147.22,
+          "end": 147.6,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 147.6,
+          "end": 147.83,
+          "probability": 1
+        },
+        {
+          "text": "new",
+          "start": 147.83,
+          "end": 148.06,
+          "probability": 1
+        },
+        {
+          "text": "fashion",
+          "start": 148.06,
+          "end": 148.59,
+          "probability": 1
+        },
+        {
+          "text": "honey?",
+          "start": 148.59,
+          "end": 149.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 149.29,
+      "end": 152.38,
+      "text": "All you need are looks and a whole lotta money",
+      "words": [
+        {
+          "text": "All",
+          "start": 149.29,
+          "end": 149.54,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 149.54,
+          "end": 149.79,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 149.79,
+          "end": 150.12,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 150.12,
+          "end": 150.37,
+          "probability": 1
+        },
+        {
+          "text": "looks",
+          "start": 150.37,
+          "end": 150.78,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 150.78,
+          "end": 151.03,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 151.03,
+          "end": 151.15,
+          "probability": 1
+        },
+        {
+          "text": "whole",
+          "start": 151.15,
+          "end": 151.56,
+          "probability": 1
+        },
+        {
+          "text": "lotta",
+          "start": 151.56,
+          "end": 151.97,
+          "probability": 1
+        },
+        {
+          "text": "money",
+          "start": 151.97,
+          "end": 152.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 152.61,
+      "end": 156,
+      "text": "It's the next phase, new wave, dance craze, anyways",
+      "words": [
+        {
+          "text": "It's",
+          "start": 152.61,
+          "end": 152.93,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 152.93,
+          "end": 153.17,
+          "probability": 1
+        },
+        {
+          "text": "next",
+          "start": 153.17,
+          "end": 153.49,
+          "probability": 1
+        },
+        {
+          "text": "phase,",
+          "start": 153.49,
+          "end": 153.96,
+          "probability": 1
+        },
+        {
+          "text": "new",
+          "start": 153.96,
+          "end": 154.2,
+          "probability": 1
+        },
+        {
+          "text": "wave,",
+          "start": 154.2,
+          "end": 154.59,
+          "probability": 1
+        },
+        {
+          "text": "dance",
+          "start": 154.59,
+          "end": 154.98,
+          "probability": 1
+        },
+        {
+          "text": "craze,",
+          "start": 154.98,
+          "end": 155.45,
+          "probability": 1
+        },
+        {
+          "text": "anyways",
+          "start": 155.45,
+          "end": 156,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.25,
+      "end": 159.41,
+      "text": "It's still rock and roll to me",
+      "words": [
+        {
+          "text": "It's",
+          "start": 156.25,
+          "end": 156.78,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 156.78,
+          "end": 157.44,
+          "probability": 1
+        },
+        {
+          "text": "rock",
+          "start": 157.44,
+          "end": 157.97,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 157.97,
+          "end": 158.36,
+          "probability": 1
+        },
+        {
+          "text": "roll",
+          "start": 158.36,
+          "end": 158.89,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 158.89,
+          "end": 159.15,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 159.15,
+          "end": 159.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 159.65,
+      "end": 162.22,
+      "text": "Everybody's talkin' 'bout the new sound",
+      "words": [
+        {
+          "text": "Everybody's",
+          "start": 159.65,
+          "end": 160.48,
+          "probability": 1
+        },
+        {
+          "text": "talkin'",
+          "start": 160.48,
+          "end": 161.01,
+          "probability": 1
+        },
+        {
+          "text": "'bout",
+          "start": 161.01,
+          "end": 161.39,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 161.39,
+          "end": 161.61,
+          "probability": 1
+        },
+        {
+          "text": "new",
+          "start": 161.61,
+          "end": 161.84,
+          "probability": 1
+        },
+        {
+          "text": "sound",
+          "start": 161.84,
+          "end": 162.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 162.45,
+      "end": 166.19,
+      "text": "Funny, but it's still rock and roll to me",
+      "words": [
+        {
+          "text": "Funny,",
+          "start": 162.45,
+          "end": 163.13,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 163.13,
+          "end": 163.47,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 163.47,
+          "end": 163.92,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 163.92,
+          "end": 164.49,
+          "probability": 1
+        },
+        {
+          "text": "rock",
+          "start": 164.49,
+          "end": 164.94,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 164.94,
+          "end": 165.28,
+          "probability": 1
+        },
+        {
+          "text": "roll",
+          "start": 165.28,
+          "end": 165.73,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 165.73,
+          "end": 165.96,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 165.96,
+          "end": 166.19,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "What's the matter with the clothes I'm wearing? Can't you tell that your tie's too wide? Maybe I should buy some old tab collars? Welcome back to the age of jive Where have you been hidin' out lately, honey? You can't dress trashy till you spend a lot of money Everybody's talkin' 'bout the new sound Funny, but it's still rock and roll to me What's the matter with the car I'm driving? Can't you tell that it's out of style? Should I get a set of white wall tires? Are you gonna cruise the miracle mile? Nowadays you can't be too sentimental Your best bet's a true baby blue continental Hot funk, cool punk, even if it's old junk It's still rock and roll to me Oh, it doesn't matter what they say in the papers 'Cause it's always been the same old scene There's a new band in town But, you can't get the sound from a story in a magazine Aimed at your average teen How about a pair of pink sidewinders And a bright orange pair of pants? You could really be a Beau Brummell baby If you just give it half a chance Don't waste your money on a new set of speakers You get more mileage from a cheap pair of sneakers Next phase, new wave, dance craze, anyways It's still rock and roll to me What's the matter with the crowd I'm seeing? Don't you know that they're out of touch? Should I try to be a straight 'A' student? If you are then you think too much Don't you know about the new fashion honey? All you need are looks and a whole lotta money It's the next phase, new wave, dance craze, anyways It's still rock and roll to me Everybody's talkin' 'bout the new sound Funny, but it's still rock and roll to me"
+}

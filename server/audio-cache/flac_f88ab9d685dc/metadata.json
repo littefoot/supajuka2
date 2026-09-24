@@ -1,0 +1,19 @@
+{
+  "id": "flac_f88ab9d685dc",
+  "source": "local",
+  "title": "Vienna",
+  "artist": "Billy Joel",
+  "album": "50 Years of the Piano Man",
+  "duration": 214,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_f88ab9d685dc/cover.jpg",
+  "cachedAt": 1790186552667,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_f88ab9d685dc/original.flac",
+  "instrumentalUrl": "/audio/flac_f88ab9d685dc/instrumental.flac",
+  "vocalsUrl": "/audio/flac_f88ab9d685dc/vocals.flac"
+}

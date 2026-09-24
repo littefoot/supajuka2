@@ -69,7 +69,7 @@ export class WasmAudioEngine {
 
     this.analyser = this.ctx.createAnalyser();
     this.analyser.fftSize = 128;
-    this.analyser.smoothingTimeConstant = 0.8;
+    this.analyser.smoothingTimeConstant = 0.45;
 
     // Initialize Tone PitchShift with tight 50ms window (avoids 100ms hollow comb filter)
     this.pitchShift = new Tone.PitchShift({
@@ -141,8 +141,12 @@ export class WasmAudioEngine {
 
   public async loadSong(song: SongMetadata) {
     await this.initialize();
-    if (this.ctx && this.ctx.state === 'suspended') {
-      await this.ctx.resume();
+    try {
+      if (this.ctx && this.ctx.state === 'suspended') {
+        await this.ctx.resume();
+      }
+    } catch (e) {
+      // AudioContext will resume on first user interaction
     }
 
     this.updateState({ isLoading: true, isPlaying: false });
@@ -173,6 +177,36 @@ export class WasmAudioEngine {
       duration: song.duration || 0,
       isPlaying: false,
     });
+  }
+
+  public async updateStems(song: SongMetadata) {
+    if (!this.instrumentalAudio || !this.vocalsAudio) return;
+    const curTime = this.instrumentalAudio.currentTime;
+    const wasPlaying = this.state.isPlaying;
+
+    const instUrl = song.instrumentalUrl || song.originalUrl;
+    const vocalsUrl = song.vocalsUrl || '';
+
+    let changed = false;
+    const targetInst = new URL(instUrl, window.location.origin).href;
+    if (this.instrumentalAudio.src !== targetInst) {
+      this.instrumentalAudio.src = instUrl;
+      this.instrumentalAudio.currentTime = curTime;
+      changed = true;
+    }
+
+    if (vocalsUrl) {
+      const targetVoc = new URL(vocalsUrl, window.location.origin).href;
+      if (this.vocalsAudio.src !== targetVoc) {
+        this.vocalsAudio.src = vocalsUrl;
+        this.vocalsAudio.currentTime = curTime;
+        changed = true;
+      }
+    }
+
+    if (changed && wasPlaying) {
+      await this.play();
+    }
   }
 
   public async play() {

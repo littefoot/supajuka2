@@ -1,0 +1,1969 @@
+{
+  "language": "en",
+  "duration": 262,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 22.4,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 22.4,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 22.4,
+      "end": 26.88,
+      "text": "Today is gonna be the day that they're gonna throw it back to you",
+      "words": [
+        {
+          "text": "Today",
+          "start": 22.4,
+          "end": 22.83,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 22.83,
+          "end": 23,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 23,
+          "end": 23.43,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 23.43,
+          "end": 23.6,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 23.6,
+          "end": 23.86,
+          "probability": 1
+        },
+        {
+          "text": "day",
+          "start": 23.86,
+          "end": 24.12,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 24.12,
+          "end": 24.47,
+          "probability": 1
+        },
+        {
+          "text": "they're",
+          "start": 24.47,
+          "end": 25.07,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 25.07,
+          "end": 25.5,
+          "probability": 1
+        },
+        {
+          "text": "throw",
+          "start": 25.5,
+          "end": 25.93,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 25.93,
+          "end": 26.1,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 26.1,
+          "end": 26.45,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 26.45,
+          "end": 26.62,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 26.62,
+          "end": 26.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 27.14,
+      "end": 32.04,
+      "text": "And by now, you should've somehow realised what you gotta do",
+      "words": [
+        {
+          "text": "And",
+          "start": 27.14,
+          "end": 27.43,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 27.43,
+          "end": 27.63,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 27.63,
+          "end": 28.02,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 28.02,
+          "end": 28.31,
+          "probability": 1
+        },
+        {
+          "text": "should've",
+          "start": 28.31,
+          "end": 29.19,
+          "probability": 1
+        },
+        {
+          "text": "somehow",
+          "start": 29.19,
+          "end": 29.88,
+          "probability": 1
+        },
+        {
+          "text": "realised",
+          "start": 29.88,
+          "end": 30.67,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 30.67,
+          "end": 31.06,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 31.06,
+          "end": 31.35,
+          "probability": 1
+        },
+        {
+          "text": "gotta",
+          "start": 31.35,
+          "end": 31.84,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 31.84,
+          "end": 32.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 32.3,
+      "end": 39.52,
+      "text": "I don't believe that anybody feels the way I do about you now",
+      "words": [
+        {
+          "text": "I",
+          "start": 32.3,
+          "end": 32.45,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 32.45,
+          "end": 33.19,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 33.19,
+          "end": 34.22,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 34.22,
+          "end": 34.81,
+          "probability": 1
+        },
+        {
+          "text": "anybody",
+          "start": 34.81,
+          "end": 35.84,
+          "probability": 1
+        },
+        {
+          "text": "feels",
+          "start": 35.84,
+          "end": 36.58,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 36.58,
+          "end": 37.02,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 37.02,
+          "end": 37.46,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 37.46,
+          "end": 37.61,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 37.61,
+          "end": 37.9,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 37.9,
+          "end": 38.64,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 38.64,
+          "end": 39.08,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 39.08,
+          "end": 39.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 43.87,
+      "end": 48.79,
+      "text": "And backbeat, the word is on the street that the fire in your heart is out",
+      "words": [
+        {
+          "text": "And",
+          "start": 43.87,
+          "end": 44.12,
+          "probability": 1
+        },
+        {
+          "text": "backbeat,",
+          "start": 44.12,
+          "end": 44.87,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 44.87,
+          "end": 45.12,
+          "probability": 1
+        },
+        {
+          "text": "word",
+          "start": 45.12,
+          "end": 45.45,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 45.45,
+          "end": 45.62,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 45.62,
+          "end": 45.79,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 45.79,
+          "end": 46.04,
+          "probability": 1
+        },
+        {
+          "text": "street",
+          "start": 46.04,
+          "end": 46.54,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 46.54,
+          "end": 46.87,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 46.87,
+          "end": 47.12,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 47.12,
+          "end": 47.45,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 47.45,
+          "end": 47.62,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 47.62,
+          "end": 47.95,
+          "probability": 1
+        },
+        {
+          "text": "heart",
+          "start": 47.95,
+          "end": 48.37,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 48.37,
+          "end": 48.54,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 48.54,
+          "end": 48.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 49.03,
+      "end": 54.1,
+      "text": "I'm sure you've heard it all before, but you never really had a doubt",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 49.03,
+          "end": 49.3,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 49.3,
+          "end": 49.66,
+          "probability": 1
+        },
+        {
+          "text": "you've",
+          "start": 49.66,
+          "end": 50.2,
+          "probability": 1
+        },
+        {
+          "text": "heard",
+          "start": 50.2,
+          "end": 50.65,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 50.65,
+          "end": 50.83,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 50.83,
+          "end": 51.1,
+          "probability": 1
+        },
+        {
+          "text": "before,",
+          "start": 51.1,
+          "end": 51.73,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 51.73,
+          "end": 52,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 52,
+          "end": 52.27,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 52.27,
+          "end": 52.72,
+          "probability": 1
+        },
+        {
+          "text": "really",
+          "start": 52.72,
+          "end": 53.26,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 53.26,
+          "end": 53.53,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 53.53,
+          "end": 53.65,
+          "probability": 1
+        },
+        {
+          "text": "doubt",
+          "start": 53.65,
+          "end": 54.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 54.35,
+      "end": 61.57,
+      "text": "I don't believe that anybody feels the way I do about you now",
+      "words": [
+        {
+          "text": "I",
+          "start": 54.35,
+          "end": 54.5,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 54.5,
+          "end": 55.24,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 55.24,
+          "end": 56.27,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 56.27,
+          "end": 56.86,
+          "probability": 1
+        },
+        {
+          "text": "anybody",
+          "start": 56.86,
+          "end": 57.89,
+          "probability": 1
+        },
+        {
+          "text": "feels",
+          "start": 57.89,
+          "end": 58.63,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 58.63,
+          "end": 59.07,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 59.07,
+          "end": 59.51,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 59.51,
+          "end": 59.66,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 59.66,
+          "end": 59.95,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 59.95,
+          "end": 60.69,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 60.69,
+          "end": 61.13,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 61.13,
+          "end": 61.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 65.42,
+      "end": 70.18,
+      "text": "And all the roads we have to walk are winding",
+      "words": [
+        {
+          "text": "And",
+          "start": 65.42,
+          "end": 65.82,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 65.82,
+          "end": 66.22,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 66.22,
+          "end": 66.62,
+          "probability": 1
+        },
+        {
+          "text": "roads",
+          "start": 66.62,
+          "end": 67.28,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 67.28,
+          "end": 67.54,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 67.54,
+          "end": 68.07,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 68.07,
+          "end": 68.33,
+          "probability": 1
+        },
+        {
+          "text": "walk",
+          "start": 68.33,
+          "end": 68.86,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 68.86,
+          "end": 69.26,
+          "probability": 1
+        },
+        {
+          "text": "winding",
+          "start": 69.26,
+          "end": 70.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 70.42,
+      "end": 75.34,
+      "text": "And all the lights that lead us there are blinding",
+      "words": [
+        {
+          "text": "And",
+          "start": 70.42,
+          "end": 70.78,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 70.78,
+          "end": 71.14,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 71.14,
+          "end": 71.5,
+          "probability": 1
+        },
+        {
+          "text": "lights",
+          "start": 71.5,
+          "end": 72.22,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 72.22,
+          "end": 72.7,
+          "probability": 1
+        },
+        {
+          "text": "lead",
+          "start": 72.7,
+          "end": 73.18,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 73.18,
+          "end": 73.42,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 73.42,
+          "end": 74.02,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 74.02,
+          "end": 74.38,
+          "probability": 1
+        },
+        {
+          "text": "blinding",
+          "start": 74.38,
+          "end": 75.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.99,
+      "end": 84,
+      "text": "There are many things that I would like to say to you, but I don't know how",
+      "words": [
+        {
+          "text": "There",
+          "start": 75.99,
+          "end": 76.67,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 76.67,
+          "end": 77.08,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 77.08,
+          "end": 77.62,
+          "probability": 1
+        },
+        {
+          "text": "things",
+          "start": 77.62,
+          "end": 78.43,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 78.43,
+          "end": 78.97,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 78.97,
+          "end": 79.11,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 79.11,
+          "end": 79.79,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 79.79,
+          "end": 80.33,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 80.33,
+          "end": 80.6,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 80.6,
+          "end": 81.01,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 81.01,
+          "end": 81.28,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 81.28,
+          "end": 81.82,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 81.82,
+          "end": 82.23,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 82.23,
+          "end": 82.37,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 82.37,
+          "end": 83.05,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 83.05,
+          "end": 83.59,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 83.59,
+          "end": 84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 87.37,
+      "end": 89.27,
+      "text": "Because maybe",
+      "words": [
+        {
+          "text": "Because",
+          "start": 87.37,
+          "end": 88.48,
+          "probability": 1
+        },
+        {
+          "text": "maybe",
+          "start": 88.48,
+          "end": 89.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 91.86,
+      "end": 96.42,
+      "text": "You're gonna be the one that saves me",
+      "words": [
+        {
+          "text": "You're",
+          "start": 91.86,
+          "end": 92.77,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 92.77,
+          "end": 93.53,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 93.53,
+          "end": 93.83,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 93.83,
+          "end": 94.29,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 94.29,
+          "end": 94.75,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 94.75,
+          "end": 95.36,
+          "probability": 1
+        },
+        {
+          "text": "saves",
+          "start": 95.36,
+          "end": 96.12,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 96.12,
+          "end": 96.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 97.05,
+      "end": 98.56,
+      "text": "And after all",
+      "words": [
+        {
+          "text": "And",
+          "start": 97.05,
+          "end": 97.46,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 97.46,
+          "end": 98.15,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 98.15,
+          "end": 98.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.65,
+      "end": 104.93,
+      "text": "You're my wonderwall",
+      "words": [
+        {
+          "text": "You're",
+          "start": 102.65,
+          "end": 103.41,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 103.41,
+          "end": 103.66,
+          "probability": 1
+        },
+        {
+          "text": "wonderwall",
+          "start": 103.66,
+          "end": 104.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 104.93,
+      "end": 114.79,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 104.93,
+          "end": 114.79,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 114.79,
+      "end": 119.25,
+      "text": "Today was gonna be the day, but they'll never throw it back to you",
+      "words": [
+        {
+          "text": "Today",
+          "start": 114.79,
+          "end": 115.21,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 115.21,
+          "end": 115.46,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 115.46,
+          "end": 115.88,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 115.88,
+          "end": 116.05,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 116.05,
+          "end": 116.3,
+          "probability": 1
+        },
+        {
+          "text": "day,",
+          "start": 116.3,
+          "end": 116.64,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 116.64,
+          "end": 116.89,
+          "probability": 1
+        },
+        {
+          "text": "they'll",
+          "start": 116.89,
+          "end": 117.48,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 117.48,
+          "end": 117.9,
+          "probability": 1
+        },
+        {
+          "text": "throw",
+          "start": 117.9,
+          "end": 118.32,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 118.32,
+          "end": 118.49,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 118.49,
+          "end": 118.83,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 118.83,
+          "end": 119,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 119,
+          "end": 119.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 119.53,
+      "end": 124.83,
+      "text": "And by now, you should've somehow realised what you're not to do",
+      "words": [
+        {
+          "text": "And",
+          "start": 119.53,
+          "end": 119.83,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 119.83,
+          "end": 120.03,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 120.03,
+          "end": 120.43,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 120.43,
+          "end": 120.73,
+          "probability": 1
+        },
+        {
+          "text": "should've",
+          "start": 120.73,
+          "end": 121.63,
+          "probability": 1
+        },
+        {
+          "text": "somehow",
+          "start": 121.63,
+          "end": 122.33,
+          "probability": 1
+        },
+        {
+          "text": "realised",
+          "start": 122.33,
+          "end": 123.13,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 123.13,
+          "end": 123.53,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 123.53,
+          "end": 124.13,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 124.13,
+          "end": 124.43,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 124.43,
+          "end": 124.63,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 124.63,
+          "end": 124.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.09,
+      "end": 132.31,
+      "text": "I don't believe that anybody feels the way I do about you now",
+      "words": [
+        {
+          "text": "I",
+          "start": 125.09,
+          "end": 125.24,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 125.24,
+          "end": 125.98,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 125.98,
+          "end": 127.01,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 127.01,
+          "end": 127.6,
+          "probability": 1
+        },
+        {
+          "text": "anybody",
+          "start": 127.6,
+          "end": 128.63,
+          "probability": 1
+        },
+        {
+          "text": "feels",
+          "start": 128.63,
+          "end": 129.37,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 129.37,
+          "end": 129.81,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 129.81,
+          "end": 130.25,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 130.25,
+          "end": 130.4,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 130.4,
+          "end": 130.69,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 130.69,
+          "end": 131.43,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 131.43,
+          "end": 131.87,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 131.87,
+          "end": 132.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 136.04,
+      "end": 140.55,
+      "text": "And all the roads that lead you there were winding",
+      "words": [
+        {
+          "text": "And",
+          "start": 136.04,
+          "end": 136.37,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 136.37,
+          "end": 136.7,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 136.7,
+          "end": 137.03,
+          "probability": 1
+        },
+        {
+          "text": "roads",
+          "start": 137.03,
+          "end": 137.58,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 137.58,
+          "end": 138.02,
+          "probability": 1
+        },
+        {
+          "text": "lead",
+          "start": 138.02,
+          "end": 138.46,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 138.46,
+          "end": 138.79,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 138.79,
+          "end": 139.34,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 139.34,
+          "end": 139.78,
+          "probability": 1
+        },
+        {
+          "text": "winding",
+          "start": 139.78,
+          "end": 140.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 140.81,
+      "end": 145.35,
+      "text": "And all the lights that light the way are blinding",
+      "words": [
+        {
+          "text": "And",
+          "start": 140.81,
+          "end": 141.14,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 141.14,
+          "end": 141.47,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 141.47,
+          "end": 141.8,
+          "probability": 1
+        },
+        {
+          "text": "lights",
+          "start": 141.8,
+          "end": 142.47,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 142.47,
+          "end": 142.91,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 142.91,
+          "end": 143.47,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 143.47,
+          "end": 143.8,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 143.8,
+          "end": 144.13,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 144.13,
+          "end": 144.46,
+          "probability": 1
+        },
+        {
+          "text": "blinding",
+          "start": 144.46,
+          "end": 145.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.32,
+      "end": 154.33,
+      "text": "There are many things that I would like to say to you, but I don't know how",
+      "words": [
+        {
+          "text": "There",
+          "start": 146.32,
+          "end": 147,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 147,
+          "end": 147.41,
+          "probability": 1
+        },
+        {
+          "text": "many",
+          "start": 147.41,
+          "end": 147.95,
+          "probability": 1
+        },
+        {
+          "text": "things",
+          "start": 147.95,
+          "end": 148.76,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 148.76,
+          "end": 149.3,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 149.3,
+          "end": 149.44,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 149.44,
+          "end": 150.12,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 150.12,
+          "end": 150.66,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 150.66,
+          "end": 150.93,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 150.93,
+          "end": 151.34,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 151.34,
+          "end": 151.61,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 151.61,
+          "end": 152.15,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 152.15,
+          "end": 152.56,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 152.56,
+          "end": 152.7,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 152.7,
+          "end": 153.38,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 153.38,
+          "end": 153.92,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 153.92,
+          "end": 154.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 157.9,
+      "end": 159.42,
+      "text": "I said maybe",
+      "words": [
+        {
+          "text": "I",
+          "start": 157.9,
+          "end": 158.05,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 158.05,
+          "end": 158.66,
+          "probability": 1
+        },
+        {
+          "text": "maybe",
+          "start": 158.66,
+          "end": 159.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 162.21,
+      "end": 166.77,
+      "text": "You're gonna be the one that saves me",
+      "words": [
+        {
+          "text": "You're",
+          "start": 162.21,
+          "end": 163.12,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 163.12,
+          "end": 163.88,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 163.88,
+          "end": 164.18,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 164.18,
+          "end": 164.64,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 164.64,
+          "end": 165.1,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 165.1,
+          "end": 165.71,
+          "probability": 1
+        },
+        {
+          "text": "saves",
+          "start": 165.71,
+          "end": 166.47,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 166.47,
+          "end": 166.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.38,
+      "end": 168.89,
+      "text": "And after all",
+      "words": [
+        {
+          "text": "And",
+          "start": 167.38,
+          "end": 167.79,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 167.79,
+          "end": 168.48,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 168.48,
+          "end": 168.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 172.42,
+      "end": 174.7,
+      "text": "You're my wonderwall",
+      "words": [
+        {
+          "text": "You're",
+          "start": 172.42,
+          "end": 173.18,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 173.18,
+          "end": 173.43,
+          "probability": 1
+        },
+        {
+          "text": "wonderwall",
+          "start": 173.43,
+          "end": 174.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 180.27,
+      "end": 183.31,
+      "text": "I said maybe (I said maybe)",
+      "words": [
+        {
+          "text": "I",
+          "start": 180.27,
+          "end": 180.41,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 180.41,
+          "end": 180.96,
+          "probability": 1
+        },
+        {
+          "text": "maybe",
+          "start": 180.96,
+          "end": 181.65,
+          "probability": 1
+        },
+        {
+          "text": "(I",
+          "start": 181.65,
+          "end": 181.93,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 181.93,
+          "end": 182.48,
+          "probability": 1
+        },
+        {
+          "text": "maybe)",
+          "start": 182.48,
+          "end": 183.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 184.38,
+      "end": 188.94,
+      "text": "You're gonna be the one that saves me",
+      "words": [
+        {
+          "text": "You're",
+          "start": 184.38,
+          "end": 185.29,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 185.29,
+          "end": 186.05,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 186.05,
+          "end": 186.35,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 186.35,
+          "end": 186.81,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 186.81,
+          "end": 187.27,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 187.27,
+          "end": 187.88,
+          "probability": 1
+        },
+        {
+          "text": "saves",
+          "start": 187.88,
+          "end": 188.64,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 188.64,
+          "end": 188.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 189.61,
+      "end": 191.12,
+      "text": "And after all",
+      "words": [
+        {
+          "text": "And",
+          "start": 189.61,
+          "end": 190.02,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 190.02,
+          "end": 190.71,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 190.71,
+          "end": 191.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 195.26,
+      "end": 197.54,
+      "text": "You're my wonderwall",
+      "words": [
+        {
+          "text": "You're",
+          "start": 195.26,
+          "end": 196.02,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 196.02,
+          "end": 196.27,
+          "probability": 1
+        },
+        {
+          "text": "wonderwall",
+          "start": 196.27,
+          "end": 197.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 202.46,
+      "end": 205.5,
+      "text": "I said maybe (I said maybe)",
+      "words": [
+        {
+          "text": "I",
+          "start": 202.46,
+          "end": 202.6,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 202.6,
+          "end": 203.15,
+          "probability": 1
+        },
+        {
+          "text": "maybe",
+          "start": 203.15,
+          "end": 203.84,
+          "probability": 1
+        },
+        {
+          "text": "(I",
+          "start": 203.84,
+          "end": 204.12,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 204.12,
+          "end": 204.67,
+          "probability": 1
+        },
+        {
+          "text": "maybe)",
+          "start": 204.67,
+          "end": 205.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 206.52,
+      "end": 211.09,
+      "text": "You're gonna be the one that saves me (that saves me)",
+      "words": [
+        {
+          "text": "You're",
+          "start": 206.52,
+          "end": 207.16,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 207.16,
+          "end": 207.69,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 207.69,
+          "end": 207.9,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 207.9,
+          "end": 208.22,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 208.22,
+          "end": 208.54,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 208.54,
+          "end": 208.97,
+          "probability": 1
+        },
+        {
+          "text": "saves",
+          "start": 208.97,
+          "end": 209.5,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 209.5,
+          "end": 209.71,
+          "probability": 1
+        },
+        {
+          "text": "(that",
+          "start": 209.71,
+          "end": 210.24,
+          "probability": 1
+        },
+        {
+          "text": "saves",
+          "start": 210.24,
+          "end": 210.77,
+          "probability": 1
+        },
+        {
+          "text": "me)",
+          "start": 210.77,
+          "end": 211.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 211.36,
+      "end": 216.95,
+      "text": "You're gonna be the one that saves me (that saves me)",
+      "words": [
+        {
+          "text": "You're",
+          "start": 211.36,
+          "end": 212.14,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 212.14,
+          "end": 212.79,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 212.79,
+          "end": 213.05,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 213.05,
+          "end": 213.44,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 213.44,
+          "end": 213.83,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 213.83,
+          "end": 214.35,
+          "probability": 1
+        },
+        {
+          "text": "saves",
+          "start": 214.35,
+          "end": 215,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 215,
+          "end": 215.26,
+          "probability": 1
+        },
+        {
+          "text": "(that",
+          "start": 215.26,
+          "end": 215.91,
+          "probability": 1
+        },
+        {
+          "text": "saves",
+          "start": 215.91,
+          "end": 216.56,
+          "probability": 1
+        },
+        {
+          "text": "me)",
+          "start": 216.56,
+          "end": 216.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 217.22,
+      "end": 220.97,
+      "text": "You're gonna be the one that saves me (that saves me)",
+      "words": [
+        {
+          "text": "You're",
+          "start": 217.22,
+          "end": 217.74,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 217.74,
+          "end": 218.18,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 218.18,
+          "end": 218.35,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 218.35,
+          "end": 218.61,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 218.61,
+          "end": 218.87,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 218.87,
+          "end": 219.22,
+          "probability": 1
+        },
+        {
+          "text": "saves",
+          "start": 219.22,
+          "end": 219.66,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 219.66,
+          "end": 219.83,
+          "probability": 1
+        },
+        {
+          "text": "(that",
+          "start": 219.83,
+          "end": 220.27,
+          "probability": 1
+        },
+        {
+          "text": "saves",
+          "start": 220.27,
+          "end": 220.71,
+          "probability": 1
+        },
+        {
+          "text": "me)",
+          "start": 220.71,
+          "end": 220.97,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Today is gonna be the day that they're gonna throw it back to you And by now, you should've somehow realised what you gotta do I don't believe that anybody feels the way I do about you now And backbeat, the word is on the street that the fire in your heart is out I'm sure you've heard it all before, but you never really had a doubt I don't believe that anybody feels the way I do about you now And all the roads we have to walk are winding And all the lights that lead us there are blinding There are many things that I would like to say to you, but I don't know how Because maybe You're gonna be the one that saves me And after all You're my wonderwall Today was gonna be the day, but they'll never throw it back to you And by now, you should've somehow realised what you're not to do I don't believe that anybody feels the way I do about you now And all the roads that lead you there were winding And all the lights that light the way are blinding There are many things that I would like to say to you, but I don't know how I said maybe You're gonna be the one that saves me And after all You're my wonderwall I said maybe (I said maybe) You're gonna be the one that saves me And after all You're my wonderwall I said maybe (I said maybe) You're gonna be the one that saves me (that saves me) You're gonna be the one that saves me (that saves me) You're gonna be the one that saves me (that saves me)"
+}

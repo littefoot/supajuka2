@@ -1,0 +1,18 @@
+{
+  "id": "flac_f84c38aa1ae9",
+  "source": "local",
+  "title": "Homecoming",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 204,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790188262447,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_f84c38aa1ae9/original.flac",
+  "instrumentalUrl": "/audio/flac_f84c38aa1ae9/instrumental.flac",
+  "vocalsUrl": "/audio/flac_f84c38aa1ae9/vocals.flac"
+}

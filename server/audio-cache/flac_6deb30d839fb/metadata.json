@@ -1,0 +1,19 @@
+{
+  "id": "flac_6deb30d839fb",
+  "source": "local",
+  "title": "A Day In The Life (2017 Remix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 308,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_6deb30d839fb/cover.jpg",
+  "cachedAt": 1789626550622,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_6deb30d839fb/original.flac",
+  "instrumentalUrl": "/audio/flac_6deb30d839fb/instrumental.flac",
+  "vocalsUrl": "/audio/flac_6deb30d839fb/vocals.flac"
+}

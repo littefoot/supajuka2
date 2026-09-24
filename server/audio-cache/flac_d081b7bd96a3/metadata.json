@@ -1,0 +1,19 @@
+{
+  "id": "flac_d081b7bd96a3",
+  "source": "local",
+  "title": "Lucy In The Sky With Diamonds (2017 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 210,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_d081b7bd96a3/cover.jpg",
+  "cachedAt": 1789626729553,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_d081b7bd96a3/original.flac",
+  "instrumentalUrl": "/audio/flac_d081b7bd96a3/instrumental.flac",
+  "vocalsUrl": "/audio/flac_d081b7bd96a3/vocals.flac"
+}

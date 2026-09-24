@@ -1,0 +1,19 @@
+{
+  "id": "flac_cb7d9396833b",
+  "source": "local",
+  "title": "The River of Dreams  (2011 River Of Dreams)",
+  "artist": "Billy Joel",
+  "album": "50 Years of the Piano Man",
+  "duration": 246,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_cb7d9396833b/cover.jpg",
+  "cachedAt": 1790186909895,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_cb7d9396833b/original.flac",
+  "instrumentalUrl": "/audio/flac_cb7d9396833b/instrumental.flac",
+  "vocalsUrl": "/audio/flac_cb7d9396833b/vocals.flac"
+}

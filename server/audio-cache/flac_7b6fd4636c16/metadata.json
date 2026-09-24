@@ -1,0 +1,18 @@
+{
+  "id": "flac_7b6fd4636c16",
+  "source": "local",
+  "title": "Good Night feat. Mos Def & Al Be",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 186,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790188316054,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_7b6fd4636c16/original.flac",
+  "instrumentalUrl": "/audio/flac_7b6fd4636c16/instrumental.flac",
+  "vocalsUrl": "/audio/flac_7b6fd4636c16/vocals.flac"
+}

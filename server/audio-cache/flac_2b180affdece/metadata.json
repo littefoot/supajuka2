@@ -1,0 +1,19 @@
+{
+  "id": "flac_2b180affdece",
+  "source": "local",
+  "title": "Uptown Girl",
+  "artist": "Billy Joel",
+  "album": "50 Years of the Piano Man",
+  "duration": 197,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_2b180affdece/cover.jpg",
+  "cachedAt": 1790186461185,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_2b180affdece/original.flac",
+  "instrumentalUrl": "/audio/flac_2b180affdece/instrumental.flac",
+  "vocalsUrl": "/audio/flac_2b180affdece/vocals.flac"
+}

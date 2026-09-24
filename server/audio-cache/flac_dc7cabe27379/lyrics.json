@@ -1,0 +1,1906 @@
+{
+  "language": "en",
+  "duration": 232,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 12.95,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 12.95,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 12.95,
+      "end": 19.37,
+      "text": "When I find myself in times of trouble, Mother Mary comes to me",
+      "words": [
+        {
+          "text": "When",
+          "start": 12.95,
+          "end": 13.45,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 13.45,
+          "end": 13.58,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 13.58,
+          "end": 14.08,
+          "probability": 1
+        },
+        {
+          "text": "myself",
+          "start": 14.08,
+          "end": 14.84,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 14.84,
+          "end": 15.09,
+          "probability": 1
+        },
+        {
+          "text": "times",
+          "start": 15.09,
+          "end": 15.72,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 15.72,
+          "end": 15.97,
+          "probability": 1
+        },
+        {
+          "text": "trouble,",
+          "start": 15.97,
+          "end": 16.98,
+          "probability": 1
+        },
+        {
+          "text": "Mother",
+          "start": 16.98,
+          "end": 17.74,
+          "probability": 1
+        },
+        {
+          "text": "Mary",
+          "start": 17.74,
+          "end": 18.24,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 18.24,
+          "end": 18.87,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 18.87,
+          "end": 19.12,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 19.12,
+          "end": 19.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 19.62,
+      "end": 23.05,
+      "text": "Speaking words of wisdom, let it be",
+      "words": [
+        {
+          "text": "Speaking",
+          "start": 19.62,
+          "end": 20.56,
+          "probability": 1
+        },
+        {
+          "text": "words",
+          "start": 20.56,
+          "end": 21.15,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 21.15,
+          "end": 21.39,
+          "probability": 1
+        },
+        {
+          "text": "wisdom,",
+          "start": 21.39,
+          "end": 22.22,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 22.22,
+          "end": 22.57,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 22.57,
+          "end": 22.81,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 22.81,
+          "end": 23.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 25.86,
+      "end": 32.09,
+      "text": "And in my hour of darkness she is standing right in front of me",
+      "words": [
+        {
+          "text": "And",
+          "start": 25.86,
+          "end": 26.23,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 26.23,
+          "end": 26.48,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 26.48,
+          "end": 26.73,
+          "probability": 1
+        },
+        {
+          "text": "hour",
+          "start": 26.73,
+          "end": 27.23,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 27.23,
+          "end": 27.48,
+          "probability": 1
+        },
+        {
+          "text": "darkness",
+          "start": 27.48,
+          "end": 28.48,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 28.48,
+          "end": 28.85,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 28.85,
+          "end": 29.1,
+          "probability": 1
+        },
+        {
+          "text": "standing",
+          "start": 29.1,
+          "end": 30.1,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 30.1,
+          "end": 30.72,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 30.72,
+          "end": 30.97,
+          "probability": 1
+        },
+        {
+          "text": "front",
+          "start": 30.97,
+          "end": 31.59,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 31.59,
+          "end": 31.84,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 31.84,
+          "end": 32.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 32.33,
+      "end": 35.76,
+      "text": "Speaking words of wisdom, let it be",
+      "words": [
+        {
+          "text": "Speaking",
+          "start": 32.33,
+          "end": 33.27,
+          "probability": 1
+        },
+        {
+          "text": "words",
+          "start": 33.27,
+          "end": 33.86,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 33.86,
+          "end": 34.1,
+          "probability": 1
+        },
+        {
+          "text": "wisdom,",
+          "start": 34.1,
+          "end": 34.93,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 34.93,
+          "end": 35.28,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 35.28,
+          "end": 35.52,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 35.52,
+          "end": 35.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 37.99,
+      "end": 40.69,
+      "text": "Let it be, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 37.99,
+          "end": 38.53,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 38.53,
+          "end": 38.89,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 38.89,
+          "end": 39.43,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 39.43,
+          "end": 39.97,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 39.97,
+          "end": 40.33,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 40.33,
+          "end": 40.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 41.33,
+      "end": 44.03,
+      "text": "Let it be, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 41.33,
+          "end": 41.87,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 41.87,
+          "end": 42.23,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 42.23,
+          "end": 42.77,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 42.77,
+          "end": 43.31,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 43.31,
+          "end": 43.67,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 43.67,
+          "end": 44.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.68,
+      "end": 47.86,
+      "text": "Whisper words of wisdom",
+      "words": [
+        {
+          "text": "Whisper",
+          "start": 45.68,
+          "end": 46.44,
+          "probability": 1
+        },
+        {
+          "text": "words",
+          "start": 46.44,
+          "end": 46.99,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 46.99,
+          "end": 47.21,
+          "probability": 1
+        },
+        {
+          "text": "wisdom",
+          "start": 47.21,
+          "end": 47.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 48.11,
+      "end": 49.47,
+      "text": "Let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 48.11,
+          "end": 48.69,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 48.69,
+          "end": 49.08,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 49.08,
+          "end": 49.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.86,
+      "end": 57.93,
+      "text": "And when the broken hearted people living in the world agree",
+      "words": [
+        {
+          "text": "And",
+          "start": 51.86,
+          "end": 52.22,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 52.22,
+          "end": 52.71,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 52.71,
+          "end": 53.07,
+          "probability": 1
+        },
+        {
+          "text": "broken",
+          "start": 53.07,
+          "end": 53.8,
+          "probability": 1
+        },
+        {
+          "text": "hearted",
+          "start": 53.8,
+          "end": 54.65,
+          "probability": 1
+        },
+        {
+          "text": "people",
+          "start": 54.65,
+          "end": 55.38,
+          "probability": 1
+        },
+        {
+          "text": "living",
+          "start": 55.38,
+          "end": 56.11,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 56.11,
+          "end": 56.35,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 56.35,
+          "end": 56.71,
+          "probability": 1
+        },
+        {
+          "text": "world",
+          "start": 56.71,
+          "end": 57.32,
+          "probability": 1
+        },
+        {
+          "text": "agree",
+          "start": 57.32,
+          "end": 57.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 58.53,
+      "end": 62.32,
+      "text": "There will be an answer, let it be",
+      "words": [
+        {
+          "text": "There",
+          "start": 58.53,
+          "end": 59.23,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 59.23,
+          "end": 59.79,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 59.79,
+          "end": 60.07,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 60.07,
+          "end": 60.35,
+          "probability": 1
+        },
+        {
+          "text": "answer,",
+          "start": 60.35,
+          "end": 61.34,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 61.34,
+          "end": 61.76,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 61.76,
+          "end": 62.04,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 62.04,
+          "end": 62.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 64.9,
+      "end": 71.53,
+      "text": "For though they may be parted, there is still a chance that they will see",
+      "words": [
+        {
+          "text": "For",
+          "start": 64.9,
+          "end": 65.24,
+          "probability": 1
+        },
+        {
+          "text": "though",
+          "start": 65.24,
+          "end": 65.91,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 65.91,
+          "end": 66.36,
+          "probability": 1
+        },
+        {
+          "text": "may",
+          "start": 66.36,
+          "end": 66.7,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 66.7,
+          "end": 66.92,
+          "probability": 1
+        },
+        {
+          "text": "parted,",
+          "start": 66.92,
+          "end": 67.71,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 67.71,
+          "end": 68.27,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 68.27,
+          "end": 68.49,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 68.49,
+          "end": 69.05,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 69.05,
+          "end": 69.17,
+          "probability": 1
+        },
+        {
+          "text": "chance",
+          "start": 69.17,
+          "end": 69.84,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 69.84,
+          "end": 70.29,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 70.29,
+          "end": 70.74,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 70.74,
+          "end": 71.19,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 71.19,
+          "end": 71.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 71.77,
+      "end": 75.56,
+      "text": "There will be an answer, let it be",
+      "words": [
+        {
+          "text": "There",
+          "start": 71.77,
+          "end": 72.47,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 72.47,
+          "end": 73.03,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 73.03,
+          "end": 73.31,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 73.31,
+          "end": 73.59,
+          "probability": 1
+        },
+        {
+          "text": "answer,",
+          "start": 73.59,
+          "end": 74.58,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 74.58,
+          "end": 75,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 75,
+          "end": 75.28,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 75.28,
+          "end": 75.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 77.68,
+      "end": 80.38,
+      "text": "Let it be, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 77.68,
+          "end": 78.22,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 78.22,
+          "end": 78.58,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 78.58,
+          "end": 79.12,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 79.12,
+          "end": 79.66,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 79.66,
+          "end": 80.02,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 80.02,
+          "end": 80.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.12,
+      "end": 83.82,
+      "text": "Let it be, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 81.12,
+          "end": 81.66,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 81.66,
+          "end": 82.02,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 82.02,
+          "end": 82.56,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 82.56,
+          "end": 83.1,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 83.1,
+          "end": 83.46,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 83.46,
+          "end": 83.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 85.09,
+      "end": 87.8,
+      "text": "Yeah, there will be an answer",
+      "words": [
+        {
+          "text": "Yeah,",
+          "start": 85.09,
+          "end": 85.65,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 85.65,
+          "end": 86.21,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 86.21,
+          "end": 86.66,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 86.66,
+          "end": 86.89,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 86.89,
+          "end": 87.12,
+          "probability": 1
+        },
+        {
+          "text": "answer",
+          "start": 87.12,
+          "end": 87.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 88.04,
+      "end": 89.4,
+      "text": "Let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 88.04,
+          "end": 88.62,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 88.62,
+          "end": 89.01,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 89.01,
+          "end": 89.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 91.32,
+      "end": 94.02,
+      "text": "Let it be, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 91.32,
+          "end": 91.86,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 91.86,
+          "end": 92.22,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 92.22,
+          "end": 92.76,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 92.76,
+          "end": 93.3,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 93.3,
+          "end": 93.66,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 93.66,
+          "end": 94.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 94.45,
+      "end": 97.15,
+      "text": "Let it be, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 94.45,
+          "end": 94.99,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 94.99,
+          "end": 95.35,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 95.35,
+          "end": 95.89,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 95.89,
+          "end": 96.43,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 96.43,
+          "end": 96.79,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 96.79,
+          "end": 97.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 98.66,
+      "end": 100.94,
+      "text": "Whisper words of wisdom",
+      "words": [
+        {
+          "text": "Whisper",
+          "start": 98.66,
+          "end": 99.46,
+          "probability": 1
+        },
+        {
+          "text": "words",
+          "start": 99.46,
+          "end": 100.03,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 100.03,
+          "end": 100.26,
+          "probability": 1
+        },
+        {
+          "text": "wisdom",
+          "start": 100.26,
+          "end": 100.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 101.38,
+      "end": 102.74,
+      "text": "Let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 101.38,
+          "end": 101.96,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 101.96,
+          "end": 102.35,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 102.35,
+          "end": 102.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.74,
+      "end": 146.02,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 102.74,
+          "end": 146.02,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 146.02,
+      "end": 148.72,
+      "text": "Let it be, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 146.02,
+          "end": 146.56,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 146.56,
+          "end": 146.92,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 146.92,
+          "end": 147.46,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 147.46,
+          "end": 148,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 148,
+          "end": 148.36,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 148.36,
+          "end": 148.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 149.54,
+      "end": 152.69,
+      "text": "Let it be, yeah, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 149.54,
+          "end": 150.01,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 150.01,
+          "end": 150.32,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 150.32,
+          "end": 150.79,
+          "probability": 1
+        },
+        {
+          "text": "yeah,",
+          "start": 150.79,
+          "end": 151.58,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 151.58,
+          "end": 152.05,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 152.05,
+          "end": 152.37,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 152.37,
+          "end": 152.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 154.01,
+      "end": 156.29,
+      "text": "Whisper words of wisdom",
+      "words": [
+        {
+          "text": "Whisper",
+          "start": 154.01,
+          "end": 154.81,
+          "probability": 1
+        },
+        {
+          "text": "words",
+          "start": 154.81,
+          "end": 155.38,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 155.38,
+          "end": 155.61,
+          "probability": 1
+        },
+        {
+          "text": "wisdom",
+          "start": 155.61,
+          "end": 156.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.92,
+      "end": 158.28,
+      "text": "Let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 156.92,
+          "end": 157.5,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 157.5,
+          "end": 157.89,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 157.89,
+          "end": 158.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 160.89,
+      "end": 167.73,
+      "text": "And when the night is cloudy there is still a light that shines on me",
+      "words": [
+        {
+          "text": "And",
+          "start": 160.89,
+          "end": 161.26,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 161.26,
+          "end": 161.76,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 161.76,
+          "end": 162.13,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 162.13,
+          "end": 162.75,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 162.75,
+          "end": 163,
+          "probability": 1
+        },
+        {
+          "text": "cloudy",
+          "start": 163,
+          "end": 163.75,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 163.75,
+          "end": 164.37,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 164.37,
+          "end": 164.62,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 164.62,
+          "end": 165.24,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 165.24,
+          "end": 165.36,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 165.36,
+          "end": 165.98,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 165.98,
+          "end": 166.48,
+          "probability": 1
+        },
+        {
+          "text": "shines",
+          "start": 166.48,
+          "end": 167.23,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 167.23,
+          "end": 167.48,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 167.48,
+          "end": 167.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 168.08,
+      "end": 171.88,
+      "text": "Shine until tomorrow, let it be",
+      "words": [
+        {
+          "text": "Shine",
+          "start": 168.08,
+          "end": 168.81,
+          "probability": 1
+        },
+        {
+          "text": "until",
+          "start": 168.81,
+          "end": 169.54,
+          "probability": 1
+        },
+        {
+          "text": "tomorrow,",
+          "start": 169.54,
+          "end": 170.86,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 170.86,
+          "end": 171.3,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 171.3,
+          "end": 171.59,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 171.59,
+          "end": 171.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 174.89,
+      "end": 181.73,
+      "text": "I wake up to the sound of music, Mother Mary comes to me",
+      "words": [
+        {
+          "text": "I",
+          "start": 174.89,
+          "end": 175.05,
+          "probability": 1
+        },
+        {
+          "text": "wake",
+          "start": 175.05,
+          "end": 175.67,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 175.67,
+          "end": 175.98,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 175.98,
+          "end": 176.29,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 176.29,
+          "end": 176.76,
+          "probability": 1
+        },
+        {
+          "text": "sound",
+          "start": 176.76,
+          "end": 177.54,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 177.54,
+          "end": 177.85,
+          "probability": 1
+        },
+        {
+          "text": "music,",
+          "start": 177.85,
+          "end": 178.78,
+          "probability": 1
+        },
+        {
+          "text": "Mother",
+          "start": 178.78,
+          "end": 179.71,
+          "probability": 1
+        },
+        {
+          "text": "Mary",
+          "start": 179.71,
+          "end": 180.33,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 180.33,
+          "end": 181.11,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 181.11,
+          "end": 181.42,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 181.42,
+          "end": 181.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 182.01,
+      "end": 185.44,
+      "text": "Speaking words of wisdom, let it be",
+      "words": [
+        {
+          "text": "Speaking",
+          "start": 182.01,
+          "end": 182.95,
+          "probability": 1
+        },
+        {
+          "text": "words",
+          "start": 182.95,
+          "end": 183.54,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 183.54,
+          "end": 183.78,
+          "probability": 1
+        },
+        {
+          "text": "wisdom,",
+          "start": 183.78,
+          "end": 184.61,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 184.61,
+          "end": 184.96,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 184.96,
+          "end": 185.2,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 185.2,
+          "end": 185.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 188.05,
+      "end": 190.75,
+      "text": "Let it be, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 188.05,
+          "end": 188.59,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 188.59,
+          "end": 188.95,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 188.95,
+          "end": 189.49,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 189.49,
+          "end": 190.03,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 190.03,
+          "end": 190.39,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 190.39,
+          "end": 190.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 191.54,
+      "end": 194.7,
+      "text": "Let it be, yeah, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 191.54,
+          "end": 192.01,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 192.01,
+          "end": 192.33,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 192.33,
+          "end": 192.8,
+          "probability": 1
+        },
+        {
+          "text": "yeah,",
+          "start": 192.8,
+          "end": 193.59,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 193.59,
+          "end": 194.06,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 194.06,
+          "end": 194.38,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 194.38,
+          "end": 194.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 195.89,
+      "end": 198.49,
+      "text": "There will be an answer",
+      "words": [
+        {
+          "text": "There",
+          "start": 195.89,
+          "end": 196.58,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 196.58,
+          "end": 197.13,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 197.13,
+          "end": 197.4,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 197.4,
+          "end": 197.67,
+          "probability": 1
+        },
+        {
+          "text": "answer",
+          "start": 197.67,
+          "end": 198.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 198.75,
+      "end": 200.11,
+      "text": "Let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 198.75,
+          "end": 199.33,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 199.33,
+          "end": 199.72,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 199.72,
+          "end": 200.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 201.97,
+      "end": 204.67,
+      "text": "Let it be, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 201.97,
+          "end": 202.51,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 202.51,
+          "end": 202.87,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 202.87,
+          "end": 203.41,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 203.41,
+          "end": 203.95,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 203.95,
+          "end": 204.31,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 204.31,
+          "end": 204.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 205.46,
+      "end": 208.62,
+      "text": "Let it be, yeah, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 205.46,
+          "end": 205.93,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 205.93,
+          "end": 206.25,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 206.25,
+          "end": 206.72,
+          "probability": 1
+        },
+        {
+          "text": "yeah,",
+          "start": 206.72,
+          "end": 207.51,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 207.51,
+          "end": 207.98,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 207.98,
+          "end": 208.3,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 208.3,
+          "end": 208.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 209.86,
+      "end": 212.4,
+      "text": "There will be an answer",
+      "words": [
+        {
+          "text": "There",
+          "start": 209.86,
+          "end": 210.53,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 210.53,
+          "end": 211.06,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 211.06,
+          "end": 211.33,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 211.33,
+          "end": 211.6,
+          "probability": 1
+        },
+        {
+          "text": "answer",
+          "start": 211.6,
+          "end": 212.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 212.64,
+      "end": 214,
+      "text": "Let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 212.64,
+          "end": 213.22,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 213.22,
+          "end": 213.61,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 213.61,
+          "end": 214,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 215.9,
+      "end": 218.6,
+      "text": "Let it be, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 215.9,
+          "end": 216.44,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 216.44,
+          "end": 216.8,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 216.8,
+          "end": 217.34,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 217.34,
+          "end": 217.88,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 217.88,
+          "end": 218.24,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 218.24,
+          "end": 218.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 219.37,
+      "end": 222.53,
+      "text": "Let it be, yeah, let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 219.37,
+          "end": 219.84,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 219.84,
+          "end": 220.16,
+          "probability": 1
+        },
+        {
+          "text": "be,",
+          "start": 220.16,
+          "end": 220.63,
+          "probability": 1
+        },
+        {
+          "text": "yeah,",
+          "start": 220.63,
+          "end": 221.42,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 221.42,
+          "end": 221.89,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 221.89,
+          "end": 222.21,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 222.21,
+          "end": 222.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 223.73,
+      "end": 226.01,
+      "text": "Whisper words of wisdom",
+      "words": [
+        {
+          "text": "Whisper",
+          "start": 223.73,
+          "end": 224.53,
+          "probability": 1
+        },
+        {
+          "text": "words",
+          "start": 224.53,
+          "end": 225.1,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 225.1,
+          "end": 225.33,
+          "probability": 1
+        },
+        {
+          "text": "wisdom",
+          "start": 225.33,
+          "end": 226.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 226.6,
+      "end": 227.96,
+      "text": "Let it be",
+      "words": [
+        {
+          "text": "Let",
+          "start": 226.6,
+          "end": 227.18,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 227.18,
+          "end": 227.57,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 227.57,
+          "end": 227.96,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "When I find myself in times of trouble, Mother Mary comes to me Speaking words of wisdom, let it be And in my hour of darkness she is standing right in front of me Speaking words of wisdom, let it be Let it be, let it be Let it be, let it be Whisper words of wisdom Let it be And when the broken hearted people living in the world agree There will be an answer, let it be For though they may be parted, there is still a chance that they will see There will be an answer, let it be Let it be, let it be Let it be, let it be Yeah, there will be an answer Let it be Let it be, let it be Let it be, let it be Whisper words of wisdom Let it be Let it be, let it be Let it be, yeah, let it be Whisper words of wisdom Let it be And when the night is cloudy there is still a light that shines on me Shine until tomorrow, let it be I wake up to the sound of music, Mother Mary comes to me Speaking words of wisdom, let it be Let it be, let it be Let it be, yeah, let it be There will be an answer Let it be Let it be, let it be Let it be, yeah, let it be There will be an answer Let it be Let it be, let it be Let it be, yeah, let it be Whisper words of wisdom Let it be"
+}

@@ -1,0 +1,2602 @@
+{
+  "language": "en",
+  "duration": 339,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 35.08,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 35.08,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 35.08,
+      "end": 38.87,
+      "text": "It's nine o'clock on a Saturday",
+      "words": [
+        {
+          "text": "It's",
+          "start": 35.08,
+          "end": 35.66,
+          "probability": 1
+        },
+        {
+          "text": "nine",
+          "start": 35.66,
+          "end": 36.24,
+          "probability": 1
+        },
+        {
+          "text": "o'clock",
+          "start": 36.24,
+          "end": 37.26,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 37.26,
+          "end": 37.55,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 37.55,
+          "end": 37.7,
+          "probability": 1
+        },
+        {
+          "text": "Saturday",
+          "start": 37.7,
+          "end": 38.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 40.15,
+      "end": 43.15,
+      "text": "The regular crowd shuffles in",
+      "words": [
+        {
+          "text": "The",
+          "start": 40.15,
+          "end": 40.51,
+          "probability": 1
+        },
+        {
+          "text": "regular",
+          "start": 40.51,
+          "end": 41.35,
+          "probability": 1
+        },
+        {
+          "text": "crowd",
+          "start": 41.35,
+          "end": 41.95,
+          "probability": 1
+        },
+        {
+          "text": "shuffles",
+          "start": 41.95,
+          "end": 42.91,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 42.91,
+          "end": 43.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 43.4,
+      "end": 47.2,
+      "text": "There's an old man sittin' next to me",
+      "words": [
+        {
+          "text": "There's",
+          "start": 43.4,
+          "end": 44.29,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 44.29,
+          "end": 44.54,
+          "probability": 1
+        },
+        {
+          "text": "old",
+          "start": 44.54,
+          "end": 44.92,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 44.92,
+          "end": 45.3,
+          "probability": 1
+        },
+        {
+          "text": "sittin'",
+          "start": 45.3,
+          "end": 46.19,
+          "probability": 1
+        },
+        {
+          "text": "next",
+          "start": 46.19,
+          "end": 46.7,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 46.7,
+          "end": 46.95,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 46.95,
+          "end": 47.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 47.83,
+      "end": 51.63,
+      "text": "Makin' love to his tonic and gin",
+      "words": [
+        {
+          "text": "Makin'",
+          "start": 47.83,
+          "end": 48.71,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 48.71,
+          "end": 49.29,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 49.29,
+          "end": 49.58,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 49.58,
+          "end": 50.02,
+          "probability": 1
+        },
+        {
+          "text": "tonic",
+          "start": 50.02,
+          "end": 50.75,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 50.75,
+          "end": 51.19,
+          "probability": 1
+        },
+        {
+          "text": "gin",
+          "start": 51.19,
+          "end": 51.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.63,
+      "end": 61.64,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 51.63,
+          "end": 61.64,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 61.64,
+      "end": 65.8,
+      "text": "He says, \"Son can you play me a memory?",
+      "words": [
+        {
+          "text": "He",
+          "start": 61.64,
+          "end": 61.91,
+          "probability": 1
+        },
+        {
+          "text": "says,",
+          "start": 61.91,
+          "end": 62.58,
+          "probability": 1
+        },
+        {
+          "text": "\"Son",
+          "start": 62.58,
+          "end": 63.12,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 63.12,
+          "end": 63.52,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 63.52,
+          "end": 63.92,
+          "probability": 1
+        },
+        {
+          "text": "play",
+          "start": 63.92,
+          "end": 64.46,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 64.46,
+          "end": 64.73,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 64.73,
+          "end": 64.86,
+          "probability": 1
+        },
+        {
+          "text": "memory?",
+          "start": 64.86,
+          "end": 65.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 66.26,
+      "end": 69.65,
+      "text": "I'm not really sure how it goes",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 66.26,
+          "end": 66.67,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 66.67,
+          "end": 67.08,
+          "probability": 1
+        },
+        {
+          "text": "really",
+          "start": 67.08,
+          "end": 67.89,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 67.89,
+          "end": 68.43,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 68.43,
+          "end": 68.84,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 68.84,
+          "end": 69.11,
+          "probability": 1
+        },
+        {
+          "text": "goes",
+          "start": 69.11,
+          "end": 69.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.89,
+      "end": 74.14,
+      "text": "But it's sad and it's sweet and I knew it complete",
+      "words": [
+        {
+          "text": "But",
+          "start": 69.89,
+          "end": 70.21,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 70.21,
+          "end": 70.63,
+          "probability": 1
+        },
+        {
+          "text": "sad",
+          "start": 70.63,
+          "end": 70.95,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 70.95,
+          "end": 71.27,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 71.27,
+          "end": 71.69,
+          "probability": 1
+        },
+        {
+          "text": "sweet",
+          "start": 71.69,
+          "end": 72.22,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 72.22,
+          "end": 72.54,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 72.54,
+          "end": 72.66,
+          "probability": 1
+        },
+        {
+          "text": "knew",
+          "start": 72.66,
+          "end": 73.08,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 73.08,
+          "end": 73.29,
+          "probability": 1
+        },
+        {
+          "text": "complete",
+          "start": 73.29,
+          "end": 74.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 74.38,
+      "end": 78.19,
+      "text": "When I wore a younger man's clothes\"",
+      "words": [
+        {
+          "text": "When",
+          "start": 74.38,
+          "end": 74.89,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 74.89,
+          "end": 75.02,
+          "probability": 1
+        },
+        {
+          "text": "wore",
+          "start": 75.02,
+          "end": 75.53,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 75.53,
+          "end": 75.66,
+          "probability": 1
+        },
+        {
+          "text": "younger",
+          "start": 75.66,
+          "end": 76.55,
+          "probability": 1
+        },
+        {
+          "text": "man's",
+          "start": 76.55,
+          "end": 77.18,
+          "probability": 1
+        },
+        {
+          "text": "clothes\"",
+          "start": 77.18,
+          "end": 78.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 78.6,
+      "end": 80.87,
+      "text": "La, la-la, di-di-da",
+      "words": [
+        {
+          "text": "La,",
+          "start": 78.6,
+          "end": 79,
+          "probability": 1
+        },
+        {
+          "text": "la-la,",
+          "start": 79,
+          "end": 79.8,
+          "probability": 1
+        },
+        {
+          "text": "di-di-da",
+          "start": 79.8,
+          "end": 80.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 83.59,
+      "end": 86.25,
+      "text": "La-la di-di-da da-dum",
+      "words": [
+        {
+          "text": "La-la",
+          "start": 83.59,
+          "end": 84.29,
+          "probability": 1
+        },
+        {
+          "text": "di-di-da",
+          "start": 84.29,
+          "end": 85.41,
+          "probability": 1
+        },
+        {
+          "text": "da-dum",
+          "start": 85.41,
+          "end": 86.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 90.56,
+      "end": 94.36,
+      "text": "Sing us a song, you're the piano man",
+      "words": [
+        {
+          "text": "Sing",
+          "start": 90.56,
+          "end": 91.08,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 91.08,
+          "end": 91.34,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 91.34,
+          "end": 91.47,
+          "probability": 1
+        },
+        {
+          "text": "song,",
+          "start": 91.47,
+          "end": 92.13,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 92.13,
+          "end": 92.92,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 92.92,
+          "end": 93.31,
+          "probability": 1
+        },
+        {
+          "text": "piano",
+          "start": 93.31,
+          "end": 93.97,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 93.97,
+          "end": 94.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 94.84,
+      "end": 97.13,
+      "text": "Sing us a song tonight",
+      "words": [
+        {
+          "text": "Sing",
+          "start": 94.84,
+          "end": 95.35,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 95.35,
+          "end": 95.6,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 95.6,
+          "end": 95.73,
+          "probability": 1
+        },
+        {
+          "text": "song",
+          "start": 95.73,
+          "end": 96.24,
+          "probability": 1
+        },
+        {
+          "text": "tonight",
+          "start": 96.24,
+          "end": 97.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 98.49,
+      "end": 102.54,
+      "text": "Well, we're all in the mood for a melody",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 98.49,
+          "end": 99.12,
+          "probability": 1
+        },
+        {
+          "text": "we're",
+          "start": 99.12,
+          "end": 99.75,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 99.75,
+          "end": 100.13,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 100.13,
+          "end": 100.38,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 100.38,
+          "end": 100.76,
+          "probability": 1
+        },
+        {
+          "text": "mood",
+          "start": 100.76,
+          "end": 101.27,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 101.27,
+          "end": 101.65,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 101.65,
+          "end": 101.78,
+          "probability": 1
+        },
+        {
+          "text": "melody",
+          "start": 101.78,
+          "end": 102.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.79,
+      "end": 106.22,
+      "text": "And you've got us feelin' alright",
+      "words": [
+        {
+          "text": "And",
+          "start": 102.79,
+          "end": 103.16,
+          "probability": 1
+        },
+        {
+          "text": "you've",
+          "start": 103.16,
+          "end": 103.89,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 103.89,
+          "end": 104.26,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 104.26,
+          "end": 104.5,
+          "probability": 1
+        },
+        {
+          "text": "feelin'",
+          "start": 104.5,
+          "end": 105.36,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 105.36,
+          "end": 106.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 106.22,
+      "end": 120.73,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 106.22,
+          "end": 120.73,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 120.73,
+      "end": 124.93,
+      "text": "Now John at the bar is a friend of mine",
+      "words": [
+        {
+          "text": "Now",
+          "start": 120.73,
+          "end": 121.15,
+          "probability": 1
+        },
+        {
+          "text": "John",
+          "start": 121.15,
+          "end": 121.71,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 121.71,
+          "end": 121.99,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 121.99,
+          "end": 122.41,
+          "probability": 1
+        },
+        {
+          "text": "bar",
+          "start": 122.41,
+          "end": 122.83,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 122.83,
+          "end": 123.11,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 123.11,
+          "end": 123.25,
+          "probability": 1
+        },
+        {
+          "text": "friend",
+          "start": 123.25,
+          "end": 124.09,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 124.09,
+          "end": 124.37,
+          "probability": 1
+        },
+        {
+          "text": "mine",
+          "start": 124.37,
+          "end": 124.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.2,
+      "end": 128.34,
+      "text": "He gets me my drinks for free",
+      "words": [
+        {
+          "text": "He",
+          "start": 125.2,
+          "end": 125.47,
+          "probability": 1
+        },
+        {
+          "text": "gets",
+          "start": 125.47,
+          "end": 126.02,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 126.02,
+          "end": 126.29,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 126.29,
+          "end": 126.56,
+          "probability": 1
+        },
+        {
+          "text": "drinks",
+          "start": 126.56,
+          "end": 127.38,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 127.38,
+          "end": 127.79,
+          "probability": 1
+        },
+        {
+          "text": "free",
+          "start": 127.79,
+          "end": 128.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 129.06,
+      "end": 133.05,
+      "text": "And he's quick with a joke, or to light up your smoke",
+      "words": [
+        {
+          "text": "And",
+          "start": 129.06,
+          "end": 129.34,
+          "probability": 1
+        },
+        {
+          "text": "he's",
+          "start": 129.34,
+          "end": 129.72,
+          "probability": 1
+        },
+        {
+          "text": "quick",
+          "start": 129.72,
+          "end": 130.19,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 130.19,
+          "end": 130.57,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 130.57,
+          "end": 130.69,
+          "probability": 1
+        },
+        {
+          "text": "joke,",
+          "start": 130.69,
+          "end": 131.16,
+          "probability": 1
+        },
+        {
+          "text": "or",
+          "start": 131.16,
+          "end": 131.35,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 131.35,
+          "end": 131.54,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 131.54,
+          "end": 132.01,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 132.01,
+          "end": 132.2,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 132.2,
+          "end": 132.58,
+          "probability": 1
+        },
+        {
+          "text": "smoke",
+          "start": 132.58,
+          "end": 133.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.29,
+      "end": 137.84,
+      "text": "But there's some place that he'd rather be",
+      "words": [
+        {
+          "text": "But",
+          "start": 133.29,
+          "end": 133.68,
+          "probability": 1
+        },
+        {
+          "text": "there's",
+          "start": 133.68,
+          "end": 134.59,
+          "probability": 1
+        },
+        {
+          "text": "some",
+          "start": 134.59,
+          "end": 135.11,
+          "probability": 1
+        },
+        {
+          "text": "place",
+          "start": 135.11,
+          "end": 135.76,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 135.76,
+          "end": 136.28,
+          "probability": 1
+        },
+        {
+          "text": "he'd",
+          "start": 136.28,
+          "end": 136.8,
+          "probability": 1
+        },
+        {
+          "text": "rather",
+          "start": 136.8,
+          "end": 137.58,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 137.58,
+          "end": 137.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 139.17,
+      "end": 143.05,
+      "text": "He says, \"Bill, I believe this is killing me\"",
+      "words": [
+        {
+          "text": "He",
+          "start": 139.17,
+          "end": 139.38,
+          "probability": 1
+        },
+        {
+          "text": "says,",
+          "start": 139.38,
+          "end": 139.9,
+          "probability": 1
+        },
+        {
+          "text": "\"Bill,",
+          "start": 139.9,
+          "end": 140.53,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 140.53,
+          "end": 140.65,
+          "probability": 1
+        },
+        {
+          "text": "believe",
+          "start": 140.65,
+          "end": 141.38,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 141.38,
+          "end": 141.8,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 141.8,
+          "end": 142.01,
+          "probability": 1
+        },
+        {
+          "text": "killing",
+          "start": 142.01,
+          "end": 142.74,
+          "probability": 1
+        },
+        {
+          "text": "me\"",
+          "start": 142.74,
+          "end": 143.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 143.29,
+      "end": 146.92,
+      "text": "As a smile ran away from his face",
+      "words": [
+        {
+          "text": "As",
+          "start": 143.29,
+          "end": 143.57,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 143.57,
+          "end": 143.71,
+          "probability": 1
+        },
+        {
+          "text": "smile",
+          "start": 143.71,
+          "end": 144.4,
+          "probability": 1
+        },
+        {
+          "text": "ran",
+          "start": 144.4,
+          "end": 144.82,
+          "probability": 1
+        },
+        {
+          "text": "away",
+          "start": 144.82,
+          "end": 145.38,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 145.38,
+          "end": 145.94,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 145.94,
+          "end": 146.36,
+          "probability": 1
+        },
+        {
+          "text": "face",
+          "start": 146.36,
+          "end": 146.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 147.15,
+      "end": 151.44,
+      "text": "\"Well, I'm sure that I could be a movie star",
+      "words": [
+        {
+          "text": "\"Well,",
+          "start": 147.15,
+          "end": 147.89,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 147.89,
+          "end": 148.26,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 148.26,
+          "end": 148.75,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 148.75,
+          "end": 149.24,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 149.24,
+          "end": 149.36,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 149.36,
+          "end": 149.97,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 149.97,
+          "end": 150.22,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 150.22,
+          "end": 150.34,
+          "probability": 1
+        },
+        {
+          "text": "movie",
+          "start": 150.34,
+          "end": 150.95,
+          "probability": 1
+        },
+        {
+          "text": "star",
+          "start": 150.95,
+          "end": 151.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 151.7,
+      "end": 155.31,
+      "text": "If I could get out of this place\"",
+      "words": [
+        {
+          "text": "If",
+          "start": 151.7,
+          "end": 151.98,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 151.98,
+          "end": 152.12,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 152.12,
+          "end": 152.81,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 152.81,
+          "end": 153.23,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 153.23,
+          "end": 153.65,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 153.65,
+          "end": 153.93,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 153.93,
+          "end": 154.48,
+          "probability": 1
+        },
+        {
+          "text": "place\"",
+          "start": 154.48,
+          "end": 155.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.61,
+      "end": 158.27,
+      "text": "Oh, la, la-la, di-di-da",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 155.61,
+          "end": 156.01,
+          "probability": 1
+        },
+        {
+          "text": "la,",
+          "start": 156.01,
+          "end": 156.41,
+          "probability": 1
+        },
+        {
+          "text": "la-la,",
+          "start": 156.41,
+          "end": 157.21,
+          "probability": 1
+        },
+        {
+          "text": "di-di-da",
+          "start": 157.21,
+          "end": 158.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 160.49,
+      "end": 163.15,
+      "text": "La-la di-di-da da-dum",
+      "words": [
+        {
+          "text": "La-la",
+          "start": 160.49,
+          "end": 161.19,
+          "probability": 1
+        },
+        {
+          "text": "di-di-da",
+          "start": 161.19,
+          "end": 162.31,
+          "probability": 1
+        },
+        {
+          "text": "da-dum",
+          "start": 162.31,
+          "end": 163.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.81,
+      "end": 171.37,
+      "text": "Now Paul is a real estate novelist",
+      "words": [
+        {
+          "text": "Now",
+          "start": 167.81,
+          "end": 168.19,
+          "probability": 1
+        },
+        {
+          "text": "Paul",
+          "start": 168.19,
+          "end": 168.7,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 168.7,
+          "end": 168.95,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 168.95,
+          "end": 169.08,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 169.08,
+          "end": 169.59,
+          "probability": 1
+        },
+        {
+          "text": "estate",
+          "start": 169.59,
+          "end": 170.35,
+          "probability": 1
+        },
+        {
+          "text": "novelist",
+          "start": 170.35,
+          "end": 171.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 171.62,
+      "end": 175.14,
+      "text": "Who never had time for a wife",
+      "words": [
+        {
+          "text": "Who",
+          "start": 171.62,
+          "end": 172.08,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 172.08,
+          "end": 172.85,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 172.85,
+          "end": 173.31,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 173.31,
+          "end": 173.92,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 173.92,
+          "end": 174.38,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 174.38,
+          "end": 174.53,
+          "probability": 1
+        },
+        {
+          "text": "wife",
+          "start": 174.53,
+          "end": 175.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 175.4,
+      "end": 179.69,
+      "text": "And he's talkin' with Davy, who's still in the navy",
+      "words": [
+        {
+          "text": "And",
+          "start": 175.4,
+          "end": 175.71,
+          "probability": 1
+        },
+        {
+          "text": "he's",
+          "start": 175.71,
+          "end": 176.12,
+          "probability": 1
+        },
+        {
+          "text": "talkin'",
+          "start": 176.12,
+          "end": 176.83,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 176.83,
+          "end": 177.24,
+          "probability": 1
+        },
+        {
+          "text": "Davy,",
+          "start": 177.24,
+          "end": 177.75,
+          "probability": 1
+        },
+        {
+          "text": "who's",
+          "start": 177.75,
+          "end": 178.26,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 178.26,
+          "end": 178.77,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 178.77,
+          "end": 178.97,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 178.97,
+          "end": 179.28,
+          "probability": 1
+        },
+        {
+          "text": "navy",
+          "start": 179.28,
+          "end": 179.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 179.93,
+      "end": 183.36,
+      "text": "And probably will be for life",
+      "words": [
+        {
+          "text": "And",
+          "start": 179.93,
+          "end": 180.36,
+          "probability": 1
+        },
+        {
+          "text": "probably",
+          "start": 180.36,
+          "end": 181.5,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 181.5,
+          "end": 182.07,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 182.07,
+          "end": 182.36,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 182.36,
+          "end": 182.79,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 182.79,
+          "end": 183.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 183.36,
+      "end": 193.85,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 183.36,
+          "end": 193.85,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 193.85,
+      "end": 197.75,
+      "text": "And the waitress is practicing politics",
+      "words": [
+        {
+          "text": "And",
+          "start": 193.85,
+          "end": 194.19,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 194.19,
+          "end": 194.53,
+          "probability": 1
+        },
+        {
+          "text": "waitress",
+          "start": 194.53,
+          "end": 195.45,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 195.45,
+          "end": 195.68,
+          "probability": 1
+        },
+        {
+          "text": "practicing",
+          "start": 195.68,
+          "end": 196.83,
+          "probability": 1
+        },
+        {
+          "text": "politics",
+          "start": 196.83,
+          "end": 197.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 198,
+      "end": 201.47,
+      "text": "As the businessmen slowly get stoned",
+      "words": [
+        {
+          "text": "As",
+          "start": 198,
+          "end": 198.22,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 198.22,
+          "end": 198.56,
+          "probability": 1
+        },
+        {
+          "text": "businessmen",
+          "start": 198.56,
+          "end": 199.79,
+          "probability": 1
+        },
+        {
+          "text": "slowly",
+          "start": 199.79,
+          "end": 200.46,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 200.46,
+          "end": 200.8,
+          "probability": 1
+        },
+        {
+          "text": "stoned",
+          "start": 200.8,
+          "end": 201.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 201.72,
+      "end": 205.71,
+      "text": "Yes, they're sharing a drink they call loneliness",
+      "words": [
+        {
+          "text": "Yes,",
+          "start": 201.72,
+          "end": 202.1,
+          "probability": 1
+        },
+        {
+          "text": "they're",
+          "start": 202.1,
+          "end": 202.76,
+          "probability": 1
+        },
+        {
+          "text": "sharing",
+          "start": 202.76,
+          "end": 203.42,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 203.42,
+          "end": 203.54,
+          "probability": 1
+        },
+        {
+          "text": "drink",
+          "start": 203.54,
+          "end": 204.01,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 204.01,
+          "end": 204.39,
+          "probability": 1
+        },
+        {
+          "text": "call",
+          "start": 204.39,
+          "end": 204.77,
+          "probability": 1
+        },
+        {
+          "text": "loneliness",
+          "start": 204.77,
+          "end": 205.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 205.92,
+      "end": 209.72,
+      "text": "But it's better than drinkin' alone",
+      "words": [
+        {
+          "text": "But",
+          "start": 205.92,
+          "end": 206.3,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 206.3,
+          "end": 206.81,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 206.81,
+          "end": 207.57,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 207.57,
+          "end": 208.08,
+          "probability": 1
+        },
+        {
+          "text": "drinkin'",
+          "start": 208.08,
+          "end": 209.09,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 209.09,
+          "end": 209.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 209.72,
+      "end": 225.75,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 209.72,
+          "end": 225.75,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 225.75,
+      "end": 229.56,
+      "text": "Sing us the song, you're the piano man",
+      "words": [
+        {
+          "text": "Sing",
+          "start": 225.75,
+          "end": 226.24,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 226.24,
+          "end": 226.49,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 226.49,
+          "end": 226.86,
+          "probability": 1
+        },
+        {
+          "text": "song,",
+          "start": 226.86,
+          "end": 227.47,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 227.47,
+          "end": 228.21,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 228.21,
+          "end": 228.58,
+          "probability": 1
+        },
+        {
+          "text": "piano",
+          "start": 228.58,
+          "end": 229.19,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 229.19,
+          "end": 229.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 229.92,
+      "end": 232.21,
+      "text": "Sing us a song tonight",
+      "words": [
+        {
+          "text": "Sing",
+          "start": 229.92,
+          "end": 230.43,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 230.43,
+          "end": 230.68,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 230.68,
+          "end": 230.81,
+          "probability": 1
+        },
+        {
+          "text": "song",
+          "start": 230.81,
+          "end": 231.32,
+          "probability": 1
+        },
+        {
+          "text": "tonight",
+          "start": 231.32,
+          "end": 232.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 233.56,
+      "end": 237.53,
+      "text": "Well, we're all in the mood for a melody",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 233.56,
+          "end": 234.18,
+          "probability": 1
+        },
+        {
+          "text": "we're",
+          "start": 234.18,
+          "end": 234.8,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 234.8,
+          "end": 235.17,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 235.17,
+          "end": 235.42,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 235.42,
+          "end": 235.79,
+          "probability": 1
+        },
+        {
+          "text": "mood",
+          "start": 235.79,
+          "end": 236.29,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 236.29,
+          "end": 236.66,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 236.66,
+          "end": 236.78,
+          "probability": 1
+        },
+        {
+          "text": "melody",
+          "start": 236.78,
+          "end": 237.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 237.8,
+      "end": 241.22,
+      "text": "And you've got us feelin' alright",
+      "words": [
+        {
+          "text": "And",
+          "start": 237.8,
+          "end": 238.17,
+          "probability": 1
+        },
+        {
+          "text": "you've",
+          "start": 238.17,
+          "end": 238.9,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 238.9,
+          "end": 239.27,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 239.27,
+          "end": 239.51,
+          "probability": 1
+        },
+        {
+          "text": "feelin'",
+          "start": 239.51,
+          "end": 240.36,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 240.36,
+          "end": 241.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 241.22,
+      "end": 255.79,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 241.22,
+          "end": 255.79,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 255.79,
+      "end": 259.61,
+      "text": "It's a pretty good crowd for a Saturday",
+      "words": [
+        {
+          "text": "It's",
+          "start": 255.79,
+          "end": 256.27,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 256.27,
+          "end": 256.39,
+          "probability": 1
+        },
+        {
+          "text": "pretty",
+          "start": 256.39,
+          "end": 257.1,
+          "probability": 1
+        },
+        {
+          "text": "good",
+          "start": 257.1,
+          "end": 257.58,
+          "probability": 1
+        },
+        {
+          "text": "crowd",
+          "start": 257.58,
+          "end": 258.18,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 258.18,
+          "end": 258.54,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 258.54,
+          "end": 258.66,
+          "probability": 1
+        },
+        {
+          "text": "Saturday",
+          "start": 258.66,
+          "end": 259.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 259.85,
+      "end": 263.54,
+      "text": "And the manager gives me a smile",
+      "words": [
+        {
+          "text": "And",
+          "start": 259.85,
+          "end": 260.28,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 260.28,
+          "end": 260.71,
+          "probability": 1
+        },
+        {
+          "text": "manager",
+          "start": 260.71,
+          "end": 261.7,
+          "probability": 1
+        },
+        {
+          "text": "gives",
+          "start": 261.7,
+          "end": 262.41,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 262.41,
+          "end": 262.69,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 262.69,
+          "end": 262.83,
+          "probability": 1
+        },
+        {
+          "text": "smile",
+          "start": 262.83,
+          "end": 263.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 263.79,
+      "end": 267.93,
+      "text": "'Cause he knows that it's me they've been comin' to see",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 263.79,
+          "end": 264.34,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 264.34,
+          "end": 264.52,
+          "probability": 1
+        },
+        {
+          "text": "knows",
+          "start": 264.52,
+          "end": 264.98,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 264.98,
+          "end": 265.35,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 265.35,
+          "end": 265.72,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 265.72,
+          "end": 265.9,
+          "probability": 1
+        },
+        {
+          "text": "they've",
+          "start": 265.9,
+          "end": 266.55,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 266.55,
+          "end": 266.92,
+          "probability": 1
+        },
+        {
+          "text": "comin'",
+          "start": 266.92,
+          "end": 267.47,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 267.47,
+          "end": 267.65,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 267.65,
+          "end": 267.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 268.19,
+      "end": 272.35,
+      "text": "To forget about life for a while",
+      "words": [
+        {
+          "text": "To",
+          "start": 268.19,
+          "end": 268.51,
+          "probability": 1
+        },
+        {
+          "text": "forget",
+          "start": 268.51,
+          "end": 269.47,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 269.47,
+          "end": 270.27,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 270.27,
+          "end": 270.91,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 270.91,
+          "end": 271.39,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 271.39,
+          "end": 271.55,
+          "probability": 1
+        },
+        {
+          "text": "while",
+          "start": 271.55,
+          "end": 272.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 273.55,
+      "end": 277.51,
+      "text": "And the piano, it sounds like a carnival",
+      "words": [
+        {
+          "text": "And",
+          "start": 273.55,
+          "end": 273.91,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 273.91,
+          "end": 274.27,
+          "probability": 1
+        },
+        {
+          "text": "piano,",
+          "start": 274.27,
+          "end": 274.99,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 274.99,
+          "end": 275.23,
+          "probability": 1
+        },
+        {
+          "text": "sounds",
+          "start": 275.23,
+          "end": 275.95,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 275.95,
+          "end": 276.43,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 276.43,
+          "end": 276.55,
+          "probability": 1
+        },
+        {
+          "text": "carnival",
+          "start": 276.55,
+          "end": 277.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 277.74,
+      "end": 281.2,
+      "text": "And the microphone smells like a beer",
+      "words": [
+        {
+          "text": "And",
+          "start": 277.74,
+          "end": 278.07,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 278.07,
+          "end": 278.4,
+          "probability": 1
+        },
+        {
+          "text": "microphone",
+          "start": 278.4,
+          "end": 279.51,
+          "probability": 1
+        },
+        {
+          "text": "smells",
+          "start": 279.51,
+          "end": 280.18,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 280.18,
+          "end": 280.63,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 280.63,
+          "end": 280.75,
+          "probability": 1
+        },
+        {
+          "text": "beer",
+          "start": 280.75,
+          "end": 281.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 281.44,
+      "end": 285.62,
+      "text": "And they sit at the bar and put bread in my jar",
+      "words": [
+        {
+          "text": "And",
+          "start": 281.44,
+          "end": 281.79,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 281.79,
+          "end": 282.25,
+          "probability": 1
+        },
+        {
+          "text": "sit",
+          "start": 282.25,
+          "end": 282.6,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 282.6,
+          "end": 282.83,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 282.83,
+          "end": 283.18,
+          "probability": 1
+        },
+        {
+          "text": "bar",
+          "start": 283.18,
+          "end": 283.53,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 283.53,
+          "end": 283.88,
+          "probability": 1
+        },
+        {
+          "text": "put",
+          "start": 283.88,
+          "end": 284.23,
+          "probability": 1
+        },
+        {
+          "text": "bread",
+          "start": 284.23,
+          "end": 284.81,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 284.81,
+          "end": 285.04,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 285.04,
+          "end": 285.27,
+          "probability": 1
+        },
+        {
+          "text": "jar",
+          "start": 285.27,
+          "end": 285.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 285.84,
+      "end": 289.5,
+      "text": "And say man what are you doin' here?",
+      "words": [
+        {
+          "text": "And",
+          "start": 285.84,
+          "end": 286.22,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 286.22,
+          "end": 286.6,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 286.6,
+          "end": 286.98,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 286.98,
+          "end": 287.48,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 287.48,
+          "end": 287.86,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 287.86,
+          "end": 288.24,
+          "probability": 1
+        },
+        {
+          "text": "doin'",
+          "start": 288.24,
+          "end": 288.87,
+          "probability": 1
+        },
+        {
+          "text": "here?",
+          "start": 288.87,
+          "end": 289.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 289.74,
+      "end": 292.4,
+      "text": "Oh, la, la-la, di-di-da",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 289.74,
+          "end": 290.14,
+          "probability": 1
+        },
+        {
+          "text": "la,",
+          "start": 290.14,
+          "end": 290.54,
+          "probability": 1
+        },
+        {
+          "text": "la-la,",
+          "start": 290.54,
+          "end": 291.34,
+          "probability": 1
+        },
+        {
+          "text": "di-di-da",
+          "start": 291.34,
+          "end": 292.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 294.78,
+      "end": 297.44,
+      "text": "La-la di-di-da da-dum",
+      "words": [
+        {
+          "text": "La-la",
+          "start": 294.78,
+          "end": 295.48,
+          "probability": 1
+        },
+        {
+          "text": "di-di-da",
+          "start": 295.48,
+          "end": 296.6,
+          "probability": 1
+        },
+        {
+          "text": "da-dum",
+          "start": 296.6,
+          "end": 297.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 301.34,
+      "end": 305.15,
+      "text": "Sing us the song, you're the piano man",
+      "words": [
+        {
+          "text": "Sing",
+          "start": 301.34,
+          "end": 301.83,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 301.83,
+          "end": 302.08,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 302.08,
+          "end": 302.45,
+          "probability": 1
+        },
+        {
+          "text": "song,",
+          "start": 302.45,
+          "end": 303.06,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 303.06,
+          "end": 303.8,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 303.8,
+          "end": 304.17,
+          "probability": 1
+        },
+        {
+          "text": "piano",
+          "start": 304.17,
+          "end": 304.78,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 304.78,
+          "end": 305.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 306.01,
+      "end": 308.3,
+      "text": "Sing us a song tonight",
+      "words": [
+        {
+          "text": "Sing",
+          "start": 306.01,
+          "end": 306.52,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 306.52,
+          "end": 306.77,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 306.77,
+          "end": 306.9,
+          "probability": 1
+        },
+        {
+          "text": "song",
+          "start": 306.9,
+          "end": 307.41,
+          "probability": 1
+        },
+        {
+          "text": "tonight",
+          "start": 307.41,
+          "end": 308.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 309.27,
+      "end": 313.36,
+      "text": "Well, we're all in the mood for a melody",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 309.27,
+          "end": 309.91,
+          "probability": 1
+        },
+        {
+          "text": "we're",
+          "start": 309.91,
+          "end": 310.55,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 310.55,
+          "end": 310.93,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 310.93,
+          "end": 311.19,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 311.19,
+          "end": 311.57,
+          "probability": 1
+        },
+        {
+          "text": "mood",
+          "start": 311.57,
+          "end": 312.08,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 312.08,
+          "end": 312.46,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 312.46,
+          "end": 312.59,
+          "probability": 1
+        },
+        {
+          "text": "melody",
+          "start": 312.59,
+          "end": 313.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 313.62,
+      "end": 317.05,
+      "text": "And you've got us feelin' alright",
+      "words": [
+        {
+          "text": "And",
+          "start": 313.62,
+          "end": 313.99,
+          "probability": 1
+        },
+        {
+          "text": "you've",
+          "start": 313.99,
+          "end": 314.72,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 314.72,
+          "end": 315.09,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 315.09,
+          "end": 315.33,
+          "probability": 1
+        },
+        {
+          "text": "feelin'",
+          "start": 315.33,
+          "end": 316.19,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 316.19,
+          "end": 317.05,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "It's nine o'clock on a Saturday The regular crowd shuffles in There's an old man sittin' next to me Makin' love to his tonic and gin He says, \"Son can you play me a memory? I'm not really sure how it goes But it's sad and it's sweet and I knew it complete When I wore a younger man's clothes\" La, la-la, di-di-da La-la di-di-da da-dum Sing us a song, you're the piano man Sing us a song tonight Well, we're all in the mood for a melody And you've got us feelin' alright Now John at the bar is a friend of mine He gets me my drinks for free And he's quick with a joke, or to light up your smoke But there's some place that he'd rather be He says, \"Bill, I believe this is killing me\" As a smile ran away from his face \"Well, I'm sure that I could be a movie star If I could get out of this place\" Oh, la, la-la, di-di-da La-la di-di-da da-dum Now Paul is a real estate novelist Who never had time for a wife And he's talkin' with Davy, who's still in the navy And probably will be for life And the waitress is practicing politics As the businessmen slowly get stoned Yes, they're sharing a drink they call loneliness But it's better than drinkin' alone Sing us the song, you're the piano man Sing us a song tonight Well, we're all in the mood for a melody And you've got us feelin' alright It's a pretty good crowd for a Saturday And the manager gives me a smile 'Cause he knows that it's me they've been comin' to see To forget about life for a while And the piano, it sounds like a carnival And the microphone smells like a beer And they sit at the bar and put bread in my jar And say man what are you doin' here? Oh, la, la-la, di-di-da La-la di-di-da da-dum Sing us the song, you're the piano man Sing us a song tonight Well, we're all in the mood for a melody And you've got us feelin' alright"
+}

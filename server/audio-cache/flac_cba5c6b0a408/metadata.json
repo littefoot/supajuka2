@@ -1,0 +1,18 @@
+{
+  "id": "flac_cba5c6b0a408",
+  "source": "local",
+  "title": "Everything I Am feat. DJ Premier",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 228,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790188191440,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_cba5c6b0a408/original.flac",
+  "instrumentalUrl": "/audio/flac_cba5c6b0a408/instrumental.flac",
+  "vocalsUrl": "/audio/flac_cba5c6b0a408/vocals.flac"
+}

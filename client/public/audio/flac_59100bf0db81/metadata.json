@@ -1,0 +1,19 @@
+{
+  "id": "flac_59100bf0db81",
+  "source": "local",
+  "title": "The Longest Time",
+  "artist": "Billy Joel",
+  "album": "50 Years of the Piano Man",
+  "duration": 219,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_59100bf0db81/cover.jpg",
+  "cachedAt": 1790186716374,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_59100bf0db81/original.flac",
+  "instrumentalUrl": "/audio/flac_59100bf0db81/instrumental.flac",
+  "vocalsUrl": "/audio/flac_59100bf0db81/vocals.flac"
+}

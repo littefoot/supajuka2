@@ -1,0 +1,18 @@
+{
+  "id": "flac_1c9a4a9e0dc1",
+  "source": "local",
+  "title": "Champion",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 168,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790187925016,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_1c9a4a9e0dc1/original.flac",
+  "instrumentalUrl": "/audio/flac_1c9a4a9e0dc1/instrumental.flac",
+  "vocalsUrl": "/audio/flac_1c9a4a9e0dc1/vocals.flac"
+}

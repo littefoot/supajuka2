@@ -1,7 +1,8 @@
 import { io, Socket } from 'socket.io-client';
 import { SongMetadata, LyricResult, GpuStatus, SongStatusUpdate } from '../types';
 
-export const socket: Socket = io(window.location.origin);
+const isLocal = typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
+export const socket: Socket = io(window.location.origin, { autoConnect: isLocal });
 
 export async function uploadAudioFile(file: File): Promise<SongMetadata> {
   const formData = new FormData();
@@ -51,9 +52,18 @@ export async function transcribeLyrics(songId: string): Promise<LyricResult> {
 }
 
 export async function getLibrary(): Promise<SongMetadata[]> {
-  const res = await fetch('/api/audio/library');
-  if (!res.ok) throw new Error('Failed to fetch library');
-  return res.json();
+  try {
+    const res = await fetch('/api/audio/library');
+    if (res.ok) return await res.json();
+  } catch (e) {}
+
+  // Fallback to static bundled library on Firebase Hosting:
+  try {
+    const staticRes = await fetch(`/audio/library.json?t=${Date.now()}`);
+    if (staticRes.ok) return await staticRes.json();
+  } catch (e) {}
+
+  return [];
 }
 
 export async function deleteSongFromLibrary(id: string): Promise<boolean> {

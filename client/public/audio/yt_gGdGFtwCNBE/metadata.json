@@ -1,0 +1,17 @@
+{
+  "id": "yt_gGdGFtwCNBE",
+  "source": "youtube",
+  "title": "Mr. Brightside",
+  "artist": "The Killers",
+  "duration": 228,
+  "format": "flac",
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/yt_gGdGFtwCNBE/cover.jpg",
+  "cachedAt": 1790194901422,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/yt_gGdGFtwCNBE/original.flac",
+  "channel": "TheKillersMusic",
+  "instrumentalUrl": "/audio/yt_gGdGFtwCNBE/instrumental.flac",
+  "vocalsUrl": "/audio/yt_gGdGFtwCNBE/vocals.flac"
+}

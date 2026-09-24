@@ -1,0 +1,3960 @@
+{
+  "language": "en",
+  "duration": 246,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 33.2,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 33.2,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 33.2,
+      "end": 35.72,
+      "text": "In the middle of the night",
+      "words": [
+        {
+          "text": "In",
+          "start": 33.2,
+          "end": 33.44,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 33.44,
+          "end": 33.8,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 33.8,
+          "end": 34.52,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 34.52,
+          "end": 34.76,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 34.76,
+          "end": 35.12,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 35.12,
+          "end": 35.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.98,
+      "end": 38.34,
+      "text": "I go walking in my sleep",
+      "words": [
+        {
+          "text": "I",
+          "start": 35.98,
+          "end": 36.1,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 36.1,
+          "end": 36.35,
+          "probability": 1
+        },
+        {
+          "text": "walking",
+          "start": 36.35,
+          "end": 37.22,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 37.22,
+          "end": 37.47,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 37.47,
+          "end": 37.72,
+          "probability": 1
+        },
+        {
+          "text": "sleep",
+          "start": 37.72,
+          "end": 38.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 38.58,
+      "end": 40.87,
+      "text": "From the mountains of faith",
+      "words": [
+        {
+          "text": "From",
+          "start": 38.58,
+          "end": 38.98,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 38.98,
+          "end": 39.28,
+          "probability": 1
+        },
+        {
+          "text": "mountains",
+          "start": 39.28,
+          "end": 40.17,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 40.17,
+          "end": 40.37,
+          "probability": 1
+        },
+        {
+          "text": "faith",
+          "start": 40.37,
+          "end": 40.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 41.25,
+      "end": 43.54,
+      "text": "To the river so deep",
+      "words": [
+        {
+          "text": "To",
+          "start": 41.25,
+          "end": 41.54,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 41.54,
+          "end": 41.97,
+          "probability": 1
+        },
+        {
+          "text": "river",
+          "start": 41.97,
+          "end": 42.68,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 42.68,
+          "end": 42.97,
+          "probability": 1
+        },
+        {
+          "text": "deep",
+          "start": 42.97,
+          "end": 43.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 43.9,
+      "end": 46.3,
+      "text": "I must be looking for something",
+      "words": [
+        {
+          "text": "I",
+          "start": 43.9,
+          "end": 44.02,
+          "probability": 1
+        },
+        {
+          "text": "must",
+          "start": 44.02,
+          "end": 44.39,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 44.39,
+          "end": 44.57,
+          "probability": 1
+        },
+        {
+          "text": "looking",
+          "start": 44.57,
+          "end": 45.21,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 45.21,
+          "end": 45.48,
+          "probability": 1
+        },
+        {
+          "text": "something",
+          "start": 45.48,
+          "end": 46.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 46.53,
+      "end": 49.19,
+      "text": "Something sacred I lost",
+      "words": [
+        {
+          "text": "Something",
+          "start": 46.53,
+          "end": 47.73,
+          "probability": 1
+        },
+        {
+          "text": "sacred",
+          "start": 47.73,
+          "end": 48.53,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 48.53,
+          "end": 48.66,
+          "probability": 1
+        },
+        {
+          "text": "lost",
+          "start": 48.66,
+          "end": 49.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 49.44,
+      "end": 51.71,
+      "text": "But the river is wide",
+      "words": [
+        {
+          "text": "But",
+          "start": 49.44,
+          "end": 49.84,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 49.84,
+          "end": 50.24,
+          "probability": 1
+        },
+        {
+          "text": "river",
+          "start": 50.24,
+          "end": 50.91,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 50.91,
+          "end": 51.18,
+          "probability": 1
+        },
+        {
+          "text": "wide",
+          "start": 51.18,
+          "end": 51.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.96,
+      "end": 54.66,
+      "text": "And it's too hard to cross",
+      "words": [
+        {
+          "text": "And",
+          "start": 51.96,
+          "end": 52.35,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 52.35,
+          "end": 52.86,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 52.86,
+          "end": 53.25,
+          "probability": 1
+        },
+        {
+          "text": "hard",
+          "start": 53.25,
+          "end": 53.76,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 53.76,
+          "end": 54.02,
+          "probability": 1
+        },
+        {
+          "text": "cross",
+          "start": 54.02,
+          "end": 54.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 55.79,
+      "end": 57.78,
+      "text": "Even though I know the river is wide",
+      "words": [
+        {
+          "text": "Even",
+          "start": 55.79,
+          "end": 56.06,
+          "probability": 1
+        },
+        {
+          "text": "though",
+          "start": 56.06,
+          "end": 56.46,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 56.46,
+          "end": 56.58,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 56.58,
+          "end": 56.85,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 56.85,
+          "end": 57.05,
+          "probability": 1
+        },
+        {
+          "text": "river",
+          "start": 57.05,
+          "end": 57.38,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 57.38,
+          "end": 57.51,
+          "probability": 1
+        },
+        {
+          "text": "wide",
+          "start": 57.51,
+          "end": 57.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 57.98,
+      "end": 61.04,
+      "text": "I walk down every evening and I stand on the shore",
+      "words": [
+        {
+          "text": "I",
+          "start": 57.98,
+          "end": 58.1,
+          "probability": 1
+        },
+        {
+          "text": "walk",
+          "start": 58.1,
+          "end": 58.4,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 58.4,
+          "end": 58.7,
+          "probability": 1
+        },
+        {
+          "text": "every",
+          "start": 58.7,
+          "end": 59.07,
+          "probability": 1
+        },
+        {
+          "text": "evening",
+          "start": 59.07,
+          "end": 59.59,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 59.59,
+          "end": 59.81,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 59.81,
+          "end": 59.93,
+          "probability": 1
+        },
+        {
+          "text": "stand",
+          "start": 59.93,
+          "end": 60.3,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 60.3,
+          "end": 60.45,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 60.45,
+          "end": 60.67,
+          "probability": 1
+        },
+        {
+          "text": "shore",
+          "start": 60.67,
+          "end": 61.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.2,
+      "end": 63.2,
+      "text": "I try to cross to the opposite side",
+      "words": [
+        {
+          "text": "I",
+          "start": 61.2,
+          "end": 61.32,
+          "probability": 1
+        },
+        {
+          "text": "try",
+          "start": 61.32,
+          "end": 61.53,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 61.53,
+          "end": 61.67,
+          "probability": 1
+        },
+        {
+          "text": "cross",
+          "start": 61.67,
+          "end": 62.02,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 62.02,
+          "end": 62.16,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 62.16,
+          "end": 62.37,
+          "probability": 1
+        },
+        {
+          "text": "opposite",
+          "start": 62.37,
+          "end": 62.92,
+          "probability": 1
+        },
+        {
+          "text": "side",
+          "start": 62.92,
+          "end": 63.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 63.39,
+      "end": 66.66,
+      "text": "So I can finally find what I've been looking for",
+      "words": [
+        {
+          "text": "So",
+          "start": 63.39,
+          "end": 63.56,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 63.56,
+          "end": 63.68,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 63.68,
+          "end": 63.93,
+          "probability": 1
+        },
+        {
+          "text": "finally",
+          "start": 63.93,
+          "end": 64.51,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 64.51,
+          "end": 64.84,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 64.84,
+          "end": 65.17,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 65.17,
+          "end": 65.5,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 65.5,
+          "end": 65.83,
+          "probability": 1
+        },
+        {
+          "text": "looking",
+          "start": 65.83,
+          "end": 66.41,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 66.41,
+          "end": 66.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 66.87,
+      "end": 69.19,
+      "text": "In the middle of the night",
+      "words": [
+        {
+          "text": "In",
+          "start": 66.87,
+          "end": 67.09,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 67.09,
+          "end": 67.42,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 67.42,
+          "end": 68.09,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 68.09,
+          "end": 68.31,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 68.31,
+          "end": 68.64,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 68.64,
+          "end": 69.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.45,
+      "end": 71.37,
+      "text": "I go walking in my sleep",
+      "words": [
+        {
+          "text": "I",
+          "start": 69.45,
+          "end": 69.57,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 69.57,
+          "end": 69.77,
+          "probability": 1
+        },
+        {
+          "text": "walking",
+          "start": 69.77,
+          "end": 70.47,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 70.47,
+          "end": 70.67,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 70.67,
+          "end": 70.87,
+          "probability": 1
+        },
+        {
+          "text": "sleep",
+          "start": 70.87,
+          "end": 71.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 71.59,
+      "end": 73.87,
+      "text": "Through the valley of fear",
+      "words": [
+        {
+          "text": "Through",
+          "start": 71.59,
+          "end": 72.32,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 72.32,
+          "end": 72.63,
+          "probability": 1
+        },
+        {
+          "text": "valley",
+          "start": 72.63,
+          "end": 73.25,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 73.25,
+          "end": 73.46,
+          "probability": 1
+        },
+        {
+          "text": "fear",
+          "start": 73.46,
+          "end": 73.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 74.79,
+      "end": 77.07,
+      "text": "To a river so deep",
+      "words": [
+        {
+          "text": "To",
+          "start": 74.79,
+          "end": 75.12,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 75.12,
+          "end": 75.28,
+          "probability": 1
+        },
+        {
+          "text": "river",
+          "start": 75.28,
+          "end": 76.09,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 76.09,
+          "end": 76.42,
+          "probability": 1
+        },
+        {
+          "text": "deep",
+          "start": 76.42,
+          "end": 77.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 77.43,
+      "end": 79.84,
+      "text": "I've been searching for something",
+      "words": [
+        {
+          "text": "I've",
+          "start": 77.43,
+          "end": 77.76,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 77.76,
+          "end": 78.09,
+          "probability": 1
+        },
+        {
+          "text": "searching",
+          "start": 78.09,
+          "end": 78.84,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 78.84,
+          "end": 79.09,
+          "probability": 1
+        },
+        {
+          "text": "something",
+          "start": 79.09,
+          "end": 79.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 80.1,
+      "end": 82.37,
+      "text": "Taken out of my soul",
+      "words": [
+        {
+          "text": "Taken",
+          "start": 80.1,
+          "end": 80.81,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 80.81,
+          "end": 81.24,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 81.24,
+          "end": 81.52,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 81.52,
+          "end": 81.8,
+          "probability": 1
+        },
+        {
+          "text": "soul",
+          "start": 81.8,
+          "end": 82.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.96,
+      "end": 85.24,
+      "text": "Something I'd never lose",
+      "words": [
+        {
+          "text": "Something",
+          "start": 82.96,
+          "end": 83.94,
+          "probability": 1
+        },
+        {
+          "text": "I'd",
+          "start": 83.94,
+          "end": 84.27,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 84.27,
+          "end": 84.81,
+          "probability": 1
+        },
+        {
+          "text": "lose",
+          "start": 84.81,
+          "end": 85.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 85.49,
+      "end": 88.91,
+      "text": "Something somebody stole",
+      "words": [
+        {
+          "text": "Something",
+          "start": 85.49,
+          "end": 86.89,
+          "probability": 1
+        },
+        {
+          "text": "somebody",
+          "start": 86.89,
+          "end": 88.13,
+          "probability": 1
+        },
+        {
+          "text": "stole",
+          "start": 88.13,
+          "end": 88.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 89.27,
+      "end": 91.35,
+      "text": "I don't know why I go walking at night",
+      "words": [
+        {
+          "text": "I",
+          "start": 89.27,
+          "end": 89.39,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 89.39,
+          "end": 89.72,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 89.72,
+          "end": 89.98,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 89.98,
+          "end": 90.18,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 90.18,
+          "end": 90.3,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 90.3,
+          "end": 90.43,
+          "probability": 1
+        },
+        {
+          "text": "walking",
+          "start": 90.43,
+          "end": 90.89,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 90.89,
+          "end": 91.02,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 91.02,
+          "end": 91.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 91.49,
+      "end": 94.45,
+      "text": "But now I'm tired and I don't want to walk anymore",
+      "words": [
+        {
+          "text": "But",
+          "start": 91.49,
+          "end": 91.71,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 91.71,
+          "end": 91.93,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 91.93,
+          "end": 92.15,
+          "probability": 1
+        },
+        {
+          "text": "tired",
+          "start": 92.15,
+          "end": 92.51,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 92.51,
+          "end": 92.73,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 92.73,
+          "end": 92.85,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 92.85,
+          "end": 93.21,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 93.21,
+          "end": 93.5,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 93.5,
+          "end": 93.65,
+          "probability": 1
+        },
+        {
+          "text": "walk",
+          "start": 93.65,
+          "end": 93.94,
+          "probability": 1
+        },
+        {
+          "text": "anymore",
+          "start": 93.94,
+          "end": 94.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 94.64,
+      "end": 96.48,
+      "text": "I hope it doesn't take the rest of my life",
+      "words": [
+        {
+          "text": "I",
+          "start": 94.64,
+          "end": 94.76,
+          "probability": 1
+        },
+        {
+          "text": "hope",
+          "start": 94.76,
+          "end": 94.97,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 94.97,
+          "end": 95.09,
+          "probability": 1
+        },
+        {
+          "text": "doesn't",
+          "start": 95.09,
+          "end": 95.45,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 95.45,
+          "end": 95.66,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 95.66,
+          "end": 95.82,
+          "probability": 1
+        },
+        {
+          "text": "rest",
+          "start": 95.82,
+          "end": 96.03,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 96.03,
+          "end": 96.15,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 96.15,
+          "end": 96.27,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 96.27,
+          "end": 96.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 96.6,
+      "end": 101.28,
+      "text": "Until I find what it is I've been looking for",
+      "words": [
+        {
+          "text": "Until",
+          "start": 96.6,
+          "end": 97.25,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 97.25,
+          "end": 97.38,
+          "probability": 1
+        },
+        {
+          "text": "find",
+          "start": 97.38,
+          "end": 97.9,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 97.9,
+          "end": 98.42,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 98.42,
+          "end": 98.68,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 98.68,
+          "end": 98.94,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 98.94,
+          "end": 99.46,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 99.46,
+          "end": 99.98,
+          "probability": 1
+        },
+        {
+          "text": "looking",
+          "start": 99.98,
+          "end": 100.89,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 100.89,
+          "end": 101.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 101.51,
+      "end": 103.94,
+      "text": "In the middle of the night",
+      "words": [
+        {
+          "text": "In",
+          "start": 101.51,
+          "end": 101.74,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 101.74,
+          "end": 102.09,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 102.09,
+          "end": 102.78,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 102.78,
+          "end": 103.01,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 103.01,
+          "end": 103.36,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 103.36,
+          "end": 103.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 104.19,
+      "end": 106.55,
+      "text": "I go walking in my sleep",
+      "words": [
+        {
+          "text": "I",
+          "start": 104.19,
+          "end": 104.31,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 104.31,
+          "end": 104.56,
+          "probability": 1
+        },
+        {
+          "text": "walking",
+          "start": 104.56,
+          "end": 105.43,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 105.43,
+          "end": 105.68,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 105.68,
+          "end": 105.93,
+          "probability": 1
+        },
+        {
+          "text": "sleep",
+          "start": 105.93,
+          "end": 106.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 106.81,
+      "end": 109.09,
+      "text": "Through the jungle of doubt",
+      "words": [
+        {
+          "text": "Through",
+          "start": 106.81,
+          "end": 107.5,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 107.5,
+          "end": 107.8,
+          "probability": 1
+        },
+        {
+          "text": "jungle",
+          "start": 107.8,
+          "end": 108.39,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 108.39,
+          "end": 108.59,
+          "probability": 1
+        },
+        {
+          "text": "doubt",
+          "start": 108.59,
+          "end": 109.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.62,
+      "end": 111.86,
+      "text": "To the river so deep",
+      "words": [
+        {
+          "text": "To",
+          "start": 109.62,
+          "end": 109.9,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 109.9,
+          "end": 110.32,
+          "probability": 1
+        },
+        {
+          "text": "river",
+          "start": 110.32,
+          "end": 111.02,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 111.02,
+          "end": 111.3,
+          "probability": 1
+        },
+        {
+          "text": "deep",
+          "start": 111.3,
+          "end": 111.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 112.1,
+      "end": 114.53,
+      "text": "I know I'm searching for something",
+      "words": [
+        {
+          "text": "I",
+          "start": 112.1,
+          "end": 112.22,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 112.22,
+          "end": 112.55,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 112.55,
+          "end": 112.8,
+          "probability": 1
+        },
+        {
+          "text": "searching",
+          "start": 112.8,
+          "end": 113.54,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 113.54,
+          "end": 113.79,
+          "probability": 1
+        },
+        {
+          "text": "something",
+          "start": 113.79,
+          "end": 114.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 114.73,
+      "end": 117.4,
+      "text": "Something so undefined",
+      "words": [
+        {
+          "text": "Something",
+          "start": 114.73,
+          "end": 115.93,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 115.93,
+          "end": 116.2,
+          "probability": 1
+        },
+        {
+          "text": "undefined",
+          "start": 116.2,
+          "end": 117.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.65,
+      "end": 120.06,
+      "text": "That it can only be seen",
+      "words": [
+        {
+          "text": "That",
+          "start": 117.65,
+          "end": 118.16,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 118.16,
+          "end": 118.41,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 118.41,
+          "end": 118.79,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 118.79,
+          "end": 119.3,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 119.3,
+          "end": 119.55,
+          "probability": 1
+        },
+        {
+          "text": "seen",
+          "start": 119.55,
+          "end": 120.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 120.3,
+      "end": 122.18,
+      "text": "By the eyes of the blind",
+      "words": [
+        {
+          "text": "By",
+          "start": 120.3,
+          "end": 120.5,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 120.5,
+          "end": 120.8,
+          "probability": 1
+        },
+        {
+          "text": "eyes",
+          "start": 120.8,
+          "end": 121.19,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 121.19,
+          "end": 121.39,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 121.39,
+          "end": 121.69,
+          "probability": 1
+        },
+        {
+          "text": "blind",
+          "start": 121.69,
+          "end": 122.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 122.42,
+      "end": 124.18,
+      "text": "In the middle of the night",
+      "words": [
+        {
+          "text": "In",
+          "start": 122.42,
+          "end": 122.59,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 122.59,
+          "end": 122.84,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 122.84,
+          "end": 123.34,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 123.34,
+          "end": 123.51,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 123.51,
+          "end": 123.76,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 123.76,
+          "end": 124.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 124.42,
+      "end": 126.66,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 124.42,
+          "end": 124.54,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 124.54,
+          "end": 124.68,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 124.68,
+          "end": 125.16,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 125.16,
+          "end": 125.3,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 125.3,
+          "end": 125.57,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 125.57,
+          "end": 125.71,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 125.71,
+          "end": 125.91,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 125.91,
+          "end": 126.32,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 126.32,
+          "end": 126.46,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 126.46,
+          "end": 126.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 126.85,
+      "end": 129.31,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 126.85,
+          "end": 126.97,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 126.97,
+          "end": 127.12,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 127.12,
+          "end": 127.65,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 127.65,
+          "end": 127.8,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 127.8,
+          "end": 128.1,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 128.1,
+          "end": 128.25,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 128.25,
+          "end": 128.48,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 128.48,
+          "end": 128.93,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 128.93,
+          "end": 129.08,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 129.08,
+          "end": 129.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 129.52,
+      "end": 131.95,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 129.52,
+          "end": 129.64,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 129.64,
+          "end": 129.79,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 129.79,
+          "end": 130.31,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 130.31,
+          "end": 130.46,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 130.46,
+          "end": 130.76,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 130.76,
+          "end": 130.91,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 130.91,
+          "end": 131.13,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 131.13,
+          "end": 131.58,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 131.58,
+          "end": 131.73,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 131.73,
+          "end": 131.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 132.16,
+      "end": 134.71,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 132.16,
+          "end": 132.28,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 132.28,
+          "end": 132.44,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 132.44,
+          "end": 132.99,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 132.99,
+          "end": 133.15,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 133.15,
+          "end": 133.46,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 133.46,
+          "end": 133.62,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 133.62,
+          "end": 133.85,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 133.85,
+          "end": 134.32,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 134.32,
+          "end": 134.48,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 134.48,
+          "end": 134.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 134.91,
+      "end": 137.38,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 134.91,
+          "end": 135.03,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 135.03,
+          "end": 135.18,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 135.18,
+          "end": 135.71,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 135.71,
+          "end": 135.86,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 135.86,
+          "end": 136.16,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 136.16,
+          "end": 136.31,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 136.31,
+          "end": 136.54,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 136.54,
+          "end": 137,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 137,
+          "end": 137.15,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 137.15,
+          "end": 137.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 137.59,
+      "end": 139.94,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 137.59,
+          "end": 137.71,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 137.71,
+          "end": 137.85,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 137.85,
+          "end": 138.36,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 138.36,
+          "end": 138.5,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 138.5,
+          "end": 138.79,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 138.79,
+          "end": 138.93,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 138.93,
+          "end": 139.15,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 139.15,
+          "end": 139.58,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 139.58,
+          "end": 139.72,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 139.72,
+          "end": 139.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 140.15,
+      "end": 142.47,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 140.15,
+          "end": 140.27,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 140.27,
+          "end": 140.41,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 140.41,
+          "end": 140.91,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 140.91,
+          "end": 141.05,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 141.05,
+          "end": 141.34,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 141.34,
+          "end": 141.48,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 141.48,
+          "end": 141.69,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 141.69,
+          "end": 142.12,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 142.12,
+          "end": 142.26,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 142.26,
+          "end": 142.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142.68,
+      "end": 145.69,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 142.68,
+          "end": 142.8,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 142.8,
+          "end": 142.99,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 142.99,
+          "end": 143.64,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 143.64,
+          "end": 143.82,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 143.82,
+          "end": 144.19,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 144.19,
+          "end": 144.38,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 144.38,
+          "end": 144.66,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 144.66,
+          "end": 145.22,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 145.22,
+          "end": 145.41,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 145.41,
+          "end": 145.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 145.89,
+      "end": 147.57,
+      "text": "I'm not sure about a life after this",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 145.89,
+          "end": 146.06,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 146.06,
+          "end": 146.23,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 146.23,
+          "end": 146.45,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 146.45,
+          "end": 146.73,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 146.73,
+          "end": 146.85,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 146.85,
+          "end": 147.07,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 147.07,
+          "end": 147.35,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 147.35,
+          "end": 147.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 147.76,
+      "end": 150.84,
+      "text": "God knows I've never been a spiritual man",
+      "words": [
+        {
+          "text": "God",
+          "start": 147.76,
+          "end": 148.03,
+          "probability": 1
+        },
+        {
+          "text": "knows",
+          "start": 148.03,
+          "end": 148.48,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 148.48,
+          "end": 148.84,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 148.84,
+          "end": 149.29,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 149.29,
+          "end": 149.65,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 149.65,
+          "end": 149.77,
+          "probability": 1
+        },
+        {
+          "text": "spiritual",
+          "start": 149.77,
+          "end": 150.57,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 150.57,
+          "end": 150.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 151.04,
+      "end": 153.34,
+      "text": "Baptized by the fire, I wade into the river",
+      "words": [
+        {
+          "text": "Baptized",
+          "start": 151.04,
+          "end": 151.55,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 151.55,
+          "end": 151.68,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 151.68,
+          "end": 151.87,
+          "probability": 1
+        },
+        {
+          "text": "fire,",
+          "start": 151.87,
+          "end": 152.19,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 152.19,
+          "end": 152.31,
+          "probability": 1
+        },
+        {
+          "text": "wade",
+          "start": 152.31,
+          "end": 152.57,
+          "probability": 1
+        },
+        {
+          "text": "into",
+          "start": 152.57,
+          "end": 152.83,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 152.83,
+          "end": 153.02,
+          "probability": 1
+        },
+        {
+          "text": "river",
+          "start": 153.02,
+          "end": 153.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 153.54,
+      "end": 157.34,
+      "text": "That is running to the promised land",
+      "words": [
+        {
+          "text": "That",
+          "start": 153.54,
+          "end": 154.05,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 154.05,
+          "end": 154.3,
+          "probability": 1
+        },
+        {
+          "text": "running",
+          "start": 154.3,
+          "end": 155.19,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 155.19,
+          "end": 155.44,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 155.44,
+          "end": 155.82,
+          "probability": 1
+        },
+        {
+          "text": "promised",
+          "start": 155.82,
+          "end": 156.83,
+          "probability": 1
+        },
+        {
+          "text": "land",
+          "start": 156.83,
+          "end": 157.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 158.85,
+      "end": 161.38,
+      "text": "In the middle of the night",
+      "words": [
+        {
+          "text": "In",
+          "start": 158.85,
+          "end": 159.09,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 159.09,
+          "end": 159.45,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 159.45,
+          "end": 160.18,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 160.18,
+          "end": 160.42,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 160.42,
+          "end": 160.78,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 160.78,
+          "end": 161.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 161.64,
+      "end": 164.22,
+      "text": "I go walking in my sleep",
+      "words": [
+        {
+          "text": "I",
+          "start": 161.64,
+          "end": 161.78,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 161.78,
+          "end": 162.05,
+          "probability": 1
+        },
+        {
+          "text": "walking",
+          "start": 162.05,
+          "end": 163,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 163,
+          "end": 163.27,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 163.27,
+          "end": 163.54,
+          "probability": 1
+        },
+        {
+          "text": "sleep",
+          "start": 163.54,
+          "end": 164.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164.48,
+      "end": 166.71,
+      "text": "Through the desert of the truth",
+      "words": [
+        {
+          "text": "Through",
+          "start": 164.48,
+          "end": 165.08,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 165.08,
+          "end": 165.34,
+          "probability": 1
+        },
+        {
+          "text": "desert",
+          "start": 165.34,
+          "end": 165.85,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 165.85,
+          "end": 166.02,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 166.02,
+          "end": 166.28,
+          "probability": 1
+        },
+        {
+          "text": "truth",
+          "start": 166.28,
+          "end": 166.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 166.94,
+      "end": 169.23,
+      "text": "To the river so deep",
+      "words": [
+        {
+          "text": "To",
+          "start": 166.94,
+          "end": 167.23,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 167.23,
+          "end": 167.66,
+          "probability": 1
+        },
+        {
+          "text": "river",
+          "start": 167.66,
+          "end": 168.37,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 168.37,
+          "end": 168.66,
+          "probability": 1
+        },
+        {
+          "text": "deep",
+          "start": 168.66,
+          "end": 169.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 169.71,
+      "end": 172.23,
+      "text": "We all end in the ocean",
+      "words": [
+        {
+          "text": "We",
+          "start": 169.71,
+          "end": 169.99,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 169.99,
+          "end": 170.41,
+          "probability": 1
+        },
+        {
+          "text": "end",
+          "start": 170.41,
+          "end": 170.83,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 170.83,
+          "end": 171.11,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 171.11,
+          "end": 171.53,
+          "probability": 1
+        },
+        {
+          "text": "ocean",
+          "start": 171.53,
+          "end": 172.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 172.47,
+      "end": 174.76,
+      "text": "We all start in the streams",
+      "words": [
+        {
+          "text": "We",
+          "start": 172.47,
+          "end": 172.68,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 172.68,
+          "end": 172.99,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 172.99,
+          "end": 173.51,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 173.51,
+          "end": 173.72,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 173.72,
+          "end": 174.03,
+          "probability": 1
+        },
+        {
+          "text": "streams",
+          "start": 174.03,
+          "end": 174.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 175.02,
+      "end": 177.47,
+      "text": "We're all carried along",
+      "words": [
+        {
+          "text": "We're",
+          "start": 175.02,
+          "end": 175.63,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 175.63,
+          "end": 176,
+          "probability": 1
+        },
+        {
+          "text": "carried",
+          "start": 176,
+          "end": 176.86,
+          "probability": 1
+        },
+        {
+          "text": "along",
+          "start": 176.86,
+          "end": 177.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 177.72,
+      "end": 179.99,
+      "text": "By the river of dreams",
+      "words": [
+        {
+          "text": "By",
+          "start": 177.72,
+          "end": 177.97,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 177.97,
+          "end": 178.35,
+          "probability": 1
+        },
+        {
+          "text": "river",
+          "start": 178.35,
+          "end": 178.98,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 178.98,
+          "end": 179.23,
+          "probability": 1
+        },
+        {
+          "text": "dreams",
+          "start": 179.23,
+          "end": 179.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 180.44,
+      "end": 182.12,
+      "text": "In the middle of the night",
+      "words": [
+        {
+          "text": "In",
+          "start": 180.44,
+          "end": 180.6,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 180.6,
+          "end": 180.84,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 180.84,
+          "end": 181.32,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 181.32,
+          "end": 181.48,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 181.48,
+          "end": 181.72,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 181.72,
+          "end": 182.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 182.36,
+      "end": 184.29,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 182.36,
+          "end": 182.48,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 182.48,
+          "end": 182.6,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 182.6,
+          "end": 183.01,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 183.01,
+          "end": 183.13,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 183.13,
+          "end": 183.36,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 183.36,
+          "end": 183.48,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 183.48,
+          "end": 183.65,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 183.65,
+          "end": 184,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 184,
+          "end": 184.12,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 184.12,
+          "end": 184.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 184.47,
+      "end": 186.78,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 184.47,
+          "end": 184.59,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 184.59,
+          "end": 184.73,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 184.73,
+          "end": 185.23,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 185.23,
+          "end": 185.37,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 185.37,
+          "end": 185.65,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 185.65,
+          "end": 185.79,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 185.79,
+          "end": 186,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 186,
+          "end": 186.43,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 186.43,
+          "end": 186.57,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 186.57,
+          "end": 186.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 186.99,
+      "end": 189.47,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 186.99,
+          "end": 187.11,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 187.11,
+          "end": 187.26,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 187.26,
+          "end": 187.79,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 187.79,
+          "end": 187.94,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 187.94,
+          "end": 188.25,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 188.25,
+          "end": 188.4,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 188.4,
+          "end": 188.63,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 188.63,
+          "end": 189.09,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 189.09,
+          "end": 189.24,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 189.24,
+          "end": 189.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 189.68,
+      "end": 192,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 189.68,
+          "end": 189.8,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 189.8,
+          "end": 189.94,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 189.94,
+          "end": 190.44,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 190.44,
+          "end": 190.58,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 190.58,
+          "end": 190.87,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 190.87,
+          "end": 191.01,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 191.01,
+          "end": 191.22,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 191.22,
+          "end": 191.65,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 191.65,
+          "end": 191.79,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 191.79,
+          "end": 192,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 192.22,
+      "end": 194.71,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 192.22,
+          "end": 192.34,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 192.34,
+          "end": 192.49,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 192.49,
+          "end": 193.03,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 193.03,
+          "end": 193.18,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 193.18,
+          "end": 193.49,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 193.49,
+          "end": 193.64,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 193.64,
+          "end": 193.87,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 193.87,
+          "end": 194.33,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 194.33,
+          "end": 194.48,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 194.48,
+          "end": 194.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 194.92,
+      "end": 197.55,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 194.92,
+          "end": 195.04,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 195.04,
+          "end": 195.2,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 195.2,
+          "end": 195.77,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 195.77,
+          "end": 195.93,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 195.93,
+          "end": 196.26,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 196.26,
+          "end": 196.42,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 196.42,
+          "end": 196.66,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 196.66,
+          "end": 197.15,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 197.15,
+          "end": 197.31,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 197.31,
+          "end": 197.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 197.78,
+      "end": 200.07,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 197.78,
+          "end": 197.9,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 197.9,
+          "end": 198.04,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 198.04,
+          "end": 198.53,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 198.53,
+          "end": 198.67,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 198.67,
+          "end": 198.95,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 198.95,
+          "end": 199.09,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 199.09,
+          "end": 199.3,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 199.3,
+          "end": 199.72,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 199.72,
+          "end": 199.86,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 199.86,
+          "end": 200.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 200.28,
+      "end": 202.59,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 200.28,
+          "end": 200.4,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 200.4,
+          "end": 200.54,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 200.54,
+          "end": 201.04,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 201.04,
+          "end": 201.18,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 201.18,
+          "end": 201.46,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 201.46,
+          "end": 201.6,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 201.6,
+          "end": 201.81,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 201.81,
+          "end": 202.24,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 202.24,
+          "end": 202.38,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 202.38,
+          "end": 202.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 202.8,
+      "end": 205.51,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 202.8,
+          "end": 202.92,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 202.92,
+          "end": 203.09,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 203.09,
+          "end": 203.67,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 203.67,
+          "end": 203.84,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 203.84,
+          "end": 204.17,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 204.17,
+          "end": 204.34,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 204.34,
+          "end": 204.59,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 204.59,
+          "end": 205.09,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 205.09,
+          "end": 205.26,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 205.26,
+          "end": 205.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 205.7,
+      "end": 208.16,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 205.7,
+          "end": 205.82,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 205.82,
+          "end": 205.97,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 205.97,
+          "end": 206.5,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 206.5,
+          "end": 206.65,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 206.65,
+          "end": 206.95,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 206.95,
+          "end": 207.1,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 207.1,
+          "end": 207.33,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 207.33,
+          "end": 207.78,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 207.78,
+          "end": 207.93,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 207.93,
+          "end": 208.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 208.36,
+      "end": 210.65,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 208.36,
+          "end": 208.48,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 208.48,
+          "end": 208.62,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 208.62,
+          "end": 209.11,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 209.11,
+          "end": 209.25,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 209.25,
+          "end": 209.53,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 209.53,
+          "end": 209.67,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 209.67,
+          "end": 209.88,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 209.88,
+          "end": 210.3,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 210.3,
+          "end": 210.44,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 210.44,
+          "end": 210.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 210.83,
+      "end": 213.56,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 210.83,
+          "end": 210.95,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 210.95,
+          "end": 211.12,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 211.12,
+          "end": 211.71,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 211.71,
+          "end": 211.88,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 211.88,
+          "end": 212.22,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 212.22,
+          "end": 212.39,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 212.39,
+          "end": 212.64,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 212.64,
+          "end": 213.14,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 213.14,
+          "end": 213.31,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 213.31,
+          "end": 213.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 213.76,
+      "end": 216.11,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 213.76,
+          "end": 213.88,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 213.88,
+          "end": 214.02,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 214.02,
+          "end": 214.53,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 214.53,
+          "end": 214.67,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 214.67,
+          "end": 214.96,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 214.96,
+          "end": 215.1,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 215.1,
+          "end": 215.32,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 215.32,
+          "end": 215.75,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 215.75,
+          "end": 215.89,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 215.89,
+          "end": 216.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 216.32,
+      "end": 218.75,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 216.32,
+          "end": 216.44,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 216.44,
+          "end": 216.59,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 216.59,
+          "end": 217.11,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 217.11,
+          "end": 217.26,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 217.26,
+          "end": 217.56,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 217.56,
+          "end": 217.71,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 217.71,
+          "end": 217.93,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 217.93,
+          "end": 218.38,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 218.38,
+          "end": 218.53,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 218.53,
+          "end": 218.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 218.95,
+      "end": 221.44,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 218.95,
+          "end": 219.07,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 219.07,
+          "end": 219.22,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 219.22,
+          "end": 219.76,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 219.76,
+          "end": 219.91,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 219.91,
+          "end": 220.22,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 220.22,
+          "end": 220.37,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 220.37,
+          "end": 220.6,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 220.6,
+          "end": 221.06,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 221.06,
+          "end": 221.21,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 221.21,
+          "end": 221.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 221.65,
+      "end": 224.19,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 221.65,
+          "end": 221.77,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 221.77,
+          "end": 221.93,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 221.93,
+          "end": 222.47,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 222.47,
+          "end": 222.63,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 222.63,
+          "end": 222.94,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 222.94,
+          "end": 223.1,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 223.1,
+          "end": 223.33,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 223.33,
+          "end": 223.8,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 223.8,
+          "end": 223.96,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 223.96,
+          "end": 224.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 224.38,
+      "end": 227.08,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 224.38,
+          "end": 224.5,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 224.5,
+          "end": 224.67,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 224.67,
+          "end": 225.25,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 225.25,
+          "end": 225.42,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 225.42,
+          "end": 225.75,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 225.75,
+          "end": 225.92,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 225.92,
+          "end": 226.17,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 226.17,
+          "end": 226.67,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 226.67,
+          "end": 226.83,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 226.83,
+          "end": 227.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 227.27,
+      "end": 229.67,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 227.27,
+          "end": 227.39,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 227.39,
+          "end": 227.54,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 227.54,
+          "end": 228.05,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 228.05,
+          "end": 228.2,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 228.2,
+          "end": 228.49,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 228.49,
+          "end": 228.64,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 228.64,
+          "end": 228.86,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 228.86,
+          "end": 229.3,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 229.3,
+          "end": 229.45,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 229.45,
+          "end": 229.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 229.86,
+      "end": 232.15,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 229.86,
+          "end": 229.98,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 229.98,
+          "end": 230.12,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 230.12,
+          "end": 230.61,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 230.61,
+          "end": 230.75,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 230.75,
+          "end": 231.03,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 231.03,
+          "end": 231.17,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 231.17,
+          "end": 231.38,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 231.38,
+          "end": 231.8,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 231.8,
+          "end": 231.94,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 231.94,
+          "end": 232.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 232.37,
+      "end": 236.1,
+      "text": "I go walkin' in the, in the middle of the",
+      "words": [
+        {
+          "text": "I",
+          "start": 232.37,
+          "end": 232.49,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 232.49,
+          "end": 232.72,
+          "probability": 1
+        },
+        {
+          "text": "walkin'",
+          "start": 232.72,
+          "end": 233.54,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 233.54,
+          "end": 233.77,
+          "probability": 1
+        },
+        {
+          "text": "the,",
+          "start": 233.77,
+          "end": 234.24,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 234.24,
+          "end": 234.47,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 234.47,
+          "end": 234.82,
+          "probability": 1
+        },
+        {
+          "text": "middle",
+          "start": 234.82,
+          "end": 235.52,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 235.52,
+          "end": 235.75,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 235.75,
+          "end": 236.1,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "In the middle of the night I go walking in my sleep From the mountains of faith To the river so deep I must be looking for something Something sacred I lost But the river is wide And it's too hard to cross Even though I know the river is wide I walk down every evening and I stand on the shore I try to cross to the opposite side So I can finally find what I've been looking for In the middle of the night I go walking in my sleep Through the valley of fear To a river so deep I've been searching for something Taken out of my soul Something I'd never lose Something somebody stole I don't know why I go walking at night But now I'm tired and I don't want to walk anymore I hope it doesn't take the rest of my life Until I find what it is I've been looking for In the middle of the night I go walking in my sleep Through the jungle of doubt To the river so deep I know I'm searching for something Something so undefined That it can only be seen By the eyes of the blind In the middle of the night I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I'm not sure about a life after this God knows I've never been a spiritual man Baptized by the fire, I wade into the river That is running to the promised land In the middle of the night I go walking in my sleep Through the desert of the truth To the river so deep We all end in the ocean We all start in the streams We're all carried along By the river of dreams In the middle of the night I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the I go walkin' in the, in the middle of the"
+}

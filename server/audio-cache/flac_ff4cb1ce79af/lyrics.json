@@ -1,0 +1,3597 @@
+{
+  "language": "en",
+  "duration": 290,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 32.17,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 32.17,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 32.17,
+      "end": 35.74,
+      "text": "Harry Truman, Doris Day, Red China, Johnnie Ray",
+      "words": [
+        {
+          "text": "Harry",
+          "start": 32.17,
+          "end": 32.62,
+          "probability": 1
+        },
+        {
+          "text": "Truman,",
+          "start": 32.62,
+          "end": 33.24,
+          "probability": 1
+        },
+        {
+          "text": "Doris",
+          "start": 33.24,
+          "end": 33.69,
+          "probability": 1
+        },
+        {
+          "text": "Day,",
+          "start": 33.69,
+          "end": 34.05,
+          "probability": 1
+        },
+        {
+          "text": "Red",
+          "start": 34.05,
+          "end": 34.32,
+          "probability": 1
+        },
+        {
+          "text": "China,",
+          "start": 34.32,
+          "end": 34.85,
+          "probability": 1
+        },
+        {
+          "text": "Johnnie",
+          "start": 34.85,
+          "end": 35.47,
+          "probability": 1
+        },
+        {
+          "text": "Ray",
+          "start": 35.47,
+          "end": 35.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.98,
+      "end": 38.56,
+      "text": "South Pacific, Walter Winchell, Joe DiMaggio",
+      "words": [
+        {
+          "text": "South",
+          "start": 35.98,
+          "end": 36.31,
+          "probability": 1
+        },
+        {
+          "text": "Pacific,",
+          "start": 36.31,
+          "end": 36.84,
+          "probability": 1
+        },
+        {
+          "text": "Walter",
+          "start": 36.84,
+          "end": 37.24,
+          "probability": 1
+        },
+        {
+          "text": "Winchell,",
+          "start": 37.24,
+          "end": 37.83,
+          "probability": 1
+        },
+        {
+          "text": "Joe",
+          "start": 37.83,
+          "end": 38.03,
+          "probability": 1
+        },
+        {
+          "text": "DiMaggio",
+          "start": 38.03,
+          "end": 38.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 38.8,
+      "end": 42.29,
+      "text": "Joe McCarthy, Richard Nixon, Studebaker, television",
+      "words": [
+        {
+          "text": "Joe",
+          "start": 38.8,
+          "end": 39.03,
+          "probability": 1
+        },
+        {
+          "text": "McCarthy,",
+          "start": 39.03,
+          "end": 39.71,
+          "probability": 1
+        },
+        {
+          "text": "Richard",
+          "start": 39.71,
+          "end": 40.24,
+          "probability": 1
+        },
+        {
+          "text": "Nixon,",
+          "start": 40.24,
+          "end": 40.7,
+          "probability": 1
+        },
+        {
+          "text": "Studebaker,",
+          "start": 40.7,
+          "end": 41.53,
+          "probability": 1
+        },
+        {
+          "text": "television",
+          "start": 41.53,
+          "end": 42.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.54,
+      "end": 46.74,
+      "text": "North Korea, South Korea, Marilyn Monroe",
+      "words": [
+        {
+          "text": "North",
+          "start": 42.54,
+          "end": 43.14,
+          "probability": 1
+        },
+        {
+          "text": "Korea,",
+          "start": 43.14,
+          "end": 43.86,
+          "probability": 1
+        },
+        {
+          "text": "South",
+          "start": 43.86,
+          "end": 44.46,
+          "probability": 1
+        },
+        {
+          "text": "Korea,",
+          "start": 44.46,
+          "end": 45.18,
+          "probability": 1
+        },
+        {
+          "text": "Marilyn",
+          "start": 45.18,
+          "end": 46.02,
+          "probability": 1
+        },
+        {
+          "text": "Monroe",
+          "start": 46.02,
+          "end": 46.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 52.4,
+      "end": 55.72,
+      "text": "Rosenbergs, H-bomb, Sugar Ray, Panmunjom",
+      "words": [
+        {
+          "text": "Rosenbergs,",
+          "start": 52.4,
+          "end": 53.41,
+          "probability": 1
+        },
+        {
+          "text": "H-bomb,",
+          "start": 53.41,
+          "end": 54.06,
+          "probability": 1
+        },
+        {
+          "text": "Sugar",
+          "start": 54.06,
+          "end": 54.52,
+          "probability": 1
+        },
+        {
+          "text": "Ray,",
+          "start": 54.52,
+          "end": 54.89,
+          "probability": 1
+        },
+        {
+          "text": "Panmunjom",
+          "start": 54.89,
+          "end": 55.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 55.97,
+      "end": 58.92,
+      "text": "Brando, \"The King and I\", and \"The Catcher in the Rye\"",
+      "words": [
+        {
+          "text": "Brando,",
+          "start": 55.97,
+          "end": 56.44,
+          "probability": 1
+        },
+        {
+          "text": "\"The",
+          "start": 56.44,
+          "end": 56.71,
+          "probability": 1
+        },
+        {
+          "text": "King",
+          "start": 56.71,
+          "end": 56.98,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 56.98,
+          "end": 57.18,
+          "probability": 1
+        },
+        {
+          "text": "I\",",
+          "start": 57.18,
+          "end": 57.38,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 57.38,
+          "end": 57.58,
+          "probability": 1
+        },
+        {
+          "text": "\"The",
+          "start": 57.58,
+          "end": 57.85,
+          "probability": 1
+        },
+        {
+          "text": "Catcher",
+          "start": 57.85,
+          "end": 58.32,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 58.32,
+          "end": 58.45,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 58.45,
+          "end": 58.65,
+          "probability": 1
+        },
+        {
+          "text": "Rye\"",
+          "start": 58.65,
+          "end": 58.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 59.16,
+      "end": 61.98,
+      "text": "Eisenhower, Vaccine, England's got a new queen",
+      "words": [
+        {
+          "text": "Eisenhower,",
+          "start": 59.16,
+          "end": 59.92,
+          "probability": 1
+        },
+        {
+          "text": "Vaccine,",
+          "start": 59.92,
+          "end": 60.47,
+          "probability": 1
+        },
+        {
+          "text": "England's",
+          "start": 60.47,
+          "end": 61.09,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 61.09,
+          "end": 61.3,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 61.3,
+          "end": 61.42,
+          "probability": 1
+        },
+        {
+          "text": "new",
+          "start": 61.42,
+          "end": 61.63,
+          "probability": 1
+        },
+        {
+          "text": "queen",
+          "start": 61.63,
+          "end": 61.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 62.17,
+      "end": 65.13,
+      "text": "Marciano, Liberace, Santayana, goodbye",
+      "words": [
+        {
+          "text": "Marciano,",
+          "start": 62.17,
+          "end": 62.93,
+          "probability": 1
+        },
+        {
+          "text": "Liberace,",
+          "start": 62.93,
+          "end": 63.69,
+          "probability": 1
+        },
+        {
+          "text": "Santayana,",
+          "start": 63.69,
+          "end": 64.54,
+          "probability": 1
+        },
+        {
+          "text": "goodbye",
+          "start": 64.54,
+          "end": 65.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 65.38,
+      "end": 67.66,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 65.38,
+          "end": 65.61,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 65.61,
+          "end": 66.29,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 66.29,
+          "end": 66.86,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 66.86,
+          "end": 67.2,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 67.2,
+          "end": 67.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 68.23,
+      "end": 71.75,
+      "text": "It was always burning, since the world's been turning",
+      "words": [
+        {
+          "text": "It",
+          "start": 68.23,
+          "end": 68.39,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 68.39,
+          "end": 68.62,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 68.62,
+          "end": 69.09,
+          "probability": 1
+        },
+        {
+          "text": "burning,",
+          "start": 69.09,
+          "end": 69.72,
+          "probability": 1
+        },
+        {
+          "text": "since",
+          "start": 69.72,
+          "end": 70.11,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 70.11,
+          "end": 70.34,
+          "probability": 1
+        },
+        {
+          "text": "world's",
+          "start": 70.34,
+          "end": 70.89,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 70.89,
+          "end": 71.2,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 71.2,
+          "end": 71.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 72,
+      "end": 74.28,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 72,
+          "end": 72.23,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 72.23,
+          "end": 72.91,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 72.91,
+          "end": 73.48,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 73.48,
+          "end": 73.82,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 73.82,
+          "end": 74.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 76.33,
+      "end": 78.65,
+      "text": "No, we didn't light it, but we tried to fight it",
+      "words": [
+        {
+          "text": "No,",
+          "start": 76.33,
+          "end": 76.51,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 76.51,
+          "end": 76.63,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 76.63,
+          "end": 77,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 77,
+          "end": 77.31,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 77.31,
+          "end": 77.49,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 77.49,
+          "end": 77.67,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 77.67,
+          "end": 77.79,
+          "probability": 1
+        },
+        {
+          "text": "tried",
+          "start": 77.79,
+          "end": 78.1,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 78.1,
+          "end": 78.22,
+          "probability": 1
+        },
+        {
+          "text": "fight",
+          "start": 78.22,
+          "end": 78.53,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 78.53,
+          "end": 78.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 78.9,
+      "end": 82.18,
+      "text": "Joseph Stalin, Malenkov, Nasser and Prokofiev",
+      "words": [
+        {
+          "text": "Joseph",
+          "start": 78.9,
+          "end": 79.39,
+          "probability": 1
+        },
+        {
+          "text": "Stalin,",
+          "start": 79.39,
+          "end": 79.96,
+          "probability": 1
+        },
+        {
+          "text": "Malenkov,",
+          "start": 79.96,
+          "end": 80.7,
+          "probability": 1
+        },
+        {
+          "text": "Nasser",
+          "start": 80.7,
+          "end": 81.19,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 81.19,
+          "end": 81.44,
+          "probability": 1
+        },
+        {
+          "text": "Prokofiev",
+          "start": 81.44,
+          "end": 82.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.42,
+      "end": 85.69,
+      "text": "Rockefeller, Campanella, Communist Bloc",
+      "words": [
+        {
+          "text": "Rockefeller,",
+          "start": 82.42,
+          "end": 83.51,
+          "probability": 1
+        },
+        {
+          "text": "Campanella,",
+          "start": 83.51,
+          "end": 84.51,
+          "probability": 1
+        },
+        {
+          "text": "Communist",
+          "start": 84.51,
+          "end": 85.33,
+          "probability": 1
+        },
+        {
+          "text": "Bloc",
+          "start": 85.33,
+          "end": 85.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 85.93,
+      "end": 88.89,
+      "text": "Roy Cohn, Juan Peron, Toscanini, Dacron",
+      "words": [
+        {
+          "text": "Roy",
+          "start": 85.93,
+          "end": 86.19,
+          "probability": 1
+        },
+        {
+          "text": "Cohn,",
+          "start": 86.19,
+          "end": 86.63,
+          "probability": 1
+        },
+        {
+          "text": "Juan",
+          "start": 86.63,
+          "end": 86.98,
+          "probability": 1
+        },
+        {
+          "text": "Peron,",
+          "start": 86.98,
+          "end": 87.5,
+          "probability": 1
+        },
+        {
+          "text": "Toscanini,",
+          "start": 87.5,
+          "end": 88.37,
+          "probability": 1
+        },
+        {
+          "text": "Dacron",
+          "start": 88.37,
+          "end": 88.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 89.14,
+      "end": 92.1,
+      "text": "Dien Bien Phu falls, \"Rock Around the Clock\"",
+      "words": [
+        {
+          "text": "Dien",
+          "start": 89.14,
+          "end": 89.46,
+          "probability": 1
+        },
+        {
+          "text": "Bien",
+          "start": 89.46,
+          "end": 89.78,
+          "probability": 1
+        },
+        {
+          "text": "Phu",
+          "start": 89.78,
+          "end": 90.02,
+          "probability": 1
+        },
+        {
+          "text": "falls,",
+          "start": 90.02,
+          "end": 90.5,
+          "probability": 1
+        },
+        {
+          "text": "\"Rock",
+          "start": 90.5,
+          "end": 90.9,
+          "probability": 1
+        },
+        {
+          "text": "Around",
+          "start": 90.9,
+          "end": 91.38,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 91.38,
+          "end": 91.62,
+          "probability": 1
+        },
+        {
+          "text": "Clock\"",
+          "start": 91.62,
+          "end": 92.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.34,
+      "end": 95.61,
+      "text": "Einstein, James Dean, Brooklyn's got a winning team",
+      "words": [
+        {
+          "text": "Einstein,",
+          "start": 92.34,
+          "end": 93,
+          "probability": 1
+        },
+        {
+          "text": "James",
+          "start": 93,
+          "end": 93.37,
+          "probability": 1
+        },
+        {
+          "text": "Dean,",
+          "start": 93.37,
+          "end": 93.74,
+          "probability": 1
+        },
+        {
+          "text": "Brooklyn's",
+          "start": 93.74,
+          "end": 94.47,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 94.47,
+          "end": 94.69,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 94.69,
+          "end": 94.81,
+          "probability": 1
+        },
+        {
+          "text": "winning",
+          "start": 94.81,
+          "end": 95.32,
+          "probability": 1
+        },
+        {
+          "text": "team",
+          "start": 95.32,
+          "end": 95.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.81,
+      "end": 98.81,
+      "text": "Davy Crockett, Peter Pan, Elvis Presley, Disneyland",
+      "words": [
+        {
+          "text": "Davy",
+          "start": 95.81,
+          "end": 96.08,
+          "probability": 1
+        },
+        {
+          "text": "Crockett,",
+          "start": 96.08,
+          "end": 96.68,
+          "probability": 1
+        },
+        {
+          "text": "Peter",
+          "start": 96.68,
+          "end": 97.01,
+          "probability": 1
+        },
+        {
+          "text": "Pan,",
+          "start": 97.01,
+          "end": 97.28,
+          "probability": 1
+        },
+        {
+          "text": "Elvis",
+          "start": 97.28,
+          "end": 97.61,
+          "probability": 1
+        },
+        {
+          "text": "Presley,",
+          "start": 97.61,
+          "end": 98.14,
+          "probability": 1
+        },
+        {
+          "text": "Disneyland",
+          "start": 98.14,
+          "end": 98.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 99.06,
+      "end": 102.03,
+      "text": "Bardot, Budapest, Alabama, Krushchev",
+      "words": [
+        {
+          "text": "Bardot,",
+          "start": 99.06,
+          "end": 99.69,
+          "probability": 1
+        },
+        {
+          "text": "Budapest,",
+          "start": 99.69,
+          "end": 100.5,
+          "probability": 1
+        },
+        {
+          "text": "Alabama,",
+          "start": 100.5,
+          "end": 101.22,
+          "probability": 1
+        },
+        {
+          "text": "Krushchev",
+          "start": 101.22,
+          "end": 102.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.28,
+      "end": 104.93,
+      "text": "Princess Grace, Peyton Place, Trouble in the Suez",
+      "words": [
+        {
+          "text": "Princess",
+          "start": 102.28,
+          "end": 102.78,
+          "probability": 1
+        },
+        {
+          "text": "Grace,",
+          "start": 102.78,
+          "end": 103.16,
+          "probability": 1
+        },
+        {
+          "text": "Peyton",
+          "start": 103.16,
+          "end": 103.54,
+          "probability": 1
+        },
+        {
+          "text": "Place,",
+          "start": 103.54,
+          "end": 103.92,
+          "probability": 1
+        },
+        {
+          "text": "Trouble",
+          "start": 103.92,
+          "end": 104.36,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 104.36,
+          "end": 104.49,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 104.49,
+          "end": 104.68,
+          "probability": 1
+        },
+        {
+          "text": "Suez",
+          "start": 104.68,
+          "end": 104.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.16,
+      "end": 107.44,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 105.16,
+          "end": 105.39,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 105.39,
+          "end": 106.07,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 106.07,
+          "end": 106.64,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 106.64,
+          "end": 106.98,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 106.98,
+          "end": 107.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 108.39,
+      "end": 112.24,
+      "text": "It was always burning, since the world's been turning",
+      "words": [
+        {
+          "text": "It",
+          "start": 108.39,
+          "end": 108.56,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 108.56,
+          "end": 108.82,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 108.82,
+          "end": 109.33,
+          "probability": 1
+        },
+        {
+          "text": "burning,",
+          "start": 109.33,
+          "end": 110.01,
+          "probability": 1
+        },
+        {
+          "text": "since",
+          "start": 110.01,
+          "end": 110.44,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 110.44,
+          "end": 110.7,
+          "probability": 1
+        },
+        {
+          "text": "world's",
+          "start": 110.7,
+          "end": 111.3,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 111.3,
+          "end": 111.64,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 111.64,
+          "end": 112.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 112.47,
+      "end": 114.75,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 112.47,
+          "end": 112.7,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 112.7,
+          "end": 113.38,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 113.38,
+          "end": 113.95,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 113.95,
+          "end": 114.29,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 114.29,
+          "end": 114.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 115.65,
+      "end": 119.11,
+      "text": "No, we didn't light it, but we tried to fight it",
+      "words": [
+        {
+          "text": "No,",
+          "start": 115.65,
+          "end": 115.92,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 115.92,
+          "end": 116.1,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 116.1,
+          "end": 116.65,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 116.65,
+          "end": 117.11,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 117.11,
+          "end": 117.38,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 117.38,
+          "end": 117.65,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 117.65,
+          "end": 117.83,
+          "probability": 1
+        },
+        {
+          "text": "tried",
+          "start": 117.83,
+          "end": 118.29,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 118.29,
+          "end": 118.47,
+          "probability": 1
+        },
+        {
+          "text": "fight",
+          "start": 118.47,
+          "end": 118.93,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 118.93,
+          "end": 119.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 119.38,
+      "end": 122.3,
+      "text": "Little Rock, Pasternak, Mickey Mantle, Kerouac",
+      "words": [
+        {
+          "text": "Little",
+          "start": 119.38,
+          "end": 119.81,
+          "probability": 1
+        },
+        {
+          "text": "Rock,",
+          "start": 119.81,
+          "end": 120.16,
+          "probability": 1
+        },
+        {
+          "text": "Pasternak,",
+          "start": 120.16,
+          "end": 120.87,
+          "probability": 1
+        },
+        {
+          "text": "Mickey",
+          "start": 120.87,
+          "end": 121.3,
+          "probability": 1
+        },
+        {
+          "text": "Mantle,",
+          "start": 121.3,
+          "end": 121.8,
+          "probability": 1
+        },
+        {
+          "text": "Kerouac",
+          "start": 121.8,
+          "end": 122.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 122.54,
+      "end": 125.27,
+      "text": "Sputnik, Chou En-Lai, \"Bridge on the River Kwai\"",
+      "words": [
+        {
+          "text": "Sputnik,",
+          "start": 122.54,
+          "end": 123.07,
+          "probability": 1
+        },
+        {
+          "text": "Chou",
+          "start": 123.07,
+          "end": 123.34,
+          "probability": 1
+        },
+        {
+          "text": "En-Lai,",
+          "start": 123.34,
+          "end": 123.81,
+          "probability": 1
+        },
+        {
+          "text": "\"Bridge",
+          "start": 123.81,
+          "end": 124.28,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 124.28,
+          "end": 124.41,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 124.41,
+          "end": 124.61,
+          "probability": 1
+        },
+        {
+          "text": "River",
+          "start": 124.61,
+          "end": 124.94,
+          "probability": 1
+        },
+        {
+          "text": "Kwai\"",
+          "start": 124.94,
+          "end": 125.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.52,
+      "end": 128.16,
+      "text": "Lebanon, Charles de Gaulle, California baseball",
+      "words": [
+        {
+          "text": "Lebanon,",
+          "start": 125.52,
+          "end": 126.02,
+          "probability": 1
+        },
+        {
+          "text": "Charles",
+          "start": 126.02,
+          "end": 126.46,
+          "probability": 1
+        },
+        {
+          "text": "de",
+          "start": 126.46,
+          "end": 126.59,
+          "probability": 1
+        },
+        {
+          "text": "Gaulle,",
+          "start": 126.59,
+          "end": 127.03,
+          "probability": 1
+        },
+        {
+          "text": "California",
+          "start": 127.03,
+          "end": 127.66,
+          "probability": 1
+        },
+        {
+          "text": "baseball",
+          "start": 127.66,
+          "end": 128.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 128.42,
+      "end": 134.12,
+      "text": "Starkweather homicide, children of thalidomide",
+      "words": [
+        {
+          "text": "Starkweather",
+          "start": 128.42,
+          "end": 130.05,
+          "probability": 1
+        },
+        {
+          "text": "homicide,",
+          "start": 130.05,
+          "end": 131.27,
+          "probability": 1
+        },
+        {
+          "text": "children",
+          "start": 131.27,
+          "end": 132.36,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 132.36,
+          "end": 132.63,
+          "probability": 1
+        },
+        {
+          "text": "thalidomide",
+          "start": 132.63,
+          "end": 134.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 135.69,
+      "end": 138.42,
+      "text": "Buddy Holly, Ben Hur, space monkey, mafia",
+      "words": [
+        {
+          "text": "Buddy",
+          "start": 135.69,
+          "end": 136.08,
+          "probability": 1
+        },
+        {
+          "text": "Holly,",
+          "start": 136.08,
+          "end": 136.55,
+          "probability": 1
+        },
+        {
+          "text": "Ben",
+          "start": 136.55,
+          "end": 136.78,
+          "probability": 1
+        },
+        {
+          "text": "Hur,",
+          "start": 136.78,
+          "end": 137.09,
+          "probability": 1
+        },
+        {
+          "text": "space",
+          "start": 137.09,
+          "end": 137.48,
+          "probability": 1
+        },
+        {
+          "text": "monkey,",
+          "start": 137.48,
+          "end": 138.03,
+          "probability": 1
+        },
+        {
+          "text": "mafia",
+          "start": 138.03,
+          "end": 138.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 138.67,
+      "end": 142.1,
+      "text": "Hula hoops, Castro, Edsel is a no-go",
+      "words": [
+        {
+          "text": "Hula",
+          "start": 138.67,
+          "end": 139.13,
+          "probability": 1
+        },
+        {
+          "text": "hoops,",
+          "start": 139.13,
+          "end": 139.81,
+          "probability": 1
+        },
+        {
+          "text": "Castro,",
+          "start": 139.81,
+          "end": 140.61,
+          "probability": 1
+        },
+        {
+          "text": "Edsel",
+          "start": 140.61,
+          "end": 141.18,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 141.18,
+          "end": 141.41,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 141.41,
+          "end": 141.53,
+          "probability": 1
+        },
+        {
+          "text": "no-go",
+          "start": 141.53,
+          "end": 142.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142.34,
+      "end": 144.82,
+      "text": "U2, Syngman Rhee, Payola and Kennedy",
+      "words": [
+        {
+          "text": "U2,",
+          "start": 142.34,
+          "end": 142.58,
+          "probability": 1
+        },
+        {
+          "text": "Syngman",
+          "start": 142.58,
+          "end": 143.14,
+          "probability": 1
+        },
+        {
+          "text": "Rhee,",
+          "start": 143.14,
+          "end": 143.54,
+          "probability": 1
+        },
+        {
+          "text": "Payola",
+          "start": 143.54,
+          "end": 144.02,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 144.02,
+          "end": 144.26,
+          "probability": 1
+        },
+        {
+          "text": "Kennedy",
+          "start": 144.26,
+          "end": 144.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 145.06,
+      "end": 148.51,
+      "text": "Chubby Checker, Psycho, Belgians in the Congo",
+      "words": [
+        {
+          "text": "Chubby",
+          "start": 145.06,
+          "end": 145.59,
+          "probability": 1
+        },
+        {
+          "text": "Checker,",
+          "start": 145.59,
+          "end": 146.3,
+          "probability": 1
+        },
+        {
+          "text": "Psycho,",
+          "start": 146.3,
+          "end": 146.92,
+          "probability": 1
+        },
+        {
+          "text": "Belgians",
+          "start": 146.92,
+          "end": 147.63,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 147.63,
+          "end": 147.81,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 147.81,
+          "end": 148.07,
+          "probability": 1
+        },
+        {
+          "text": "Congo",
+          "start": 148.07,
+          "end": 148.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 148.75,
+      "end": 151.03,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 148.75,
+          "end": 148.98,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 148.98,
+          "end": 149.66,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 149.66,
+          "end": 150.23,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 150.23,
+          "end": 150.57,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 150.57,
+          "end": 151.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 151.75,
+      "end": 155.75,
+      "text": "It was always burning, since the world's been turning",
+      "words": [
+        {
+          "text": "It",
+          "start": 151.75,
+          "end": 151.93,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 151.93,
+          "end": 152.2,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 152.2,
+          "end": 152.73,
+          "probability": 1
+        },
+        {
+          "text": "burning,",
+          "start": 152.73,
+          "end": 153.44,
+          "probability": 1
+        },
+        {
+          "text": "since",
+          "start": 153.44,
+          "end": 153.88,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 153.88,
+          "end": 154.15,
+          "probability": 1
+        },
+        {
+          "text": "world's",
+          "start": 154.15,
+          "end": 154.77,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 154.77,
+          "end": 155.13,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 155.13,
+          "end": 155.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156,
+      "end": 158.28,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 156,
+          "end": 156.23,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 156.23,
+          "end": 156.91,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 156.91,
+          "end": 157.48,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 157.48,
+          "end": 157.82,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 157.82,
+          "end": 158.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 159.26,
+      "end": 161.54,
+      "text": "No, we didn't light it, but we tried to fight it",
+      "words": [
+        {
+          "text": "No,",
+          "start": 159.26,
+          "end": 159.44,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 159.44,
+          "end": 159.56,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 159.56,
+          "end": 159.92,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 159.92,
+          "end": 160.22,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 160.22,
+          "end": 160.4,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 160.4,
+          "end": 160.58,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 160.58,
+          "end": 160.7,
+          "probability": 1
+        },
+        {
+          "text": "tried",
+          "start": 160.7,
+          "end": 161,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 161,
+          "end": 161.12,
+          "probability": 1
+        },
+        {
+          "text": "fight",
+          "start": 161.12,
+          "end": 161.42,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 161.42,
+          "end": 161.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 161.82,
+      "end": 165.16,
+      "text": "Hemingway, Eichmann, \"Stranger in a Strange Land\"",
+      "words": [
+        {
+          "text": "Hemingway,",
+          "start": 161.82,
+          "end": 162.59,
+          "probability": 1
+        },
+        {
+          "text": "Eichmann,",
+          "start": 162.59,
+          "end": 163.28,
+          "probability": 1
+        },
+        {
+          "text": "\"Stranger",
+          "start": 163.28,
+          "end": 163.97,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 163.97,
+          "end": 164.12,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 164.12,
+          "end": 164.24,
+          "probability": 1
+        },
+        {
+          "text": "Strange",
+          "start": 164.24,
+          "end": 164.78,
+          "probability": 1
+        },
+        {
+          "text": "Land\"",
+          "start": 164.78,
+          "end": 165.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 165.37,
+      "end": 168.07,
+      "text": "Dylan, Berlin, Bay of Pigs invasion",
+      "words": [
+        {
+          "text": "Dylan,",
+          "start": 165.37,
+          "end": 165.91,
+          "probability": 1
+        },
+        {
+          "text": "Berlin,",
+          "start": 165.91,
+          "end": 166.54,
+          "probability": 1
+        },
+        {
+          "text": "Bay",
+          "start": 166.54,
+          "end": 166.81,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 166.81,
+          "end": 166.99,
+          "probability": 1
+        },
+        {
+          "text": "Pigs",
+          "start": 166.99,
+          "end": 167.35,
+          "probability": 1
+        },
+        {
+          "text": "invasion",
+          "start": 167.35,
+          "end": 168.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 168.33,
+      "end": 171.03,
+      "text": "\"Lawrence of Arabia\", British Beatlemania",
+      "words": [
+        {
+          "text": "\"Lawrence",
+          "start": 168.33,
+          "end": 168.99,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 168.99,
+          "end": 169.14,
+          "probability": 1
+        },
+        {
+          "text": "Arabia\",",
+          "start": 169.14,
+          "end": 169.72,
+          "probability": 1
+        },
+        {
+          "text": "British",
+          "start": 169.72,
+          "end": 170.23,
+          "probability": 1
+        },
+        {
+          "text": "Beatlemania",
+          "start": 170.23,
+          "end": 171.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 171.28,
+      "end": 175.25,
+      "text": "Ole Miss, John Glenn, Liston beats Patterson",
+      "words": [
+        {
+          "text": "Ole",
+          "start": 171.28,
+          "end": 171.59,
+          "probability": 1
+        },
+        {
+          "text": "Miss,",
+          "start": 171.59,
+          "end": 172.11,
+          "probability": 1
+        },
+        {
+          "text": "John",
+          "start": 172.11,
+          "end": 172.53,
+          "probability": 1
+        },
+        {
+          "text": "Glenn,",
+          "start": 172.53,
+          "end": 173.16,
+          "probability": 1
+        },
+        {
+          "text": "Liston",
+          "start": 173.16,
+          "end": 173.79,
+          "probability": 1
+        },
+        {
+          "text": "beats",
+          "start": 173.79,
+          "end": 174.31,
+          "probability": 1
+        },
+        {
+          "text": "Patterson",
+          "start": 174.31,
+          "end": 175.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 175.51,
+      "end": 178.18,
+      "text": "Pope Paul, Malcolm X, British politician sex",
+      "words": [
+        {
+          "text": "Pope",
+          "start": 175.51,
+          "end": 175.79,
+          "probability": 1
+        },
+        {
+          "text": "Paul,",
+          "start": 175.79,
+          "end": 176.14,
+          "probability": 1
+        },
+        {
+          "text": "Malcolm",
+          "start": 176.14,
+          "end": 176.63,
+          "probability": 1
+        },
+        {
+          "text": "X,",
+          "start": 176.63,
+          "end": 176.77,
+          "probability": 1
+        },
+        {
+          "text": "British",
+          "start": 176.77,
+          "end": 177.26,
+          "probability": 1
+        },
+        {
+          "text": "politician",
+          "start": 177.26,
+          "end": 177.97,
+          "probability": 1
+        },
+        {
+          "text": "sex",
+          "start": 177.97,
+          "end": 178.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 178.44,
+      "end": 181.98,
+      "text": "JFK – blown away, what else do I have to say?",
+      "words": [
+        {
+          "text": "JFK",
+          "start": 178.44,
+          "end": 178.74,
+          "probability": 1
+        },
+        {
+          "text": "–",
+          "start": 178.74,
+          "end": 178.86,
+          "probability": 1
+        },
+        {
+          "text": "blown",
+          "start": 178.86,
+          "end": 179.36,
+          "probability": 1
+        },
+        {
+          "text": "away,",
+          "start": 179.36,
+          "end": 179.86,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 179.86,
+          "end": 180.26,
+          "probability": 1
+        },
+        {
+          "text": "else",
+          "start": 180.26,
+          "end": 180.66,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 180.66,
+          "end": 180.86,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 180.86,
+          "end": 180.98,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 180.98,
+          "end": 181.38,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 181.38,
+          "end": 181.58,
+          "probability": 1
+        },
+        {
+          "text": "say?",
+          "start": 181.58,
+          "end": 181.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 182.22,
+      "end": 184.5,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 182.22,
+          "end": 182.45,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 182.45,
+          "end": 183.13,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 183.13,
+          "end": 183.7,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 183.7,
+          "end": 184.04,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 184.04,
+          "end": 184.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 185.41,
+      "end": 187.63,
+      "text": "It was always burning, since the world's been turning",
+      "words": [
+        {
+          "text": "It",
+          "start": 185.41,
+          "end": 185.53,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 185.53,
+          "end": 185.68,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 185.68,
+          "end": 185.97,
+          "probability": 1
+        },
+        {
+          "text": "burning,",
+          "start": 185.97,
+          "end": 186.36,
+          "probability": 1
+        },
+        {
+          "text": "since",
+          "start": 186.36,
+          "end": 186.6,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 186.6,
+          "end": 186.75,
+          "probability": 1
+        },
+        {
+          "text": "world's",
+          "start": 186.75,
+          "end": 187.09,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 187.09,
+          "end": 187.29,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 187.29,
+          "end": 187.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 187.86,
+      "end": 190.14,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 187.86,
+          "end": 188.09,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 188.09,
+          "end": 188.77,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 188.77,
+          "end": 189.34,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 189.34,
+          "end": 189.68,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 189.68,
+          "end": 190.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 191.06,
+      "end": 194.82,
+      "text": "No, we didn't light it, but we tried to fight it",
+      "words": [
+        {
+          "text": "No,",
+          "start": 191.06,
+          "end": 191.36,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 191.36,
+          "end": 191.56,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 191.56,
+          "end": 192.15,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 192.15,
+          "end": 192.64,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 192.64,
+          "end": 192.94,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 192.94,
+          "end": 193.24,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 193.24,
+          "end": 193.44,
+          "probability": 1
+        },
+        {
+          "text": "tried",
+          "start": 193.44,
+          "end": 193.93,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 193.93,
+          "end": 194.13,
+          "probability": 1
+        },
+        {
+          "text": "fight",
+          "start": 194.13,
+          "end": 194.62,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 194.62,
+          "end": 194.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 195.05,
+      "end": 198.24,
+      "text": "Birth control, Ho Chi Minh, Richard Nixon back again",
+      "words": [
+        {
+          "text": "Birth",
+          "start": 195.05,
+          "end": 195.41,
+          "probability": 1
+        },
+        {
+          "text": "control,",
+          "start": 195.41,
+          "end": 195.99,
+          "probability": 1
+        },
+        {
+          "text": "Ho",
+          "start": 195.99,
+          "end": 196.14,
+          "probability": 1
+        },
+        {
+          "text": "Chi",
+          "start": 196.14,
+          "end": 196.36,
+          "probability": 1
+        },
+        {
+          "text": "Minh,",
+          "start": 196.36,
+          "end": 196.72,
+          "probability": 1
+        },
+        {
+          "text": "Richard",
+          "start": 196.72,
+          "end": 197.23,
+          "probability": 1
+        },
+        {
+          "text": "Nixon",
+          "start": 197.23,
+          "end": 197.59,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 197.59,
+          "end": 197.88,
+          "probability": 1
+        },
+        {
+          "text": "again",
+          "start": 197.88,
+          "end": 198.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 198.51,
+      "end": 201.52,
+      "text": "Moonshot, Woodstock, Watergate, punk rock",
+      "words": [
+        {
+          "text": "Moonshot,",
+          "start": 198.51,
+          "end": 199.24,
+          "probability": 1
+        },
+        {
+          "text": "Woodstock,",
+          "start": 199.24,
+          "end": 200.05,
+          "probability": 1
+        },
+        {
+          "text": "Watergate,",
+          "start": 200.05,
+          "end": 200.86,
+          "probability": 1
+        },
+        {
+          "text": "punk",
+          "start": 200.86,
+          "end": 201.19,
+          "probability": 1
+        },
+        {
+          "text": "rock",
+          "start": 201.19,
+          "end": 201.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 201.77,
+      "end": 204.67,
+      "text": "Begin, Reagan, Palestine, terror on the airline",
+      "words": [
+        {
+          "text": "Begin,",
+          "start": 201.77,
+          "end": 202.19,
+          "probability": 1
+        },
+        {
+          "text": "Reagan,",
+          "start": 202.19,
+          "end": 202.69,
+          "probability": 1
+        },
+        {
+          "text": "Palestine,",
+          "start": 202.69,
+          "end": 203.4,
+          "probability": 1
+        },
+        {
+          "text": "terror",
+          "start": 203.4,
+          "end": 203.82,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 203.82,
+          "end": 203.96,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 203.96,
+          "end": 204.17,
+          "probability": 1
+        },
+        {
+          "text": "airline",
+          "start": 204.17,
+          "end": 204.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 204.92,
+      "end": 207.74,
+      "text": "Ayatollah's in Iran, Russians in Afghanistan",
+      "words": [
+        {
+          "text": "Ayatollah's",
+          "start": 204.92,
+          "end": 205.72,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 205.72,
+          "end": 205.86,
+          "probability": 1
+        },
+        {
+          "text": "Iran,",
+          "start": 205.86,
+          "end": 206.22,
+          "probability": 1
+        },
+        {
+          "text": "Russians",
+          "start": 206.22,
+          "end": 206.8,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 206.8,
+          "end": 206.94,
+          "probability": 1
+        },
+        {
+          "text": "Afghanistan",
+          "start": 206.94,
+          "end": 207.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 207.99,
+      "end": 211.07,
+      "text": "\"Wheel of Fortune\", Sally Ride, heavy metal suicide",
+      "words": [
+        {
+          "text": "\"Wheel",
+          "start": 207.99,
+          "end": 208.41,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 208.41,
+          "end": 208.55,
+          "probability": 1
+        },
+        {
+          "text": "Fortune\",",
+          "start": 208.55,
+          "end": 209.18,
+          "probability": 1
+        },
+        {
+          "text": "Sally",
+          "start": 209.18,
+          "end": 209.53,
+          "probability": 1
+        },
+        {
+          "text": "Ride,",
+          "start": 209.53,
+          "end": 209.88,
+          "probability": 1
+        },
+        {
+          "text": "heavy",
+          "start": 209.88,
+          "end": 210.23,
+          "probability": 1
+        },
+        {
+          "text": "metal",
+          "start": 210.23,
+          "end": 210.58,
+          "probability": 1
+        },
+        {
+          "text": "suicide",
+          "start": 210.58,
+          "end": 211.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 211.33,
+      "end": 214.87,
+      "text": "Foreign debts, homeless vets, AIDS, crack, Bernie Goetz",
+      "words": [
+        {
+          "text": "Foreign",
+          "start": 211.33,
+          "end": 211.85,
+          "probability": 1
+        },
+        {
+          "text": "debts,",
+          "start": 211.85,
+          "end": 212.29,
+          "probability": 1
+        },
+        {
+          "text": "homeless",
+          "start": 212.29,
+          "end": 212.88,
+          "probability": 1
+        },
+        {
+          "text": "vets,",
+          "start": 212.88,
+          "end": 213.25,
+          "probability": 1
+        },
+        {
+          "text": "AIDS,",
+          "start": 213.25,
+          "end": 213.62,
+          "probability": 1
+        },
+        {
+          "text": "crack,",
+          "start": 213.62,
+          "end": 214.06,
+          "probability": 1
+        },
+        {
+          "text": "Bernie",
+          "start": 214.06,
+          "end": 214.5,
+          "probability": 1
+        },
+        {
+          "text": "Goetz",
+          "start": 214.5,
+          "end": 214.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 215.12,
+      "end": 218.12,
+      "text": "Hypodermics on the shore, China's under martial law",
+      "words": [
+        {
+          "text": "Hypodermics",
+          "start": 215.12,
+          "end": 215.87,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 215.87,
+          "end": 216.01,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 216.01,
+          "end": 216.21,
+          "probability": 1
+        },
+        {
+          "text": "shore,",
+          "start": 216.21,
+          "end": 216.62,
+          "probability": 1
+        },
+        {
+          "text": "China's",
+          "start": 216.62,
+          "end": 217.1,
+          "probability": 1
+        },
+        {
+          "text": "under",
+          "start": 217.1,
+          "end": 217.44,
+          "probability": 1
+        },
+        {
+          "text": "martial",
+          "start": 217.44,
+          "end": 217.92,
+          "probability": 1
+        },
+        {
+          "text": "law",
+          "start": 217.92,
+          "end": 218.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 218.37,
+      "end": 221.38,
+      "text": "Rock and roller, cola wars, I can't take it anymore",
+      "words": [
+        {
+          "text": "Rock",
+          "start": 218.37,
+          "end": 218.65,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 218.65,
+          "end": 218.86,
+          "probability": 1
+        },
+        {
+          "text": "roller,",
+          "start": 218.86,
+          "end": 219.36,
+          "probability": 1
+        },
+        {
+          "text": "cola",
+          "start": 219.36,
+          "end": 219.64,
+          "probability": 1
+        },
+        {
+          "text": "wars,",
+          "start": 219.64,
+          "end": 219.99,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 219.99,
+          "end": 220.11,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 220.11,
+          "end": 220.46,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 220.46,
+          "end": 220.74,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 220.74,
+          "end": 220.88,
+          "probability": 1
+        },
+        {
+          "text": "anymore",
+          "start": 220.88,
+          "end": 221.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 221.59,
+      "end": 223.87,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 221.59,
+          "end": 221.82,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 221.82,
+          "end": 222.5,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 222.5,
+          "end": 223.07,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 223.07,
+          "end": 223.41,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 223.41,
+          "end": 223.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 224.7,
+      "end": 227.96,
+      "text": "It was always burning, since the world's been turning",
+      "words": [
+        {
+          "text": "It",
+          "start": 224.7,
+          "end": 224.84,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 224.84,
+          "end": 225.06,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 225.06,
+          "end": 225.49,
+          "probability": 1
+        },
+        {
+          "text": "burning,",
+          "start": 225.49,
+          "end": 226.07,
+          "probability": 1
+        },
+        {
+          "text": "since",
+          "start": 226.07,
+          "end": 226.43,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 226.43,
+          "end": 226.65,
+          "probability": 1
+        },
+        {
+          "text": "world's",
+          "start": 226.65,
+          "end": 227.16,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 227.16,
+          "end": 227.45,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 227.45,
+          "end": 227.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 228.21,
+      "end": 230.49,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 228.21,
+          "end": 228.44,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 228.44,
+          "end": 229.12,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 229.12,
+          "end": 229.69,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 229.69,
+          "end": 230.03,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 230.03,
+          "end": 230.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 231.42,
+      "end": 232.77,
+      "text": "But when we are gone",
+      "words": [
+        {
+          "text": "But",
+          "start": 231.42,
+          "end": 231.67,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 231.67,
+          "end": 232.01,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 232.01,
+          "end": 232.18,
+          "probability": 1
+        },
+        {
+          "text": "are",
+          "start": 232.18,
+          "end": 232.43,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 232.43,
+          "end": 232.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 233.02,
+      "end": 241.5,
+      "text": "It will still burn on, and on, and on, and on, and on, and on, and on, and on",
+      "words": [
+        {
+          "text": "It",
+          "start": 233.02,
+          "end": 233.31,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 233.31,
+          "end": 233.89,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 233.89,
+          "end": 234.61,
+          "probability": 1
+        },
+        {
+          "text": "burn",
+          "start": 234.61,
+          "end": 235.19,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 235.19,
+          "end": 235.62,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 235.62,
+          "end": 236.05,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 236.05,
+          "end": 236.48,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 236.48,
+          "end": 236.91,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 236.91,
+          "end": 237.34,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 237.34,
+          "end": 237.77,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 237.77,
+          "end": 238.2,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 238.2,
+          "end": 238.63,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 238.63,
+          "end": 239.06,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 239.06,
+          "end": 239.49,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 239.49,
+          "end": 239.92,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 239.92,
+          "end": 240.35,
+          "probability": 1
+        },
+        {
+          "text": "on,",
+          "start": 240.35,
+          "end": 240.78,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 240.78,
+          "end": 241.21,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 241.21,
+          "end": 241.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 241.8,
+      "end": 243.54,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 241.8,
+          "end": 241.97,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 241.97,
+          "end": 242.49,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 242.49,
+          "end": 242.93,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 242.93,
+          "end": 243.19,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 243.19,
+          "end": 243.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 243.79,
+      "end": 247.83,
+      "text": "It was always burning, since the world's been turning",
+      "words": [
+        {
+          "text": "It",
+          "start": 243.79,
+          "end": 243.97,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 243.97,
+          "end": 244.24,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 244.24,
+          "end": 244.78,
+          "probability": 1
+        },
+        {
+          "text": "burning,",
+          "start": 244.78,
+          "end": 245.49,
+          "probability": 1
+        },
+        {
+          "text": "since",
+          "start": 245.49,
+          "end": 245.94,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 245.94,
+          "end": 246.21,
+          "probability": 1
+        },
+        {
+          "text": "world's",
+          "start": 246.21,
+          "end": 246.84,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 246.84,
+          "end": 247.2,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 247.2,
+          "end": 247.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 248.06,
+      "end": 250.34,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 248.06,
+          "end": 248.29,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 248.29,
+          "end": 248.97,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 248.97,
+          "end": 249.54,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 249.54,
+          "end": 249.88,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 249.88,
+          "end": 250.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 251.56,
+      "end": 254.48,
+      "text": "No, we didn't light it, but we tried to fight it",
+      "words": [
+        {
+          "text": "No,",
+          "start": 251.56,
+          "end": 251.79,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 251.79,
+          "end": 251.94,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 251.94,
+          "end": 252.4,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 252.4,
+          "end": 252.79,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 252.79,
+          "end": 253.02,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 253.02,
+          "end": 253.25,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 253.25,
+          "end": 253.4,
+          "probability": 1
+        },
+        {
+          "text": "tried",
+          "start": 253.4,
+          "end": 253.79,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 253.79,
+          "end": 253.94,
+          "probability": 1
+        },
+        {
+          "text": "fight",
+          "start": 253.94,
+          "end": 254.33,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 254.33,
+          "end": 254.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 254.74,
+      "end": 257.02,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 254.74,
+          "end": 254.97,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 254.97,
+          "end": 255.65,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 255.65,
+          "end": 256.22,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 256.22,
+          "end": 256.56,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 256.56,
+          "end": 257.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 258.11,
+      "end": 261.41,
+      "text": "It was always burning, since the world's been turning",
+      "words": [
+        {
+          "text": "It",
+          "start": 258.11,
+          "end": 258.26,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 258.26,
+          "end": 258.48,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 258.48,
+          "end": 258.92,
+          "probability": 1
+        },
+        {
+          "text": "burning,",
+          "start": 258.92,
+          "end": 259.51,
+          "probability": 1
+        },
+        {
+          "text": "since",
+          "start": 259.51,
+          "end": 259.88,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 259.88,
+          "end": 260.1,
+          "probability": 1
+        },
+        {
+          "text": "world's",
+          "start": 260.1,
+          "end": 260.61,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 260.61,
+          "end": 260.9,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 260.9,
+          "end": 261.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 261.67,
+      "end": 263.95,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 261.67,
+          "end": 261.9,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 261.9,
+          "end": 262.58,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 262.58,
+          "end": 263.15,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 263.15,
+          "end": 263.49,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 263.49,
+          "end": 263.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 264.81,
+      "end": 268.08,
+      "text": "No, we didn't light it, but we tried to fight it",
+      "words": [
+        {
+          "text": "No,",
+          "start": 264.81,
+          "end": 265.07,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 265.07,
+          "end": 265.24,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 265.24,
+          "end": 265.76,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 265.76,
+          "end": 266.19,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 266.19,
+          "end": 266.45,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 266.45,
+          "end": 266.71,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 266.71,
+          "end": 266.88,
+          "probability": 1
+        },
+        {
+          "text": "tried",
+          "start": 266.88,
+          "end": 267.31,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 267.31,
+          "end": 267.48,
+          "probability": 1
+        },
+        {
+          "text": "fight",
+          "start": 267.48,
+          "end": 267.91,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 267.91,
+          "end": 268.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 268.33,
+      "end": 270.61,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 268.33,
+          "end": 268.56,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 268.56,
+          "end": 269.24,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 269.24,
+          "end": 269.81,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 269.81,
+          "end": 270.15,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 270.15,
+          "end": 270.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 271.54,
+      "end": 274.8,
+      "text": "It was always burning, since the world's been turning",
+      "words": [
+        {
+          "text": "It",
+          "start": 271.54,
+          "end": 271.68,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 271.68,
+          "end": 271.9,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 271.9,
+          "end": 272.33,
+          "probability": 1
+        },
+        {
+          "text": "burning,",
+          "start": 272.33,
+          "end": 272.91,
+          "probability": 1
+        },
+        {
+          "text": "since",
+          "start": 272.91,
+          "end": 273.27,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 273.27,
+          "end": 273.49,
+          "probability": 1
+        },
+        {
+          "text": "world's",
+          "start": 273.49,
+          "end": 274,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 274,
+          "end": 274.29,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 274.29,
+          "end": 274.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 275.04,
+      "end": 277.32,
+      "text": "We didn't start the fire",
+      "words": [
+        {
+          "text": "We",
+          "start": 275.04,
+          "end": 275.27,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 275.27,
+          "end": 275.95,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 275.95,
+          "end": 276.52,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 276.52,
+          "end": 276.86,
+          "probability": 1
+        },
+        {
+          "text": "fire",
+          "start": 276.86,
+          "end": 277.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 277.71,
+      "end": 281.47,
+      "text": "No, we didn't light it, but we tried to fight it",
+      "words": [
+        {
+          "text": "No,",
+          "start": 277.71,
+          "end": 278.01,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 278.01,
+          "end": 278.21,
+          "probability": 1
+        },
+        {
+          "text": "didn't",
+          "start": 278.21,
+          "end": 278.8,
+          "probability": 1
+        },
+        {
+          "text": "light",
+          "start": 278.8,
+          "end": 279.29,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 279.29,
+          "end": 279.59,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 279.59,
+          "end": 279.89,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 279.89,
+          "end": 280.09,
+          "probability": 1
+        },
+        {
+          "text": "tried",
+          "start": 280.09,
+          "end": 280.58,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 280.58,
+          "end": 280.78,
+          "probability": 1
+        },
+        {
+          "text": "fight",
+          "start": 280.78,
+          "end": 281.27,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 281.27,
+          "end": 281.47,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Harry Truman, Doris Day, Red China, Johnnie Ray South Pacific, Walter Winchell, Joe DiMaggio Joe McCarthy, Richard Nixon, Studebaker, television North Korea, South Korea, Marilyn Monroe Rosenbergs, H-bomb, Sugar Ray, Panmunjom Brando, \"The King and I\", and \"The Catcher in the Rye\" Eisenhower, Vaccine, England's got a new queen Marciano, Liberace, Santayana, goodbye We didn't start the fire It was always burning, since the world's been turning We didn't start the fire No, we didn't light it, but we tried to fight it Joseph Stalin, Malenkov, Nasser and Prokofiev Rockefeller, Campanella, Communist Bloc Roy Cohn, Juan Peron, Toscanini, Dacron Dien Bien Phu falls, \"Rock Around the Clock\" Einstein, James Dean, Brooklyn's got a winning team Davy Crockett, Peter Pan, Elvis Presley, Disneyland Bardot, Budapest, Alabama, Krushchev Princess Grace, Peyton Place, Trouble in the Suez We didn't start the fire It was always burning, since the world's been turning We didn't start the fire No, we didn't light it, but we tried to fight it Little Rock, Pasternak, Mickey Mantle, Kerouac Sputnik, Chou En-Lai, \"Bridge on the River Kwai\" Lebanon, Charles de Gaulle, California baseball Starkweather homicide, children of thalidomide Buddy Holly, Ben Hur, space monkey, mafia Hula hoops, Castro, Edsel is a no-go U2, Syngman Rhee, Payola and Kennedy Chubby Checker, Psycho, Belgians in the Congo We didn't start the fire It was always burning, since the world's been turning We didn't start the fire No, we didn't light it, but we tried to fight it Hemingway, Eichmann, \"Stranger in a Strange Land\" Dylan, Berlin, Bay of Pigs invasion \"Lawrence of Arabia\", British Beatlemania Ole Miss, John Glenn, Liston beats Patterson Pope Paul, Malcolm X, British politician sex JFK – blown away, what else do I have to say? We didn't start the fire It was always burning, since the world's been turning We didn't start the fire No, we didn't light it, but we tried to fight it Birth control, Ho Chi Minh, Richard Nixon back again Moonshot, Woodstock, Watergate, punk rock Begin, Reagan, Palestine, terror on the airline Ayatollah's in Iran, Russians in Afghanistan \"Wheel of Fortune\", Sally Ride, heavy metal suicide Foreign debts, homeless vets, AIDS, crack, Bernie Goetz Hypodermics on the shore, China's under martial law Rock and roller, cola wars, I can't take it anymore We didn't start the fire It was always burning, since the world's been turning We didn't start the fire But when we are gone It will still burn on, and on, and on, and on, and on, and on, and on, and on We didn't start the fire It was always burning, since the world's been turning We didn't start the fire No, we didn't light it, but we tried to fight it We didn't start the fire It was always burning, since the world's been turning We didn't start the fire No, we didn't light it, but we tried to fight it We didn't start the fire It was always burning, since the world's been turning We didn't start the fire No, we didn't light it, but we tried to fight it"
+}

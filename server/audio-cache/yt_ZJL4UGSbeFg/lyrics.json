@@ -1,0 +1,5430 @@
+{
+  "language": "en",
+  "duration": 235,
+  "source": "canonical_synced_lrc_aligned",
+  "segments": [
+    {
+      "start": 3.04,
+      "end": 4.26,
+      "text": "Let's go girls",
+      "words": [
+        {
+          "text": "Let's",
+          "start": 3.04,
+          "end": 3.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Let's",
+              "start": 3.04,
+              "end": 3.41
+            }
+          ]
+        },
+        {
+          "text": "go",
+          "start": 3.44,
+          "end": 3.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go",
+              "start": 3.44,
+              "end": 3.81
+            }
+          ]
+        },
+        {
+          "text": "girls",
+          "start": 3.86,
+          "end": 4.26,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "girls",
+              "start": 3.86,
+              "end": 4.26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 7.26,
+      "end": 7.86,
+      "text": "C'mon",
+      "words": [
+        {
+          "text": "C'mon",
+          "start": 7.26,
+          "end": 7.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "C'mon",
+              "start": 7.26,
+              "end": 7.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 11.58,
+      "end": 15.8,
+      "text": "I'm goin' out tonight, I'm feelin' alright",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 11.58,
+          "end": 11.83,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I'm",
+              "start": 11.58,
+              "end": 11.83
+            }
+          ]
+        },
+        {
+          "text": "goin'",
+          "start": 11.88,
+          "end": 12.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "goin'",
+              "start": 11.88,
+              "end": 12.16
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 12.22,
+          "end": 12.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 12.22,
+              "end": 12.54
+            }
+          ]
+        },
+        {
+          "text": "tonight,",
+          "start": 12.6,
+          "end": 13.3,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 12.6,
+              "end": 12.95
+            },
+            {
+              "text": "night,",
+              "start": 12.95,
+              "end": 13.3
+            }
+          ]
+        },
+        {
+          "text": "I'm",
+          "start": 13.5,
+          "end": 13.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I'm",
+              "start": 13.5,
+              "end": 13.75
+            }
+          ]
+        },
+        {
+          "text": "feelin'",
+          "start": 13.82,
+          "end": 14.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fee",
+              "start": 13.82,
+              "end": 14.13
+            },
+            {
+              "text": "lin'",
+              "start": 14.13,
+              "end": 14.44
+            }
+          ]
+        },
+        {
+          "text": "alright",
+          "start": 15.44,
+          "end": 15.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "al",
+              "start": 15.44,
+              "end": 15.64
+            },
+            {
+              "text": "right",
+              "start": 15.64,
+              "end": 15.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 16.12,
+      "end": 18.44,
+      "text": "Gonna let it all hang out",
+      "words": [
+        {
+          "text": "Gonna",
+          "start": 16.12,
+          "end": 16.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Gon",
+              "start": 16.12,
+              "end": 16.33
+            },
+            {
+              "text": "na",
+              "start": 16.33,
+              "end": 16.54
+            }
+          ]
+        },
+        {
+          "text": "let",
+          "start": 16.56,
+          "end": 16.92,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "let",
+              "start": 16.56,
+              "end": 16.92
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 16.92,
+          "end": 17.3,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 16.92,
+              "end": 17.3
+            }
+          ]
+        },
+        {
+          "text": "all",
+          "start": 17.32,
+          "end": 17.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "all",
+              "start": 17.32,
+              "end": 17.68
+            }
+          ]
+        },
+        {
+          "text": "hang",
+          "start": 17.68,
+          "end": 18.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hang",
+              "start": 17.68,
+              "end": 18.06
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 18.06,
+          "end": 18.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 18.06,
+              "end": 18.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 19.26,
+      "end": 23.47,
+      "text": "Wanna make some noise, really raise my voice",
+      "words": [
+        {
+          "text": "Wanna",
+          "start": 19.26,
+          "end": 19.99,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Wan",
+              "start": 19.26,
+              "end": 19.63
+            },
+            {
+              "text": "na",
+              "start": 19.63,
+              "end": 19.99
+            }
+          ]
+        },
+        {
+          "text": "make",
+          "start": 20.14,
+          "end": 20.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "make",
+              "start": 20.14,
+              "end": 20.51
+            }
+          ]
+        },
+        {
+          "text": "some",
+          "start": 20.54,
+          "end": 20.91,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "some",
+              "start": 20.54,
+              "end": 20.91
+            }
+          ]
+        },
+        {
+          "text": "noise,",
+          "start": 21.2,
+          "end": 21.45,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "noise,",
+              "start": 21.2,
+              "end": 21.45
+            }
+          ]
+        },
+        {
+          "text": "really",
+          "start": 21.66,
+          "end": 22.03,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "real",
+              "start": 21.66,
+              "end": 21.86
+            },
+            {
+              "text": "ly",
+              "start": 21.86,
+              "end": 22.06
+            }
+          ]
+        },
+        {
+          "text": "raise",
+          "start": 22.32,
+          "end": 22.4,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "raise",
+              "start": 22.32,
+              "end": 22.52
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 22.4,
+          "end": 22.77,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 22.4,
+              "end": 22.77
+            }
+          ]
+        },
+        {
+          "text": "voice",
+          "start": 23.1,
+          "end": 23.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "voice",
+              "start": 23.1,
+              "end": 23.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 23.52,
+      "end": 26.42,
+      "text": "Yeah, I wanna scream and shout, uh",
+      "words": [
+        {
+          "text": "Yeah,",
+          "start": 23.52,
+          "end": 23.77,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Yeah,",
+              "start": 23.52,
+              "end": 23.77
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 23.9,
+          "end": 24.15,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 23.9,
+              "end": 24.15
+            }
+          ]
+        },
+        {
+          "text": "wanna",
+          "start": 24.52,
+          "end": 24.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wan",
+              "start": 24.52,
+              "end": 24.72
+            },
+            {
+              "text": "na",
+              "start": 24.72,
+              "end": 24.92
+            }
+          ]
+        },
+        {
+          "text": "scream",
+          "start": 24.92,
+          "end": 25.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "scream",
+              "start": 24.92,
+              "end": 25.28
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 25.32,
+          "end": 25.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 25.32,
+              "end": 25.66
+            }
+          ]
+        },
+        {
+          "text": "shout,",
+          "start": 25.68,
+          "end": 26.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "shout,",
+              "start": 25.68,
+              "end": 26.04
+            }
+          ]
+        },
+        {
+          "text": "uh",
+          "start": 26.04,
+          "end": 26.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "uh",
+              "start": 26.04,
+              "end": 26.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 30.76,
+      "end": 35.34,
+      "text": "No inhibitions, make no conditions",
+      "words": [
+        {
+          "text": "No",
+          "start": 30.76,
+          "end": 31.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "No",
+              "start": 30.76,
+              "end": 31.13
+            }
+          ]
+        },
+        {
+          "text": "inhibitions,",
+          "start": 31.9,
+          "end": 32.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 31.9,
+              "end": 32.15
+            },
+            {
+              "text": "hi",
+              "start": 32.15,
+              "end": 32.39
+            },
+            {
+              "text": "bi",
+              "start": 32.39,
+              "end": 32.64
+            },
+            {
+              "text": "tions,",
+              "start": 32.64,
+              "end": 32.89
+            }
+          ]
+        },
+        {
+          "text": "make",
+          "start": 32.89,
+          "end": 33.26,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "make",
+              "start": 32.89,
+              "end": 33.26
+            }
+          ]
+        },
+        {
+          "text": "no",
+          "start": 33.82,
+          "end": 34.15,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "no",
+              "start": 33.82,
+              "end": 34.15
+            }
+          ]
+        },
+        {
+          "text": "conditions",
+          "start": 34.64,
+          "end": 35.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "con",
+              "start": 34.64,
+              "end": 34.87
+            },
+            {
+              "text": "di",
+              "start": 34.87,
+              "end": 35.11
+            },
+            {
+              "text": "tions",
+              "start": 35.11,
+              "end": 35.34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 35.38,
+      "end": 37.66,
+      "text": "Get a little outta line",
+      "words": [
+        {
+          "text": "Get",
+          "start": 35.38,
+          "end": 35.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Get",
+              "start": 35.38,
+              "end": 35.6
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 35.6,
+          "end": 35.85,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 35.6,
+              "end": 35.85
+            }
+          ]
+        },
+        {
+          "text": "little",
+          "start": 36.06,
+          "end": 36.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "litt",
+              "start": 36.06,
+              "end": 36.28
+            },
+            {
+              "text": "le",
+              "start": 36.28,
+              "end": 36.5
+            }
+          ]
+        },
+        {
+          "text": "outta",
+          "start": 36.54,
+          "end": 37.26,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 36.54,
+              "end": 36.9
+            },
+            {
+              "text": "ta",
+              "start": 36.9,
+              "end": 37.26
+            }
+          ]
+        },
+        {
+          "text": "line",
+          "start": 37.28,
+          "end": 37.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "line",
+              "start": 37.28,
+              "end": 37.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 38.44,
+      "end": 43.120000000000005,
+      "text": "I ain't gonna act politically correct",
+      "words": [
+        {
+          "text": "I",
+          "start": 38.44,
+          "end": 38.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 38.44,
+              "end": 38.71
+            }
+          ]
+        },
+        {
+          "text": "ain't",
+          "start": 39.12,
+          "end": 39.37,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ain't",
+              "start": 39.12,
+              "end": 39.37
+            }
+          ]
+        },
+        {
+          "text": "gonna",
+          "start": 39.42,
+          "end": 39.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "gon",
+              "start": 39.42,
+              "end": 39.62
+            },
+            {
+              "text": "na",
+              "start": 39.62,
+              "end": 39.82
+            }
+          ]
+        },
+        {
+          "text": "act",
+          "start": 39.79,
+          "end": 40.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "act",
+              "start": 39.79,
+              "end": 40.06
+            }
+          ]
+        },
+        {
+          "text": "politically",
+          "start": 40.08,
+          "end": 41.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "po",
+              "start": 40.08,
+              "end": 40.34
+            },
+            {
+              "text": "li",
+              "start": 40.34,
+              "end": 40.6
+            },
+            {
+              "text": "ti",
+              "start": 40.6,
+              "end": 40.87
+            },
+            {
+              "text": "cal",
+              "start": 40.87,
+              "end": 41.13
+            },
+            {
+              "text": "ly",
+              "start": 41.13,
+              "end": 41.39
+            }
+          ]
+        },
+        {
+          "text": "correct",
+          "start": 42.96,
+          "end": 43.120000000000005,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cor",
+              "start": 42.96,
+              "end": 43.16
+            },
+            {
+              "text": "rect",
+              "start": 43.16,
+              "end": 43.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 42.52,
+      "end": 45.58,
+      "text": "I only wanna have a good time",
+      "words": [
+        {
+          "text": "I",
+          "start": 42.52,
+          "end": 42.53,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 42.52,
+              "end": 42.72
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 42.96,
+          "end": 43.29,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 42.96,
+              "end": 43.16
+            },
+            {
+              "text": "ly",
+              "start": 43.16,
+              "end": 43.36
+            }
+          ]
+        },
+        {
+          "text": "wanna",
+          "start": 43.42,
+          "end": 44.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wan",
+              "start": 43.42,
+              "end": 43.74
+            },
+            {
+              "text": "na",
+              "start": 43.74,
+              "end": 44.05
+            }
+          ]
+        },
+        {
+          "text": "have",
+          "start": 44.12,
+          "end": 44.43,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "have",
+              "start": 44.12,
+              "end": 44.43
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 44.43,
+          "end": 44.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 44.43,
+              "end": 44.81
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "start": 44.9,
+          "end": 45.19,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 44.9,
+              "end": 45.19
+            }
+          ]
+        },
+        {
+          "text": "time",
+          "start": 45.2,
+          "end": 45.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "time",
+              "start": 45.2,
+              "end": 45.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 46.8,
+      "end": 51.480000000000004,
+      "text": "The best thing about bein' a woman",
+      "words": [
+        {
+          "text": "The",
+          "start": 46.8,
+          "end": 47.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "The",
+              "start": 46.8,
+              "end": 47.18
+            }
+          ]
+        },
+        {
+          "text": "best",
+          "start": 47.26,
+          "end": 47.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "best",
+              "start": 47.26,
+              "end": 47.62
+            }
+          ]
+        },
+        {
+          "text": "thing",
+          "start": 47.76,
+          "end": 48.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "thing",
+              "start": 47.76,
+              "end": 48.01
+            }
+          ]
+        },
+        {
+          "text": "about",
+          "start": 48.02,
+          "end": 48.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 48.02,
+              "end": 48.39
+            },
+            {
+              "text": "bout",
+              "start": 48.39,
+              "end": 48.76
+            }
+          ]
+        },
+        {
+          "text": "bein'",
+          "start": 48.76,
+          "end": 49.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bein'",
+              "start": 48.76,
+              "end": 49.14
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 49.16,
+          "end": 49.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 49.16,
+              "end": 49.52
+            }
+          ]
+        },
+        {
+          "text": "woman",
+          "start": 51.1,
+          "end": 51.480000000000004,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wo",
+              "start": 51.1,
+              "end": 51.3
+            },
+            {
+              "text": "man",
+              "start": 51.3,
+              "end": 51.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 50.61,
+      "end": 56,
+      "text": "Is the prerogative to have a little fun and",
+      "words": [
+        {
+          "text": "Is",
+          "start": 50.61,
+          "end": 50.92,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Is",
+              "start": 50.61,
+              "end": 50.92
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 51.1,
+          "end": 51.35,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 51.1,
+              "end": 51.35
+            }
+          ]
+        },
+        {
+          "text": "prerogative",
+          "start": 51.88,
+          "end": 52.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "pre",
+              "start": 51.88,
+              "end": 52.08
+            },
+            {
+              "text": "ro",
+              "start": 52.08,
+              "end": 52.28
+            },
+            {
+              "text": "ga",
+              "start": 52.28,
+              "end": 52.48
+            },
+            {
+              "text": "ti",
+              "start": 52.48,
+              "end": 52.68
+            },
+            {
+              "text": "ve",
+              "start": 52.68,
+              "end": 52.88
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 53.04,
+          "end": 53.07,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 53.04,
+              "end": 53.24
+            }
+          ]
+        },
+        {
+          "text": "have",
+          "start": 53.07,
+          "end": 53.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "have",
+              "start": 53.07,
+              "end": 53.38
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 53.44,
+          "end": 53.69,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 53.44,
+              "end": 53.69
+            }
+          ]
+        },
+        {
+          "text": "little",
+          "start": 53.69,
+          "end": 54.3,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "litt",
+              "start": 53.69,
+              "end": 54
+            },
+            {
+              "text": "le",
+              "start": 54,
+              "end": 54.3
+            }
+          ]
+        },
+        {
+          "text": "fun",
+          "start": 54.78,
+          "end": 55.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fun",
+              "start": 54.78,
+              "end": 55.09
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 55.74,
+          "end": 56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 55.74,
+              "end": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 55.15,
+      "end": 60.69,
+      "text": "Oh, oh, oh, go totally crazy, forget I'm a lady",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 55.15,
+          "end": 55.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 55.15,
+              "end": 55.49
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 55.74,
+          "end": 55.83,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 55.74,
+              "end": 55.94
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 55.83,
+          "end": 56.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 55.83,
+              "end": 56.17
+            }
+          ]
+        },
+        {
+          "text": "go",
+          "start": 56.86,
+          "end": 57.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go",
+              "start": 56.86,
+              "end": 57.13
+            }
+          ]
+        },
+        {
+          "text": "totally",
+          "start": 57.34,
+          "end": 57.59,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 57.34,
+              "end": 57.54
+            },
+            {
+              "text": "tal",
+              "start": 57.54,
+              "end": 57.74
+            },
+            {
+              "text": "ly",
+              "start": 57.74,
+              "end": 57.94
+            }
+          ]
+        },
+        {
+          "text": "crazy,",
+          "start": 57.7,
+          "end": 58.19,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cra",
+              "start": 57.7,
+              "end": 57.95
+            },
+            {
+              "text": "zy,",
+              "start": 57.95,
+              "end": 58.19
+            }
+          ]
+        },
+        {
+          "text": "forget",
+          "start": 58.32,
+          "end": 58.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "for",
+              "start": 58.32,
+              "end": 58.59
+            },
+            {
+              "text": "get",
+              "start": 58.59,
+              "end": 58.86
+            }
+          ]
+        },
+        {
+          "text": "I'm",
+          "start": 58.92,
+          "end": 59.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I'm",
+              "start": 58.92,
+              "end": 59.2
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 59.26,
+          "end": 59.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 59.26,
+              "end": 59.54
+            }
+          ]
+        },
+        {
+          "text": "lady",
+          "start": 60.02,
+          "end": 60.69,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "la",
+              "start": 60.02,
+              "end": 60.36
+            },
+            {
+              "text": "dy",
+              "start": 60.36,
+              "end": 60.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 60.72,
+      "end": 62.71,
+      "text": "Men's shirts, short skirts",
+      "words": [
+        {
+          "text": "Men's",
+          "start": 60.72,
+          "end": 60.97,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Men's",
+              "start": 60.72,
+              "end": 60.97
+            }
+          ]
+        },
+        {
+          "text": "shirts,",
+          "start": 61.08,
+          "end": 61.25,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "shirts,",
+              "start": 61.08,
+              "end": 61.28
+            }
+          ]
+        },
+        {
+          "text": "short",
+          "start": 61.25,
+          "end": 61.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "short",
+              "start": 61.25,
+              "end": 61.65
+            }
+          ]
+        },
+        {
+          "text": "skirts",
+          "start": 62.46,
+          "end": 62.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "skirts",
+              "start": 62.46,
+              "end": 62.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 62.71,
+      "end": 68.66999999999999,
+      "text": "Oh, oh, oh, really go wild, yeah, doin' it in style",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 62.71,
+          "end": 62.94,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 62.71,
+              "end": 62.94
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 62.94,
+          "end": 63.29,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 62.94,
+              "end": 63.29
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 63.42,
+          "end": 63.67,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 63.42,
+              "end": 63.67
+            }
+          ]
+        },
+        {
+          "text": "really",
+          "start": 64.06,
+          "end": 64.43,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "real",
+              "start": 64.06,
+              "end": 64.26
+            },
+            {
+              "text": "ly",
+              "start": 64.26,
+              "end": 64.46
+            }
+          ]
+        },
+        {
+          "text": "go",
+          "start": 64.5,
+          "end": 64.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go",
+              "start": 64.5,
+              "end": 64.81
+            }
+          ]
+        },
+        {
+          "text": "wild,",
+          "start": 65.02,
+          "end": 65.26,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wild,",
+              "start": 65.02,
+              "end": 65.26
+            }
+          ]
+        },
+        {
+          "text": "yeah,",
+          "start": 65.26,
+          "end": 65.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "yeah,",
+              "start": 65.26,
+              "end": 65.57
+            }
+          ]
+        },
+        {
+          "text": "doin'",
+          "start": 65.62,
+          "end": 65.95,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "doin'",
+              "start": 65.62,
+              "end": 65.95
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 65.96,
+          "end": 66.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 65.96,
+              "end": 66.33
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 66.36,
+          "end": 66.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 66.36,
+              "end": 66.71
+            }
+          ]
+        },
+        {
+          "text": "style",
+          "start": 68.22,
+          "end": 68.66999999999999,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sty",
+              "start": 68.22,
+              "end": 68.44
+            },
+            {
+              "text": "le",
+              "start": 68.44,
+              "end": 68.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 68.7,
+      "end": 73.97999999999999,
+      "text": "Oh, oh, oh, get in the action, feel the attraction",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 68.7,
+          "end": 68.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 68.7,
+              "end": 68.9
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 68.76,
+          "end": 69.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 68.76,
+              "end": 69.14
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 69.18,
+          "end": 69.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 69.18,
+              "end": 69.52
+            }
+          ]
+        },
+        {
+          "text": "get",
+          "start": 69.84,
+          "end": 70.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "get",
+              "start": 69.84,
+              "end": 70.09
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 70.12,
+          "end": 70.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 70.12,
+              "end": 70.32
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 70.28,
+          "end": 70.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 70.28,
+              "end": 70.66
+            }
+          ]
+        },
+        {
+          "text": "action,",
+          "start": 70.7,
+          "end": 71.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ac",
+              "start": 70.7,
+              "end": 71.06
+            },
+            {
+              "text": "tion,",
+              "start": 71.06,
+              "end": 71.42
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 71.74,
+          "end": 71.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 71.74,
+              "end": 71.94
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 71.9,
+          "end": 72.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 71.9,
+              "end": 72.18
+            }
+          ]
+        },
+        {
+          "text": "attraction",
+          "start": 73.64,
+          "end": 73.97999999999999,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "attrac",
+              "start": 73.64,
+              "end": 73.84
+            },
+            {
+              "text": "tion",
+              "start": 73.84,
+              "end": 74.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 73.97999999999999,
+      "end": 76.15,
+      "text": "Color my hair, do what I dare",
+      "words": [
+        {
+          "text": "Color",
+          "start": 73.97999999999999,
+          "end": 74.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Co",
+              "start": 73.98,
+              "end": 74.18
+            },
+            {
+              "text": "lor",
+              "start": 74.18,
+              "end": 74.38
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 74.36,
+          "end": 74.61,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 74.36,
+              "end": 74.61
+            }
+          ]
+        },
+        {
+          "text": "hair,",
+          "start": 74.64,
+          "end": 74.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hair,",
+              "start": 74.64,
+              "end": 74.84
+            }
+          ]
+        },
+        {
+          "text": "do",
+          "start": 74.84,
+          "end": 75.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "do",
+              "start": 74.84,
+              "end": 75.09
+            }
+          ]
+        },
+        {
+          "text": "what",
+          "start": 75.1,
+          "end": 75.35,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "what",
+              "start": 75.1,
+              "end": 75.35
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 75.38,
+          "end": 75.63,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 75.38,
+              "end": 75.63
+            }
+          ]
+        },
+        {
+          "text": "dare",
+          "start": 75.9,
+          "end": 76.15,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "dare",
+              "start": 75.9,
+              "end": 76.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 76.36,
+      "end": 81.8,
+      "text": "Oh, oh, oh, I wanna be free, yeah, to feel the way I feel",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 76.36,
+          "end": 76.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 76.36,
+              "end": 76.56
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 76.48,
+          "end": 76.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 76.48,
+              "end": 76.86
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 76.86,
+          "end": 77.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 76.86,
+              "end": 77.24
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 77.3,
+          "end": 77.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 77.3,
+              "end": 77.62
+            }
+          ]
+        },
+        {
+          "text": "wanna",
+          "start": 77.82,
+          "end": 78.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wan",
+              "start": 77.82,
+              "end": 78.1
+            },
+            {
+              "text": "na",
+              "start": 78.1,
+              "end": 78.38
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 78.5,
+          "end": 78.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 78.5,
+              "end": 78.76
+            }
+          ]
+        },
+        {
+          "text": "free,",
+          "start": 78.76,
+          "end": 79.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "free,",
+              "start": 78.76,
+              "end": 79.14
+            }
+          ]
+        },
+        {
+          "text": "yeah,",
+          "start": 79.42,
+          "end": 79.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "yeah,",
+              "start": 79.42,
+              "end": 79.62
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 79.6,
+          "end": 79.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 79.6,
+              "end": 79.9
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 79.98,
+          "end": 80.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 79.98,
+              "end": 80.28
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 80.34,
+          "end": 80.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 80.34,
+              "end": 80.66
+            }
+          ]
+        },
+        {
+          "text": "way",
+          "start": 80.7,
+          "end": 81.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "way",
+              "start": 80.7,
+              "end": 81.04
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 81.06,
+          "end": 81.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 81.06,
+              "end": 81.42
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 81.42,
+          "end": 81.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 81.42,
+              "end": 81.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 82.68,
+      "end": 85.86,
+      "text": "Man, I feel like a woman (Hey!)",
+      "words": [
+        {
+          "text": "Man,",
+          "start": 82.68,
+          "end": 83.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Man,",
+              "start": 82.68,
+              "end": 83.06
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 83.08,
+          "end": 83.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 83.08,
+              "end": 83.46
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 83.54,
+          "end": 83.92,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 83.54,
+              "end": 83.92
+            }
+          ]
+        },
+        {
+          "text": "like",
+          "start": 84.04,
+          "end": 84.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "like",
+              "start": 84.04,
+              "end": 84.34
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 84.4,
+          "end": 84.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 84.4,
+              "end": 84.72
+            }
+          ]
+        },
+        {
+          "text": "woman",
+          "start": 84.72,
+          "end": 85.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wo",
+              "start": 84.72,
+              "end": 85.1
+            },
+            {
+              "text": "man",
+              "start": 85.1,
+              "end": 85.48
+            }
+          ]
+        },
+        {
+          "text": "(Hey!)",
+          "start": 85.48,
+          "end": 85.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "(Hey!)",
+              "start": 85.48,
+              "end": 85.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 85.86,
+      "end": 93.18,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 85.86,
+          "end": 93.18,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 93.18,
+      "end": 97.23,
+      "text": "The girls need a break, tonight we're gonna take",
+      "words": [
+        {
+          "text": "The",
+          "start": 93.18,
+          "end": 93.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "The",
+              "start": 93.18,
+              "end": 93.47
+            }
+          ]
+        },
+        {
+          "text": "girls",
+          "start": 93.74,
+          "end": 93.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "girls",
+              "start": 93.74,
+              "end": 93.94
+            }
+          ]
+        },
+        {
+          "text": "need",
+          "start": 93.82,
+          "end": 94.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "need",
+              "start": 93.82,
+              "end": 94.13
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 94.32,
+          "end": 94.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 94.32,
+              "end": 94.52
+            }
+          ]
+        },
+        {
+          "text": "break,",
+          "start": 94.46,
+          "end": 94.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "break,",
+              "start": 94.46,
+              "end": 94.79
+            }
+          ]
+        },
+        {
+          "text": "tonight",
+          "start": 95.1,
+          "end": 95.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 95.1,
+              "end": 95.3
+            },
+            {
+              "text": "night",
+              "start": 95.3,
+              "end": 95.5
+            }
+          ]
+        },
+        {
+          "text": "we're",
+          "start": 95.44,
+          "end": 95.77,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "we're",
+              "start": 95.44,
+              "end": 95.77
+            }
+          ]
+        },
+        {
+          "text": "gonna",
+          "start": 96.7,
+          "end": 96.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "gon",
+              "start": 96.7,
+              "end": 96.9
+            },
+            {
+              "text": "na",
+              "start": 96.9,
+              "end": 97.1
+            }
+          ]
+        },
+        {
+          "text": "take",
+          "start": 96.9,
+          "end": 97.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "take",
+              "start": 96.9,
+              "end": 97.23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 97.4,
+      "end": 100.18,
+      "text": "The chance to get out on the town",
+      "words": [
+        {
+          "text": "The",
+          "start": 97.4,
+          "end": 97.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "The",
+              "start": 97.4,
+              "end": 97.65
+            }
+          ]
+        },
+        {
+          "text": "chance",
+          "start": 97.66,
+          "end": 97.91,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "chance",
+              "start": 97.66,
+              "end": 97.91
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 97.96,
+          "end": 98.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 97.96,
+              "end": 98.21
+            }
+          ]
+        },
+        {
+          "text": "get",
+          "start": 98.38,
+          "end": 98.63,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "get",
+              "start": 98.38,
+              "end": 98.63
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 98.82,
+          "end": 99.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 98.82,
+              "end": 99.04
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 99.04,
+          "end": 99.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 99.04,
+              "end": 99.38
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 99.38,
+          "end": 99.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 99.38,
+              "end": 99.78
+            }
+          ]
+        },
+        {
+          "text": "town",
+          "start": 99.78,
+          "end": 100.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "town",
+              "start": 99.78,
+              "end": 100.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 101.22,
+      "end": 104.94,
+      "text": "We don't need romance, we only wanna dance",
+      "words": [
+        {
+          "text": "We",
+          "start": 101.22,
+          "end": 101.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "We",
+              "start": 101.22,
+              "end": 101.48
+            }
+          ]
+        },
+        {
+          "text": "don't",
+          "start": 101.54,
+          "end": 101.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "don't",
+              "start": 101.54,
+              "end": 101.79
+            }
+          ]
+        },
+        {
+          "text": "need",
+          "start": 101.8,
+          "end": 102.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "need",
+              "start": 101.8,
+              "end": 102.05
+            }
+          ]
+        },
+        {
+          "text": "romance,",
+          "start": 102.34,
+          "end": 102.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ro",
+              "start": 102.34,
+              "end": 102.54
+            },
+            {
+              "text": "man",
+              "start": 102.54,
+              "end": 102.74
+            },
+            {
+              "text": "ce,",
+              "start": 102.74,
+              "end": 102.94
+            }
+          ]
+        },
+        {
+          "text": "we",
+          "start": 102.81,
+          "end": 103.07,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "we",
+              "start": 102.81,
+              "end": 103.07
+            }
+          ]
+        },
+        {
+          "text": "only",
+          "start": 103.44,
+          "end": 103.69,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 103.44,
+              "end": 103.64
+            },
+            {
+              "text": "ly",
+              "start": 103.64,
+              "end": 103.84
+            }
+          ]
+        },
+        {
+          "text": "wanna",
+          "start": 103.88,
+          "end": 104.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wan",
+              "start": 103.88,
+              "end": 104.08
+            },
+            {
+              "text": "na",
+              "start": 104.08,
+              "end": 104.28
+            }
+          ]
+        },
+        {
+          "text": "dance",
+          "start": 104.68,
+          "end": 104.94,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "dance",
+              "start": 104.68,
+              "end": 104.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 105.36,
+      "end": 107.67,
+      "text": "We're gonna let our hair hang down",
+      "words": [
+        {
+          "text": "We're",
+          "start": 105.36,
+          "end": 105.61,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "We're",
+              "start": 105.36,
+              "end": 105.61
+            }
+          ]
+        },
+        {
+          "text": "gonna",
+          "start": 105.64,
+          "end": 105.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "gon",
+              "start": 105.64,
+              "end": 105.84
+            },
+            {
+              "text": "na",
+              "start": 105.84,
+              "end": 106.04
+            }
+          ]
+        },
+        {
+          "text": "let",
+          "start": 105.86,
+          "end": 106.15,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "let",
+              "start": 105.86,
+              "end": 106.15
+            }
+          ]
+        },
+        {
+          "text": "our",
+          "start": 106.15,
+          "end": 106.53,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "our",
+              "start": 106.15,
+              "end": 106.53
+            }
+          ]
+        },
+        {
+          "text": "hair",
+          "start": 106.62,
+          "end": 106.91,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hair",
+              "start": 106.62,
+              "end": 106.91
+            }
+          ]
+        },
+        {
+          "text": "hang",
+          "start": 106.91,
+          "end": 107.29,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hang",
+              "start": 106.91,
+              "end": 107.29
+            }
+          ]
+        },
+        {
+          "text": "down",
+          "start": 107.29,
+          "end": 107.67,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "down",
+              "start": 107.29,
+              "end": 107.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 109.18,
+      "end": 112.8,
+      "text": "The best thing about bein' a woman",
+      "words": [
+        {
+          "text": "The",
+          "start": 109.18,
+          "end": 109.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "The",
+              "start": 109.18,
+              "end": 109.51
+            }
+          ]
+        },
+        {
+          "text": "best",
+          "start": 109.64,
+          "end": 109.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "best",
+              "start": 109.64,
+              "end": 109.89
+            }
+          ]
+        },
+        {
+          "text": "thing",
+          "start": 110.16,
+          "end": 110.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "thing",
+              "start": 110.16,
+              "end": 110.41
+            }
+          ]
+        },
+        {
+          "text": "about",
+          "start": 110.42,
+          "end": 111.03,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 110.42,
+              "end": 110.73
+            },
+            {
+              "text": "bout",
+              "start": 110.73,
+              "end": 111.03
+            }
+          ]
+        },
+        {
+          "text": "bein'",
+          "start": 111.12,
+          "end": 111.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bein'",
+              "start": 111.12,
+              "end": 111.41
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 111.41,
+          "end": 111.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 111.41,
+              "end": 111.79
+            }
+          ]
+        },
+        {
+          "text": "woman",
+          "start": 112.04,
+          "end": 112.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wo",
+              "start": 112.04,
+              "end": 112.42
+            },
+            {
+              "text": "man",
+              "start": 112.42,
+              "end": 112.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 112.88,
+      "end": 117.47,
+      "text": "Is the prerogative to have a little fun and",
+      "words": [
+        {
+          "text": "Is",
+          "start": 112.88,
+          "end": 113.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Is",
+              "start": 112.88,
+              "end": 113.17
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 113.5,
+          "end": 113.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 113.5,
+              "end": 113.75
+            }
+          ]
+        },
+        {
+          "text": "prerogative",
+          "start": 114.26,
+          "end": 115.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "pre",
+              "start": 114.26,
+              "end": 114.46
+            },
+            {
+              "text": "ro",
+              "start": 114.46,
+              "end": 114.66
+            },
+            {
+              "text": "ga",
+              "start": 114.66,
+              "end": 114.86
+            },
+            {
+              "text": "ti",
+              "start": 114.86,
+              "end": 115.06
+            },
+            {
+              "text": "ve",
+              "start": 115.06,
+              "end": 115.26
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 115.12,
+          "end": 115.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 115.12,
+              "end": 115.39
+            }
+          ]
+        },
+        {
+          "text": "have",
+          "start": 115.44,
+          "end": 115.69,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "have",
+              "start": 115.44,
+              "end": 115.69
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 115.92,
+          "end": 116.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 115.92,
+              "end": 116.12
+            }
+          ]
+        },
+        {
+          "text": "little",
+          "start": 116.02,
+          "end": 116.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "litt",
+              "start": 116.02,
+              "end": 116.28
+            },
+            {
+              "text": "le",
+              "start": 116.28,
+              "end": 116.54
+            }
+          ]
+        },
+        {
+          "text": "fun",
+          "start": 117.16,
+          "end": 117.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fun",
+              "start": 117.16,
+              "end": 117.36
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 117.18,
+          "end": 117.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 117.18,
+              "end": 117.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 117.66,
+      "end": 123.12,
+      "text": "Oh, oh, oh, go totally crazy, forget I'm a lady",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 117.66,
+          "end": 117.7,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 117.66,
+              "end": 117.86
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 117.7,
+          "end": 118.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 117.7,
+              "end": 118.05
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 118.14,
+          "end": 118.4,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 118.14,
+              "end": 118.4
+            }
+          ]
+        },
+        {
+          "text": "go",
+          "start": 118.76,
+          "end": 119.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go",
+              "start": 118.76,
+              "end": 119.01
+            }
+          ]
+        },
+        {
+          "text": "totally",
+          "start": 119.24,
+          "end": 119.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 119.24,
+              "end": 119.44
+            },
+            {
+              "text": "tal",
+              "start": 119.44,
+              "end": 119.64
+            },
+            {
+              "text": "ly",
+              "start": 119.64,
+              "end": 119.84
+            }
+          ]
+        },
+        {
+          "text": "crazy,",
+          "start": 119.8,
+          "end": 120.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cra",
+              "start": 119.8,
+              "end": 120.15
+            },
+            {
+              "text": "zy,",
+              "start": 120.15,
+              "end": 120.5
+            }
+          ]
+        },
+        {
+          "text": "forget",
+          "start": 120.56,
+          "end": 121.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "for",
+              "start": 120.56,
+              "end": 120.88
+            },
+            {
+              "text": "get",
+              "start": 120.88,
+              "end": 121.2
+            }
+          ]
+        },
+        {
+          "text": "I'm",
+          "start": 121.2,
+          "end": 121.55,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I'm",
+              "start": 121.2,
+              "end": 121.55
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 121.66,
+          "end": 121.91,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 121.66,
+              "end": 121.91
+            }
+          ]
+        },
+        {
+          "text": "lady",
+          "start": 122.42,
+          "end": 123.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "la",
+              "start": 122.42,
+              "end": 122.77
+            },
+            {
+              "text": "dy",
+              "start": 122.77,
+              "end": 123.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 123.12,
+      "end": 125.11,
+      "text": "Men's shirts, short skirts",
+      "words": [
+        {
+          "text": "Men's",
+          "start": 123.12,
+          "end": 123.37,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Men's",
+              "start": 123.12,
+              "end": 123.37
+            }
+          ]
+        },
+        {
+          "text": "shirts,",
+          "start": 123.48,
+          "end": 123.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "shirts,",
+              "start": 123.48,
+              "end": 123.68
+            }
+          ]
+        },
+        {
+          "text": "short",
+          "start": 123.65,
+          "end": 124.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "short",
+              "start": 123.65,
+              "end": 124.05
+            }
+          ]
+        },
+        {
+          "text": "skirts",
+          "start": 124.86,
+          "end": 125.11,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "skirts",
+              "start": 124.86,
+              "end": 125.11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 125.34,
+      "end": 130.58,
+      "text": "Oh, oh, oh, really go wild, yeah, doin' it in style",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 125.34,
+          "end": 125.59,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 125.34,
+              "end": 125.59
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 125.82,
+          "end": 125.93,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 125.82,
+              "end": 126.02
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 125.93,
+          "end": 126.31,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 125.93,
+              "end": 126.31
+            }
+          ]
+        },
+        {
+          "text": "really",
+          "start": 126.76,
+          "end": 127.07,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "real",
+              "start": 126.76,
+              "end": 126.96
+            },
+            {
+              "text": "ly",
+              "start": 126.96,
+              "end": 127.16
+            }
+          ]
+        },
+        {
+          "text": "go",
+          "start": 127.1,
+          "end": 127.45,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go",
+              "start": 127.1,
+              "end": 127.45
+            }
+          ]
+        },
+        {
+          "text": "wild,",
+          "start": 127.78,
+          "end": 127.83,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wild,",
+              "start": 127.78,
+              "end": 127.98
+            }
+          ]
+        },
+        {
+          "text": "yeah,",
+          "start": 127.83,
+          "end": 128.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "yeah,",
+              "start": 127.83,
+              "end": 128.21
+            }
+          ]
+        },
+        {
+          "text": "doin'",
+          "start": 128.38,
+          "end": 128.63,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "doin'",
+              "start": 128.38,
+              "end": 128.63
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 128.88,
+          "end": 128.97,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 128.88,
+              "end": 129.08
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 128.97,
+          "end": 129.35,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 128.97,
+              "end": 129.35
+            }
+          ]
+        },
+        {
+          "text": "style",
+          "start": 129.82,
+          "end": 130.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sty",
+              "start": 129.82,
+              "end": 130.2
+            },
+            {
+              "text": "le",
+              "start": 130.2,
+              "end": 130.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 131.1,
+      "end": 135.48,
+      "text": "Oh, oh, oh, get in the action, feel the attraction",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 131.1,
+          "end": 131.35,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 131.1,
+              "end": 131.35
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 131.58,
+          "end": 131.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 131.58,
+              "end": 131.78
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 131.68,
+          "end": 132.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 131.68,
+              "end": 132.06
+            }
+          ]
+        },
+        {
+          "text": "get",
+          "start": 132.22,
+          "end": 132.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "get",
+              "start": 132.22,
+              "end": 132.47
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 132.52,
+          "end": 132.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 132.52,
+              "end": 132.82
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 132.82,
+          "end": 133.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 132.82,
+              "end": 133.2
+            }
+          ]
+        },
+        {
+          "text": "action,",
+          "start": 133.2,
+          "end": 133.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ac",
+              "start": 133.2,
+              "end": 133.58
+            },
+            {
+              "text": "tion,",
+              "start": 133.58,
+              "end": 133.96
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 134.14,
+          "end": 134.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 134.14,
+              "end": 134.39
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 134.56,
+          "end": 134.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 134.56,
+              "end": 134.76
+            }
+          ]
+        },
+        {
+          "text": "attraction",
+          "start": 134.72,
+          "end": 135.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "attrac",
+              "start": 134.72,
+              "end": 135.1
+            },
+            {
+              "text": "tion",
+              "start": 135.1,
+              "end": 135.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 136.06,
+      "end": 139.03,
+      "text": "Color my hair, do what I dare",
+      "words": [
+        {
+          "text": "Color",
+          "start": 136.06,
+          "end": 136.63,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Co",
+              "start": 136.06,
+              "end": 136.35
+            },
+            {
+              "text": "lor",
+              "start": 136.35,
+              "end": 136.63
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 136.63,
+          "end": 136.91,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 136.63,
+              "end": 136.91
+            }
+          ]
+        },
+        {
+          "text": "hair,",
+          "start": 137.02,
+          "end": 137.27,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hair,",
+              "start": 137.02,
+              "end": 137.27
+            }
+          ]
+        },
+        {
+          "text": "do",
+          "start": 137.48,
+          "end": 137.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "do",
+              "start": 137.48,
+              "end": 137.68
+            }
+          ]
+        },
+        {
+          "text": "what",
+          "start": 137.52,
+          "end": 137.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "what",
+              "start": 137.52,
+              "end": 137.8
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 138.3,
+          "end": 138.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 138.3,
+              "end": 138.58
+            }
+          ]
+        },
+        {
+          "text": "dare",
+          "start": 138.78,
+          "end": 139.03,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "dare",
+              "start": 138.78,
+              "end": 139.03
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 138.96,
+      "end": 144.38,
+      "text": "Oh, oh, oh, I wanna be free, yeah, to feel the way I feel",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 138.96,
+          "end": 139,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 138.96,
+              "end": 139.16
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 139.26,
+          "end": 139.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 139.26,
+              "end": 139.51
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 139.72,
+          "end": 139.92,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 139.72,
+              "end": 139.92
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 139.92,
+          "end": 140.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 139.92,
+              "end": 140.17
+            }
+          ]
+        },
+        {
+          "text": "wanna",
+          "start": 140.22,
+          "end": 140.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wan",
+              "start": 140.22,
+              "end": 140.56
+            },
+            {
+              "text": "na",
+              "start": 140.56,
+              "end": 140.9
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 140.9,
+          "end": 141.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 140.9,
+              "end": 141.28
+            }
+          ]
+        },
+        {
+          "text": "free,",
+          "start": 141.38,
+          "end": 141.66,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "free,",
+              "start": 141.38,
+              "end": 141.66
+            }
+          ]
+        },
+        {
+          "text": "yeah,",
+          "start": 141.82,
+          "end": 142.07,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "yeah,",
+              "start": 141.82,
+              "end": 142.07
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 142.14,
+          "end": 142.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 142.14,
+              "end": 142.42
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 142.46,
+          "end": 142.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 142.46,
+              "end": 142.8
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 142.8,
+          "end": 143.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 142.8,
+              "end": 143.18
+            }
+          ]
+        },
+        {
+          "text": "way",
+          "start": 143.32,
+          "end": 143.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "way",
+              "start": 143.32,
+              "end": 143.57
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 143.58,
+          "end": 143.94,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 143.58,
+              "end": 143.94
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 144,
+          "end": 144.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 144,
+              "end": 144.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 145.12,
+      "end": 148,
+      "text": "Man, I feel like a woman",
+      "words": [
+        {
+          "text": "Man,",
+          "start": 145.12,
+          "end": 145.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Man,",
+              "start": 145.12,
+              "end": 145.5
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 145.94,
+          "end": 146.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 145.94,
+              "end": 146.14
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 146.1,
+          "end": 146.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 146.1,
+              "end": 146.48
+            }
+          ]
+        },
+        {
+          "text": "like",
+          "start": 146.48,
+          "end": 146.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "like",
+              "start": 146.48,
+              "end": 146.86
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 146.86,
+          "end": 147.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 146.86,
+              "end": 147.24
+            }
+          ]
+        },
+        {
+          "text": "woman",
+          "start": 147.24,
+          "end": 148,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wo",
+              "start": 147.24,
+              "end": 147.62
+            },
+            {
+              "text": "man",
+              "start": 147.62,
+              "end": 148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 150.48,
+      "end": 151.5,
+      "text": "Uh, huh",
+      "words": [
+        {
+          "text": "Uh,",
+          "start": 150.48,
+          "end": 150.88,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Uh,",
+              "start": 150.48,
+              "end": 150.88
+            }
+          ]
+        },
+        {
+          "text": "huh",
+          "start": 151.1,
+          "end": 151.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "huh",
+              "start": 151.1,
+              "end": 151.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 151.5,
+      "end": 163.44,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 151.5,
+          "end": 163.44,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 163.44,
+      "end": 164.14,
+      "text": "Oh, yeah",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 163.44,
+          "end": 163.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 163.44,
+              "end": 163.72
+            }
+          ]
+        },
+        {
+          "text": "yeah",
+          "start": 163.74,
+          "end": 164.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "yeah",
+              "start": 163.74,
+              "end": 164.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 164.86,
+      "end": 168.5,
+      "text": "The best thing about bein' a woman",
+      "words": [
+        {
+          "text": "The",
+          "start": 164.86,
+          "end": 165.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "The",
+              "start": 164.86,
+              "end": 165.24
+            }
+          ]
+        },
+        {
+          "text": "best",
+          "start": 165.32,
+          "end": 165.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "best",
+              "start": 165.32,
+              "end": 165.68
+            }
+          ]
+        },
+        {
+          "text": "thing",
+          "start": 165.84,
+          "end": 166.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "thing",
+              "start": 165.84,
+              "end": 166.09
+            }
+          ]
+        },
+        {
+          "text": "about",
+          "start": 166.32,
+          "end": 166.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 166.32,
+              "end": 166.57
+            },
+            {
+              "text": "bout",
+              "start": 166.57,
+              "end": 166.82
+            }
+          ]
+        },
+        {
+          "text": "bein'",
+          "start": 166.96,
+          "end": 167.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bein'",
+              "start": 166.96,
+              "end": 167.21
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 167.22,
+          "end": 167.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 167.22,
+              "end": 167.58
+            }
+          ]
+        },
+        {
+          "text": "woman",
+          "start": 167.74,
+          "end": 168.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wo",
+              "start": 167.74,
+              "end": 168.12
+            },
+            {
+              "text": "man",
+              "start": 168.12,
+              "end": 168.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 168.56,
+      "end": 174.14,
+      "text": "Is the prerogative to have a little fun, fun, fun",
+      "words": [
+        {
+          "text": "Is",
+          "start": 168.56,
+          "end": 168.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Is",
+              "start": 168.56,
+              "end": 168.9
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 169.18,
+          "end": 169.43,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 169.18,
+              "end": 169.43
+            }
+          ]
+        },
+        {
+          "text": "prerogative",
+          "start": 169.94,
+          "end": 171.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "pre",
+              "start": 169.94,
+              "end": 170.18
+            },
+            {
+              "text": "ro",
+              "start": 170.18,
+              "end": 170.41
+            },
+            {
+              "text": "ga",
+              "start": 170.41,
+              "end": 170.65
+            },
+            {
+              "text": "ti",
+              "start": 170.65,
+              "end": 170.88
+            },
+            {
+              "text": "ve",
+              "start": 170.88,
+              "end": 171.12
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 171.12,
+          "end": 171.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 171.12,
+              "end": 171.46
+            }
+          ]
+        },
+        {
+          "text": "have",
+          "start": 171.46,
+          "end": 171.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "have",
+              "start": 171.46,
+              "end": 171.8
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 172.1,
+          "end": 172.35,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 172.1,
+              "end": 172.35
+            }
+          ]
+        },
+        {
+          "text": "little",
+          "start": 172.56,
+          "end": 172.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "litt",
+              "start": 172.56,
+              "end": 172.76
+            },
+            {
+              "text": "le",
+              "start": 172.76,
+              "end": 172.96
+            }
+          ]
+        },
+        {
+          "text": "fun,",
+          "start": 172.82,
+          "end": 173.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fun,",
+              "start": 172.82,
+              "end": 173.16
+            }
+          ]
+        },
+        {
+          "text": "fun,",
+          "start": 173.16,
+          "end": 173.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fun,",
+              "start": 173.16,
+              "end": 173.5
+            }
+          ]
+        },
+        {
+          "text": "fun",
+          "start": 173.8,
+          "end": 174.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fun",
+              "start": 173.8,
+              "end": 174.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 174.3,
+      "end": 180.34,
+      "text": "Oh, oh, oh, go totally crazy, forget I'm a lady",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 174.3,
+          "end": 174.45,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 174.3,
+              "end": 174.5
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 174.45,
+          "end": 174.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 174.45,
+              "end": 174.79
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 174.79,
+          "end": 175.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 174.79,
+              "end": 175.13
+            }
+          ]
+        },
+        {
+          "text": "go",
+          "start": 175.36,
+          "end": 175.61,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go",
+              "start": 175.36,
+              "end": 175.61
+            }
+          ]
+        },
+        {
+          "text": "totally",
+          "start": 175.88,
+          "end": 176.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 175.88,
+              "end": 176.08
+            },
+            {
+              "text": "tal",
+              "start": 176.08,
+              "end": 176.29
+            },
+            {
+              "text": "ly",
+              "start": 176.29,
+              "end": 176.49
+            }
+          ]
+        },
+        {
+          "text": "crazy,",
+          "start": 176.5,
+          "end": 177.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cra",
+              "start": 176.5,
+              "end": 176.83
+            },
+            {
+              "text": "zy,",
+              "start": 176.83,
+              "end": 177.17
+            }
+          ]
+        },
+        {
+          "text": "forget",
+          "start": 177.36,
+          "end": 177.85,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "for",
+              "start": 177.36,
+              "end": 177.61
+            },
+            {
+              "text": "get",
+              "start": 177.61,
+              "end": 177.85
+            }
+          ]
+        },
+        {
+          "text": "I'm",
+          "start": 177.85,
+          "end": 178.19,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I'm",
+              "start": 177.85,
+              "end": 178.19
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 178.19,
+          "end": 178.53,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 178.19,
+              "end": 178.53
+            }
+          ]
+        },
+        {
+          "text": "lady",
+          "start": 180.1,
+          "end": 180.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "la",
+              "start": 180.1,
+              "end": 180.3
+            },
+            {
+              "text": "dy",
+              "start": 180.3,
+              "end": 180.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 179.76,
+      "end": 181.75,
+      "text": "Men's shirts, short skirts",
+      "words": [
+        {
+          "text": "Men's",
+          "start": 179.76,
+          "end": 179.87,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Men's",
+              "start": 179.76,
+              "end": 179.96
+            }
+          ]
+        },
+        {
+          "text": "shirts,",
+          "start": 180.1,
+          "end": 180.27,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "shirts,",
+              "start": 180.1,
+              "end": 180.3
+            }
+          ]
+        },
+        {
+          "text": "short",
+          "start": 180.27,
+          "end": 180.67,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "short",
+              "start": 180.27,
+              "end": 180.67
+            }
+          ]
+        },
+        {
+          "text": "skirts",
+          "start": 181.5,
+          "end": 181.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "skirts",
+              "start": 181.5,
+              "end": 181.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 181.96,
+      "end": 186.76,
+      "text": "Oh, oh, oh, really go wild, yeah, doin' it in style",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 181.96,
+          "end": 182.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 181.96,
+              "end": 182.16
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 182.12,
+          "end": 182.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 182.12,
+              "end": 182.48
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 182.48,
+          "end": 182.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 182.48,
+              "end": 182.86
+            }
+          ]
+        },
+        {
+          "text": "really",
+          "start": 183.1,
+          "end": 183.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "real",
+              "start": 183.1,
+              "end": 183.36
+            },
+            {
+              "text": "ly",
+              "start": 183.36,
+              "end": 183.62
+            }
+          ]
+        },
+        {
+          "text": "go",
+          "start": 183.62,
+          "end": 184,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "go",
+              "start": 183.62,
+              "end": 184
+            }
+          ]
+        },
+        {
+          "text": "wild,",
+          "start": 184,
+          "end": 184.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wild,",
+              "start": 184,
+              "end": 184.38
+            }
+          ]
+        },
+        {
+          "text": "yeah,",
+          "start": 184.44,
+          "end": 184.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "yeah,",
+              "start": 184.44,
+              "end": 184.76
+            }
+          ]
+        },
+        {
+          "text": "doin'",
+          "start": 185.02,
+          "end": 185.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "doin'",
+              "start": 185.02,
+              "end": 185.24
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "start": 185.24,
+          "end": 185.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it",
+              "start": 185.24,
+              "end": 185.52
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 185.52,
+          "end": 185.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 185.52,
+              "end": 185.9
+            }
+          ]
+        },
+        {
+          "text": "style",
+          "start": 186,
+          "end": 186.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sty",
+              "start": 186,
+              "end": 186.38
+            },
+            {
+              "text": "le",
+              "start": 186.38,
+              "end": 186.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 187.24,
+      "end": 191.99,
+      "text": "Oh, oh, oh, get in the action, feel the attraction",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 187.24,
+          "end": 187.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 187.24,
+              "end": 187.62
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 187.72,
+          "end": 188.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 187.72,
+              "end": 188.1
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 188.22,
+          "end": 188.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 188.22,
+              "end": 188.57
+            }
+          ]
+        },
+        {
+          "text": "get",
+          "start": 188.88,
+          "end": 188.95,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "get",
+              "start": 188.88,
+              "end": 189.08
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 188.95,
+          "end": 189.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 188.95,
+              "end": 189.33
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 189.33,
+          "end": 189.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 189.33,
+              "end": 189.71
+            }
+          ]
+        },
+        {
+          "text": "action,",
+          "start": 189.74,
+          "end": 190.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ac",
+              "start": 189.74,
+              "end": 190.11
+            },
+            {
+              "text": "tion,",
+              "start": 190.11,
+              "end": 190.47
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 190.78,
+          "end": 190.94,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 190.78,
+              "end": 190.98
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 190.94,
+          "end": 191.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 190.94,
+              "end": 191.23
+            }
+          ]
+        },
+        {
+          "text": "attraction",
+          "start": 191.23,
+          "end": 191.99,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "attrac",
+              "start": 191.23,
+              "end": 191.61
+            },
+            {
+              "text": "tion",
+              "start": 191.61,
+              "end": 191.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 192.68,
+      "end": 195.22,
+      "text": "Color my hair, do what I dare",
+      "words": [
+        {
+          "text": "Color",
+          "start": 192.68,
+          "end": 193.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Co",
+              "start": 192.68,
+              "end": 192.96
+            },
+            {
+              "text": "lor",
+              "start": 192.96,
+              "end": 193.23
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 193.23,
+          "end": 193.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 193.23,
+              "end": 193.51
+            }
+          ]
+        },
+        {
+          "text": "hair,",
+          "start": 193.68,
+          "end": 193.94,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hair,",
+              "start": 193.68,
+              "end": 193.94
+            }
+          ]
+        },
+        {
+          "text": "do",
+          "start": 194.14,
+          "end": 194.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "do",
+              "start": 194.14,
+              "end": 194.34
+            }
+          ]
+        },
+        {
+          "text": "what",
+          "start": 194.32,
+          "end": 194.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "what",
+              "start": 194.32,
+              "end": 194.52
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 194.5,
+          "end": 194.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 194.5,
+              "end": 194.78
+            }
+          ]
+        },
+        {
+          "text": "dare",
+          "start": 194.94,
+          "end": 195.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "dare",
+              "start": 194.94,
+              "end": 195.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 195.4,
+      "end": 200.54,
+      "text": "Oh, oh, oh, I wanna be free yeah, to feel the way I feel",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 195.4,
+          "end": 195.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 195.4,
+              "end": 195.65
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 195.9,
+          "end": 195.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 195.9,
+              "end": 196.1
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 195.98,
+          "end": 196.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 195.98,
+              "end": 196.33
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 196.56,
+          "end": 196.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 196.56,
+              "end": 196.81
+            }
+          ]
+        },
+        {
+          "text": "wanna",
+          "start": 196.84,
+          "end": 197.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wan",
+              "start": 196.84,
+              "end": 197.12
+            },
+            {
+              "text": "na",
+              "start": 197.12,
+              "end": 197.39
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 197.52,
+          "end": 197.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 197.52,
+              "end": 197.76
+            }
+          ]
+        },
+        {
+          "text": "free",
+          "start": 197.76,
+          "end": 198.09,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "free",
+              "start": 197.76,
+              "end": 198.09
+            }
+          ]
+        },
+        {
+          "text": "yeah,",
+          "start": 198.16,
+          "end": 198.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "yeah,",
+              "start": 198.16,
+              "end": 198.44
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 198.44,
+          "end": 198.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 198.44,
+              "end": 198.79
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 198.79,
+          "end": 199.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 198.79,
+              "end": 199.14
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 199.14,
+          "end": 199.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 199.14,
+              "end": 199.49
+            }
+          ]
+        },
+        {
+          "text": "way",
+          "start": 199.49,
+          "end": 199.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "way",
+              "start": 199.49,
+              "end": 199.84
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 199.94,
+          "end": 200.19,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 199.94,
+              "end": 200.19
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 200.19,
+          "end": 200.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 200.19,
+              "end": 200.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 200.58,
+      "end": 202.45,
+      "text": "(The way I feel)",
+      "words": [
+        {
+          "text": "(The",
+          "start": 200.58,
+          "end": 200.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "(The",
+              "start": 200.58,
+              "end": 200.98
+            }
+          ]
+        },
+        {
+          "text": "way",
+          "start": 201.28,
+          "end": 201.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "way",
+              "start": 201.28,
+              "end": 201.65
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 201.66,
+          "end": 202.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 201.66,
+              "end": 202.05
+            }
+          ]
+        },
+        {
+          "text": "feel)",
+          "start": 202.05,
+          "end": 202.45,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel)",
+              "start": 202.05,
+              "end": 202.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 203.68,
+      "end": 206.65,
+      "text": "Man, I feel like a woman",
+      "words": [
+        {
+          "text": "Man,",
+          "start": 203.68,
+          "end": 204.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Man,",
+              "start": 203.68,
+              "end": 204.06
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 204.48,
+          "end": 204.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 204.48,
+              "end": 204.75
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 204.75,
+          "end": 205.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 204.75,
+              "end": 205.13
+            }
+          ]
+        },
+        {
+          "text": "like",
+          "start": 205.16,
+          "end": 205.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "like",
+              "start": 205.16,
+              "end": 205.51
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 205.51,
+          "end": 205.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 205.51,
+              "end": 205.89
+            }
+          ]
+        },
+        {
+          "text": "woman",
+          "start": 205.89,
+          "end": 206.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wo",
+              "start": 205.89,
+              "end": 206.27
+            },
+            {
+              "text": "man",
+              "start": 206.27,
+              "end": 206.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 208.3,
+      "end": 208.9,
+      "text": "Hey!",
+      "words": [
+        {
+          "text": "Hey!",
+          "start": 208.3,
+          "end": 208.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Hey!",
+              "start": 208.3,
+              "end": 208.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 214.6,
+      "end": 216.73,
+      "text": "Oh, oh, yeah, yeah",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 214.6,
+          "end": 214.85,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 214.6,
+              "end": 214.85
+            }
+          ]
+        },
+        {
+          "text": "oh,",
+          "start": 215.04,
+          "end": 215.19,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "oh,",
+              "start": 215.04,
+              "end": 215.24
+            }
+          ]
+        },
+        {
+          "text": "yeah,",
+          "start": 215.58,
+          "end": 215.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "yeah,",
+              "start": 215.58,
+              "end": 215.98
+            }
+          ]
+        },
+        {
+          "text": "yeah",
+          "start": 216.48,
+          "end": 216.73,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "yeah",
+              "start": 216.48,
+              "end": 216.73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 216.74,
+      "end": 218.95,
+      "text": "Act totally crazy",
+      "words": [
+        {
+          "text": "Act",
+          "start": 216.74,
+          "end": 217.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Act",
+              "start": 216.74,
+              "end": 217.12
+            }
+          ]
+        },
+        {
+          "text": "totally",
+          "start": 217.14,
+          "end": 218.19,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 217.14,
+              "end": 217.49
+            },
+            {
+              "text": "tal",
+              "start": 217.49,
+              "end": 217.84
+            },
+            {
+              "text": "ly",
+              "start": 217.84,
+              "end": 218.19
+            }
+          ]
+        },
+        {
+          "text": "crazy",
+          "start": 218.19,
+          "end": 218.95,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cra",
+              "start": 218.19,
+              "end": 218.57
+            },
+            {
+              "text": "zy",
+              "start": 218.57,
+              "end": 218.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 220.32,
+      "end": 222.08,
+      "text": "Can you feel it?",
+      "words": [
+        {
+          "text": "Can",
+          "start": 220.32,
+          "end": 220.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Can",
+              "start": 220.32,
+              "end": 220.72
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 220.82,
+          "end": 221.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 220.82,
+              "end": 221.22
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 221.32,
+          "end": 221.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 221.32,
+              "end": 221.68
+            }
+          ]
+        },
+        {
+          "text": "it?",
+          "start": 221.68,
+          "end": 222.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it?",
+              "start": 221.68,
+              "end": 222.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 222.74,
+      "end": 225.48,
+      "text": "Come, come, come on baby",
+      "words": [
+        {
+          "text": "Come,",
+          "start": 222.74,
+          "end": 223.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Come,",
+              "start": 222.74,
+              "end": 223.12
+            }
+          ]
+        },
+        {
+          "text": "come,",
+          "start": 223.22,
+          "end": 223.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "come,",
+              "start": 223.22,
+              "end": 223.6
+            }
+          ]
+        },
+        {
+          "text": "come",
+          "start": 223.7,
+          "end": 224.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "come",
+              "start": 223.7,
+              "end": 224.08
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 224.16,
+          "end": 224.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 224.16,
+              "end": 224.5
+            }
+          ]
+        },
+        {
+          "text": "baby",
+          "start": 224.72,
+          "end": 225.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ba",
+              "start": 224.72,
+              "end": 225.1
+            },
+            {
+              "text": "by",
+              "start": 225.1,
+              "end": 225.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 230.16,
+      "end": 232.48,
+      "text": "I feel like a woman",
+      "words": [
+        {
+          "text": "I",
+          "start": 230.16,
+          "end": 230.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 230.16,
+              "end": 230.54
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 230.62,
+          "end": 230.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 230.62,
+              "end": 230.96
+            }
+          ]
+        },
+        {
+          "text": "like",
+          "start": 231.12,
+          "end": 231.37,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "like",
+              "start": 231.12,
+              "end": 231.37
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 231.4,
+          "end": 231.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 231.4,
+              "end": 231.72
+            }
+          ]
+        },
+        {
+          "text": "woman",
+          "start": 231.72,
+          "end": 232.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wo",
+              "start": 231.72,
+              "end": 232.1
+            },
+            {
+              "text": "man",
+              "start": 232.1,
+              "end": 232.48
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "text": "Let's go girls C'mon I'm goin' out tonight, I'm feelin' alright Gonna let it all hang out Wanna make some noise, really raise my voice Yeah, I wanna scream and shout, uh No inhibitions, make no conditions Get a little outta line I ain't gonna act politically correct I only wanna have a good time The best thing about bein' a woman Is the prerogative to have a little fun and Oh, oh, oh, go totally crazy, forget I'm a lady Men's shirts, short skirts Oh, oh, oh, really go wild, yeah, doin' it in style Oh, oh, oh, get in the action, feel the attraction Color my hair, do what I dare Oh, oh, oh, I wanna be free, yeah, to feel the way I feel Man, I feel like a woman (Hey!) The girls need a break, tonight we're gonna take The chance to get out on the town We don't need romance, we only wanna dance We're gonna let our hair hang down The best thing about bein' a woman Is the prerogative to have a little fun and Oh, oh, oh, go totally crazy, forget I'm a lady Men's shirts, short skirts Oh, oh, oh, really go wild, yeah, doin' it in style Oh, oh, oh, get in the action, feel the attraction Color my hair, do what I dare Oh, oh, oh, I wanna be free, yeah, to feel the way I feel Man, I feel like a woman Uh, huh Oh, yeah The best thing about bein' a woman Is the prerogative to have a little fun, fun, fun Oh, oh, oh, go totally crazy, forget I'm a lady Men's shirts, short skirts Oh, oh, oh, really go wild, yeah, doin' it in style Oh, oh, oh, get in the action, feel the attraction Color my hair, do what I dare Oh, oh, oh, I wanna be free yeah, to feel the way I feel (The way I feel) Man, I feel like a woman Hey! Oh, oh, yeah, yeah Act totally crazy Can you feel it? Come, come, come on baby I feel like a woman"
+}

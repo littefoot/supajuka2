@@ -1,0 +1,2425 @@
+{
+  "language": "en",
+  "duration": 206,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 18.87,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 18.87,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 18.87,
+      "end": 23.55,
+      "text": "Take away the sensation inside",
+      "words": [
+        {
+          "text": "Take",
+          "start": 18.87,
+          "end": 19.19,
+          "probability": 1
+        },
+        {
+          "text": "away",
+          "start": 19.51,
+          "end": 19.92,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 19.51,
+              "end": 19.67
+            },
+            {
+              "text": "way",
+              "start": 19.76,
+              "end": 19.92
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 20.08,
+          "end": 20.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 20.08,
+              "end": 20.23
+            }
+          ]
+        },
+        {
+          "text": "sensation",
+          "start": 20.24,
+          "end": 21.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sen",
+              "start": 20.24,
+              "end": 20.52
+            },
+            {
+              "text": "sa",
+              "start": 20.76,
+              "end": 20.9
+            },
+            {
+              "text": "tion",
+              "start": 21.14,
+              "end": 21.38
+            }
+          ]
+        },
+        {
+          "text": "inside",
+          "start": 21.73,
+          "end": 23.55,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 21.73,
+              "end": 22.06
+            },
+            {
+              "text": "si",
+              "start": 22.14,
+              "end": 23
+            },
+            {
+              "text": "de",
+              "start": 23,
+              "end": 23.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 25.26,
+      "end": 28.65,
+      "text": "Bittersweet migraine in my head",
+      "words": [
+        {
+          "text": "Bittersweet",
+          "start": 25.26,
+          "end": 26.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Bit",
+              "start": 25.26,
+              "end": 25.41
+            },
+            {
+              "text": "ters",
+              "start": 25.45,
+              "end": 25.87
+            },
+            {
+              "text": "weet",
+              "start": 25.89,
+              "end": 26.51
+            }
+          ]
+        },
+        {
+          "text": "migraine",
+          "start": 26.63,
+          "end": 27.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "mig",
+              "start": 26.63,
+              "end": 26.84
+            },
+            {
+              "text": "rai",
+              "start": 27.03,
+              "end": 27.23
+            },
+            {
+              "text": "ne",
+              "start": 27.27,
+              "end": 27.48
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 27.5,
+          "end": 28.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 27.5,
+              "end": 28.06
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 28.13,
+          "end": 28.29,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 28.13,
+              "end": 28.29
+            }
+          ]
+        },
+        {
+          "text": "head",
+          "start": 28.34,
+          "end": 28.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "head",
+              "start": 28.34,
+              "end": 28.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 31.11,
+      "end": 36.01,
+      "text": "It's like a throbbing toothache of the mind",
+      "words": [
+        {
+          "text": "It's",
+          "start": 31.11,
+          "end": 31.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "It's",
+              "start": 31.11,
+              "end": 31.57
+            }
+          ]
+        },
+        {
+          "text": "like",
+          "start": 31.57,
+          "end": 31.94,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 32.1,
+          "end": 32.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 32.1,
+              "end": 32.22
+            }
+          ]
+        },
+        {
+          "text": "throbbing",
+          "start": 32.32,
+          "end": 32.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "throb",
+              "start": 32.32,
+              "end": 32.61
+            },
+            {
+              "text": "bing",
+              "start": 32.67,
+              "end": 32.9
+            }
+          ]
+        },
+        {
+          "text": "toothache",
+          "start": 32.9,
+          "end": 33.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "toot",
+              "start": 32.9,
+              "end": 33.18
+            },
+            {
+              "text": "hac",
+              "start": 33.18,
+              "end": 33.46
+            },
+            {
+              "text": "he",
+              "start": 33.46,
+              "end": 33.62
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 33.66,
+          "end": 33.93,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 33.66,
+              "end": 33.93
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 34.26,
+          "end": 34.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 34.26,
+              "end": 34.54
+            }
+          ]
+        },
+        {
+          "text": "mind",
+          "start": 34.64,
+          "end": 36.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "mind",
+              "start": 34.64,
+              "end": 36.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 37.74,
+      "end": 41.56,
+      "text": "I can't take this feeling anymore",
+      "words": [
+        {
+          "text": "I",
+          "start": 37.74,
+          "end": 37.86,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 38.02,
+          "end": 38.31,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "can't",
+              "start": 38.02,
+              "end": 38.31
+            }
+          ]
+        },
+        {
+          "text": "take",
+          "start": 38.34,
+          "end": 38.7,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "take",
+              "start": 38.34,
+              "end": 38.7
+            }
+          ]
+        },
+        {
+          "text": "this",
+          "start": 38.82,
+          "end": 39.18,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "this",
+              "start": 38.82,
+              "end": 39.18
+            }
+          ]
+        },
+        {
+          "text": "feeling",
+          "start": 39.19,
+          "end": 39.94,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fee",
+              "start": 39.19,
+              "end": 39.51
+            },
+            {
+              "text": "ling",
+              "start": 39.66,
+              "end": 39.94
+            }
+          ]
+        },
+        {
+          "text": "anymore",
+          "start": 39.96,
+          "end": 41.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 39.96,
+              "end": 40.28
+            },
+            {
+              "text": "ny",
+              "start": 40.34,
+              "end": 40.49
+            },
+            {
+              "text": "mo",
+              "start": 40.81,
+              "end": 41.14
+            },
+            {
+              "text": "re",
+              "start": 41.17,
+              "end": 41.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 44.78,
+      "end": 47.97,
+      "text": "Drain the pressure from the swelling",
+      "words": [
+        {
+          "text": "Drain",
+          "start": 44.78,
+          "end": 45.19,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Drain",
+              "start": 44.78,
+              "end": 45.19
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 45.26,
+          "end": 45.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 45.26,
+              "end": 45.39
+            }
+          ]
+        },
+        {
+          "text": "pressure",
+          "start": 45.39,
+          "end": 46.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "pres",
+              "start": 45.39,
+              "end": 45.61
+            },
+            {
+              "text": "su",
+              "start": 45.71,
+              "end": 45.92
+            },
+            {
+              "text": "re",
+              "start": 45.98,
+              "end": 46.2
+            }
+          ]
+        },
+        {
+          "text": "from",
+          "start": 46.24,
+          "end": 46.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "from",
+              "start": 46.24,
+              "end": 46.57
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 46.63,
+          "end": 46.87,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 46.63,
+              "end": 46.87
+            }
+          ]
+        },
+        {
+          "text": "swelling",
+          "start": 47.01,
+          "end": 47.97,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "swel",
+              "start": 47.01,
+              "end": 47.34
+            },
+            {
+              "text": "ling",
+              "start": 47.65,
+              "end": 47.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 50.96,
+      "end": 54.3,
+      "text": "This sensation's overwhelming",
+      "words": [
+        {
+          "text": "This",
+          "start": 50.96,
+          "end": 51.26,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "This",
+              "start": 50.96,
+              "end": 51.26
+            }
+          ]
+        },
+        {
+          "text": "sensation's",
+          "start": 51.33,
+          "end": 52.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sen",
+              "start": 51.33,
+              "end": 51.55
+            },
+            {
+              "text": "sa",
+              "start": 51.63,
+              "end": 51.93
+            },
+            {
+              "text": "tion's",
+              "start": 52.08,
+              "end": 52.44
+            }
+          ]
+        },
+        {
+          "text": "overwhelming",
+          "start": 52.48,
+          "end": 54.3,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ov",
+              "start": 52.48,
+              "end": 52.74
+            },
+            {
+              "text": "erw",
+              "start": 52.83,
+              "end": 53.27
+            },
+            {
+              "text": "hel",
+              "start": 53.29,
+              "end": 53.68
+            },
+            {
+              "text": "ming",
+              "start": 53.75,
+              "end": 54.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 56.47,
+      "end": 59,
+      "text": "Give me a long kiss goodnight",
+      "words": [
+        {
+          "text": "Give",
+          "start": 56.47,
+          "end": 56.89,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 57.11,
+          "end": 57.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 57.11,
+              "end": 57.32
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 57.41,
+          "end": 57.53,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 57.41,
+              "end": 57.53
+            }
+          ]
+        },
+        {
+          "text": "long",
+          "start": 57.56,
+          "end": 57.83,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "long",
+              "start": 57.56,
+              "end": 57.83
+            }
+          ]
+        },
+        {
+          "text": "kiss",
+          "start": 57.93,
+          "end": 58.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "kiss",
+              "start": 57.93,
+              "end": 58.34
+            }
+          ]
+        },
+        {
+          "text": "goodnight",
+          "start": 58.36,
+          "end": 59,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 58.36,
+              "end": 58.53
+            },
+            {
+              "text": "night",
+              "start": 58.67,
+              "end": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 59.13,
+      "end": 62.28,
+      "text": "And everything'll be alright",
+      "words": [
+        {
+          "text": "And",
+          "start": 59.13,
+          "end": 59.43,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 59.13,
+              "end": 59.43
+            }
+          ]
+        },
+        {
+          "text": "everything'll",
+          "start": 59.63,
+          "end": 60.85,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ev",
+              "start": 59.63,
+              "end": 59.85
+            },
+            {
+              "text": "er",
+              "start": 59.85,
+              "end": 60.14
+            },
+            {
+              "text": "yt",
+              "start": 60.14,
+              "end": 60.35
+            },
+            {
+              "text": "hing'll",
+              "start": 60.48,
+              "end": 60.85
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 61,
+          "end": 61.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 61,
+              "end": 61.13
+            }
+          ]
+        },
+        {
+          "text": "alright",
+          "start": 61.2,
+          "end": 62.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "al",
+              "start": 61.2,
+              "end": 61.44
+            },
+            {
+              "text": "right",
+              "start": 61.7,
+              "end": 62.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 62.64,
+      "end": 66.28,
+      "text": "Tell me that I won't feel a thing",
+      "words": [
+        {
+          "text": "Tell",
+          "start": 62.64,
+          "end": 63.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Tell",
+              "start": 62.64,
+              "end": 63.17
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 63.23,
+          "end": 63.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 63.23,
+              "end": 63.62
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 63.62,
+          "end": 64.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 63.62,
+              "end": 64.32
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 64.32,
+          "end": 64.53,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 64.32,
+              "end": 64.53
+            }
+          ]
+        },
+        {
+          "text": "won't",
+          "start": 64.53,
+          "end": 64.75,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "won't",
+              "start": 64.53,
+              "end": 64.75
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 64.83,
+          "end": 65.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 64.83,
+              "end": 65.32
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 65.32,
+          "end": 65.45,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 65.32,
+              "end": 65.45
+            }
+          ]
+        },
+        {
+          "text": "thing",
+          "start": 65.63,
+          "end": 66.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "thing",
+              "start": 65.63,
+              "end": 66.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 67.35,
+      "end": 69.04,
+      "text": "So give me Novacaine",
+      "words": [
+        {
+          "text": "So",
+          "start": 67.35,
+          "end": 67.55,
+          "probability": 1
+        },
+        {
+          "text": "give",
+          "start": 67.55,
+          "end": 67.95,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 67.95,
+          "end": 68.15,
+          "probability": 1
+        },
+        {
+          "text": "Novacaine",
+          "start": 68.15,
+          "end": 69.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.04,
+      "end": 81.35,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 69.04,
+          "end": 81.35,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 81.48,
+      "end": 85.96,
+      "text": "Out of body and out of mind",
+      "words": [
+        {
+          "text": "Out",
+          "start": 81.48,
+          "end": 81.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Out",
+              "start": 81.48,
+              "end": 81.9
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 82.04,
+          "end": 82.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 82.04,
+              "end": 82.17
+            }
+          ]
+        },
+        {
+          "text": "body",
+          "start": 82.27,
+          "end": 82.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bo",
+              "start": 82.27,
+              "end": 82.33
+            },
+            {
+              "text": "dy",
+              "start": 82.48,
+              "end": 82.76
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 82.92,
+          "end": 83.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 82.92,
+              "end": 83.34
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 83.66,
+          "end": 84.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 83.66,
+              "end": 84.08
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 84.33,
+          "end": 84.61,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 84.33,
+              "end": 84.61
+            }
+          ]
+        },
+        {
+          "text": "mind",
+          "start": 84.66,
+          "end": 85.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "mind",
+              "start": 84.66,
+              "end": 85.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 87.67,
+      "end": 91.38,
+      "text": "Kiss the demons out of my dreams",
+      "words": [
+        {
+          "text": "Kiss",
+          "start": 87.67,
+          "end": 87.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Kiss",
+              "start": 87.67,
+              "end": 87.96
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 88.33,
+          "end": 88.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 88.33,
+              "end": 88.52
+            }
+          ]
+        },
+        {
+          "text": "demons",
+          "start": 88.52,
+          "end": 88.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "de",
+              "start": 88.52,
+              "end": 88.81
+            },
+            {
+              "text": "mons",
+              "start": 88.81,
+              "end": 88.98
+            }
+          ]
+        },
+        {
+          "text": "out",
+          "start": 89.14,
+          "end": 89.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "out",
+              "start": 89.14,
+              "end": 89.72
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 89.92,
+          "end": 90.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 89.92,
+              "end": 90.5
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 90.5,
+          "end": 90.7,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 90.5,
+              "end": 90.7
+            }
+          ]
+        },
+        {
+          "text": "dreams",
+          "start": 90.7,
+          "end": 91.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "dreams",
+              "start": 90.7,
+              "end": 91.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 93.63,
+      "end": 98.63,
+      "text": "I get the funny feeling that's alright",
+      "words": [
+        {
+          "text": "I",
+          "start": 93.63,
+          "end": 93.95,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 93.63,
+              "end": 93.95
+            }
+          ]
+        },
+        {
+          "text": "get",
+          "start": 94,
+          "end": 94.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "get",
+              "start": 94,
+              "end": 94.46
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 94.59,
+          "end": 94.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 94.59,
+              "end": 94.84
+            }
+          ]
+        },
+        {
+          "text": "funny",
+          "start": 94.84,
+          "end": 95.27,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fun",
+              "start": 94.84,
+              "end": 95.04
+            },
+            {
+              "text": "ny",
+              "start": 95.04,
+              "end": 95.27
+            }
+          ]
+        },
+        {
+          "text": "feeling",
+          "start": 95.43,
+          "end": 96.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fee",
+              "start": 95.43,
+              "end": 95.73
+            },
+            {
+              "text": "ling",
+              "start": 95.73,
+              "end": 96.05
+            }
+          ]
+        },
+        {
+          "text": "that's",
+          "start": 96.16,
+          "end": 96.71,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "that's",
+              "start": 96.16,
+              "end": 96.71
+            }
+          ]
+        },
+        {
+          "text": "alright",
+          "start": 96.78,
+          "end": 98.63,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "al",
+              "start": 96.78,
+              "end": 96.96
+            },
+            {
+              "text": "right",
+              "start": 97.03,
+              "end": 98.63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 100.26,
+      "end": 104.1,
+      "text": "Jimmy says it's better than here",
+      "words": [
+        {
+          "text": "Jimmy",
+          "start": 100.26,
+          "end": 100.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Jim",
+              "start": 100.26,
+              "end": 100.35
+            },
+            {
+              "text": "my",
+              "start": 100.57,
+              "end": 100.78
+            }
+          ]
+        },
+        {
+          "text": "says",
+          "start": 100.88,
+          "end": 101.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "says",
+              "start": 100.88,
+              "end": 101.04
+            }
+          ]
+        },
+        {
+          "text": "it's",
+          "start": 101.35,
+          "end": 101.69,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "it's",
+              "start": 101.35,
+              "end": 101.69
+            }
+          ]
+        },
+        {
+          "text": "better",
+          "start": 101.75,
+          "end": 102.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bet",
+              "start": 101.75,
+              "end": 102.01
+            },
+            {
+              "text": "ter",
+              "start": 102.14,
+              "end": 102.42
+            }
+          ]
+        },
+        {
+          "text": "than",
+          "start": 102.47,
+          "end": 103.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "than",
+              "start": 102.47,
+              "end": 103.28
+            }
+          ]
+        },
+        {
+          "text": "here",
+          "start": 103.33,
+          "end": 104.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "here",
+              "start": 103.33,
+              "end": 104.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 105.18,
+      "end": 106.28,
+      "text": "I'll tell you why",
+      "words": [
+        {
+          "text": "I'll",
+          "start": 105.18,
+          "end": 105.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I'll",
+              "start": 105.18,
+              "end": 105.42
+            }
+          ]
+        },
+        {
+          "text": "tell",
+          "start": 105.5,
+          "end": 105.83,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "tell",
+              "start": 105.5,
+              "end": 105.83
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start": 105.96,
+          "end": 106,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "you",
+              "start": 105.96,
+              "end": 106
+            }
+          ]
+        },
+        {
+          "text": "why",
+          "start": 106.11,
+          "end": 106.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "why",
+              "start": 106.11,
+              "end": 106.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 107.32,
+      "end": 110.17,
+      "text": "Drain the pressure from the swelling",
+      "words": [
+        {
+          "text": "Drain",
+          "start": 107.32,
+          "end": 107.73,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Drain",
+              "start": 107.32,
+              "end": 107.73
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 107.73,
+          "end": 107.95,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 107.73,
+              "end": 107.95
+            }
+          ]
+        },
+        {
+          "text": "pressure",
+          "start": 107.95,
+          "end": 108.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "pres",
+              "start": 107.95,
+              "end": 108.17
+            },
+            {
+              "text": "su",
+              "start": 108.27,
+              "end": 108.48
+            },
+            {
+              "text": "re",
+              "start": 108.53,
+              "end": 108.6
+            }
+          ]
+        },
+        {
+          "text": "from",
+          "start": 108.68,
+          "end": 109.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "from",
+              "start": 108.68,
+              "end": 109.05
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 109.13,
+          "end": 109.37,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 109.13,
+              "end": 109.37
+            }
+          ]
+        },
+        {
+          "text": "swelling",
+          "start": 109.4,
+          "end": 110.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "swel",
+              "start": 109.4,
+              "end": 109.73
+            },
+            {
+              "text": "ling",
+              "start": 109.85,
+              "end": 110.17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 113.36,
+      "end": 116.7,
+      "text": "This sensation's overwhelming",
+      "words": [
+        {
+          "text": "This",
+          "start": 113.36,
+          "end": 113.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "This",
+              "start": 113.36,
+              "end": 113.78
+            }
+          ]
+        },
+        {
+          "text": "sensation's",
+          "start": 113.81,
+          "end": 114.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sen",
+              "start": 113.81,
+              "end": 114.09
+            },
+            {
+              "text": "sa",
+              "start": 114.16,
+              "end": 114.33
+            },
+            {
+              "text": "tion's",
+              "start": 114.35,
+              "end": 114.81
+            }
+          ]
+        },
+        {
+          "text": "overwhelming",
+          "start": 114.88,
+          "end": 116.7,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ov",
+              "start": 114.88,
+              "end": 115.25
+            },
+            {
+              "text": "erw",
+              "start": 115.39,
+              "end": 115.62
+            },
+            {
+              "text": "hel",
+              "start": 115.7,
+              "end": 116.12
+            },
+            {
+              "text": "ming",
+              "start": 116.12,
+              "end": 116.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 118.98,
+      "end": 121.47,
+      "text": "Give me a long kiss goodnight",
+      "words": [
+        {
+          "text": "Give",
+          "start": 118.98,
+          "end": 119.39,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 119.39,
+          "end": 119.6,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 119.6,
+          "end": 119.72,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 119.72,
+          "end": 120.13,
+          "probability": 1
+        },
+        {
+          "text": "kiss",
+          "start": 120.13,
+          "end": 120.54,
+          "probability": 1
+        },
+        {
+          "text": "goodnight",
+          "start": 120.54,
+          "end": 121.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 121.63,
+      "end": 124.54,
+      "text": "And everything'll be alright",
+      "words": [
+        {
+          "text": "And",
+          "start": 121.63,
+          "end": 121.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "And",
+              "start": 121.63,
+              "end": 121.9
+            }
+          ]
+        },
+        {
+          "text": "everything'll",
+          "start": 122.12,
+          "end": 123.45,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ev",
+              "start": 122.12,
+              "end": 122.37
+            },
+            {
+              "text": "er",
+              "start": 122.45,
+              "end": 122.68
+            },
+            {
+              "text": "yt",
+              "start": 122.68,
+              "end": 122.77
+            },
+            {
+              "text": "hing'll",
+              "start": 122.85,
+              "end": 123.45
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 123.48,
+          "end": 123.73,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 123.48,
+              "end": 123.73
+            }
+          ]
+        },
+        {
+          "text": "alright",
+          "start": 123.78,
+          "end": 124.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "al",
+              "start": 123.78,
+              "end": 123.97
+            },
+            {
+              "text": "right",
+              "start": 124.1,
+              "end": 124.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 125.19,
+      "end": 128.72,
+      "text": "Tell me that I won't feel a thing",
+      "words": [
+        {
+          "text": "Tell",
+          "start": 125.19,
+          "end": 125.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Tell",
+              "start": 125.19,
+              "end": 125.36
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 125.73,
+          "end": 125.91,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 125.73,
+              "end": 125.91
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 125.97,
+          "end": 126.26,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 125.97,
+              "end": 126.26
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 126.5,
+          "end": 126.89,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 126.5,
+              "end": 126.89
+            }
+          ]
+        },
+        {
+          "text": "won't",
+          "start": 127.03,
+          "end": 127.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "won't",
+              "start": 127.03,
+              "end": 127.34
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 127.34,
+          "end": 127.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 127.34,
+              "end": 127.86
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 127.86,
+          "end": 127.99,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 127.86,
+              "end": 127.99
+            }
+          ]
+        },
+        {
+          "text": "thing",
+          "start": 128.07,
+          "end": 128.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "thing",
+              "start": 128.07,
+              "end": 128.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 129.57,
+      "end": 131.9,
+      "text": "So give me Novacaine",
+      "words": [
+        {
+          "text": "So",
+          "start": 129.57,
+          "end": 129.74,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "So",
+              "start": 129.57,
+              "end": 129.74
+            }
+          ]
+        },
+        {
+          "text": "give",
+          "start": 129.82,
+          "end": 130.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "give",
+              "start": 129.82,
+              "end": 130.06
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 130.22,
+          "end": 130.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 130.22,
+              "end": 130.39
+            }
+          ]
+        },
+        {
+          "text": "Novacaine",
+          "start": 130.59,
+          "end": 131.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "No",
+              "start": 130.59,
+              "end": 130.78
+            },
+            {
+              "text": "va",
+              "start": 130.8,
+              "end": 131.02
+            },
+            {
+              "text": "cai",
+              "start": 131.1,
+              "end": 131.48
+            },
+            {
+              "text": "ne",
+              "start": 131.58,
+              "end": 131.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 136.26,
+      "end": 137.94,
+      "text": "Oh, Novacaine",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 136.26,
+          "end": 136.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Oh,",
+              "start": 136.26,
+              "end": 136.56
+            }
+          ]
+        },
+        {
+          "text": "Novacaine",
+          "start": 136.6,
+          "end": 137.94,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "No",
+              "start": 136.6,
+              "end": 136.96
+            },
+            {
+              "text": "va",
+              "start": 137,
+              "end": 137.11
+            },
+            {
+              "text": "cai",
+              "start": 137.16,
+              "end": 137.4
+            },
+            {
+              "text": "ne",
+              "start": 137.4,
+              "end": 137.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 138.09,
+      "end": 162.42,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 138.09,
+          "end": 162.42,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 163.05,
+      "end": 165.99,
+      "text": "Drain the pressure from the swelling",
+      "words": [
+        {
+          "text": "Drain",
+          "start": 163.05,
+          "end": 163.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Drain",
+              "start": 163.05,
+              "end": 163.46
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 163.53,
+          "end": 163.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 163.53,
+              "end": 163.65
+            }
+          ]
+        },
+        {
+          "text": "pressure",
+          "start": 163.72,
+          "end": 164.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "pres",
+              "start": 163.72,
+              "end": 163.94
+            },
+            {
+              "text": "su",
+              "start": 164.08,
+              "end": 164.24
+            },
+            {
+              "text": "re",
+              "start": 164.24,
+              "end": 164.39
+            }
+          ]
+        },
+        {
+          "text": "from",
+          "start": 164.49,
+          "end": 164.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "from",
+              "start": 164.49,
+              "end": 164.82
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 164.85,
+          "end": 165.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 164.85,
+              "end": 165.01
+            }
+          ]
+        },
+        {
+          "text": "swelling",
+          "start": 165.16,
+          "end": 165.99,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "swel",
+              "start": 165.16,
+              "end": 165.49
+            },
+            {
+              "text": "ling",
+              "start": 165.67,
+              "end": 165.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 169.25,
+      "end": 172.6,
+      "text": "This sensation's overwhelming",
+      "words": [
+        {
+          "text": "This",
+          "start": 169.25,
+          "end": 169.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "This",
+              "start": 169.25,
+              "end": 169.42
+            }
+          ]
+        },
+        {
+          "text": "sensation's",
+          "start": 169.42,
+          "end": 170.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sen",
+              "start": 169.42,
+              "end": 169.75
+            },
+            {
+              "text": "sa",
+              "start": 169.76,
+              "end": 170.15
+            },
+            {
+              "text": "tion's",
+              "start": 170.28,
+              "end": 170.65
+            }
+          ]
+        },
+        {
+          "text": "overwhelming",
+          "start": 170.74,
+          "end": 172.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ov",
+              "start": 170.74,
+              "end": 171.03
+            },
+            {
+              "text": "erw",
+              "start": 171.16,
+              "end": 171.52
+            },
+            {
+              "text": "hel",
+              "start": 171.55,
+              "end": 171.79
+            },
+            {
+              "text": "ming",
+              "start": 171.93,
+              "end": 172.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 174.79,
+      "end": 177.29,
+      "text": "Give me a long kiss goodnight",
+      "words": [
+        {
+          "text": "Give",
+          "start": 174.79,
+          "end": 175.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Give",
+              "start": 174.79,
+              "end": 175.17
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start": 175.34,
+          "end": 175.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me",
+              "start": 175.34,
+              "end": 175.47
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 175.59,
+          "end": 175.79,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 175.59,
+              "end": 175.79
+            }
+          ]
+        },
+        {
+          "text": "long",
+          "start": 175.85,
+          "end": 175.99,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "long",
+              "start": 175.85,
+              "end": 175.99
+            }
+          ]
+        },
+        {
+          "text": "kiss",
+          "start": 176.1,
+          "end": 176.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "kiss",
+              "start": 176.1,
+              "end": 176.39
+            }
+          ]
+        },
+        {
+          "text": "goodnight",
+          "start": 176.51,
+          "end": 177.29,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "good",
+              "start": 176.51,
+              "end": 176.84
+            },
+            {
+              "text": "night",
+              "start": 176.92,
+              "end": 177.29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 177.51,
+      "end": 180.32,
+      "text": "And everything'll be alright",
+      "words": [
+        {
+          "text": "And",
+          "start": 177.51,
+          "end": 177.71,
+          "probability": 1
+        },
+        {
+          "text": "everything'll",
+          "start": 177.88,
+          "end": 179,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ev",
+              "start": 177.88,
+              "end": 178.13
+            },
+            {
+              "text": "er",
+              "start": 178.39,
+              "end": 178.45
+            },
+            {
+              "text": "yt",
+              "start": 178.51,
+              "end": 178.59
+            },
+            {
+              "text": "hing'll",
+              "start": 178.7,
+              "end": 179
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start": 179.26,
+          "end": 179.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 179.26,
+              "end": 179.52
+            }
+          ]
+        },
+        {
+          "text": "alright",
+          "start": 179.63,
+          "end": 180.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "al",
+              "start": 179.63,
+              "end": 179.87
+            },
+            {
+              "text": "right",
+              "start": 179.96,
+              "end": 180.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 180.94,
+      "end": 184.46,
+      "text": "Tell me, Jimmy, I won't feel a thing",
+      "words": [
+        {
+          "text": "Tell",
+          "start": 180.94,
+          "end": 181.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Tell",
+              "start": 180.94,
+              "end": 181.54
+            }
+          ]
+        },
+        {
+          "text": "me,",
+          "start": 181.54,
+          "end": 181.74,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "me,",
+              "start": 181.54,
+              "end": 181.74
+            }
+          ]
+        },
+        {
+          "text": "Jimmy,",
+          "start": 181.74,
+          "end": 182.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Jim",
+              "start": 181.74,
+              "end": 182.01
+            },
+            {
+              "text": "my,",
+              "start": 182.01,
+              "end": 182.33
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start": 182.33,
+          "end": 182.45,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "I",
+              "start": 182.33,
+              "end": 182.45
+            }
+          ]
+        },
+        {
+          "text": "won't",
+          "start": 182.7,
+          "end": 183.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "won't",
+              "start": 182.7,
+              "end": 183.02
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "start": 183.12,
+          "end": 183.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "feel",
+              "start": 183.12,
+              "end": 183.58
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 183.66,
+          "end": 183.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 183.66,
+              "end": 183.78
+            }
+          ]
+        },
+        {
+          "text": "thing",
+          "start": 183.88,
+          "end": 184.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "thing",
+              "start": 183.88,
+              "end": 184.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 185.35,
+      "end": 188.13,
+      "text": "So give me Novacaine",
+      "words": [
+        {
+          "text": "So",
+          "start": 185.35,
+          "end": 185.55,
+          "probability": 1
+        },
+        {
+          "text": "give",
+          "start": 185.55,
+          "end": 185.95,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 185.95,
+          "end": 186.15,
+          "probability": 1
+        },
+        {
+          "text": "Novacaine",
+          "start": 186.43,
+          "end": 188.13,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "No",
+              "start": 186.43,
+              "end": 186.63
+            },
+            {
+              "text": "va",
+              "start": 186.66,
+              "end": 186.9
+            },
+            {
+              "text": "cai",
+              "start": 186.94,
+              "end": 187.39
+            },
+            {
+              "text": "ne",
+              "start": 187.4,
+              "end": 188.13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "text": "Take away the sensation inside Bittersweet migraine in my head It's like a throbbing toothache of the mind I can't take this feeling anymore Drain the pressure from the swelling This sensation's overwhelming Give me a long kiss goodnight And everything'll be alright Tell me that I won't feel a thing So give me Novacaine Out of body and out of mind Kiss the demons out of my dreams I get the funny feeling that's alright Jimmy says it's better than here I'll tell you why Drain the pressure from the swelling This sensation's overwhelming Give me a long kiss goodnight And everything'll be alright Tell me that I won't feel a thing So give me Novacaine Oh, Novacaine Drain the pressure from the swelling This sensation's overwhelming Give me a long kiss goodnight And everything'll be alright Tell me, Jimmy, I won't feel a thing So give me Novacaine"
+}

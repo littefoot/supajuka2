@@ -1,0 +1,1445 @@
+{
+  "language": "en",
+  "duration": 252,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 10.57,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 10.57,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 10.57,
+      "end": 12.76,
+      "text": "Let me take you down",
+      "words": [
+        {
+          "text": "Let",
+          "start": 10.57,
+          "end": 10.98,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 10.98,
+          "end": 11.25,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 11.25,
+          "end": 11.8,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 11.8,
+          "end": 12.21,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 12.21,
+          "end": 12.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 13.01,
+      "end": 16.42,
+      "text": "'Cause I'm going to strawberry fields",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 13.01,
+          "end": 13.65,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 13.65,
+          "end": 13.97,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 13.97,
+          "end": 14.5,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 14.5,
+          "end": 14.71,
+          "probability": 1
+        },
+        {
+          "text": "strawberry",
+          "start": 14.71,
+          "end": 15.78,
+          "probability": 1
+        },
+        {
+          "text": "fields",
+          "start": 15.78,
+          "end": 16.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 19.55,
+      "end": 21.07,
+      "text": "Nothing is real",
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 19.55,
+          "end": 20.37,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 20.37,
+          "end": 20.6,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 20.6,
+          "end": 21.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 23.88,
+      "end": 26.92,
+      "text": "And nothing to get hung about",
+      "words": [
+        {
+          "text": "And",
+          "start": 23.88,
+          "end": 24.26,
+          "probability": 1
+        },
+        {
+          "text": "nothing",
+          "start": 24.26,
+          "end": 25.15,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 25.15,
+          "end": 25.4,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 25.4,
+          "end": 25.78,
+          "probability": 1
+        },
+        {
+          "text": "hung",
+          "start": 25.78,
+          "end": 26.29,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 26.29,
+          "end": 26.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 28.63,
+      "end": 31.29,
+      "text": "Strawberry fields forever",
+      "words": [
+        {
+          "text": "Strawberry",
+          "start": 28.63,
+          "end": 29.79,
+          "probability": 1
+        },
+        {
+          "text": "fields",
+          "start": 29.79,
+          "end": 30.48,
+          "probability": 1
+        },
+        {
+          "text": "forever",
+          "start": 30.48,
+          "end": 31.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 33.79,
+      "end": 37.22,
+      "text": "Living is easy with eyes closed",
+      "words": [
+        {
+          "text": "Living",
+          "start": 33.79,
+          "end": 34.58,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 34.58,
+          "end": 34.84,
+          "probability": 1
+        },
+        {
+          "text": "easy",
+          "start": 34.84,
+          "end": 35.37,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 35.37,
+          "end": 35.9,
+          "probability": 1
+        },
+        {
+          "text": "eyes",
+          "start": 35.9,
+          "end": 36.43,
+          "probability": 1
+        },
+        {
+          "text": "closed",
+          "start": 36.43,
+          "end": 37.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 38.95,
+      "end": 41.98,
+      "text": "Misunderstanding all you see",
+      "words": [
+        {
+          "text": "Misunderstanding",
+          "start": 38.95,
+          "end": 40.9,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 40.9,
+          "end": 41.26,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 41.26,
+          "end": 41.62,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 41.62,
+          "end": 41.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.76,
+      "end": 46.18,
+      "text": "It's getting hard to be someone",
+      "words": [
+        {
+          "text": "It's",
+          "start": 42.76,
+          "end": 43.29,
+          "probability": 1
+        },
+        {
+          "text": "getting",
+          "start": 43.29,
+          "end": 44.21,
+          "probability": 1
+        },
+        {
+          "text": "hard",
+          "start": 44.21,
+          "end": 44.74,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 44.74,
+          "end": 45,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 45,
+          "end": 45.26,
+          "probability": 1
+        },
+        {
+          "text": "someone",
+          "start": 45.26,
+          "end": 46.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 47.61,
+      "end": 49.74,
+      "text": "But it all works out",
+      "words": [
+        {
+          "text": "But",
+          "start": 47.61,
+          "end": 48.01,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 48.01,
+          "end": 48.28,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 48.28,
+          "end": 48.68,
+          "probability": 1
+        },
+        {
+          "text": "works",
+          "start": 48.68,
+          "end": 49.34,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 49.34,
+          "end": 49.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 49.98,
+      "end": 52.66,
+      "text": "It doesn't matter much to me",
+      "words": [
+        {
+          "text": "It",
+          "start": 49.98,
+          "end": 50.21,
+          "probability": 1
+        },
+        {
+          "text": "doesn't",
+          "start": 50.21,
+          "end": 51.03,
+          "probability": 1
+        },
+        {
+          "text": "matter",
+          "start": 51.03,
+          "end": 51.73,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 51.73,
+          "end": 52.2,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 52.2,
+          "end": 52.43,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 52.43,
+          "end": 52.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 54.87,
+      "end": 57.15,
+      "text": "Let me take you down",
+      "words": [
+        {
+          "text": "Let",
+          "start": 54.87,
+          "end": 55.3,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 55.3,
+          "end": 55.58,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 55.58,
+          "end": 56.15,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 56.15,
+          "end": 56.58,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 56.58,
+          "end": 57.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 58.79,
+      "end": 62.2,
+      "text": "'Cause I'm going to strawberry fields",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 58.79,
+          "end": 59.43,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 59.43,
+          "end": 59.75,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 59.75,
+          "end": 60.28,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 60.28,
+          "end": 60.49,
+          "probability": 1
+        },
+        {
+          "text": "strawberry",
+          "start": 60.49,
+          "end": 61.56,
+          "probability": 1
+        },
+        {
+          "text": "fields",
+          "start": 61.56,
+          "end": 62.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 65.01,
+      "end": 66.53,
+      "text": "Nothing is real",
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 65.01,
+          "end": 65.83,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 65.83,
+          "end": 66.06,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 66.06,
+          "end": 66.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.9,
+      "end": 72.29,
+      "text": "And nothing to get hung about",
+      "words": [
+        {
+          "text": "And",
+          "start": 69.9,
+          "end": 70.2,
+          "probability": 1
+        },
+        {
+          "text": "nothing",
+          "start": 70.2,
+          "end": 70.89,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 70.89,
+          "end": 71.09,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 71.09,
+          "end": 71.39,
+          "probability": 1
+        },
+        {
+          "text": "hung",
+          "start": 71.39,
+          "end": 71.79,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 71.79,
+          "end": 72.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 72.53,
+      "end": 75.19,
+      "text": "Strawberry fields forever",
+      "words": [
+        {
+          "text": "Strawberry",
+          "start": 72.53,
+          "end": 73.69,
+          "probability": 1
+        },
+        {
+          "text": "fields",
+          "start": 73.69,
+          "end": 74.38,
+          "probability": 1
+        },
+        {
+          "text": "forever",
+          "start": 74.38,
+          "end": 75.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.09,
+      "end": 84.68,
+      "text": "No one I think is in my tree",
+      "words": [
+        {
+          "text": "No",
+          "start": 81.09,
+          "end": 81.43,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 81.43,
+          "end": 81.94,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 81.94,
+          "end": 82.11,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 82.11,
+          "end": 82.97,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 82.97,
+          "end": 83.31,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 83.31,
+          "end": 83.65,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 83.65,
+          "end": 83.99,
+          "probability": 1
+        },
+        {
+          "text": "tree",
+          "start": 83.99,
+          "end": 84.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 86.16,
+      "end": 89.76,
+      "text": "I mean, it must be high or low",
+      "words": [
+        {
+          "text": "I",
+          "start": 86.16,
+          "end": 86.32,
+          "probability": 1
+        },
+        {
+          "text": "mean,",
+          "start": 86.32,
+          "end": 87.1,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 87.1,
+          "end": 87.41,
+          "probability": 1
+        },
+        {
+          "text": "must",
+          "start": 87.41,
+          "end": 88.04,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 88.04,
+          "end": 88.35,
+          "probability": 1
+        },
+        {
+          "text": "high",
+          "start": 88.35,
+          "end": 88.98,
+          "probability": 1
+        },
+        {
+          "text": "or",
+          "start": 88.98,
+          "end": 89.29,
+          "probability": 1
+        },
+        {
+          "text": "low",
+          "start": 89.29,
+          "end": 89.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 90.92,
+      "end": 94.09,
+      "text": "That is, you can't, you know, tune in",
+      "words": [
+        {
+          "text": "That",
+          "start": 90.92,
+          "end": 91.34,
+          "probability": 1
+        },
+        {
+          "text": "is,",
+          "start": 91.34,
+          "end": 91.66,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 91.66,
+          "end": 91.98,
+          "probability": 1
+        },
+        {
+          "text": "can't,",
+          "start": 91.98,
+          "end": 92.61,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 92.61,
+          "end": 92.93,
+          "probability": 1
+        },
+        {
+          "text": "know,",
+          "start": 92.93,
+          "end": 93.46,
+          "probability": 1
+        },
+        {
+          "text": "tune",
+          "start": 93.46,
+          "end": 93.88,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 93.88,
+          "end": 94.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 94.33,
+      "end": 96.09,
+      "text": "But it's all right",
+      "words": [
+        {
+          "text": "But",
+          "start": 94.33,
+          "end": 94.68,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 94.68,
+          "end": 95.15,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 95.15,
+          "end": 95.5,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 95.5,
+          "end": 96.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 96.35,
+      "end": 99.96,
+      "text": "That is, I think it's not too bad",
+      "words": [
+        {
+          "text": "That",
+          "start": 96.35,
+          "end": 96.9,
+          "probability": 1
+        },
+        {
+          "text": "is,",
+          "start": 96.9,
+          "end": 97.32,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 97.32,
+          "end": 97.46,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 97.46,
+          "end": 98.15,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 98.15,
+          "end": 98.7,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 98.7,
+          "end": 99.12,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 99.12,
+          "end": 99.54,
+          "probability": 1
+        },
+        {
+          "text": "bad",
+          "start": 99.54,
+          "end": 99.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 101.1,
+      "end": 103.39,
+      "text": "Let me take you down",
+      "words": [
+        {
+          "text": "Let",
+          "start": 101.1,
+          "end": 101.53,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 101.53,
+          "end": 101.82,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 101.82,
+          "end": 102.39,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 102.39,
+          "end": 102.82,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 102.82,
+          "end": 103.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 104.61,
+      "end": 108.02,
+      "text": "'Cause I'm going to strawberry fields",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 104.61,
+          "end": 105.25,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 105.25,
+          "end": 105.57,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 105.57,
+          "end": 106.1,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 106.1,
+          "end": 106.31,
+          "probability": 1
+        },
+        {
+          "text": "strawberry",
+          "start": 106.31,
+          "end": 107.38,
+          "probability": 1
+        },
+        {
+          "text": "fields",
+          "start": 107.38,
+          "end": 108.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.84,
+      "end": 111.36,
+      "text": "Nothing is real",
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 109.84,
+          "end": 110.66,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 110.66,
+          "end": 110.89,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 110.89,
+          "end": 111.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 114.7,
+      "end": 117.74,
+      "text": "And nothing to get hung about",
+      "words": [
+        {
+          "text": "And",
+          "start": 114.7,
+          "end": 115.08,
+          "probability": 1
+        },
+        {
+          "text": "nothing",
+          "start": 115.08,
+          "end": 115.97,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 115.97,
+          "end": 116.22,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 116.22,
+          "end": 116.6,
+          "probability": 1
+        },
+        {
+          "text": "hung",
+          "start": 116.6,
+          "end": 117.11,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 117.11,
+          "end": 117.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 119.44,
+      "end": 122.1,
+      "text": "Strawberry fields forever",
+      "words": [
+        {
+          "text": "Strawberry",
+          "start": 119.44,
+          "end": 120.6,
+          "probability": 1
+        },
+        {
+          "text": "fields",
+          "start": 120.6,
+          "end": 121.29,
+          "probability": 1
+        },
+        {
+          "text": "forever",
+          "start": 121.29,
+          "end": 122.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 126.82,
+      "end": 130.62,
+      "text": "Always, no sometimes, think it's me",
+      "words": [
+        {
+          "text": "Always,",
+          "start": 126.82,
+          "end": 127.71,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 127.71,
+          "end": 127.96,
+          "probability": 1
+        },
+        {
+          "text": "sometimes,",
+          "start": 127.96,
+          "end": 129.23,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 129.23,
+          "end": 129.86,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 129.86,
+          "end": 130.37,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 130.37,
+          "end": 130.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 132.67,
+      "end": 135.61,
+      "text": "But you know I know when it's a dream",
+      "words": [
+        {
+          "text": "But",
+          "start": 132.67,
+          "end": 132.97,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 132.97,
+          "end": 133.27,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 133.27,
+          "end": 133.67,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 133.67,
+          "end": 133.79,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 133.79,
+          "end": 134.19,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 134.19,
+          "end": 134.59,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 134.59,
+          "end": 134.99,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 134.99,
+          "end": 135.11,
+          "probability": 1
+        },
+        {
+          "text": "dream",
+          "start": 135.11,
+          "end": 135.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 135.81,
+      "end": 139.41,
+      "text": "I think I know I mean a yes",
+      "words": [
+        {
+          "text": "I",
+          "start": 135.81,
+          "end": 135.99,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 135.99,
+          "end": 136.89,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 136.89,
+          "end": 137.07,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 137.07,
+          "end": 137.79,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 137.79,
+          "end": 137.97,
+          "probability": 1
+        },
+        {
+          "text": "mean",
+          "start": 137.97,
+          "end": 138.69,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 138.69,
+          "end": 138.87,
+          "probability": 1
+        },
+        {
+          "text": "yes",
+          "start": 138.87,
+          "end": 139.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 140.33,
+      "end": 141.98,
+      "text": "But it's all wrong",
+      "words": [
+        {
+          "text": "But",
+          "start": 140.33,
+          "end": 140.66,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 140.66,
+          "end": 141.1,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 141.1,
+          "end": 141.43,
+          "probability": 1
+        },
+        {
+          "text": "wrong",
+          "start": 141.43,
+          "end": 141.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142.22,
+      "end": 145.25,
+      "text": "That is I think I disagree",
+      "words": [
+        {
+          "text": "That",
+          "start": 142.22,
+          "end": 142.8,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 142.8,
+          "end": 143.09,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 143.09,
+          "end": 143.23,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 143.23,
+          "end": 143.95,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 143.95,
+          "end": 144.09,
+          "probability": 1
+        },
+        {
+          "text": "disagree",
+          "start": 144.09,
+          "end": 145.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 147.13,
+      "end": 149.42,
+      "text": "Let me take you down",
+      "words": [
+        {
+          "text": "Let",
+          "start": 147.13,
+          "end": 147.56,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 147.56,
+          "end": 147.85,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 147.85,
+          "end": 148.42,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 148.42,
+          "end": 148.85,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 148.85,
+          "end": 149.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 150.41,
+      "end": 153.82,
+      "text": "'Cause I'm going to strawberry fields",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 150.41,
+          "end": 151.05,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 151.05,
+          "end": 151.37,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 151.37,
+          "end": 151.9,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 151.9,
+          "end": 152.11,
+          "probability": 1
+        },
+        {
+          "text": "strawberry",
+          "start": 152.11,
+          "end": 153.18,
+          "probability": 1
+        },
+        {
+          "text": "fields",
+          "start": 153.18,
+          "end": 153.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 157.24,
+      "end": 158.76,
+      "text": "Nothing is real",
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 157.24,
+          "end": 158.06,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 158.06,
+          "end": 158.29,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 158.29,
+          "end": 158.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 162.18,
+      "end": 165.22,
+      "text": "And nothing to get hung about",
+      "words": [
+        {
+          "text": "And",
+          "start": 162.18,
+          "end": 162.56,
+          "probability": 1
+        },
+        {
+          "text": "nothing",
+          "start": 162.56,
+          "end": 163.45,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 163.45,
+          "end": 163.7,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 163.7,
+          "end": 164.08,
+          "probability": 1
+        },
+        {
+          "text": "hung",
+          "start": 164.08,
+          "end": 164.59,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 164.59,
+          "end": 165.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 166.3,
+      "end": 168.96,
+      "text": "Strawberry fields forever",
+      "words": [
+        {
+          "text": "Strawberry",
+          "start": 166.3,
+          "end": 167.46,
+          "probability": 1
+        },
+        {
+          "text": "fields",
+          "start": 167.46,
+          "end": 168.15,
+          "probability": 1
+        },
+        {
+          "text": "forever",
+          "start": 168.15,
+          "end": 168.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 170.28,
+      "end": 172.23,
+      "text": "Strawberry fields forever",
+      "words": [
+        {
+          "text": "Strawberry",
+          "start": 170.28,
+          "end": 171.13,
+          "probability": 1
+        },
+        {
+          "text": "fields",
+          "start": 171.13,
+          "end": 171.64,
+          "probability": 1
+        },
+        {
+          "text": "forever",
+          "start": 171.64,
+          "end": 172.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 172.48,
+      "end": 175.14,
+      "text": "Strawberry fields forever",
+      "words": [
+        {
+          "text": "Strawberry",
+          "start": 172.48,
+          "end": 173.64,
+          "probability": 1
+        },
+        {
+          "text": "fields",
+          "start": 173.64,
+          "end": 174.33,
+          "probability": 1
+        },
+        {
+          "text": "forever",
+          "start": 174.33,
+          "end": 175.14,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Let me take you down 'Cause I'm going to strawberry fields Nothing is real And nothing to get hung about Strawberry fields forever Living is easy with eyes closed Misunderstanding all you see It's getting hard to be someone But it all works out It doesn't matter much to me Let me take you down 'Cause I'm going to strawberry fields Nothing is real And nothing to get hung about Strawberry fields forever No one I think is in my tree I mean, it must be high or low That is, you can't, you know, tune in But it's all right That is, I think it's not too bad Let me take you down 'Cause I'm going to strawberry fields Nothing is real And nothing to get hung about Strawberry fields forever Always, no sometimes, think it's me But you know I know when it's a dream I think I know I mean a yes But it's all wrong That is I think I disagree Let me take you down 'Cause I'm going to strawberry fields Nothing is real And nothing to get hung about Strawberry fields forever Strawberry fields forever Strawberry fields forever"
+}

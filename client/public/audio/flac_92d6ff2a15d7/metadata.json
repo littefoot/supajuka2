@@ -1,0 +1,18 @@
+{
+  "id": "flac_92d6ff2a15d7",
+  "source": "local",
+  "title": "Stronger",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 312,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790187970008,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_92d6ff2a15d7/original.flac",
+  "instrumentalUrl": "/audio/flac_92d6ff2a15d7/instrumental.mp3",
+  "vocalsUrl": "/audio/flac_92d6ff2a15d7/vocals.flac"
+}

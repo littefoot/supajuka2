@@ -1,0 +1,19 @@
+{
+  "id": "flac_8e2765dc56b6",
+  "source": "local",
+  "title": "Paranoid Android",
+  "artist": "Radiohead",
+  "album": "OK Computer (1)",
+  "duration": 384,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_8e2765dc56b6/cover.jpg",
+  "cachedAt": 1789623928370,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_8e2765dc56b6/original.flac",
+  "instrumentalUrl": "/audio/flac_8e2765dc56b6/instrumental.flac",
+  "vocalsUrl": "/audio/flac_8e2765dc56b6/vocals.flac"
+}

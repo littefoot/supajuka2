@@ -1,0 +1,1958 @@
+{
+  "language": "en",
+  "duration": 196,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 19.75,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 19.75,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 19.75,
+      "end": 22.03,
+      "text": "Memories consume",
+      "words": [
+        {
+          "text": "Memories",
+          "start": 19.75,
+          "end": 20.97,
+          "probability": 1
+        },
+        {
+          "text": "consume",
+          "start": 20.97,
+          "end": 22.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 22.37,
+      "end": 24.51,
+      "text": "Like opening the wound",
+      "words": [
+        {
+          "text": "Like",
+          "start": 22.37,
+          "end": 22.82,
+          "probability": 1
+        },
+        {
+          "text": "opening",
+          "start": 22.82,
+          "end": 23.61,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 23.61,
+          "end": 23.95,
+          "probability": 1
+        },
+        {
+          "text": "wound",
+          "start": 23.95,
+          "end": 24.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 24.76,
+      "end": 27.8,
+      "text": "I'm picking me apart again",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 24.76,
+          "end": 25.17,
+          "probability": 1
+        },
+        {
+          "text": "picking",
+          "start": 25.17,
+          "end": 26.14,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 26.14,
+          "end": 26.42,
+          "probability": 1
+        },
+        {
+          "text": "apart",
+          "start": 26.42,
+          "end": 27.11,
+          "probability": 1
+        },
+        {
+          "text": "again",
+          "start": 27.11,
+          "end": 27.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 29.35,
+      "end": 31.26,
+      "text": "You all assume",
+      "words": [
+        {
+          "text": "You",
+          "start": 29.35,
+          "end": 29.83,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 29.83,
+          "end": 30.31,
+          "probability": 1
+        },
+        {
+          "text": "assume",
+          "start": 30.31,
+          "end": 31.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 32.03,
+      "end": 34.15,
+      "text": "I'm safe here in my room",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 32.03,
+          "end": 32.36,
+          "probability": 1
+        },
+        {
+          "text": "safe",
+          "start": 32.36,
+          "end": 32.81,
+          "probability": 1
+        },
+        {
+          "text": "here",
+          "start": 32.81,
+          "end": 33.26,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 33.26,
+          "end": 33.48,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 33.48,
+          "end": 33.7,
+          "probability": 1
+        },
+        {
+          "text": "room",
+          "start": 33.7,
+          "end": 34.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 34.4,
+      "end": 37.44,
+      "text": "Unless I try to start again",
+      "words": [
+        {
+          "text": "Unless",
+          "start": 34.4,
+          "end": 35.23,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 35.23,
+          "end": 35.37,
+          "probability": 1
+        },
+        {
+          "text": "try",
+          "start": 35.37,
+          "end": 35.78,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 35.78,
+          "end": 36.06,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 36.06,
+          "end": 36.75,
+          "probability": 1
+        },
+        {
+          "text": "again",
+          "start": 36.75,
+          "end": 37.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 38.36,
+      "end": 40.31,
+      "text": "I don't want to be the one",
+      "words": [
+        {
+          "text": "I",
+          "start": 38.36,
+          "end": 38.48,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 38.48,
+          "end": 38.96,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 38.96,
+          "end": 39.35,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 39.35,
+          "end": 39.54,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 39.54,
+          "end": 39.73,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 39.73,
+          "end": 40.02,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 40.02,
+          "end": 40.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 40.55,
+      "end": 42.75,
+      "text": "The battles always choose",
+      "words": [
+        {
+          "text": "The",
+          "start": 40.55,
+          "end": 40.85,
+          "probability": 1
+        },
+        {
+          "text": "battles",
+          "start": 40.85,
+          "end": 41.55,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 41.55,
+          "end": 42.15,
+          "probability": 1
+        },
+        {
+          "text": "choose",
+          "start": 42.15,
+          "end": 42.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.99,
+      "end": 45.04,
+      "text": "'Cause inside I realize",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 42.99,
+          "end": 43.6,
+          "probability": 1
+        },
+        {
+          "text": "inside",
+          "start": 43.6,
+          "end": 44.21,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 44.21,
+          "end": 44.33,
+          "probability": 1
+        },
+        {
+          "text": "realize",
+          "start": 44.33,
+          "end": 45.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.27,
+      "end": 47.38,
+      "text": "That I'm the one confused",
+      "words": [
+        {
+          "text": "That",
+          "start": 45.27,
+          "end": 45.67,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 45.67,
+          "end": 45.97,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 45.97,
+          "end": 46.27,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 46.27,
+          "end": 46.57,
+          "probability": 1
+        },
+        {
+          "text": "confused",
+          "start": 46.57,
+          "end": 47.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 47.64,
+      "end": 49.83,
+      "text": "I don't know what's worth fighting for",
+      "words": [
+        {
+          "text": "I",
+          "start": 47.64,
+          "end": 47.76,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 47.76,
+          "end": 48.09,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 48.09,
+          "end": 48.36,
+          "probability": 1
+        },
+        {
+          "text": "what's",
+          "start": 48.36,
+          "end": 48.76,
+          "probability": 1
+        },
+        {
+          "text": "worth",
+          "start": 48.76,
+          "end": 49.09,
+          "probability": 1
+        },
+        {
+          "text": "fighting",
+          "start": 49.09,
+          "end": 49.63,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 49.63,
+          "end": 49.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 50.03,
+      "end": 52.22,
+      "text": "Or why I have to scream",
+      "words": [
+        {
+          "text": "Or",
+          "start": 50.03,
+          "end": 50.27,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 50.27,
+          "end": 50.64,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 50.64,
+          "end": 50.76,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 50.76,
+          "end": 51.25,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 51.25,
+          "end": 51.49,
+          "probability": 1
+        },
+        {
+          "text": "scream",
+          "start": 51.49,
+          "end": 52.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 52.47,
+      "end": 54.6,
+      "text": "I don't know why I instigate",
+      "words": [
+        {
+          "text": "I",
+          "start": 52.47,
+          "end": 52.59,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 52.59,
+          "end": 53.04,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 53.04,
+          "end": 53.4,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 53.4,
+          "end": 53.67,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 53.67,
+          "end": 53.79,
+          "probability": 1
+        },
+        {
+          "text": "instigate",
+          "start": 53.79,
+          "end": 54.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 54.79,
+      "end": 56.92,
+      "text": "And say what I don't mean",
+      "words": [
+        {
+          "text": "And",
+          "start": 54.79,
+          "end": 55.11,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 55.11,
+          "end": 55.43,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 55.43,
+          "end": 55.85,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 55.85,
+          "end": 55.97,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 55.97,
+          "end": 56.5,
+          "probability": 1
+        },
+        {
+          "text": "mean",
+          "start": 56.5,
+          "end": 56.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 57.15,
+      "end": 59.52,
+      "text": "I don't know how I got this way",
+      "words": [
+        {
+          "text": "I",
+          "start": 57.15,
+          "end": 57.27,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 57.27,
+          "end": 57.75,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 57.75,
+          "end": 58.14,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 58.14,
+          "end": 58.43,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 58.43,
+          "end": 58.55,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 58.55,
+          "end": 58.84,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 58.84,
+          "end": 59.23,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 59.23,
+          "end": 59.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 59.71,
+      "end": 61.41,
+      "text": "I know it's not alright",
+      "words": [
+        {
+          "text": "I",
+          "start": 59.71,
+          "end": 59.83,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 59.83,
+          "end": 60.18,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 60.18,
+          "end": 60.53,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 60.53,
+          "end": 60.79,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 60.79,
+          "end": 61.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.63,
+      "end": 64.28,
+      "text": "So I'm breaking the habit",
+      "words": [
+        {
+          "text": "So",
+          "start": 61.63,
+          "end": 61.88,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 61.88,
+          "end": 62.26,
+          "probability": 1
+        },
+        {
+          "text": "breaking",
+          "start": 62.26,
+          "end": 63.27,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 63.27,
+          "end": 63.65,
+          "probability": 1
+        },
+        {
+          "text": "habit",
+          "start": 63.65,
+          "end": 64.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 66.84,
+      "end": 69.12,
+      "text": "I'm breaking the habit",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 66.84,
+          "end": 67.2,
+          "probability": 1
+        },
+        {
+          "text": "breaking",
+          "start": 67.2,
+          "end": 68.16,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 68.16,
+          "end": 68.52,
+          "probability": 1
+        },
+        {
+          "text": "habit",
+          "start": 68.52,
+          "end": 69.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 71.64,
+      "end": 72.4,
+      "text": "Tonight",
+      "words": [
+        {
+          "text": "Tonight",
+          "start": 71.64,
+          "end": 72.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 77.31,
+      "end": 79.21,
+      "text": "Clutching my cure",
+      "words": [
+        {
+          "text": "Clutching",
+          "start": 77.31,
+          "end": 78.45,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 78.45,
+          "end": 78.7,
+          "probability": 1
+        },
+        {
+          "text": "cure",
+          "start": 78.7,
+          "end": 79.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 79.91,
+      "end": 82.01,
+      "text": "I tightly lock the door",
+      "words": [
+        {
+          "text": "I",
+          "start": 79.91,
+          "end": 80.03,
+          "probability": 1
+        },
+        {
+          "text": "tightly",
+          "start": 80.03,
+          "end": 80.8,
+          "probability": 1
+        },
+        {
+          "text": "lock",
+          "start": 80.8,
+          "end": 81.24,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 81.24,
+          "end": 81.57,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 81.57,
+          "end": 82.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.24,
+      "end": 85.39,
+      "text": "I try to catch my breath again",
+      "words": [
+        {
+          "text": "I",
+          "start": 82.24,
+          "end": 82.37,
+          "probability": 1
+        },
+        {
+          "text": "try",
+          "start": 82.37,
+          "end": 82.76,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 82.76,
+          "end": 83.02,
+          "probability": 1
+        },
+        {
+          "text": "catch",
+          "start": 83.02,
+          "end": 83.68,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 83.68,
+          "end": 83.94,
+          "probability": 1
+        },
+        {
+          "text": "breath",
+          "start": 83.94,
+          "end": 84.73,
+          "probability": 1
+        },
+        {
+          "text": "again",
+          "start": 84.73,
+          "end": 85.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 86.87,
+      "end": 88.76,
+      "text": "I hurt much more",
+      "words": [
+        {
+          "text": "I",
+          "start": 86.87,
+          "end": 87.02,
+          "probability": 1
+        },
+        {
+          "text": "hurt",
+          "start": 87.02,
+          "end": 87.6,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 87.6,
+          "end": 88.18,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 88.18,
+          "end": 88.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 89.47,
+      "end": 91.63,
+      "text": "Than anytime before",
+      "words": [
+        {
+          "text": "Than",
+          "start": 89.47,
+          "end": 89.98,
+          "probability": 1
+        },
+        {
+          "text": "anytime",
+          "start": 89.98,
+          "end": 90.87,
+          "probability": 1
+        },
+        {
+          "text": "before",
+          "start": 90.87,
+          "end": 91.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 91.88,
+      "end": 94.92,
+      "text": "I had no options left again",
+      "words": [
+        {
+          "text": "I",
+          "start": 91.88,
+          "end": 92.02,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 92.02,
+          "end": 92.43,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 92.43,
+          "end": 92.71,
+          "probability": 1
+        },
+        {
+          "text": "options",
+          "start": 92.71,
+          "end": 93.68,
+          "probability": 1
+        },
+        {
+          "text": "left",
+          "start": 93.68,
+          "end": 94.23,
+          "probability": 1
+        },
+        {
+          "text": "again",
+          "start": 94.23,
+          "end": 94.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.88,
+      "end": 97.97,
+      "text": "I don't want to be the one",
+      "words": [
+        {
+          "text": "I",
+          "start": 95.88,
+          "end": 96,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 96,
+          "end": 96.52,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 96.52,
+          "end": 96.93,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 96.93,
+          "end": 97.14,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 97.14,
+          "end": 97.35,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 97.35,
+          "end": 97.66,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 97.66,
+          "end": 97.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 98.2,
+      "end": 100.03,
+      "text": "The battles always choose",
+      "words": [
+        {
+          "text": "The",
+          "start": 98.2,
+          "end": 98.45,
+          "probability": 1
+        },
+        {
+          "text": "battles",
+          "start": 98.45,
+          "end": 99.03,
+          "probability": 1
+        },
+        {
+          "text": "always",
+          "start": 99.03,
+          "end": 99.53,
+          "probability": 1
+        },
+        {
+          "text": "choose",
+          "start": 99.53,
+          "end": 100.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 100.28,
+      "end": 102.59,
+      "text": "'Cause inside I realize",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 100.28,
+          "end": 100.97,
+          "probability": 1
+        },
+        {
+          "text": "inside",
+          "start": 100.97,
+          "end": 101.66,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 101.66,
+          "end": 101.78,
+          "probability": 1
+        },
+        {
+          "text": "realize",
+          "start": 101.78,
+          "end": 102.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.84,
+      "end": 104.94,
+      "text": "That I'm the one confused",
+      "words": [
+        {
+          "text": "That",
+          "start": 102.84,
+          "end": 103.24,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 103.24,
+          "end": 103.54,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 103.54,
+          "end": 103.84,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 103.84,
+          "end": 104.14,
+          "probability": 1
+        },
+        {
+          "text": "confused",
+          "start": 104.14,
+          "end": 104.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.2,
+      "end": 107.49,
+      "text": "I don't know what's worth fighting for",
+      "words": [
+        {
+          "text": "I",
+          "start": 105.2,
+          "end": 105.32,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 105.32,
+          "end": 105.67,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 105.67,
+          "end": 105.95,
+          "probability": 1
+        },
+        {
+          "text": "what's",
+          "start": 105.95,
+          "end": 106.37,
+          "probability": 1
+        },
+        {
+          "text": "worth",
+          "start": 106.37,
+          "end": 106.72,
+          "probability": 1
+        },
+        {
+          "text": "fighting",
+          "start": 106.72,
+          "end": 107.28,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 107.28,
+          "end": 107.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 107.68,
+      "end": 109.75,
+      "text": "Or why I have to scream",
+      "words": [
+        {
+          "text": "Or",
+          "start": 107.68,
+          "end": 107.91,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 107.91,
+          "end": 108.25,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 108.25,
+          "end": 108.37,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 108.37,
+          "end": 108.83,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 108.83,
+          "end": 109.06,
+          "probability": 1
+        },
+        {
+          "text": "scream",
+          "start": 109.06,
+          "end": 109.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.99,
+      "end": 112.3,
+      "text": "I don't know why I instigate",
+      "words": [
+        {
+          "text": "I",
+          "start": 109.99,
+          "end": 110.11,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 110.11,
+          "end": 110.6,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 110.6,
+          "end": 110.99,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 110.99,
+          "end": 111.29,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 111.29,
+          "end": 111.41,
+          "probability": 1
+        },
+        {
+          "text": "instigate",
+          "start": 111.41,
+          "end": 112.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 112.51,
+      "end": 114.45,
+      "text": "And say what I don't mean",
+      "words": [
+        {
+          "text": "And",
+          "start": 112.51,
+          "end": 112.8,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 112.8,
+          "end": 113.09,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 113.09,
+          "end": 113.47,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 113.47,
+          "end": 113.59,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 113.59,
+          "end": 114.07,
+          "probability": 1
+        },
+        {
+          "text": "mean",
+          "start": 114.07,
+          "end": 114.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 114.68,
+      "end": 117.12,
+      "text": "I don't know how I got this way",
+      "words": [
+        {
+          "text": "I",
+          "start": 114.68,
+          "end": 114.8,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 114.8,
+          "end": 115.3,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 115.3,
+          "end": 115.7,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 115.7,
+          "end": 116,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 116,
+          "end": 116.12,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 116.12,
+          "end": 116.42,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 116.42,
+          "end": 116.82,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 116.82,
+          "end": 117.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.32,
+      "end": 118.9,
+      "text": "I'll never be alright",
+      "words": [
+        {
+          "text": "I'll",
+          "start": 117.32,
+          "end": 117.67,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 117.67,
+          "end": 118.11,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 118.11,
+          "end": 118.29,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 118.29,
+          "end": 118.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 119.15,
+      "end": 121.8,
+      "text": "So I'm breaking the habit",
+      "words": [
+        {
+          "text": "So",
+          "start": 119.15,
+          "end": 119.4,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 119.4,
+          "end": 119.78,
+          "probability": 1
+        },
+        {
+          "text": "breaking",
+          "start": 119.78,
+          "end": 120.79,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 120.79,
+          "end": 121.17,
+          "probability": 1
+        },
+        {
+          "text": "habit",
+          "start": 121.17,
+          "end": 121.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 124.28,
+      "end": 126.56,
+      "text": "I'm breaking the habit",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 124.28,
+          "end": 124.64,
+          "probability": 1
+        },
+        {
+          "text": "breaking",
+          "start": 124.64,
+          "end": 125.6,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 125.6,
+          "end": 125.96,
+          "probability": 1
+        },
+        {
+          "text": "habit",
+          "start": 125.96,
+          "end": 126.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 129.04,
+      "end": 129.8,
+      "text": "Tonight",
+      "words": [
+        {
+          "text": "Tonight",
+          "start": 129.04,
+          "end": 129.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 130.36,
+      "end": 133.06,
+      "text": "I'll paint it on the walls",
+      "words": [
+        {
+          "text": "I'll",
+          "start": 130.36,
+          "end": 130.87,
+          "probability": 1
+        },
+        {
+          "text": "paint",
+          "start": 130.87,
+          "end": 131.51,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 131.51,
+          "end": 131.77,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 131.77,
+          "end": 132.03,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 132.03,
+          "end": 132.42,
+          "probability": 1
+        },
+        {
+          "text": "walls",
+          "start": 132.42,
+          "end": 133.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 135.03,
+      "end": 138.07,
+      "text": "'Cause I'm the one that falls",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 135.03,
+          "end": 135.79,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 135.79,
+          "end": 136.17,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 136.17,
+          "end": 136.55,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 136.55,
+          "end": 136.93,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 136.93,
+          "end": 137.44,
+          "probability": 1
+        },
+        {
+          "text": "falls",
+          "start": 137.44,
+          "end": 138.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 139.99,
+      "end": 142.27,
+      "text": "I'll never fight again",
+      "words": [
+        {
+          "text": "I'll",
+          "start": 139.99,
+          "end": 140.47,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 140.47,
+          "end": 141.07,
+          "probability": 1
+        },
+        {
+          "text": "fight",
+          "start": 141.07,
+          "end": 141.67,
+          "probability": 1
+        },
+        {
+          "text": "again",
+          "start": 141.67,
+          "end": 142.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 144.64,
+      "end": 147.34,
+      "text": "And this is how it ends",
+      "words": [
+        {
+          "text": "And",
+          "start": 144.64,
+          "end": 145.09,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 145.09,
+          "end": 145.69,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 145.69,
+          "end": 145.99,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 145.99,
+          "end": 146.44,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 146.44,
+          "end": 146.74,
+          "probability": 1
+        },
+        {
+          "text": "ends",
+          "start": 146.74,
+          "end": 147.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 148.35,
+      "end": 150.81,
+      "text": "I don't know what's worth fighting for",
+      "words": [
+        {
+          "text": "I",
+          "start": 148.35,
+          "end": 148.47,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 148.47,
+          "end": 148.85,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 148.85,
+          "end": 149.15,
+          "probability": 1
+        },
+        {
+          "text": "what's",
+          "start": 149.15,
+          "end": 149.6,
+          "probability": 1
+        },
+        {
+          "text": "worth",
+          "start": 149.6,
+          "end": 149.98,
+          "probability": 1
+        },
+        {
+          "text": "fighting",
+          "start": 149.98,
+          "end": 150.58,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 150.58,
+          "end": 150.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 151,
+      "end": 152.99,
+      "text": "Or why I have to scream",
+      "words": [
+        {
+          "text": "Or",
+          "start": 151,
+          "end": 151.22,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 151.22,
+          "end": 151.55,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 151.55,
+          "end": 151.67,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 151.67,
+          "end": 152.11,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 152.11,
+          "end": 152.33,
+          "probability": 1
+        },
+        {
+          "text": "scream",
+          "start": 152.33,
+          "end": 152.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 153.23,
+      "end": 155.45,
+      "text": "But now I have some clarity",
+      "words": [
+        {
+          "text": "But",
+          "start": 153.23,
+          "end": 153.53,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 153.53,
+          "end": 153.83,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 153.83,
+          "end": 153.95,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 153.95,
+          "end": 154.35,
+          "probability": 1
+        },
+        {
+          "text": "some",
+          "start": 154.35,
+          "end": 154.75,
+          "probability": 1
+        },
+        {
+          "text": "clarity",
+          "start": 154.75,
+          "end": 155.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.68,
+      "end": 157.72,
+      "text": "To show you what I mean",
+      "words": [
+        {
+          "text": "To",
+          "start": 155.68,
+          "end": 155.91,
+          "probability": 1
+        },
+        {
+          "text": "show",
+          "start": 155.91,
+          "end": 156.36,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 156.36,
+          "end": 156.7,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 156.7,
+          "end": 157.15,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 157.15,
+          "end": 157.27,
+          "probability": 1
+        },
+        {
+          "text": "mean",
+          "start": 157.27,
+          "end": 157.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 157.96,
+      "end": 160.33,
+      "text": "I don't know how I got this way",
+      "words": [
+        {
+          "text": "I",
+          "start": 157.96,
+          "end": 158.08,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 158.08,
+          "end": 158.56,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 158.56,
+          "end": 158.95,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 158.95,
+          "end": 159.24,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 159.24,
+          "end": 159.36,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 159.36,
+          "end": 159.65,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 159.65,
+          "end": 160.04,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 160.04,
+          "end": 160.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 160.52,
+      "end": 162.22,
+      "text": "I'll never be alright",
+      "words": [
+        {
+          "text": "I'll",
+          "start": 160.52,
+          "end": 160.9,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 160.9,
+          "end": 161.37,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 161.37,
+          "end": 161.56,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 161.56,
+          "end": 162.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 162.47,
+      "end": 165.12,
+      "text": "So, I'm breaking the habit",
+      "words": [
+        {
+          "text": "So,",
+          "start": 162.47,
+          "end": 162.83,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 162.83,
+          "end": 163.19,
+          "probability": 1
+        },
+        {
+          "text": "breaking",
+          "start": 163.19,
+          "end": 164.16,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 164.16,
+          "end": 164.52,
+          "probability": 1
+        },
+        {
+          "text": "habit",
+          "start": 164.52,
+          "end": 165.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.6,
+      "end": 169.88,
+      "text": "I'm breaking the habit",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 167.6,
+          "end": 167.96,
+          "probability": 1
+        },
+        {
+          "text": "breaking",
+          "start": 167.96,
+          "end": 168.92,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 168.92,
+          "end": 169.28,
+          "probability": 1
+        },
+        {
+          "text": "habit",
+          "start": 169.28,
+          "end": 169.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 172.4,
+      "end": 174.68,
+      "text": "I'm breaking the habit",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 172.4,
+          "end": 172.76,
+          "probability": 1
+        },
+        {
+          "text": "breaking",
+          "start": 172.76,
+          "end": 173.72,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 173.72,
+          "end": 174.08,
+          "probability": 1
+        },
+        {
+          "text": "habit",
+          "start": 174.08,
+          "end": 174.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 177.08,
+      "end": 177.84,
+      "text": "Tonight",
+      "words": [
+        {
+          "text": "Tonight",
+          "start": 177.08,
+          "end": 177.84,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Memories consume Like opening the wound I'm picking me apart again You all assume I'm safe here in my room Unless I try to start again I don't want to be the one The battles always choose 'Cause inside I realize That I'm the one confused I don't know what's worth fighting for Or why I have to scream I don't know why I instigate And say what I don't mean I don't know how I got this way I know it's not alright So I'm breaking the habit I'm breaking the habit Tonight Clutching my cure I tightly lock the door I try to catch my breath again I hurt much more Than anytime before I had no options left again I don't want to be the one The battles always choose 'Cause inside I realize That I'm the one confused I don't know what's worth fighting for Or why I have to scream I don't know why I instigate And say what I don't mean I don't know how I got this way I'll never be alright So I'm breaking the habit I'm breaking the habit Tonight I'll paint it on the walls 'Cause I'm the one that falls I'll never fight again And this is how it ends I don't know what's worth fighting for Or why I have to scream But now I have some clarity To show you what I mean I don't know how I got this way I'll never be alright So, I'm breaking the habit I'm breaking the habit I'm breaking the habit Tonight"
+}

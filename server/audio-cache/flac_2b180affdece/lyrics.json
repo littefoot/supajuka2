@@ -1,0 +1,1920 @@
+{
+  "language": "en",
+  "duration": 197,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 9.69,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 9.69,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 9.69,
+      "end": 10.83,
+      "text": "Uptown girl",
+      "words": [
+        {
+          "text": "Uptown",
+          "start": 9.69,
+          "end": 10.37,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 10.37,
+          "end": 10.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 12.02,
+      "end": 15.23,
+      "text": "She's been living in her uptown world",
+      "words": [
+        {
+          "text": "She's",
+          "start": 12.02,
+          "end": 12.54,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 12.54,
+          "end": 12.95,
+          "probability": 1
+        },
+        {
+          "text": "living",
+          "start": 12.95,
+          "end": 13.57,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 13.57,
+          "end": 13.78,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 13.78,
+          "end": 14.09,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 14.09,
+          "end": 14.71,
+          "probability": 1
+        },
+        {
+          "text": "world",
+          "start": 14.71,
+          "end": 15.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 15.47,
+      "end": 18.95,
+      "text": "I bet she never had a back street guy",
+      "words": [
+        {
+          "text": "I",
+          "start": 15.47,
+          "end": 15.59,
+          "probability": 1
+        },
+        {
+          "text": "bet",
+          "start": 15.59,
+          "end": 15.95,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 15.95,
+          "end": 16.31,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 16.31,
+          "end": 16.91,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 16.91,
+          "end": 17.27,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 17.27,
+          "end": 17.39,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 17.39,
+          "end": 17.87,
+          "probability": 1
+        },
+        {
+          "text": "street",
+          "start": 17.87,
+          "end": 18.59,
+          "probability": 1
+        },
+        {
+          "text": "guy",
+          "start": 18.59,
+          "end": 18.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 19.19,
+      "end": 22.57,
+      "text": "I bet her mama never told her why",
+      "words": [
+        {
+          "text": "I",
+          "start": 19.19,
+          "end": 19.32,
+          "probability": 1
+        },
+        {
+          "text": "bet",
+          "start": 19.32,
+          "end": 19.71,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 19.71,
+          "end": 20.1,
+          "probability": 1
+        },
+        {
+          "text": "mama",
+          "start": 20.1,
+          "end": 20.62,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 20.62,
+          "end": 21.27,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 21.27,
+          "end": 21.79,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 21.79,
+          "end": 22.18,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 22.18,
+          "end": 22.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 22.83,
+      "end": 26.24,
+      "text": "I'm gonna try for an uptown girl",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 22.83,
+          "end": 23.22,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 23.22,
+          "end": 23.88,
+          "probability": 1
+        },
+        {
+          "text": "try",
+          "start": 23.88,
+          "end": 24.27,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 24.27,
+          "end": 24.66,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 24.66,
+          "end": 24.92,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 24.92,
+          "end": 25.71,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 25.71,
+          "end": 26.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 26.51,
+      "end": 29.88,
+      "text": "She's been living in her white bread world",
+      "words": [
+        {
+          "text": "She's",
+          "start": 26.51,
+          "end": 26.99,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 26.99,
+          "end": 27.38,
+          "probability": 1
+        },
+        {
+          "text": "living",
+          "start": 27.38,
+          "end": 27.96,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 27.96,
+          "end": 28.15,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 28.15,
+          "end": 28.44,
+          "probability": 1
+        },
+        {
+          "text": "white",
+          "start": 28.44,
+          "end": 28.92,
+          "probability": 1
+        },
+        {
+          "text": "bread",
+          "start": 28.92,
+          "end": 29.4,
+          "probability": 1
+        },
+        {
+          "text": "world",
+          "start": 29.4,
+          "end": 29.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 30.15,
+      "end": 33.63,
+      "text": "As long as anyone with hot blood can",
+      "words": [
+        {
+          "text": "As",
+          "start": 30.15,
+          "end": 30.39,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 30.39,
+          "end": 30.87,
+          "probability": 1
+        },
+        {
+          "text": "as",
+          "start": 30.87,
+          "end": 31.11,
+          "probability": 1
+        },
+        {
+          "text": "anyone",
+          "start": 31.11,
+          "end": 31.83,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 31.83,
+          "end": 32.31,
+          "probability": 1
+        },
+        {
+          "text": "hot",
+          "start": 32.31,
+          "end": 32.67,
+          "probability": 1
+        },
+        {
+          "text": "blood",
+          "start": 32.67,
+          "end": 33.27,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 33.27,
+          "end": 33.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 33.9,
+      "end": 37.34,
+      "text": "And now she's looking for a downtown man",
+      "words": [
+        {
+          "text": "And",
+          "start": 33.9,
+          "end": 34.21,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 34.21,
+          "end": 34.52,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 34.52,
+          "end": 35.04,
+          "probability": 1
+        },
+        {
+          "text": "looking",
+          "start": 35.04,
+          "end": 35.77,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 35.77,
+          "end": 36.08,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 36.08,
+          "end": 36.2,
+          "probability": 1
+        },
+        {
+          "text": "downtown",
+          "start": 36.2,
+          "end": 37.03,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 37.03,
+          "end": 37.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 37.58,
+      "end": 39.38,
+      "text": "That's what I am",
+      "words": [
+        {
+          "text": "That's",
+          "start": 37.58,
+          "end": 38.41,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 38.41,
+          "end": 38.96,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 38.96,
+          "end": 39.1,
+          "probability": 1
+        },
+        {
+          "text": "am",
+          "start": 39.1,
+          "end": 39.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 39.8,
+      "end": 42.05,
+      "text": "And when she knows what",
+      "words": [
+        {
+          "text": "And",
+          "start": 39.8,
+          "end": 40.16,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 40.16,
+          "end": 40.63,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 40.63,
+          "end": 40.99,
+          "probability": 1
+        },
+        {
+          "text": "knows",
+          "start": 40.99,
+          "end": 41.58,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 41.58,
+          "end": 42.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.55,
+      "end": 44.83,
+      "text": "She wants from her time",
+      "words": [
+        {
+          "text": "She",
+          "start": 42.55,
+          "end": 42.91,
+          "probability": 1
+        },
+        {
+          "text": "wants",
+          "start": 42.91,
+          "end": 43.51,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 43.51,
+          "end": 43.99,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 43.99,
+          "end": 44.35,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 44.35,
+          "end": 44.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 47.19,
+      "end": 49.47,
+      "text": "And when she wakes up",
+      "words": [
+        {
+          "text": "And",
+          "start": 47.19,
+          "end": 47.59,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 47.59,
+          "end": 48.13,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 48.13,
+          "end": 48.53,
+          "probability": 1
+        },
+        {
+          "text": "wakes",
+          "start": 48.53,
+          "end": 49.2,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 49.2,
+          "end": 49.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 49.97,
+      "end": 52.25,
+      "text": "And makes up her mind",
+      "words": [
+        {
+          "text": "And",
+          "start": 49.97,
+          "end": 50.37,
+          "probability": 1
+        },
+        {
+          "text": "makes",
+          "start": 50.37,
+          "end": 51.04,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 51.04,
+          "end": 51.31,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 51.31,
+          "end": 51.71,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 51.71,
+          "end": 52.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 54.51,
+      "end": 57.22,
+      "text": "She'll see I'm not so tough",
+      "words": [
+        {
+          "text": "She'll",
+          "start": 54.51,
+          "end": 55.25,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 55.25,
+          "end": 55.62,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 55.62,
+          "end": 55.99,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 55.99,
+          "end": 56.36,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 56.36,
+          "end": 56.61,
+          "probability": 1
+        },
+        {
+          "text": "tough",
+          "start": 56.61,
+          "end": 57.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 57.69,
+      "end": 59.21,
+      "text": "Just because",
+      "words": [
+        {
+          "text": "Just",
+          "start": 57.69,
+          "end": 58.24,
+          "probability": 1
+        },
+        {
+          "text": "because",
+          "start": 58.24,
+          "end": 59.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 59.69,
+      "end": 63.11,
+      "text": "I'm in love with an uptown girl",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 59.69,
+          "end": 60.1,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 60.1,
+          "end": 60.37,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 60.37,
+          "end": 60.92,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 60.92,
+          "end": 61.47,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 61.47,
+          "end": 61.74,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 61.74,
+          "end": 62.56,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 62.56,
+          "end": 63.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 63.47,
+      "end": 67.07,
+      "text": "You know I've seen her in her uptown world",
+      "words": [
+        {
+          "text": "You",
+          "start": 63.47,
+          "end": 63.79,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 63.79,
+          "end": 64.21,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 64.21,
+          "end": 64.63,
+          "probability": 1
+        },
+        {
+          "text": "seen",
+          "start": 64.63,
+          "end": 65.05,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 65.05,
+          "end": 65.37,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 65.37,
+          "end": 65.58,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 65.58,
+          "end": 65.9,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 65.9,
+          "end": 66.54,
+          "probability": 1
+        },
+        {
+          "text": "world",
+          "start": 66.54,
+          "end": 67.07,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 67.33,
+      "end": 70.83,
+      "text": "She's getting tired of her high class toys",
+      "words": [
+        {
+          "text": "She's",
+          "start": 67.33,
+          "end": 67.83,
+          "probability": 1
+        },
+        {
+          "text": "getting",
+          "start": 67.83,
+          "end": 68.53,
+          "probability": 1
+        },
+        {
+          "text": "tired",
+          "start": 68.53,
+          "end": 69.03,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 69.03,
+          "end": 69.23,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 69.23,
+          "end": 69.53,
+          "probability": 1
+        },
+        {
+          "text": "high",
+          "start": 69.53,
+          "end": 69.93,
+          "probability": 1
+        },
+        {
+          "text": "class",
+          "start": 69.93,
+          "end": 70.43,
+          "probability": 1
+        },
+        {
+          "text": "toys",
+          "start": 70.43,
+          "end": 70.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 71.06,
+      "end": 74.46,
+      "text": "And all her presents from her uptown boys",
+      "words": [
+        {
+          "text": "And",
+          "start": 71.06,
+          "end": 71.36,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 71.36,
+          "end": 71.66,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 71.66,
+          "end": 71.96,
+          "probability": 1
+        },
+        {
+          "text": "presents",
+          "start": 71.96,
+          "end": 72.76,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 72.76,
+          "end": 73.16,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 73.16,
+          "end": 73.46,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 73.46,
+          "end": 74.06,
+          "probability": 1
+        },
+        {
+          "text": "boys",
+          "start": 74.06,
+          "end": 74.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 74.72,
+      "end": 76.62,
+      "text": "She's got a choice",
+      "words": [
+        {
+          "text": "She's",
+          "start": 74.72,
+          "end": 75.35,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 75.35,
+          "end": 75.73,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 75.73,
+          "end": 75.86,
+          "probability": 1
+        },
+        {
+          "text": "choice",
+          "start": 75.86,
+          "end": 76.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 76.62,
+      "end": 91.26,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 76.62,
+          "end": 91.26,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 91.26,
+      "end": 92.4,
+      "text": "Uptown girl",
+      "words": [
+        {
+          "text": "Uptown",
+          "start": 91.26,
+          "end": 91.94,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 91.94,
+          "end": 92.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 93.33,
+      "end": 96.54,
+      "text": "You know I can't afford to buy her pearls",
+      "words": [
+        {
+          "text": "You",
+          "start": 93.33,
+          "end": 93.62,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 93.62,
+          "end": 94.01,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 94.01,
+          "end": 94.13,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 94.13,
+          "end": 94.61,
+          "probability": 1
+        },
+        {
+          "text": "afford",
+          "start": 94.61,
+          "end": 95.19,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 95.19,
+          "end": 95.38,
+          "probability": 1
+        },
+        {
+          "text": "buy",
+          "start": 95.38,
+          "end": 95.67,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 95.67,
+          "end": 95.96,
+          "probability": 1
+        },
+        {
+          "text": "pearls",
+          "start": 95.96,
+          "end": 96.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 96.76,
+      "end": 100.28,
+      "text": "But maybe someday when my ship comes in",
+      "words": [
+        {
+          "text": "But",
+          "start": 96.76,
+          "end": 97.09,
+          "probability": 1
+        },
+        {
+          "text": "maybe",
+          "start": 97.09,
+          "end": 97.64,
+          "probability": 1
+        },
+        {
+          "text": "someday",
+          "start": 97.64,
+          "end": 98.41,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 98.41,
+          "end": 98.85,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 98.85,
+          "end": 99.07,
+          "probability": 1
+        },
+        {
+          "text": "ship",
+          "start": 99.07,
+          "end": 99.51,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 99.51,
+          "end": 100.06,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 100.06,
+          "end": 100.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 100.51,
+      "end": 103.96,
+      "text": "She'll understand what kind of guy I've been",
+      "words": [
+        {
+          "text": "She'll",
+          "start": 100.51,
+          "end": 101.07,
+          "probability": 1
+        },
+        {
+          "text": "understand",
+          "start": 101.07,
+          "end": 102.01,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 102.01,
+          "end": 102.38,
+          "probability": 1
+        },
+        {
+          "text": "kind",
+          "start": 102.38,
+          "end": 102.75,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 102.75,
+          "end": 102.94,
+          "probability": 1
+        },
+        {
+          "text": "guy",
+          "start": 102.94,
+          "end": 103.22,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 103.22,
+          "end": 103.59,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 103.59,
+          "end": 103.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 104.22,
+      "end": 106.02,
+      "text": "And then I'll win",
+      "words": [
+        {
+          "text": "And",
+          "start": 104.22,
+          "end": 104.61,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 104.61,
+          "end": 105.12,
+          "probability": 1
+        },
+        {
+          "text": "I'll",
+          "start": 105.12,
+          "end": 105.63,
+          "probability": 1
+        },
+        {
+          "text": "win",
+          "start": 105.63,
+          "end": 106.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 106.73,
+      "end": 108.63,
+      "text": "And when she's walking",
+      "words": [
+        {
+          "text": "And",
+          "start": 106.73,
+          "end": 107.03,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 107.03,
+          "end": 107.43,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 107.43,
+          "end": 107.93,
+          "probability": 1
+        },
+        {
+          "text": "walking",
+          "start": 107.93,
+          "end": 108.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.3,
+      "end": 111.58,
+      "text": "She's looking so fine",
+      "words": [
+        {
+          "text": "She's",
+          "start": 109.3,
+          "end": 109.93,
+          "probability": 1
+        },
+        {
+          "text": "looking",
+          "start": 109.93,
+          "end": 110.82,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 110.82,
+          "end": 111.07,
+          "probability": 1
+        },
+        {
+          "text": "fine",
+          "start": 111.07,
+          "end": 111.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 113.89,
+      "end": 115.79,
+      "text": "And when she's talking",
+      "words": [
+        {
+          "text": "And",
+          "start": 113.89,
+          "end": 114.19,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 114.19,
+          "end": 114.59,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 114.59,
+          "end": 115.09,
+          "probability": 1
+        },
+        {
+          "text": "talking",
+          "start": 115.09,
+          "end": 115.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 116.67,
+      "end": 118.94,
+      "text": "She'll say that she's mine",
+      "words": [
+        {
+          "text": "She'll",
+          "start": 116.67,
+          "end": 117.29,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 117.29,
+          "end": 117.6,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 117.6,
+          "end": 118.01,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 118.01,
+          "end": 118.53,
+          "probability": 1
+        },
+        {
+          "text": "mine",
+          "start": 118.53,
+          "end": 118.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 121.09,
+      "end": 123.8,
+      "text": "She'll say I'm not so tough",
+      "words": [
+        {
+          "text": "She'll",
+          "start": 121.09,
+          "end": 121.83,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 121.83,
+          "end": 122.2,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 122.2,
+          "end": 122.57,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 122.57,
+          "end": 122.94,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 122.94,
+          "end": 123.19,
+          "probability": 1
+        },
+        {
+          "text": "tough",
+          "start": 123.19,
+          "end": 123.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 124.92,
+      "end": 126.14,
+      "text": "Just because",
+      "words": [
+        {
+          "text": "Just",
+          "start": 124.92,
+          "end": 125.36,
+          "probability": 1
+        },
+        {
+          "text": "because",
+          "start": 125.36,
+          "end": 126.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 126.39,
+      "end": 127.5,
+      "text": "I'm in love",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 126.39,
+          "end": 126.76,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 126.76,
+          "end": 127.01,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 127.01,
+          "end": 127.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 127.75,
+      "end": 129.66,
+      "text": "With an uptown girl",
+      "words": [
+        {
+          "text": "With",
+          "start": 127.75,
+          "end": 128.23,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 128.23,
+          "end": 128.47,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 128.47,
+          "end": 129.18,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 129.18,
+          "end": 129.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 130.36,
+      "end": 133.77,
+      "text": "She's been living in her white bread world",
+      "words": [
+        {
+          "text": "She's",
+          "start": 130.36,
+          "end": 130.85,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 130.85,
+          "end": 131.24,
+          "probability": 1
+        },
+        {
+          "text": "living",
+          "start": 131.24,
+          "end": 131.82,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 131.82,
+          "end": 132.01,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 132.01,
+          "end": 132.3,
+          "probability": 1
+        },
+        {
+          "text": "white",
+          "start": 132.3,
+          "end": 132.79,
+          "probability": 1
+        },
+        {
+          "text": "bread",
+          "start": 132.79,
+          "end": 133.28,
+          "probability": 1
+        },
+        {
+          "text": "world",
+          "start": 133.28,
+          "end": 133.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 134.01,
+      "end": 137.33,
+      "text": "As long as anyone with hot blood can",
+      "words": [
+        {
+          "text": "As",
+          "start": 134.01,
+          "end": 134.24,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 134.24,
+          "end": 134.7,
+          "probability": 1
+        },
+        {
+          "text": "as",
+          "start": 134.7,
+          "end": 134.93,
+          "probability": 1
+        },
+        {
+          "text": "anyone",
+          "start": 134.93,
+          "end": 135.62,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 135.62,
+          "end": 136.08,
+          "probability": 1
+        },
+        {
+          "text": "hot",
+          "start": 136.08,
+          "end": 136.42,
+          "probability": 1
+        },
+        {
+          "text": "blood",
+          "start": 136.42,
+          "end": 136.99,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 136.99,
+          "end": 137.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 137.58,
+      "end": 141.11,
+      "text": "And now she's looking for a downtown man",
+      "words": [
+        {
+          "text": "And",
+          "start": 137.58,
+          "end": 137.9,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 137.9,
+          "end": 138.22,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 138.22,
+          "end": 138.75,
+          "probability": 1
+        },
+        {
+          "text": "looking",
+          "start": 138.75,
+          "end": 139.5,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 139.5,
+          "end": 139.82,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 139.82,
+          "end": 139.94,
+          "probability": 1
+        },
+        {
+          "text": "downtown",
+          "start": 139.94,
+          "end": 140.79,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 140.79,
+          "end": 141.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 141.35,
+      "end": 143.15,
+      "text": "That's what I am",
+      "words": [
+        {
+          "text": "That's",
+          "start": 141.35,
+          "end": 142.18,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 142.18,
+          "end": 142.73,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 142.73,
+          "end": 142.87,
+          "probability": 1
+        },
+        {
+          "text": "am",
+          "start": 142.87,
+          "end": 143.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 143.66,
+      "end": 144.8,
+      "text": "Uptown girl",
+      "words": [
+        {
+          "text": "Uptown",
+          "start": 143.66,
+          "end": 144.34,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 144.34,
+          "end": 144.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.01,
+      "end": 147.91,
+      "text": "She's my uptown girl",
+      "words": [
+        {
+          "text": "She's",
+          "start": 146.01,
+          "end": 146.57,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 146.57,
+          "end": 146.79,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 146.79,
+          "end": 147.46,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 147.46,
+          "end": 147.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 149.36,
+      "end": 150.44,
+      "text": "You know I'm in love",
+      "words": [
+        {
+          "text": "You",
+          "start": 149.36,
+          "end": 149.56,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 149.56,
+          "end": 149.83,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 149.83,
+          "end": 150.03,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 150.03,
+          "end": 150.17,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 150.17,
+          "end": 150.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 150.7,
+      "end": 152.6,
+      "text": "With an uptown girl",
+      "words": [
+        {
+          "text": "With",
+          "start": 150.7,
+          "end": 151.17,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 151.17,
+          "end": 151.41,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 151.41,
+          "end": 152.12,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 152.12,
+          "end": 152.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 153.22,
+      "end": 154.74,
+      "text": "My uptown girl",
+      "words": [
+        {
+          "text": "My",
+          "start": 153.22,
+          "end": 153.47,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 153.47,
+          "end": 154.23,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 154.23,
+          "end": 154.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.79,
+      "end": 157.83,
+      "text": "You know I'm in love",
+      "words": [
+        {
+          "text": "You",
+          "start": 156.79,
+          "end": 156.98,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 156.98,
+          "end": 157.24,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 157.24,
+          "end": 157.44,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 157.44,
+          "end": 157.57,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 157.57,
+          "end": 157.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 158.08,
+      "end": 159.98,
+      "text": "With an uptown girl",
+      "words": [
+        {
+          "text": "With",
+          "start": 158.08,
+          "end": 158.56,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 158.56,
+          "end": 158.8,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 158.8,
+          "end": 159.51,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 159.51,
+          "end": 159.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 160.92,
+      "end": 162.44,
+      "text": "My uptown girl",
+      "words": [
+        {
+          "text": "My",
+          "start": 160.92,
+          "end": 161.17,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 161.17,
+          "end": 161.93,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 161.93,
+          "end": 162.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164.23,
+      "end": 165.72,
+      "text": "You know I'm in love",
+      "words": [
+        {
+          "text": "You",
+          "start": 164.23,
+          "end": 164.51,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 164.51,
+          "end": 164.88,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 164.88,
+          "end": 165.16,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 165.16,
+          "end": 165.35,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 165.35,
+          "end": 165.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 165.97,
+      "end": 167.88,
+      "text": "With an uptown girl",
+      "words": [
+        {
+          "text": "With",
+          "start": 165.97,
+          "end": 166.45,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 166.45,
+          "end": 166.69,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 166.69,
+          "end": 167.4,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 167.4,
+          "end": 167.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 168.67,
+      "end": 170.19,
+      "text": "My uptown girl",
+      "words": [
+        {
+          "text": "My",
+          "start": 168.67,
+          "end": 168.92,
+          "probability": 1
+        },
+        {
+          "text": "uptown",
+          "start": 168.92,
+          "end": 169.68,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 169.68,
+          "end": 170.19,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Uptown girl She's been living in her uptown world I bet she never had a back street guy I bet her mama never told her why I'm gonna try for an uptown girl She's been living in her white bread world As long as anyone with hot blood can And now she's looking for a downtown man That's what I am And when she knows what She wants from her time And when she wakes up And makes up her mind She'll see I'm not so tough Just because I'm in love with an uptown girl You know I've seen her in her uptown world She's getting tired of her high class toys And all her presents from her uptown boys She's got a choice Uptown girl You know I can't afford to buy her pearls But maybe someday when my ship comes in She'll understand what kind of guy I've been And then I'll win And when she's walking She's looking so fine And when she's talking She'll say that she's mine She'll say I'm not so tough Just because I'm in love With an uptown girl She's been living in her white bread world As long as anyone with hot blood can And now she's looking for a downtown man That's what I am Uptown girl She's my uptown girl You know I'm in love With an uptown girl My uptown girl You know I'm in love With an uptown girl My uptown girl You know I'm in love With an uptown girl My uptown girl"
+}

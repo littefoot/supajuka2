@@ -1,0 +1,19 @@
+{
+  "id": "flac_2359b8281994",
+  "source": "local",
+  "title": "Numb",
+  "artist": "Linkin Park",
+  "album": "Meteora",
+  "duration": 188,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_2359b8281994/cover.jpg",
+  "cachedAt": 1789624991583,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_2359b8281994/original.flac",
+  "instrumentalUrl": "/audio/flac_2359b8281994/instrumental.flac",
+  "vocalsUrl": "/audio/flac_2359b8281994/vocals.flac"
+}

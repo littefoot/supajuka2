@@ -1,0 +1,1898 @@
+{
+  "language": "en",
+  "duration": 191,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 7.67,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 7.67,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 7.67,
+      "end": 12.63,
+      "text": "I think I'm gonna be sad, I think it's today, yeah",
+      "words": [
+        {
+          "text": "I",
+          "start": 7.67,
+          "end": 7.79,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 7.79,
+          "end": 8.41,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 8.41,
+          "end": 8.78,
+          "probability": 1
+        },
+        {
+          "text": "gonna",
+          "start": 8.78,
+          "end": 9.4,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 9.4,
+          "end": 9.65,
+          "probability": 1
+        },
+        {
+          "text": "sad,",
+          "start": 9.65,
+          "end": 10.15,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 10.15,
+          "end": 10.27,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 10.27,
+          "end": 10.89,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 10.89,
+          "end": 11.39,
+          "probability": 1
+        },
+        {
+          "text": "today,",
+          "start": 11.39,
+          "end": 12.13,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 12.13,
+          "end": 12.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 14.99,
+      "end": 19.16,
+      "text": "The girl that's driving me mad is going away",
+      "words": [
+        {
+          "text": "The",
+          "start": 14.99,
+          "end": 15.34,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 15.34,
+          "end": 15.8,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 15.8,
+          "end": 16.5,
+          "probability": 1
+        },
+        {
+          "text": "driving",
+          "start": 16.5,
+          "end": 17.31,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 17.31,
+          "end": 17.54,
+          "probability": 1
+        },
+        {
+          "text": "mad",
+          "start": 17.54,
+          "end": 17.89,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 17.89,
+          "end": 18.12,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 18.12,
+          "end": 18.7,
+          "probability": 1
+        },
+        {
+          "text": "away",
+          "start": 18.7,
+          "end": 19.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 22.78,
+      "end": 25.81,
+      "text": "She's got a ticket to ride",
+      "words": [
+        {
+          "text": "She's",
+          "start": 22.78,
+          "end": 23.5,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 23.5,
+          "end": 23.93,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 23.93,
+          "end": 24.07,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 24.07,
+          "end": 24.94,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 24.94,
+          "end": 25.23,
+          "probability": 1
+        },
+        {
+          "text": "ride",
+          "start": 25.23,
+          "end": 25.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 26.5,
+      "end": 29.53,
+      "text": "She's got a ticket to ride",
+      "words": [
+        {
+          "text": "She's",
+          "start": 26.5,
+          "end": 27.22,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 27.22,
+          "end": 27.65,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 27.65,
+          "end": 27.79,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 27.79,
+          "end": 28.66,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 28.66,
+          "end": 28.95,
+          "probability": 1
+        },
+        {
+          "text": "ride",
+          "start": 28.95,
+          "end": 29.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 30.4,
+      "end": 35.34,
+      "text": "She's got a ticket to ride, but she don't care",
+      "words": [
+        {
+          "text": "She's",
+          "start": 30.4,
+          "end": 31.07,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 31.07,
+          "end": 31.47,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 31.47,
+          "end": 31.6,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 31.6,
+          "end": 32.4,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 32.4,
+          "end": 32.67,
+          "probability": 1
+        },
+        {
+          "text": "ride,",
+          "start": 32.67,
+          "end": 33.34,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 33.34,
+          "end": 33.74,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 33.74,
+          "end": 34.14,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 34.14,
+          "end": 34.81,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 34.81,
+          "end": 35.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 37.97,
+      "end": 42.92,
+      "text": "She said that living with me is bringing her down, yeah",
+      "words": [
+        {
+          "text": "She",
+          "start": 37.97,
+          "end": 38.3,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 38.3,
+          "end": 38.74,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 38.74,
+          "end": 39.18,
+          "probability": 1
+        },
+        {
+          "text": "living",
+          "start": 39.18,
+          "end": 39.84,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 39.84,
+          "end": 40.28,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 40.28,
+          "end": 40.5,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 40.5,
+          "end": 40.72,
+          "probability": 1
+        },
+        {
+          "text": "bringing",
+          "start": 40.72,
+          "end": 41.6,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 41.6,
+          "end": 41.93,
+          "probability": 1
+        },
+        {
+          "text": "down,",
+          "start": 41.93,
+          "end": 42.48,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 42.48,
+          "end": 42.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.74,
+      "end": 49.92,
+      "text": "She would never be free when I was around",
+      "words": [
+        {
+          "text": "She",
+          "start": 45.74,
+          "end": 46.12,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 46.12,
+          "end": 46.75,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 46.75,
+          "end": 47.38,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 47.38,
+          "end": 47.63,
+          "probability": 1
+        },
+        {
+          "text": "free",
+          "start": 47.63,
+          "end": 48.14,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 48.14,
+          "end": 48.65,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 48.65,
+          "end": 48.78,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 48.78,
+          "end": 49.16,
+          "probability": 1
+        },
+        {
+          "text": "around",
+          "start": 49.16,
+          "end": 49.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 53.69,
+      "end": 56.72,
+      "text": "She's got a ticket to ride",
+      "words": [
+        {
+          "text": "She's",
+          "start": 53.69,
+          "end": 54.41,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 54.41,
+          "end": 54.84,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 54.84,
+          "end": 54.98,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 54.98,
+          "end": 55.85,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 55.85,
+          "end": 56.14,
+          "probability": 1
+        },
+        {
+          "text": "ride",
+          "start": 56.14,
+          "end": 56.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 57.4,
+      "end": 60.43,
+      "text": "She's got a ticket to ride",
+      "words": [
+        {
+          "text": "She's",
+          "start": 57.4,
+          "end": 58.12,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 58.12,
+          "end": 58.55,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 58.55,
+          "end": 58.69,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 58.69,
+          "end": 59.56,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 59.56,
+          "end": 59.85,
+          "probability": 1
+        },
+        {
+          "text": "ride",
+          "start": 59.85,
+          "end": 60.43,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.03,
+      "end": 65.97,
+      "text": "She's got a ticket to ride, but she don't care",
+      "words": [
+        {
+          "text": "She's",
+          "start": 61.03,
+          "end": 61.7,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 61.7,
+          "end": 62.1,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 62.1,
+          "end": 62.23,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 62.23,
+          "end": 63.03,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 63.03,
+          "end": 63.3,
+          "probability": 1
+        },
+        {
+          "text": "ride,",
+          "start": 63.3,
+          "end": 63.97,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 63.97,
+          "end": 64.37,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 64.37,
+          "end": 64.77,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 64.77,
+          "end": 65.44,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 65.44,
+          "end": 65.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.11,
+      "end": 72.32,
+      "text": "I don't know why she's riding so high",
+      "words": [
+        {
+          "text": "I",
+          "start": 69.11,
+          "end": 69.23,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 69.23,
+          "end": 69.76,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 69.76,
+          "end": 70.19,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 70.19,
+          "end": 70.51,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 70.51,
+          "end": 71.04,
+          "probability": 1
+        },
+        {
+          "text": "riding",
+          "start": 71.04,
+          "end": 71.68,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 71.68,
+          "end": 71.89,
+          "probability": 1
+        },
+        {
+          "text": "high",
+          "start": 71.89,
+          "end": 72.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 72.56,
+      "end": 76.63,
+      "text": "She ought to think twice, she ought to do right by me",
+      "words": [
+        {
+          "text": "She",
+          "start": 72.56,
+          "end": 72.85,
+          "probability": 1
+        },
+        {
+          "text": "ought",
+          "start": 72.85,
+          "end": 73.34,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 73.34,
+          "end": 73.53,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 73.53,
+          "end": 74.02,
+          "probability": 1
+        },
+        {
+          "text": "twice,",
+          "start": 74.02,
+          "end": 74.6,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 74.6,
+          "end": 74.89,
+          "probability": 1
+        },
+        {
+          "text": "ought",
+          "start": 74.89,
+          "end": 75.38,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 75.38,
+          "end": 75.57,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 75.57,
+          "end": 75.76,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 75.76,
+          "end": 76.25,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 76.25,
+          "end": 76.44,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 76.44,
+          "end": 76.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 76.89,
+      "end": 80.31,
+      "text": "Before she gets to saying goodbye",
+      "words": [
+        {
+          "text": "Before",
+          "start": 76.89,
+          "end": 77.62,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 77.62,
+          "end": 77.99,
+          "probability": 1
+        },
+        {
+          "text": "gets",
+          "start": 77.99,
+          "end": 78.48,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 78.48,
+          "end": 78.72,
+          "probability": 1
+        },
+        {
+          "text": "saying",
+          "start": 78.72,
+          "end": 79.45,
+          "probability": 1
+        },
+        {
+          "text": "goodbye",
+          "start": 79.45,
+          "end": 80.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 80.57,
+      "end": 85.98,
+      "text": "She ought to think twice, she ought to do right by me",
+      "words": [
+        {
+          "text": "She",
+          "start": 80.57,
+          "end": 80.96,
+          "probability": 1
+        },
+        {
+          "text": "ought",
+          "start": 80.96,
+          "end": 81.6,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 81.6,
+          "end": 81.86,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 81.86,
+          "end": 82.5,
+          "probability": 1
+        },
+        {
+          "text": "twice,",
+          "start": 82.5,
+          "end": 83.27,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 83.27,
+          "end": 83.66,
+          "probability": 1
+        },
+        {
+          "text": "ought",
+          "start": 83.66,
+          "end": 84.3,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 84.3,
+          "end": 84.56,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 84.56,
+          "end": 84.82,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 84.82,
+          "end": 85.46,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 85.46,
+          "end": 85.72,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 85.72,
+          "end": 85.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 86.6,
+      "end": 91.99,
+      "text": "I think I'm going to be sad, I think it's today, yeah",
+      "words": [
+        {
+          "text": "I",
+          "start": 86.6,
+          "end": 86.73,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 86.73,
+          "end": 87.37,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 87.37,
+          "end": 87.76,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 87.76,
+          "end": 88.4,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 88.4,
+          "end": 88.66,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 88.66,
+          "end": 88.92,
+          "probability": 1
+        },
+        {
+          "text": "sad,",
+          "start": 88.92,
+          "end": 89.43,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 89.43,
+          "end": 89.56,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 89.56,
+          "end": 90.2,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 90.2,
+          "end": 90.71,
+          "probability": 1
+        },
+        {
+          "text": "today,",
+          "start": 90.71,
+          "end": 91.48,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 91.48,
+          "end": 91.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 94.35,
+      "end": 98.9,
+      "text": "The girl that's driving me mad is going away, yeah",
+      "words": [
+        {
+          "text": "The",
+          "start": 94.35,
+          "end": 94.68,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 94.68,
+          "end": 95.12,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 95.12,
+          "end": 95.79,
+          "probability": 1
+        },
+        {
+          "text": "driving",
+          "start": 95.79,
+          "end": 96.57,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 96.57,
+          "end": 96.79,
+          "probability": 1
+        },
+        {
+          "text": "mad",
+          "start": 96.79,
+          "end": 97.12,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 97.12,
+          "end": 97.34,
+          "probability": 1
+        },
+        {
+          "text": "going",
+          "start": 97.34,
+          "end": 97.9,
+          "probability": 1
+        },
+        {
+          "text": "away,",
+          "start": 97.9,
+          "end": 98.46,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 98.46,
+          "end": 98.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 101.31,
+      "end": 104.74,
+      "text": "Oh, she's got a ticket to ride",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 101.31,
+          "end": 101.74,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 101.74,
+          "end": 102.45,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 102.45,
+          "end": 102.88,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 102.88,
+          "end": 103.02,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 103.02,
+          "end": 103.88,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 103.88,
+          "end": 104.17,
+          "probability": 1
+        },
+        {
+          "text": "ride",
+          "start": 104.17,
+          "end": 104.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 106.12,
+      "end": 109.15,
+      "text": "She's got a ticket to ride",
+      "words": [
+        {
+          "text": "She's",
+          "start": 106.12,
+          "end": 106.84,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 106.84,
+          "end": 107.27,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 107.27,
+          "end": 107.41,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 107.41,
+          "end": 108.28,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 108.28,
+          "end": 108.57,
+          "probability": 1
+        },
+        {
+          "text": "ride",
+          "start": 108.57,
+          "end": 109.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.9,
+      "end": 114.84,
+      "text": "She's got a ticket to ride, but she don't care",
+      "words": [
+        {
+          "text": "She's",
+          "start": 109.9,
+          "end": 110.57,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 110.57,
+          "end": 110.97,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 110.97,
+          "end": 111.1,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 111.1,
+          "end": 111.9,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 111.9,
+          "end": 112.17,
+          "probability": 1
+        },
+        {
+          "text": "ride,",
+          "start": 112.17,
+          "end": 112.84,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 112.84,
+          "end": 113.24,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 113.24,
+          "end": 113.64,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 113.64,
+          "end": 114.31,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 114.31,
+          "end": 114.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.91,
+      "end": 121.51,
+      "text": "I don't know why she's riding so high",
+      "words": [
+        {
+          "text": "I",
+          "start": 117.91,
+          "end": 118.03,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 118.03,
+          "end": 118.63,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 118.63,
+          "end": 119.11,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 119.11,
+          "end": 119.47,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 119.47,
+          "end": 120.07,
+          "probability": 1
+        },
+        {
+          "text": "riding",
+          "start": 120.07,
+          "end": 120.79,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 120.79,
+          "end": 121.03,
+          "probability": 1
+        },
+        {
+          "text": "high",
+          "start": 121.03,
+          "end": 121.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 121.92,
+      "end": 125.35,
+      "text": "She ought to think twice, she ought to do right by me",
+      "words": [
+        {
+          "text": "She",
+          "start": 121.92,
+          "end": 122.17,
+          "probability": 1
+        },
+        {
+          "text": "ought",
+          "start": 122.17,
+          "end": 122.58,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 122.58,
+          "end": 122.74,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 122.74,
+          "end": 123.15,
+          "probability": 1
+        },
+        {
+          "text": "twice,",
+          "start": 123.15,
+          "end": 123.64,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 123.64,
+          "end": 123.89,
+          "probability": 1
+        },
+        {
+          "text": "ought",
+          "start": 123.89,
+          "end": 124.3,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 124.3,
+          "end": 124.46,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 124.46,
+          "end": 124.62,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 124.62,
+          "end": 125.03,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 125.03,
+          "end": 125.19,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 125.19,
+          "end": 125.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.6,
+      "end": 129.01,
+      "text": "Before she gets to saying goodbye",
+      "words": [
+        {
+          "text": "Before",
+          "start": 125.6,
+          "end": 126.33,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 126.33,
+          "end": 126.7,
+          "probability": 1
+        },
+        {
+          "text": "gets",
+          "start": 126.7,
+          "end": 127.19,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 127.19,
+          "end": 127.43,
+          "probability": 1
+        },
+        {
+          "text": "saying",
+          "start": 127.43,
+          "end": 128.16,
+          "probability": 1
+        },
+        {
+          "text": "goodbye",
+          "start": 128.16,
+          "end": 129.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 129.33,
+      "end": 134.74,
+      "text": "She ought to think twice, she ought to do right by me",
+      "words": [
+        {
+          "text": "She",
+          "start": 129.33,
+          "end": 129.72,
+          "probability": 1
+        },
+        {
+          "text": "ought",
+          "start": 129.72,
+          "end": 130.36,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 130.36,
+          "end": 130.62,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 130.62,
+          "end": 131.26,
+          "probability": 1
+        },
+        {
+          "text": "twice,",
+          "start": 131.26,
+          "end": 132.03,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 132.03,
+          "end": 132.42,
+          "probability": 1
+        },
+        {
+          "text": "ought",
+          "start": 132.42,
+          "end": 133.06,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 133.06,
+          "end": 133.32,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 133.32,
+          "end": 133.58,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 133.58,
+          "end": 134.22,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 134.22,
+          "end": 134.48,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 134.48,
+          "end": 134.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 135.45,
+      "end": 140.4,
+      "text": "She said that living with me was bringing her down, yeah",
+      "words": [
+        {
+          "text": "She",
+          "start": 135.45,
+          "end": 135.77,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 135.77,
+          "end": 136.2,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 136.2,
+          "end": 136.63,
+          "probability": 1
+        },
+        {
+          "text": "living",
+          "start": 136.63,
+          "end": 137.28,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 137.28,
+          "end": 137.71,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 137.71,
+          "end": 137.93,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 137.93,
+          "end": 138.25,
+          "probability": 1
+        },
+        {
+          "text": "bringing",
+          "start": 138.25,
+          "end": 139.11,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 139.11,
+          "end": 139.43,
+          "probability": 1
+        },
+        {
+          "text": "down,",
+          "start": 139.43,
+          "end": 139.97,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 139.97,
+          "end": 140.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 143.21,
+      "end": 147.77,
+      "text": "For she would never be free when I was around",
+      "words": [
+        {
+          "text": "For",
+          "start": 143.21,
+          "end": 143.59,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 143.59,
+          "end": 143.97,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 143.97,
+          "end": 144.6,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 144.6,
+          "end": 145.23,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 145.23,
+          "end": 145.48,
+          "probability": 1
+        },
+        {
+          "text": "free",
+          "start": 145.48,
+          "end": 145.99,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 145.99,
+          "end": 146.5,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 146.5,
+          "end": 146.63,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 146.63,
+          "end": 147.01,
+          "probability": 1
+        },
+        {
+          "text": "around",
+          "start": 147.01,
+          "end": 147.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 150.33,
+      "end": 153.74,
+      "text": "Oh, she's got a ticket to ride",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 150.33,
+          "end": 150.76,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 150.76,
+          "end": 151.47,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 151.47,
+          "end": 151.9,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 151.9,
+          "end": 152.04,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 152.04,
+          "end": 152.89,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 152.89,
+          "end": 153.17,
+          "probability": 1
+        },
+        {
+          "text": "ride",
+          "start": 153.17,
+          "end": 153.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.02,
+      "end": 158.05,
+      "text": "She's got a ticket to ride",
+      "words": [
+        {
+          "text": "She's",
+          "start": 155.02,
+          "end": 155.74,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 155.74,
+          "end": 156.17,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 156.17,
+          "end": 156.31,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 156.31,
+          "end": 157.18,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 157.18,
+          "end": 157.47,
+          "probability": 1
+        },
+        {
+          "text": "ride",
+          "start": 157.47,
+          "end": 158.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 159.25,
+      "end": 164.19,
+      "text": "She's got a ticket to ride, but she don't care",
+      "words": [
+        {
+          "text": "She's",
+          "start": 159.25,
+          "end": 159.92,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 159.92,
+          "end": 160.32,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 160.32,
+          "end": 160.45,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 160.45,
+          "end": 161.25,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 161.25,
+          "end": 161.52,
+          "probability": 1
+        },
+        {
+          "text": "ride,",
+          "start": 161.52,
+          "end": 162.19,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 162.19,
+          "end": 162.59,
+          "probability": 1
+        },
+        {
+          "text": "she",
+          "start": 162.59,
+          "end": 162.99,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 162.99,
+          "end": 163.66,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 163.66,
+          "end": 164.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 165.32,
+      "end": 167.6,
+      "text": "My baby don't care",
+      "words": [
+        {
+          "text": "My",
+          "start": 165.32,
+          "end": 165.62,
+          "probability": 1
+        },
+        {
+          "text": "baby",
+          "start": 165.62,
+          "end": 166.23,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 166.23,
+          "end": 166.99,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 166.99,
+          "end": 167.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 168.87,
+      "end": 171.15,
+      "text": "My baby don't care",
+      "words": [
+        {
+          "text": "My",
+          "start": 168.87,
+          "end": 169.17,
+          "probability": 1
+        },
+        {
+          "text": "baby",
+          "start": 169.17,
+          "end": 169.78,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 169.78,
+          "end": 170.54,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 170.54,
+          "end": 171.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 172.8,
+      "end": 175.08,
+      "text": "My baby don't care",
+      "words": [
+        {
+          "text": "My",
+          "start": 172.8,
+          "end": 173.1,
+          "probability": 1
+        },
+        {
+          "text": "baby",
+          "start": 173.1,
+          "end": 173.71,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 173.71,
+          "end": 174.47,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 174.47,
+          "end": 175.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 176.99,
+      "end": 179.27,
+      "text": "My baby don't care",
+      "words": [
+        {
+          "text": "My",
+          "start": 176.99,
+          "end": 177.29,
+          "probability": 1
+        },
+        {
+          "text": "baby",
+          "start": 177.29,
+          "end": 177.9,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 177.9,
+          "end": 178.66,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 178.66,
+          "end": 179.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 180.46,
+      "end": 182.74,
+      "text": "My baby don't care",
+      "words": [
+        {
+          "text": "My",
+          "start": 180.46,
+          "end": 180.76,
+          "probability": 1
+        },
+        {
+          "text": "baby",
+          "start": 180.76,
+          "end": 181.37,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 181.37,
+          "end": 182.13,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 182.13,
+          "end": 182.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 184.58,
+      "end": 186.86,
+      "text": "My baby don't care",
+      "words": [
+        {
+          "text": "My",
+          "start": 184.58,
+          "end": 184.88,
+          "probability": 1
+        },
+        {
+          "text": "baby",
+          "start": 184.88,
+          "end": 185.49,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 185.49,
+          "end": 186.25,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 186.25,
+          "end": 186.86,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "I think I'm gonna be sad, I think it's today, yeah The girl that's driving me mad is going away She's got a ticket to ride She's got a ticket to ride She's got a ticket to ride, but she don't care She said that living with me is bringing her down, yeah She would never be free when I was around She's got a ticket to ride She's got a ticket to ride She's got a ticket to ride, but she don't care I don't know why she's riding so high She ought to think twice, she ought to do right by me Before she gets to saying goodbye She ought to think twice, she ought to do right by me I think I'm going to be sad, I think it's today, yeah The girl that's driving me mad is going away, yeah Oh, she's got a ticket to ride She's got a ticket to ride She's got a ticket to ride, but she don't care I don't know why she's riding so high She ought to think twice, she ought to do right by me Before she gets to saying goodbye She ought to think twice, she ought to do right by me She said that living with me was bringing her down, yeah For she would never be free when I was around Oh, she's got a ticket to ride She's got a ticket to ride She's got a ticket to ride, but she don't care My baby don't care My baby don't care My baby don't care My baby don't care My baby don't care My baby don't care"
+}

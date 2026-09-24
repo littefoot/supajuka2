@@ -1,0 +1,19 @@
+{
+  "id": "flac_5cfe3a8269a9",
+  "source": "local",
+  "title": "Here Comes The Sun (2019 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 \u2013 1970 (2023 Edition)",
+  "duration": 187,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_5cfe3a8269a9/cover.jpg",
+  "cachedAt": 1790184209921,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_5cfe3a8269a9/original.flac",
+  "instrumentalUrl": "/audio/flac_5cfe3a8269a9/instrumental.flac",
+  "vocalsUrl": "/audio/flac_5cfe3a8269a9/vocals.flac"
+}

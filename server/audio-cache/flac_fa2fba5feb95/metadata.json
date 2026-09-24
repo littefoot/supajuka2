@@ -1,0 +1,19 @@
+{
+  "id": "flac_fa2fba5feb95",
+  "source": "local",
+  "title": "While My Guitar Gently Weeps (2018 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 287,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_fa2fba5feb95/cover.jpg",
+  "cachedAt": 1790184286696,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_fa2fba5feb95/original.flac",
+  "instrumentalUrl": "/audio/flac_fa2fba5feb95/instrumental.flac",
+  "vocalsUrl": "/audio/flac_fa2fba5feb95/vocals.flac"
+}

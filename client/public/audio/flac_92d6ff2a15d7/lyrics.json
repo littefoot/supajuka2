@@ -1,0 +1,6364 @@
+{
+  "language": "en",
+  "duration": 312,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0.06,
+      "end": 1.97,
+      "text": "Work it, make it, do it, makes us",
+      "words": [
+        {
+          "text": "Work",
+          "start": 0.06,
+          "end": 0.35,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 0.35,
+          "end": 0.57,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 0.57,
+          "end": 0.86,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 0.86,
+          "end": 1.08,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 1.08,
+          "end": 1.23,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 1.23,
+          "end": 1.45,
+          "probability": 1
+        },
+        {
+          "text": "makes",
+          "start": 1.45,
+          "end": 1.82,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 1.82,
+          "end": 1.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 2.22,
+      "end": 4.67,
+      "text": "Harder, better, faster, stronger",
+      "words": [
+        {
+          "text": "Harder,",
+          "start": 2.22,
+          "end": 2.81,
+          "probability": 1
+        },
+        {
+          "text": "better,",
+          "start": 2.81,
+          "end": 3.4,
+          "probability": 1
+        },
+        {
+          "text": "faster,",
+          "start": 3.4,
+          "end": 3.99,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 3.99,
+          "end": 4.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 4.92,
+      "end": 7.08,
+      "text": "N-now-now that, that don't kill me",
+      "words": [
+        {
+          "text": "N-now-now",
+          "start": 4.92,
+          "end": 5.59,
+          "probability": 1
+        },
+        {
+          "text": "that,",
+          "start": 5.59,
+          "end": 5.96,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 5.96,
+          "end": 6.26,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 6.26,
+          "end": 6.63,
+          "probability": 1
+        },
+        {
+          "text": "kill",
+          "start": 6.63,
+          "end": 6.93,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 6.93,
+          "end": 7.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 7.33,
+      "end": 9.57,
+      "text": "Can only make me stronger",
+      "words": [
+        {
+          "text": "Can",
+          "start": 7.33,
+          "end": 7.65,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 7.65,
+          "end": 8.08,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 8.08,
+          "end": 8.51,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 8.51,
+          "end": 8.72,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 8.72,
+          "end": 9.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 9.82,
+      "end": 11.76,
+      "text": "I need you to hurry up now",
+      "words": [
+        {
+          "text": "I",
+          "start": 9.82,
+          "end": 9.94,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 9.94,
+          "end": 10.32,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 10.32,
+          "end": 10.61,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 10.61,
+          "end": 10.8,
+          "probability": 1
+        },
+        {
+          "text": "hurry",
+          "start": 10.8,
+          "end": 11.28,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 11.28,
+          "end": 11.47,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 11.47,
+          "end": 11.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 11.97,
+      "end": 13.92,
+      "text": "'Cause I can't wait much longer",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 11.97,
+          "end": 12.41,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 12.41,
+          "end": 12.53,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 12.53,
+          "end": 12.9,
+          "probability": 1
+        },
+        {
+          "text": "wait",
+          "start": 12.9,
+          "end": 13.19,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 13.19,
+          "end": 13.48,
+          "probability": 1
+        },
+        {
+          "text": "longer",
+          "start": 13.48,
+          "end": 13.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 14.12,
+      "end": 16.32,
+      "text": "I know I got to be right now",
+      "words": [
+        {
+          "text": "I",
+          "start": 14.12,
+          "end": 14.24,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 14.24,
+          "end": 14.65,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 14.65,
+          "end": 14.77,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 14.77,
+          "end": 15.08,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 15.08,
+          "end": 15.29,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 15.29,
+          "end": 15.5,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 15.5,
+          "end": 16.01,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 16.01,
+          "end": 16.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 16.53,
+      "end": 18.82,
+      "text": "'Cause I can't get much wronger",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 16.53,
+          "end": 17.05,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 17.05,
+          "end": 17.17,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 17.17,
+          "end": 17.6,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 17.6,
+          "end": 17.86,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 17.86,
+          "end": 18.21,
+          "probability": 1
+        },
+        {
+          "text": "wronger",
+          "start": 18.21,
+          "end": 18.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 19.04,
+      "end": 20.98,
+      "text": "Man, I been waiting all night now",
+      "words": [
+        {
+          "text": "Man,",
+          "start": 19.04,
+          "end": 19.32,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 19.32,
+          "end": 19.44,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 19.44,
+          "end": 19.72,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 19.72,
+          "end": 20.21,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 20.21,
+          "end": 20.42,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 20.42,
+          "end": 20.77,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 20.77,
+          "end": 20.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 21.18,
+      "end": 22.94,
+      "text": "That's how long I been on ya'",
+      "words": [
+        {
+          "text": "That's",
+          "start": 21.18,
+          "end": 21.63,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 21.63,
+          "end": 21.85,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 21.85,
+          "end": 22.15,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 22.15,
+          "end": 22.27,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 22.27,
+          "end": 22.57,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 22.57,
+          "end": 22.72,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 22.72,
+          "end": 22.94,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 23.15,
+      "end": 25.15,
+      "text": "Work it harder, make it better",
+      "words": [
+        {
+          "text": "Work",
+          "start": 23.15,
+          "end": 23.47,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 23.47,
+          "end": 23.63,
+          "probability": 1
+        },
+        {
+          "text": "harder,",
+          "start": 23.63,
+          "end": 24.19,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 24.19,
+          "end": 24.51,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 24.51,
+          "end": 24.67,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 24.67,
+          "end": 25.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 25.39,
+      "end": 26.21,
+      "text": "Do it faster, makes us stronger",
+      "words": [
+        {
+          "text": "Do",
+          "start": 25.39,
+          "end": 25.51,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 25.51,
+          "end": 25.63,
+          "probability": 1
+        },
+        {
+          "text": "faster,",
+          "start": 25.63,
+          "end": 25.79,
+          "probability": 1
+        },
+        {
+          "text": "makes",
+          "start": 25.79,
+          "end": 25.91,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 25.91,
+          "end": 26.03,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 26.03,
+          "end": 26.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 26.24,
+      "end": 27.66,
+      "text": "(I need you right now, right now!)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 26.24,
+          "end": 26.36,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 26.36,
+          "end": 26.56,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 26.56,
+          "end": 26.71,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 26.71,
+          "end": 26.96,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 26.96,
+          "end": 27.16,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 27.16,
+          "end": 27.41,
+          "probability": 1
+        },
+        {
+          "text": "now!)",
+          "start": 27.41,
+          "end": 27.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 27.89,
+      "end": 28.49,
+      "text": "More than ever",
+      "words": [
+        {
+          "text": "More",
+          "start": 27.89,
+          "end": 28.09,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 28.09,
+          "end": 28.29,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 28.29,
+          "end": 28.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 28.67,
+      "end": 30.58,
+      "text": "Hour after hour work",
+      "words": [
+        {
+          "text": "Hour",
+          "start": 28.67,
+          "end": 29.12,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 29.12,
+          "end": 29.68,
+          "probability": 1
+        },
+        {
+          "text": "hour",
+          "start": 29.68,
+          "end": 30.13,
+          "probability": 1
+        },
+        {
+          "text": "work",
+          "start": 30.13,
+          "end": 30.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 30.88,
+      "end": 31.81,
+      "text": "(I need you right now, right now!)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 30.88,
+          "end": 31,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 31,
+          "end": 31.12,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 31.12,
+          "end": 31.24,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 31.24,
+          "end": 31.39,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 31.39,
+          "end": 31.51,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 31.51,
+          "end": 31.66,
+          "probability": 1
+        },
+        {
+          "text": "now!)",
+          "start": 31.66,
+          "end": 31.81,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 31.98,
+      "end": 33.06,
+      "text": "Let's get lost tonight",
+      "words": [
+        {
+          "text": "Let's",
+          "start": 31.98,
+          "end": 32.26,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 32.26,
+          "end": 32.43,
+          "probability": 1
+        },
+        {
+          "text": "lost",
+          "start": 32.43,
+          "end": 32.66,
+          "probability": 1
+        },
+        {
+          "text": "tonight",
+          "start": 32.66,
+          "end": 33.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 33.31,
+      "end": 35.48,
+      "text": "You could be my black Kate Moss tonight",
+      "words": [
+        {
+          "text": "You",
+          "start": 33.31,
+          "end": 33.51,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 33.51,
+          "end": 33.85,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 33.85,
+          "end": 33.99,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 33.99,
+          "end": 34.13,
+          "probability": 1
+        },
+        {
+          "text": "black",
+          "start": 34.13,
+          "end": 34.47,
+          "probability": 1
+        },
+        {
+          "text": "Kate",
+          "start": 34.47,
+          "end": 34.74,
+          "probability": 1
+        },
+        {
+          "text": "Moss",
+          "start": 34.74,
+          "end": 35.01,
+          "probability": 1
+        },
+        {
+          "text": "tonight",
+          "start": 35.01,
+          "end": 35.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.73,
+      "end": 37.51,
+      "text": "Play secretary, I'm the boss tonight",
+      "words": [
+        {
+          "text": "Play",
+          "start": 35.73,
+          "end": 35.96,
+          "probability": 1
+        },
+        {
+          "text": "secretary,",
+          "start": 35.96,
+          "end": 36.54,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 36.54,
+          "end": 36.71,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 36.71,
+          "end": 36.88,
+          "probability": 1
+        },
+        {
+          "text": "boss",
+          "start": 36.88,
+          "end": 37.11,
+          "probability": 1
+        },
+        {
+          "text": "tonight",
+          "start": 37.11,
+          "end": 37.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 37.77,
+      "end": 40.18,
+      "text": "And you 'on't give a fuck what they all say, right?",
+      "words": [
+        {
+          "text": "And",
+          "start": 37.77,
+          "end": 37.94,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 37.94,
+          "end": 38.11,
+          "probability": 1
+        },
+        {
+          "text": "'on't",
+          "start": 38.11,
+          "end": 38.4,
+          "probability": 1
+        },
+        {
+          "text": "give",
+          "start": 38.4,
+          "end": 38.63,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 38.63,
+          "end": 38.75,
+          "probability": 1
+        },
+        {
+          "text": "fuck",
+          "start": 38.75,
+          "end": 38.98,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 38.98,
+          "end": 39.21,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 39.21,
+          "end": 39.44,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 39.44,
+          "end": 39.61,
+          "probability": 1
+        },
+        {
+          "text": "say,",
+          "start": 39.61,
+          "end": 39.84,
+          "probability": 1
+        },
+        {
+          "text": "right?",
+          "start": 39.84,
+          "end": 40.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 40.36,
+      "end": 42.61,
+      "text": "Awesome, the Christian in Christian Dior",
+      "words": [
+        {
+          "text": "Awesome,",
+          "start": 40.36,
+          "end": 40.87,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 40.87,
+          "end": 41.06,
+          "probability": 1
+        },
+        {
+          "text": "Christian",
+          "start": 41.06,
+          "end": 41.64,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 41.64,
+          "end": 41.77,
+          "probability": 1
+        },
+        {
+          "text": "Christian",
+          "start": 41.77,
+          "end": 42.35,
+          "probability": 1
+        },
+        {
+          "text": "Dior",
+          "start": 42.35,
+          "end": 42.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.86,
+      "end": 44.95,
+      "text": "Damn, they 'on't make 'em like this anymore",
+      "words": [
+        {
+          "text": "Damn,",
+          "start": 42.86,
+          "end": 43.15,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 43.15,
+          "end": 43.38,
+          "probability": 1
+        },
+        {
+          "text": "'on't",
+          "start": 43.38,
+          "end": 43.67,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 43.67,
+          "end": 43.9,
+          "probability": 1
+        },
+        {
+          "text": "'em",
+          "start": 43.9,
+          "end": 44.08,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 44.08,
+          "end": 44.31,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 44.31,
+          "end": 44.54,
+          "probability": 1
+        },
+        {
+          "text": "anymore",
+          "start": 44.54,
+          "end": 44.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.21,
+      "end": 46.93,
+      "text": "I ask, 'cause I'm not sure",
+      "words": [
+        {
+          "text": "I",
+          "start": 45.21,
+          "end": 45.33,
+          "probability": 1
+        },
+        {
+          "text": "ask,",
+          "start": 45.33,
+          "end": 45.65,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 45.65,
+          "end": 46.13,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 46.13,
+          "end": 46.37,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 46.37,
+          "end": 46.61,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 46.61,
+          "end": 46.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 47.14,
+      "end": 49.46,
+      "text": "Do anybody make real shit anymore?",
+      "words": [
+        {
+          "text": "Do",
+          "start": 47.14,
+          "end": 47.3,
+          "probability": 1
+        },
+        {
+          "text": "anybody",
+          "start": 47.3,
+          "end": 47.86,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 47.86,
+          "end": 48.18,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 48.18,
+          "end": 48.5,
+          "probability": 1
+        },
+        {
+          "text": "shit",
+          "start": 48.5,
+          "end": 48.82,
+          "probability": 1
+        },
+        {
+          "text": "anymore?",
+          "start": 48.82,
+          "end": 49.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 49.72,
+      "end": 51.72,
+      "text": "Bow in the presence of greatness",
+      "words": [
+        {
+          "text": "Bow",
+          "start": 49.72,
+          "end": 49.94,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 49.94,
+          "end": 50.09,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 50.09,
+          "end": 50.31,
+          "probability": 1
+        },
+        {
+          "text": "presence",
+          "start": 50.31,
+          "end": 50.9,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 50.9,
+          "end": 51.05,
+          "probability": 1
+        },
+        {
+          "text": "greatness",
+          "start": 51.05,
+          "end": 51.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.97,
+      "end": 53.96,
+      "text": "'Cause right now thou hast forsaken us",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 51.97,
+          "end": 52.34,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 52.34,
+          "end": 52.65,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 52.65,
+          "end": 52.84,
+          "probability": 1
+        },
+        {
+          "text": "thou",
+          "start": 52.84,
+          "end": 53.09,
+          "probability": 1
+        },
+        {
+          "text": "hast",
+          "start": 53.09,
+          "end": 53.34,
+          "probability": 1
+        },
+        {
+          "text": "forsaken",
+          "start": 53.34,
+          "end": 53.84,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 53.84,
+          "end": 53.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 54.21,
+      "end": 56.01,
+      "text": "You should be honored by my lateness",
+      "words": [
+        {
+          "text": "You",
+          "start": 54.21,
+          "end": 54.39,
+          "probability": 1
+        },
+        {
+          "text": "should",
+          "start": 54.39,
+          "end": 54.75,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 54.75,
+          "end": 54.87,
+          "probability": 1
+        },
+        {
+          "text": "honored",
+          "start": 54.87,
+          "end": 55.29,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 55.29,
+          "end": 55.41,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 55.41,
+          "end": 55.53,
+          "probability": 1
+        },
+        {
+          "text": "lateness",
+          "start": 55.53,
+          "end": 56.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 56.25,
+      "end": 58.28,
+      "text": "That I would even show up to this fake shit",
+      "words": [
+        {
+          "text": "That",
+          "start": 56.25,
+          "end": 56.48,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 56.48,
+          "end": 56.6,
+          "probability": 1
+        },
+        {
+          "text": "would",
+          "start": 56.6,
+          "end": 56.89,
+          "probability": 1
+        },
+        {
+          "text": "even",
+          "start": 56.89,
+          "end": 57.12,
+          "probability": 1
+        },
+        {
+          "text": "show",
+          "start": 57.12,
+          "end": 57.35,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 57.35,
+          "end": 57.47,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 57.47,
+          "end": 57.59,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 57.59,
+          "end": 57.82,
+          "probability": 1
+        },
+        {
+          "text": "fake",
+          "start": 57.82,
+          "end": 58.05,
+          "probability": 1
+        },
+        {
+          "text": "shit",
+          "start": 58.05,
+          "end": 58.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 58.48,
+      "end": 60.57,
+      "text": "So go ahead, go nuts, go apeshit",
+      "words": [
+        {
+          "text": "So",
+          "start": 58.48,
+          "end": 58.64,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 58.64,
+          "end": 58.8,
+          "probability": 1
+        },
+        {
+          "text": "ahead,",
+          "start": 58.8,
+          "end": 59.28,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 59.28,
+          "end": 59.44,
+          "probability": 1
+        },
+        {
+          "text": "nuts,",
+          "start": 59.44,
+          "end": 59.84,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 59.84,
+          "end": 60,
+          "probability": 1
+        },
+        {
+          "text": "apeshit",
+          "start": 60,
+          "end": 60.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 60.83,
+      "end": 62.93,
+      "text": "'Specially in my Pastellé, on my Bape shit",
+      "words": [
+        {
+          "text": "'Specially",
+          "start": 60.83,
+          "end": 61.43,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 61.43,
+          "end": 61.55,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 61.55,
+          "end": 61.67,
+          "probability": 1
+        },
+        {
+          "text": "Pastellé,",
+          "start": 61.67,
+          "end": 62.21,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 62.21,
+          "end": 62.33,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 62.33,
+          "end": 62.45,
+          "probability": 1
+        },
+        {
+          "text": "Bape",
+          "start": 62.45,
+          "end": 62.69,
+          "probability": 1
+        },
+        {
+          "text": "shit",
+          "start": 62.69,
+          "end": 62.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 63.19,
+      "end": 64.91,
+      "text": "Act like you can't tell who made this",
+      "words": [
+        {
+          "text": "Act",
+          "start": 63.19,
+          "end": 63.36,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 63.36,
+          "end": 63.59,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 63.59,
+          "end": 63.76,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 63.76,
+          "end": 64.05,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 64.05,
+          "end": 64.28,
+          "probability": 1
+        },
+        {
+          "text": "who",
+          "start": 64.28,
+          "end": 64.45,
+          "probability": 1
+        },
+        {
+          "text": "made",
+          "start": 64.45,
+          "end": 64.68,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 64.68,
+          "end": 64.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 65.15,
+      "end": 67.12,
+      "text": "New Gospel, homie, take six",
+      "words": [
+        {
+          "text": "New",
+          "start": 65.15,
+          "end": 65.41,
+          "probability": 1
+        },
+        {
+          "text": "Gospel,",
+          "start": 65.41,
+          "end": 66.01,
+          "probability": 1
+        },
+        {
+          "text": "homie,",
+          "start": 66.01,
+          "end": 66.52,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 66.52,
+          "end": 66.86,
+          "probability": 1
+        },
+        {
+          "text": "six",
+          "start": 66.86,
+          "end": 67.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 67.36,
+      "end": 69.26,
+      "text": "And take this, haters!",
+      "words": [
+        {
+          "text": "And",
+          "start": 67.36,
+          "end": 67.66,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 67.66,
+          "end": 68.06,
+          "probability": 1
+        },
+        {
+          "text": "this,",
+          "start": 68.06,
+          "end": 68.56,
+          "probability": 1
+        },
+        {
+          "text": "haters!",
+          "start": 68.56,
+          "end": 69.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.52,
+      "end": 71.84,
+      "text": "N-now-now that, that don't kill me",
+      "words": [
+        {
+          "text": "N-now-now",
+          "start": 69.52,
+          "end": 70.24,
+          "probability": 1
+        },
+        {
+          "text": "that,",
+          "start": 70.24,
+          "end": 70.64,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 70.64,
+          "end": 70.96,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 70.96,
+          "end": 71.36,
+          "probability": 1
+        },
+        {
+          "text": "kill",
+          "start": 71.36,
+          "end": 71.68,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 71.68,
+          "end": 71.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 72.09,
+      "end": 74.12,
+      "text": "Can only make me stronger",
+      "words": [
+        {
+          "text": "Can",
+          "start": 72.09,
+          "end": 72.38,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 72.38,
+          "end": 72.77,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 72.77,
+          "end": 73.16,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 73.16,
+          "end": 73.35,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 73.35,
+          "end": 74.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 74.37,
+      "end": 76.37,
+      "text": "I need you to hurry up now",
+      "words": [
+        {
+          "text": "I",
+          "start": 74.37,
+          "end": 74.49,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 74.49,
+          "end": 74.88,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 74.88,
+          "end": 75.18,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 75.18,
+          "end": 75.38,
+          "probability": 1
+        },
+        {
+          "text": "hurry",
+          "start": 75.38,
+          "end": 75.87,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 75.87,
+          "end": 76.07,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 76.07,
+          "end": 76.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 76.59,
+      "end": 78.59,
+      "text": "'Cause I can't wait much longer",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 76.59,
+          "end": 77.04,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 77.04,
+          "end": 77.16,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 77.16,
+          "end": 77.54,
+          "probability": 1
+        },
+        {
+          "text": "wait",
+          "start": 77.54,
+          "end": 77.84,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 77.84,
+          "end": 78.14,
+          "probability": 1
+        },
+        {
+          "text": "longer",
+          "start": 78.14,
+          "end": 78.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 78.81,
+      "end": 81.08,
+      "text": "I know I got to be right now",
+      "words": [
+        {
+          "text": "I",
+          "start": 78.81,
+          "end": 78.93,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 78.93,
+          "end": 79.36,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 79.36,
+          "end": 79.48,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 79.48,
+          "end": 79.8,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 79.8,
+          "end": 80.01,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 80.01,
+          "end": 80.22,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 80.22,
+          "end": 80.76,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 80.76,
+          "end": 81.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.31,
+      "end": 83.32,
+      "text": "'Cause I can't get much wronger",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 81.31,
+          "end": 81.76,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 81.76,
+          "end": 81.88,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 81.88,
+          "end": 82.26,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 82.26,
+          "end": 82.49,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 82.49,
+          "end": 82.79,
+          "probability": 1
+        },
+        {
+          "text": "wronger",
+          "start": 82.79,
+          "end": 83.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 83.52,
+      "end": 85.57,
+      "text": "Man, I been waiting all night now",
+      "words": [
+        {
+          "text": "Man,",
+          "start": 83.52,
+          "end": 83.82,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 83.82,
+          "end": 83.94,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 83.94,
+          "end": 84.24,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 84.24,
+          "end": 84.76,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 84.76,
+          "end": 84.98,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 84.98,
+          "end": 85.35,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 85.35,
+          "end": 85.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 85.79,
+      "end": 87.45,
+      "text": "That's how long I been on ya'",
+      "words": [
+        {
+          "text": "That's",
+          "start": 85.79,
+          "end": 86.21,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 86.21,
+          "end": 86.42,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 86.42,
+          "end": 86.7,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 86.7,
+          "end": 86.82,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 86.82,
+          "end": 87.1,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 87.1,
+          "end": 87.24,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 87.24,
+          "end": 87.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 87.66,
+      "end": 89.57,
+      "text": "Work it harder, make it better",
+      "words": [
+        {
+          "text": "Work",
+          "start": 87.66,
+          "end": 87.97,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 87.97,
+          "end": 88.12,
+          "probability": 1
+        },
+        {
+          "text": "harder,",
+          "start": 88.12,
+          "end": 88.65,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 88.65,
+          "end": 88.96,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 88.96,
+          "end": 89.11,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 89.11,
+          "end": 89.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 89.82,
+      "end": 90.84,
+      "text": "Do it faster, makes us stronger",
+      "words": [
+        {
+          "text": "Do",
+          "start": 89.82,
+          "end": 89.94,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 89.94,
+          "end": 90.06,
+          "probability": 1
+        },
+        {
+          "text": "faster,",
+          "start": 90.06,
+          "end": 90.29,
+          "probability": 1
+        },
+        {
+          "text": "makes",
+          "start": 90.29,
+          "end": 90.46,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 90.46,
+          "end": 90.58,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 90.58,
+          "end": 90.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 90.93,
+      "end": 92.1,
+      "text": "(I need you right now, now!)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 90.93,
+          "end": 91.05,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 91.05,
+          "end": 91.25,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 91.25,
+          "end": 91.4,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 91.4,
+          "end": 91.65,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 91.65,
+          "end": 91.85,
+          "probability": 1
+        },
+        {
+          "text": "now!)",
+          "start": 91.85,
+          "end": 92.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.35,
+      "end": 93.16,
+      "text": "More than ever",
+      "words": [
+        {
+          "text": "More",
+          "start": 92.35,
+          "end": 92.62,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 92.62,
+          "end": 92.89,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 92.89,
+          "end": 93.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 93.4,
+      "end": 95.06,
+      "text": "Hour after hour work",
+      "words": [
+        {
+          "text": "Hour",
+          "start": 93.4,
+          "end": 93.79,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 93.79,
+          "end": 94.28,
+          "probability": 1
+        },
+        {
+          "text": "hour",
+          "start": 94.28,
+          "end": 94.67,
+          "probability": 1
+        },
+        {
+          "text": "work",
+          "start": 94.67,
+          "end": 95.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.31,
+      "end": 97.21,
+      "text": "(I need you right now, right now!) Me likey",
+      "words": [
+        {
+          "text": "(I",
+          "start": 95.31,
+          "end": 95.43,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 95.43,
+          "end": 95.64,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 95.64,
+          "end": 95.8,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 95.8,
+          "end": 96.07,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 96.07,
+          "end": 96.28,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 96.28,
+          "end": 96.55,
+          "probability": 1
+        },
+        {
+          "text": "now!)",
+          "start": 96.55,
+          "end": 96.82,
+          "probability": 1
+        },
+        {
+          "text": "Me",
+          "start": 96.82,
+          "end": 96.94,
+          "probability": 1
+        },
+        {
+          "text": "likey",
+          "start": 96.94,
+          "end": 97.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 97.44,
+      "end": 99.93,
+      "text": "I don't know if you got a man or not",
+      "words": [
+        {
+          "text": "I",
+          "start": 97.44,
+          "end": 97.56,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 97.56,
+          "end": 98.01,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 98.01,
+          "end": 98.37,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 98.37,
+          "end": 98.55,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 98.55,
+          "end": 98.82,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 98.82,
+          "end": 99.09,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 99.09,
+          "end": 99.21,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 99.21,
+          "end": 99.48,
+          "probability": 1
+        },
+        {
+          "text": "or",
+          "start": 99.48,
+          "end": 99.66,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 99.66,
+          "end": 99.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 100.1,
+      "end": 102,
+      "text": "If you made plans or not",
+      "words": [
+        {
+          "text": "If",
+          "start": 100.1,
+          "end": 100.3,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 100.3,
+          "end": 100.6,
+          "probability": 1
+        },
+        {
+          "text": "made",
+          "start": 100.6,
+          "end": 101,
+          "probability": 1
+        },
+        {
+          "text": "plans",
+          "start": 101,
+          "end": 101.5,
+          "probability": 1
+        },
+        {
+          "text": "or",
+          "start": 101.5,
+          "end": 101.7,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 101.7,
+          "end": 102,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.24,
+      "end": 103.89,
+      "text": "If God put me in your plans or not",
+      "words": [
+        {
+          "text": "If",
+          "start": 102.24,
+          "end": 102.37,
+          "probability": 1
+        },
+        {
+          "text": "God",
+          "start": 102.37,
+          "end": 102.56,
+          "probability": 1
+        },
+        {
+          "text": "put",
+          "start": 102.56,
+          "end": 102.75,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 102.75,
+          "end": 102.88,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 102.88,
+          "end": 103.01,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 103.01,
+          "end": 103.26,
+          "probability": 1
+        },
+        {
+          "text": "plans",
+          "start": 103.26,
+          "end": 103.57,
+          "probability": 1
+        },
+        {
+          "text": "or",
+          "start": 103.57,
+          "end": 103.7,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 103.7,
+          "end": 103.89,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 104.12,
+      "end": 106.48,
+      "text": "I'm trippin', this drink got me saying a lot",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 104.12,
+          "end": 104.31,
+          "probability": 1
+        },
+        {
+          "text": "trippin',",
+          "start": 104.31,
+          "end": 104.89,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 104.89,
+          "end": 105.15,
+          "probability": 1
+        },
+        {
+          "text": "drink",
+          "start": 105.15,
+          "end": 105.47,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 105.47,
+          "end": 105.66,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 105.66,
+          "end": 105.79,
+          "probability": 1
+        },
+        {
+          "text": "saying",
+          "start": 105.79,
+          "end": 106.17,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 106.17,
+          "end": 106.29,
+          "probability": 1
+        },
+        {
+          "text": "lot",
+          "start": 106.29,
+          "end": 106.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 106.67,
+      "end": 108.99,
+      "text": "But I know that God put you in front of me",
+      "words": [
+        {
+          "text": "But",
+          "start": 106.67,
+          "end": 106.88,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 106.88,
+          "end": 107,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 107,
+          "end": 107.29,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 107.29,
+          "end": 107.58,
+          "probability": 1
+        },
+        {
+          "text": "God",
+          "start": 107.58,
+          "end": 107.79,
+          "probability": 1
+        },
+        {
+          "text": "put",
+          "start": 107.79,
+          "end": 108,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 108,
+          "end": 108.21,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 108.21,
+          "end": 108.35,
+          "probability": 1
+        },
+        {
+          "text": "front",
+          "start": 108.35,
+          "end": 108.71,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 108.71,
+          "end": 108.85,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 108.85,
+          "end": 108.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.21,
+      "end": 110.75,
+      "text": "So how the hell could you front on me?",
+      "words": [
+        {
+          "text": "So",
+          "start": 109.21,
+          "end": 109.33,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 109.33,
+          "end": 109.48,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 109.48,
+          "end": 109.63,
+          "probability": 1
+        },
+        {
+          "text": "hell",
+          "start": 109.63,
+          "end": 109.83,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 109.83,
+          "end": 110.08,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 110.08,
+          "end": 110.23,
+          "probability": 1
+        },
+        {
+          "text": "front",
+          "start": 110.23,
+          "end": 110.48,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 110.48,
+          "end": 110.6,
+          "probability": 1
+        },
+        {
+          "text": "me?",
+          "start": 110.6,
+          "end": 110.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 110.93,
+      "end": 113.15,
+      "text": "There's a thousand you's, there's only one of me",
+      "words": [
+        {
+          "text": "There's",
+          "start": 110.93,
+          "end": 111.3,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 111.3,
+          "end": 111.42,
+          "probability": 1
+        },
+        {
+          "text": "thousand",
+          "start": 111.42,
+          "end": 111.85,
+          "probability": 1
+        },
+        {
+          "text": "you's,",
+          "start": 111.85,
+          "end": 112.17,
+          "probability": 1
+        },
+        {
+          "text": "there's",
+          "start": 112.17,
+          "end": 112.54,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 112.54,
+          "end": 112.75,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 112.75,
+          "end": 112.91,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 112.91,
+          "end": 113.03,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 113.03,
+          "end": 113.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 113.32,
+      "end": 115.78,
+      "text": "I'm trippin', I'm caught up in the moment, right?",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 113.32,
+          "end": 113.5,
+          "probability": 1
+        },
+        {
+          "text": "trippin',",
+          "start": 113.5,
+          "end": 114.04,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 114.04,
+          "end": 114.22,
+          "probability": 1
+        },
+        {
+          "text": "caught",
+          "start": 114.22,
+          "end": 114.58,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 114.58,
+          "end": 114.7,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 114.7,
+          "end": 114.82,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 114.82,
+          "end": 115,
+          "probability": 1
+        },
+        {
+          "text": "moment,",
+          "start": 115,
+          "end": 115.42,
+          "probability": 1
+        },
+        {
+          "text": "right?",
+          "start": 115.42,
+          "end": 115.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 116.03,
+      "end": 117.87,
+      "text": "'Cause it's Louis Vuitton Don night",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 116.03,
+          "end": 116.4,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 116.4,
+          "end": 116.64,
+          "probability": 1
+        },
+        {
+          "text": "Louis",
+          "start": 116.64,
+          "end": 116.95,
+          "probability": 1
+        },
+        {
+          "text": "Vuitton",
+          "start": 116.95,
+          "end": 117.38,
+          "probability": 1
+        },
+        {
+          "text": "Don",
+          "start": 117.38,
+          "end": 117.56,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 117.56,
+          "end": 117.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 118.11,
+      "end": 120.11,
+      "text": "So we gon' do everything that Kan like",
+      "words": [
+        {
+          "text": "So",
+          "start": 118.11,
+          "end": 118.24,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 118.24,
+          "end": 118.37,
+          "probability": 1
+        },
+        {
+          "text": "gon'",
+          "start": 118.37,
+          "end": 118.63,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 118.63,
+          "end": 118.76,
+          "probability": 1
+        },
+        {
+          "text": "everything",
+          "start": 118.76,
+          "end": 119.4,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 119.4,
+          "end": 119.66,
+          "probability": 1
+        },
+        {
+          "text": "Kan",
+          "start": 119.66,
+          "end": 119.85,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 119.85,
+          "end": 120.11,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 120.34,
+      "end": 122.58,
+      "text": "Heard they'd do anything for a Klondike",
+      "words": [
+        {
+          "text": "Heard",
+          "start": 120.34,
+          "end": 120.67,
+          "probability": 1
+        },
+        {
+          "text": "they'd",
+          "start": 120.67,
+          "end": 121.07,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 121.07,
+          "end": 121.2,
+          "probability": 1
+        },
+        {
+          "text": "anything",
+          "start": 121.2,
+          "end": 121.73,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 121.73,
+          "end": 121.93,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 121.93,
+          "end": 122.05,
+          "probability": 1
+        },
+        {
+          "text": "Klondike",
+          "start": 122.05,
+          "end": 122.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 122.78,
+      "end": 124.9,
+      "text": "Well, I'd do anything for a blonde dyke",
+      "words": [
+        {
+          "text": "Well,",
+          "start": 122.78,
+          "end": 123.1,
+          "probability": 1
+        },
+        {
+          "text": "I'd",
+          "start": 123.1,
+          "end": 123.29,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 123.29,
+          "end": 123.42,
+          "probability": 1
+        },
+        {
+          "text": "anything",
+          "start": 123.42,
+          "end": 123.94,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 123.94,
+          "end": 124.13,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 124.13,
+          "end": 124.25,
+          "probability": 1
+        },
+        {
+          "text": "blonde",
+          "start": 124.25,
+          "end": 124.64,
+          "probability": 1
+        },
+        {
+          "text": "dyke",
+          "start": 124.64,
+          "end": 124.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.1,
+      "end": 127.14,
+      "text": "And she'll do anything for the limelight",
+      "words": [
+        {
+          "text": "And",
+          "start": 125.1,
+          "end": 125.28,
+          "probability": 1
+        },
+        {
+          "text": "she'll",
+          "start": 125.28,
+          "end": 125.64,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 125.64,
+          "end": 125.76,
+          "probability": 1
+        },
+        {
+          "text": "anything",
+          "start": 125.76,
+          "end": 126.24,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 126.24,
+          "end": 126.42,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 126.42,
+          "end": 126.6,
+          "probability": 1
+        },
+        {
+          "text": "limelight",
+          "start": 126.6,
+          "end": 127.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 127.38,
+      "end": 129.82,
+      "text": "And we'll do anything when the time's right",
+      "words": [
+        {
+          "text": "And",
+          "start": 127.38,
+          "end": 127.58,
+          "probability": 1
+        },
+        {
+          "text": "we'll",
+          "start": 127.58,
+          "end": 127.92,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 127.92,
+          "end": 128.06,
+          "probability": 1
+        },
+        {
+          "text": "anything",
+          "start": 128.06,
+          "end": 128.6,
+          "probability": 1
+        },
+        {
+          "text": "when",
+          "start": 128.6,
+          "end": 128.87,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 128.87,
+          "end": 129.07,
+          "probability": 1
+        },
+        {
+          "text": "time's",
+          "start": 129.07,
+          "end": 129.48,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 129.48,
+          "end": 129.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 130.08,
+      "end": 131.4,
+      "text": "Uh, baby, you're makin' it",
+      "words": [
+        {
+          "text": "Uh,",
+          "start": 130.08,
+          "end": 130.26,
+          "probability": 1
+        },
+        {
+          "text": "baby,",
+          "start": 130.26,
+          "end": 130.56,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 130.56,
+          "end": 130.92,
+          "probability": 1
+        },
+        {
+          "text": "makin'",
+          "start": 130.92,
+          "end": 131.28,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 131.28,
+          "end": 131.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 131.65,
+      "end": 133.78,
+      "text": "(Harder, better, faster, stronger) oh",
+      "words": [
+        {
+          "text": "(Harder,",
+          "start": 131.65,
+          "end": 132.17,
+          "probability": 1
+        },
+        {
+          "text": "better,",
+          "start": 132.17,
+          "end": 132.62,
+          "probability": 1
+        },
+        {
+          "text": "faster,",
+          "start": 132.62,
+          "end": 133.07,
+          "probability": 1
+        },
+        {
+          "text": "stronger)",
+          "start": 133.07,
+          "end": 133.65,
+          "probability": 1
+        },
+        {
+          "text": "oh",
+          "start": 133.65,
+          "end": 133.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 134.04,
+      "end": 136.53,
+      "text": "N-now-now that, that don't kill me (oh)",
+      "words": [
+        {
+          "text": "N-now-now",
+          "start": 134.04,
+          "end": 134.72,
+          "probability": 1
+        },
+        {
+          "text": "that,",
+          "start": 134.72,
+          "end": 135.1,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 135.1,
+          "end": 135.4,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 135.4,
+          "end": 135.78,
+          "probability": 1
+        },
+        {
+          "text": "kill",
+          "start": 135.78,
+          "end": 136.08,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 136.08,
+          "end": 136.23,
+          "probability": 1
+        },
+        {
+          "text": "(oh)",
+          "start": 136.23,
+          "end": 136.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 136.79,
+      "end": 138.71,
+      "text": "Can only make me stronger (oh)",
+      "words": [
+        {
+          "text": "Can",
+          "start": 136.79,
+          "end": 137.02,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 137.02,
+          "end": 137.33,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 137.33,
+          "end": 137.64,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 137.64,
+          "end": 137.79,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 137.79,
+          "end": 138.4,
+          "probability": 1
+        },
+        {
+          "text": "(oh)",
+          "start": 138.4,
+          "end": 138.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 138.95,
+      "end": 141.19,
+      "text": "I need you to hurry up now (oh)",
+      "words": [
+        {
+          "text": "I",
+          "start": 138.95,
+          "end": 139.07,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 139.07,
+          "end": 139.44,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 139.44,
+          "end": 139.72,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 139.72,
+          "end": 139.9,
+          "probability": 1
+        },
+        {
+          "text": "hurry",
+          "start": 139.9,
+          "end": 140.36,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 140.36,
+          "end": 140.54,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 140.54,
+          "end": 140.82,
+          "probability": 1
+        },
+        {
+          "text": "(oh)",
+          "start": 140.82,
+          "end": 141.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 141.41,
+      "end": 143.41,
+      "text": "'Cause I can't wait much longer (oh)",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 141.41,
+          "end": 141.8,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 141.8,
+          "end": 141.92,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 141.92,
+          "end": 142.24,
+          "probability": 1
+        },
+        {
+          "text": "wait",
+          "start": 142.24,
+          "end": 142.5,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 142.5,
+          "end": 142.76,
+          "probability": 1
+        },
+        {
+          "text": "longer",
+          "start": 142.76,
+          "end": 143.15,
+          "probability": 1
+        },
+        {
+          "text": "(oh)",
+          "start": 143.15,
+          "end": 143.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 143.59,
+      "end": 145.67,
+      "text": "I know I got to be right now (oh)",
+      "words": [
+        {
+          "text": "I",
+          "start": 143.59,
+          "end": 143.71,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 143.71,
+          "end": 144.03,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 144.03,
+          "end": 144.15,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 144.15,
+          "end": 144.39,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 144.39,
+          "end": 144.55,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 144.55,
+          "end": 144.71,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 144.71,
+          "end": 145.11,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 145.11,
+          "end": 145.35,
+          "probability": 1
+        },
+        {
+          "text": "(oh)",
+          "start": 145.35,
+          "end": 145.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 145.85,
+      "end": 148.03,
+      "text": "'Cause I can't get much wronger (oh)",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 145.85,
+          "end": 146.28,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 146.28,
+          "end": 146.4,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 146.4,
+          "end": 146.76,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 146.76,
+          "end": 146.97,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 146.97,
+          "end": 147.25,
+          "probability": 1
+        },
+        {
+          "text": "wronger",
+          "start": 147.25,
+          "end": 147.75,
+          "probability": 1
+        },
+        {
+          "text": "(oh)",
+          "start": 147.75,
+          "end": 148.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 148.23,
+      "end": 150.24,
+      "text": "Man, I been waiting all night now",
+      "words": [
+        {
+          "text": "Man,",
+          "start": 148.23,
+          "end": 148.52,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 148.52,
+          "end": 148.64,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 148.64,
+          "end": 148.93,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 148.93,
+          "end": 149.44,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 149.44,
+          "end": 149.66,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 149.66,
+          "end": 150.02,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 150.02,
+          "end": 150.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 150.43,
+      "end": 152.14,
+      "text": "That's how long I been on ya'",
+      "words": [
+        {
+          "text": "That's",
+          "start": 150.43,
+          "end": 150.86,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 150.86,
+          "end": 151.08,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 151.08,
+          "end": 151.37,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 151.37,
+          "end": 151.49,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 151.49,
+          "end": 151.78,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 151.78,
+          "end": 151.92,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 151.92,
+          "end": 152.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 152.34,
+      "end": 154.54,
+      "text": "Work it harder, make it better",
+      "words": [
+        {
+          "text": "Work",
+          "start": 152.34,
+          "end": 152.69,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 152.69,
+          "end": 152.87,
+          "probability": 1
+        },
+        {
+          "text": "harder,",
+          "start": 152.87,
+          "end": 153.48,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 153.48,
+          "end": 153.83,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 153.83,
+          "end": 154.01,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 154.01,
+          "end": 154.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 154.78,
+      "end": 155.61,
+      "text": "Do it faster, makes us stronger",
+      "words": [
+        {
+          "text": "Do",
+          "start": 154.78,
+          "end": 154.9,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 154.9,
+          "end": 155.02,
+          "probability": 1
+        },
+        {
+          "text": "faster,",
+          "start": 155.02,
+          "end": 155.18,
+          "probability": 1
+        },
+        {
+          "text": "makes",
+          "start": 155.18,
+          "end": 155.3,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 155.3,
+          "end": 155.42,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 155.42,
+          "end": 155.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.64,
+      "end": 156.86,
+      "text": "(I need you right now, now!)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 155.64,
+          "end": 155.76,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 155.76,
+          "end": 155.97,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 155.97,
+          "end": 156.13,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 156.13,
+          "end": 156.39,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 156.39,
+          "end": 156.6,
+          "probability": 1
+        },
+        {
+          "text": "now!)",
+          "start": 156.6,
+          "end": 156.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 157.08,
+      "end": 157.68,
+      "text": "More than ever",
+      "words": [
+        {
+          "text": "More",
+          "start": 157.08,
+          "end": 157.28,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 157.28,
+          "end": 157.48,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 157.48,
+          "end": 157.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 157.94,
+      "end": 159.9,
+      "text": "Hour after hour work is never over",
+      "words": [
+        {
+          "text": "Hour",
+          "start": 157.94,
+          "end": 158.22,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 158.22,
+          "end": 158.57,
+          "probability": 1
+        },
+        {
+          "text": "hour",
+          "start": 158.57,
+          "end": 158.85,
+          "probability": 1
+        },
+        {
+          "text": "work",
+          "start": 158.85,
+          "end": 159.13,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 159.13,
+          "end": 159.27,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 159.27,
+          "end": 159.62,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 159.62,
+          "end": 159.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 160.14,
+      "end": 161.65,
+      "text": "(I need you right now, right now!)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 160.14,
+          "end": 160.26,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 160.26,
+          "end": 160.47,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 160.47,
+          "end": 160.63,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 160.63,
+          "end": 160.9,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 160.9,
+          "end": 161.11,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 161.11,
+          "end": 161.38,
+          "probability": 1
+        },
+        {
+          "text": "now!)",
+          "start": 161.38,
+          "end": 161.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 161.89,
+      "end": 164.08,
+      "text": "You know how long I been on ya'",
+      "words": [
+        {
+          "text": "You",
+          "start": 161.89,
+          "end": 162.16,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 162.16,
+          "end": 162.52,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 162.52,
+          "end": 162.79,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 162.79,
+          "end": 163.15,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 163.15,
+          "end": 163.27,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 163.27,
+          "end": 163.63,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 163.63,
+          "end": 163.81,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 163.81,
+          "end": 164.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164.29,
+      "end": 166.09,
+      "text": "Since Prince was on Apollonia",
+      "words": [
+        {
+          "text": "Since",
+          "start": 164.29,
+          "end": 164.65,
+          "probability": 1
+        },
+        {
+          "text": "Prince",
+          "start": 164.65,
+          "end": 165.08,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 165.08,
+          "end": 165.3,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 165.3,
+          "end": 165.44,
+          "probability": 1
+        },
+        {
+          "text": "Apollonia",
+          "start": 165.44,
+          "end": 166.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 166.35,
+      "end": 168.59,
+      "text": "Since O.J. had Isotoners",
+      "words": [
+        {
+          "text": "Since",
+          "start": 166.35,
+          "end": 166.88,
+          "probability": 1
+        },
+        {
+          "text": "O.J.",
+          "start": 166.88,
+          "end": 167.31,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 167.31,
+          "end": 167.63,
+          "probability": 1
+        },
+        {
+          "text": "Isotoners",
+          "start": 167.63,
+          "end": 168.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 168.84,
+      "end": 170.7,
+      "text": "Don't act like I never told ya'",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 168.84,
+          "end": 169.2,
+          "probability": 1
+        },
+        {
+          "text": "act",
+          "start": 169.2,
+          "end": 169.42,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 169.42,
+          "end": 169.71,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 169.71,
+          "end": 169.83,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 169.83,
+          "end": 170.19,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 170.19,
+          "end": 170.48,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 170.48,
+          "end": 170.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 170.91,
+      "end": 173.17,
+      "text": "(Work it, work is never over)",
+      "words": [
+        {
+          "text": "(Work",
+          "start": 170.91,
+          "end": 171.38,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 171.38,
+          "end": 171.66,
+          "probability": 1
+        },
+        {
+          "text": "work",
+          "start": 171.66,
+          "end": 172.04,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 172.04,
+          "end": 172.23,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 172.23,
+          "end": 172.7,
+          "probability": 1
+        },
+        {
+          "text": "over)",
+          "start": 172.7,
+          "end": 173.17,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 173.43,
+      "end": 175.18,
+      "text": "Don't act like I (never) told ya'",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 173.43,
+          "end": 173.74,
+          "probability": 1
+        },
+        {
+          "text": "act",
+          "start": 173.74,
+          "end": 173.93,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 173.93,
+          "end": 174.18,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 174.18,
+          "end": 174.3,
+          "probability": 1
+        },
+        {
+          "text": "(never)",
+          "start": 174.3,
+          "end": 174.74,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 174.74,
+          "end": 174.99,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 174.99,
+          "end": 175.18,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 175.36,
+      "end": 176.8,
+      "text": "(Harder, work is never over)",
+      "words": [
+        {
+          "text": "(Harder,",
+          "start": 175.36,
+          "end": 175.84,
+          "probability": 1
+        },
+        {
+          "text": "work",
+          "start": 175.84,
+          "end": 176.08,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 176.08,
+          "end": 176.2,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 176.2,
+          "end": 176.5,
+          "probability": 1
+        },
+        {
+          "text": "over)",
+          "start": 176.5,
+          "end": 176.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 177.05,
+      "end": 180.14,
+      "text": "Uh, don't act like I (never) told ya'",
+      "words": [
+        {
+          "text": "Uh,",
+          "start": 177.05,
+          "end": 177.36,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 177.36,
+          "end": 177.87,
+          "probability": 1
+        },
+        {
+          "text": "act",
+          "start": 177.87,
+          "end": 178.18,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 178.18,
+          "end": 178.59,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 178.59,
+          "end": 178.71,
+          "probability": 1
+        },
+        {
+          "text": "(never)",
+          "start": 178.71,
+          "end": 179.42,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 179.42,
+          "end": 179.83,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 179.83,
+          "end": 180.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 180.35,
+      "end": 182.21,
+      "text": "Don't act like I (never) told ya'",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 180.35,
+          "end": 180.68,
+          "probability": 1
+        },
+        {
+          "text": "act",
+          "start": 180.68,
+          "end": 180.88,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 180.88,
+          "end": 181.15,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 181.15,
+          "end": 181.27,
+          "probability": 1
+        },
+        {
+          "text": "(never)",
+          "start": 181.27,
+          "end": 181.74,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 181.74,
+          "end": 182.01,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 182.01,
+          "end": 182.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 182.4,
+      "end": 185.23,
+      "text": "Don't act like I (never) told ya'",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 182.4,
+          "end": 182.92,
+          "probability": 1
+        },
+        {
+          "text": "act",
+          "start": 182.92,
+          "end": 183.23,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 183.23,
+          "end": 183.65,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 183.65,
+          "end": 183.77,
+          "probability": 1
+        },
+        {
+          "text": "(never)",
+          "start": 183.77,
+          "end": 184.5,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 184.5,
+          "end": 184.92,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 184.92,
+          "end": 185.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 185.46,
+      "end": 186.75,
+      "text": "Uh, baby, you're makin' it",
+      "words": [
+        {
+          "text": "Uh,",
+          "start": 185.46,
+          "end": 185.64,
+          "probability": 1
+        },
+        {
+          "text": "baby,",
+          "start": 185.64,
+          "end": 185.93,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 185.93,
+          "end": 186.28,
+          "probability": 1
+        },
+        {
+          "text": "makin'",
+          "start": 186.28,
+          "end": 186.63,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 186.63,
+          "end": 186.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 187,
+      "end": 189.34,
+      "text": "(Harder, better, faster, stronger)",
+      "words": [
+        {
+          "text": "(Harder,",
+          "start": 187,
+          "end": 187.6,
+          "probability": 1
+        },
+        {
+          "text": "better,",
+          "start": 187.6,
+          "end": 188.13,
+          "probability": 1
+        },
+        {
+          "text": "faster,",
+          "start": 188.13,
+          "end": 188.66,
+          "probability": 1
+        },
+        {
+          "text": "stronger)",
+          "start": 188.66,
+          "end": 189.34,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 189.59,
+      "end": 191.72,
+      "text": "N-now-now that, that don't kill me",
+      "words": [
+        {
+          "text": "N-now-now",
+          "start": 189.59,
+          "end": 190.25,
+          "probability": 1
+        },
+        {
+          "text": "that,",
+          "start": 190.25,
+          "end": 190.62,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 190.62,
+          "end": 190.91,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 190.91,
+          "end": 191.28,
+          "probability": 1
+        },
+        {
+          "text": "kill",
+          "start": 191.28,
+          "end": 191.57,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 191.57,
+          "end": 191.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 191.96,
+      "end": 194.22,
+      "text": "Can only make me stronger",
+      "words": [
+        {
+          "text": "Can",
+          "start": 191.96,
+          "end": 192.28,
+          "probability": 1
+        },
+        {
+          "text": "only",
+          "start": 192.28,
+          "end": 192.71,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 192.71,
+          "end": 193.14,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 193.14,
+          "end": 193.36,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 193.36,
+          "end": 194.22,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 194.48,
+      "end": 196.35,
+      "text": "I need you to hurry up now",
+      "words": [
+        {
+          "text": "I",
+          "start": 194.48,
+          "end": 194.6,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 194.6,
+          "end": 194.97,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 194.97,
+          "end": 195.25,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 195.25,
+          "end": 195.43,
+          "probability": 1
+        },
+        {
+          "text": "hurry",
+          "start": 195.43,
+          "end": 195.89,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 195.89,
+          "end": 196.07,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 196.07,
+          "end": 196.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 196.57,
+      "end": 198.52,
+      "text": "'Cause I can't wait much longer",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 196.57,
+          "end": 197.01,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 197.01,
+          "end": 197.13,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 197.13,
+          "end": 197.5,
+          "probability": 1
+        },
+        {
+          "text": "wait",
+          "start": 197.5,
+          "end": 197.79,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 197.79,
+          "end": 198.08,
+          "probability": 1
+        },
+        {
+          "text": "longer",
+          "start": 198.08,
+          "end": 198.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 198.72,
+      "end": 200.99,
+      "text": "I know I got to be right now",
+      "words": [
+        {
+          "text": "I",
+          "start": 198.72,
+          "end": 198.84,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 198.84,
+          "end": 199.27,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 199.27,
+          "end": 199.39,
+          "probability": 1
+        },
+        {
+          "text": "got",
+          "start": 199.39,
+          "end": 199.71,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 199.71,
+          "end": 199.92,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 199.92,
+          "end": 200.13,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 200.13,
+          "end": 200.67,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 200.67,
+          "end": 200.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 201.22,
+      "end": 203.45,
+      "text": "'Cause I can't get much wronger",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 201.22,
+          "end": 201.73,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 201.73,
+          "end": 201.85,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 201.85,
+          "end": 202.27,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 202.27,
+          "end": 202.52,
+          "probability": 1
+        },
+        {
+          "text": "much",
+          "start": 202.52,
+          "end": 202.86,
+          "probability": 1
+        },
+        {
+          "text": "wronger",
+          "start": 202.86,
+          "end": 203.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 203.67,
+      "end": 205.67,
+      "text": "Man, I been waiting all night now",
+      "words": [
+        {
+          "text": "Man,",
+          "start": 203.67,
+          "end": 203.96,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 203.96,
+          "end": 204.08,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 204.08,
+          "end": 204.37,
+          "probability": 1
+        },
+        {
+          "text": "waiting",
+          "start": 204.37,
+          "end": 204.87,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 204.87,
+          "end": 205.09,
+          "probability": 1
+        },
+        {
+          "text": "night",
+          "start": 205.09,
+          "end": 205.45,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 205.45,
+          "end": 205.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 205.86,
+      "end": 207.35,
+      "text": "That's how long I been on ya'",
+      "words": [
+        {
+          "text": "That's",
+          "start": 205.86,
+          "end": 206.23,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 206.23,
+          "end": 206.42,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 206.42,
+          "end": 206.67,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 206.67,
+          "end": 206.79,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 206.79,
+          "end": 207.04,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 207.04,
+          "end": 207.16,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 207.16,
+          "end": 207.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 207.54,
+      "end": 209.71,
+      "text": "Work it harder, make it better",
+      "words": [
+        {
+          "text": "Work",
+          "start": 207.54,
+          "end": 207.89,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 207.89,
+          "end": 208.06,
+          "probability": 1
+        },
+        {
+          "text": "harder,",
+          "start": 208.06,
+          "end": 208.67,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 208.67,
+          "end": 209.02,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 209.02,
+          "end": 209.19,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 209.19,
+          "end": 209.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 209.96,
+      "end": 210.78,
+      "text": "Do it faster, makes us stronger",
+      "words": [
+        {
+          "text": "Do",
+          "start": 209.96,
+          "end": 210.08,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 210.08,
+          "end": 210.2,
+          "probability": 1
+        },
+        {
+          "text": "faster,",
+          "start": 210.2,
+          "end": 210.36,
+          "probability": 1
+        },
+        {
+          "text": "makes",
+          "start": 210.36,
+          "end": 210.48,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 210.48,
+          "end": 210.6,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 210.6,
+          "end": 210.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 210.81,
+      "end": 212.19,
+      "text": "(I need you right now, now!)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 210.81,
+          "end": 210.93,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 210.93,
+          "end": 211.17,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 211.17,
+          "end": 211.35,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 211.35,
+          "end": 211.65,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 211.65,
+          "end": 211.89,
+          "probability": 1
+        },
+        {
+          "text": "now!)",
+          "start": 211.89,
+          "end": 212.19,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 212.46,
+      "end": 213.12,
+      "text": "More than ever",
+      "words": [
+        {
+          "text": "More",
+          "start": 212.46,
+          "end": 212.68,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 212.68,
+          "end": 212.9,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 212.9,
+          "end": 213.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 213.38,
+      "end": 215.32,
+      "text": "Hour after hour work is never over",
+      "words": [
+        {
+          "text": "Hour",
+          "start": 213.38,
+          "end": 213.66,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 213.66,
+          "end": 214,
+          "probability": 1
+        },
+        {
+          "text": "hour",
+          "start": 214,
+          "end": 214.28,
+          "probability": 1
+        },
+        {
+          "text": "work",
+          "start": 214.28,
+          "end": 214.56,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 214.56,
+          "end": 214.7,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 214.7,
+          "end": 215.04,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 215.04,
+          "end": 215.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 215.56,
+      "end": 216.67,
+      "text": "(I need you right now, right now!)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 215.56,
+          "end": 215.68,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 215.68,
+          "end": 215.83,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 215.83,
+          "end": 215.95,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 215.95,
+          "end": 216.14,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 216.14,
+          "end": 216.29,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 216.29,
+          "end": 216.48,
+          "probability": 1
+        },
+        {
+          "text": "now!)",
+          "start": 216.48,
+          "end": 216.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 216.85,
+      "end": 219.09,
+      "text": "Work it harder, make it better",
+      "words": [
+        {
+          "text": "Work",
+          "start": 216.85,
+          "end": 217.21,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 217.21,
+          "end": 217.39,
+          "probability": 1
+        },
+        {
+          "text": "harder,",
+          "start": 217.39,
+          "end": 218.01,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 218.01,
+          "end": 218.37,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 218.37,
+          "end": 218.55,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 218.55,
+          "end": 219.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 219.33,
+      "end": 220.15,
+      "text": "Do it faster, makes us stronger",
+      "words": [
+        {
+          "text": "Do",
+          "start": 219.33,
+          "end": 219.45,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 219.45,
+          "end": 219.57,
+          "probability": 1
+        },
+        {
+          "text": "faster,",
+          "start": 219.57,
+          "end": 219.73,
+          "probability": 1
+        },
+        {
+          "text": "makes",
+          "start": 219.73,
+          "end": 219.85,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 219.85,
+          "end": 219.97,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 219.97,
+          "end": 220.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 219.94,
+      "end": 221.25,
+      "text": "(I need you right now, now!)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 219.94,
+          "end": 220.06,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 220.06,
+          "end": 220.29,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 220.29,
+          "end": 220.46,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 220.46,
+          "end": 220.74,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 220.74,
+          "end": 220.97,
+          "probability": 1
+        },
+        {
+          "text": "now!)",
+          "start": 220.97,
+          "end": 221.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 221.5,
+      "end": 222.43,
+      "text": "More than ever",
+      "words": [
+        {
+          "text": "More",
+          "start": 221.5,
+          "end": 221.81,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 221.81,
+          "end": 222.12,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 222.12,
+          "end": 222.43,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 222.68,
+      "end": 224.58,
+      "text": "Hour after hour work is never over",
+      "words": [
+        {
+          "text": "Hour",
+          "start": 222.68,
+          "end": 222.95,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 222.95,
+          "end": 223.29,
+          "probability": 1
+        },
+        {
+          "text": "hour",
+          "start": 223.29,
+          "end": 223.56,
+          "probability": 1
+        },
+        {
+          "text": "work",
+          "start": 223.56,
+          "end": 223.83,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 223.83,
+          "end": 223.97,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 223.97,
+          "end": 224.31,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 224.31,
+          "end": 224.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 224.84,
+      "end": 226.26,
+      "text": "(I need you right now, right now!)",
+      "words": [
+        {
+          "text": "(I",
+          "start": 224.84,
+          "end": 224.96,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 224.96,
+          "end": 225.16,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 225.16,
+          "end": 225.31,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 225.31,
+          "end": 225.56,
+          "probability": 1
+        },
+        {
+          "text": "now,",
+          "start": 225.56,
+          "end": 225.76,
+          "probability": 1
+        },
+        {
+          "text": "right",
+          "start": 225.76,
+          "end": 226.01,
+          "probability": 1
+        },
+        {
+          "text": "now!)",
+          "start": 226.01,
+          "end": 226.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 226.49,
+      "end": 228.61,
+      "text": "You know how long I been on ya'",
+      "words": [
+        {
+          "text": "You",
+          "start": 226.49,
+          "end": 226.75,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 226.75,
+          "end": 227.1,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 227.1,
+          "end": 227.36,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 227.36,
+          "end": 227.71,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 227.71,
+          "end": 227.83,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 227.83,
+          "end": 228.18,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 228.18,
+          "end": 228.35,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 228.35,
+          "end": 228.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 228.83,
+      "end": 230.83,
+      "text": "Since Prince was on Apollonia",
+      "words": [
+        {
+          "text": "Since",
+          "start": 228.83,
+          "end": 229.23,
+          "probability": 1
+        },
+        {
+          "text": "Prince",
+          "start": 229.23,
+          "end": 229.71,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 229.71,
+          "end": 229.95,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 229.95,
+          "end": 230.11,
+          "probability": 1
+        },
+        {
+          "text": "Apollonia",
+          "start": 230.11,
+          "end": 230.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 231.08,
+      "end": 233.17,
+      "text": "Since O.J. had Isotoners",
+      "words": [
+        {
+          "text": "Since",
+          "start": 231.08,
+          "end": 231.58,
+          "probability": 1
+        },
+        {
+          "text": "O.J.",
+          "start": 231.58,
+          "end": 231.98,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 231.98,
+          "end": 232.28,
+          "probability": 1
+        },
+        {
+          "text": "Isotoners",
+          "start": 232.28,
+          "end": 233.17,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 233.41,
+      "end": 235.63,
+      "text": "Don't act like I never told ya'",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 233.41,
+          "end": 233.85,
+          "probability": 1
+        },
+        {
+          "text": "act",
+          "start": 233.85,
+          "end": 234.11,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 234.11,
+          "end": 234.46,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 234.46,
+          "end": 234.58,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 234.58,
+          "end": 235.02,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 235.02,
+          "end": 235.37,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 235.37,
+          "end": 235.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 235.86,
+      "end": 237.82,
+      "text": "You know how long I been on ya'",
+      "words": [
+        {
+          "text": "You",
+          "start": 235.86,
+          "end": 236.1,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 236.1,
+          "end": 236.42,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 236.42,
+          "end": 236.66,
+          "probability": 1
+        },
+        {
+          "text": "long",
+          "start": 236.66,
+          "end": 236.98,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 236.98,
+          "end": 237.1,
+          "probability": 1
+        },
+        {
+          "text": "been",
+          "start": 237.1,
+          "end": 237.42,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 237.42,
+          "end": 237.58,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 237.58,
+          "end": 237.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 238.05,
+      "end": 240.02,
+      "text": "Since Prince was on Apollonia",
+      "words": [
+        {
+          "text": "Since",
+          "start": 238.05,
+          "end": 238.44,
+          "probability": 1
+        },
+        {
+          "text": "Prince",
+          "start": 238.44,
+          "end": 238.91,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 238.91,
+          "end": 239.15,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 239.15,
+          "end": 239.31,
+          "probability": 1
+        },
+        {
+          "text": "Apollonia",
+          "start": 239.31,
+          "end": 240.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 240.26,
+      "end": 242.36,
+      "text": "Since O.J. had Isotoners",
+      "words": [
+        {
+          "text": "Since",
+          "start": 240.26,
+          "end": 240.76,
+          "probability": 1
+        },
+        {
+          "text": "O.J.",
+          "start": 240.76,
+          "end": 241.16,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 241.16,
+          "end": 241.46,
+          "probability": 1
+        },
+        {
+          "text": "Isotoners",
+          "start": 241.46,
+          "end": 242.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 242.62,
+      "end": 244.96,
+      "text": "Don't act like I never told ya', told ya', told ya'",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 242.62,
+          "end": 242.9,
+          "probability": 1
+        },
+        {
+          "text": "act",
+          "start": 242.9,
+          "end": 243.07,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 243.07,
+          "end": 243.29,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 243.29,
+          "end": 243.41,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 243.41,
+          "end": 243.69,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 243.69,
+          "end": 243.91,
+          "probability": 1
+        },
+        {
+          "text": "ya',",
+          "start": 243.91,
+          "end": 244.13,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 244.13,
+          "end": 244.35,
+          "probability": 1
+        },
+        {
+          "text": "ya',",
+          "start": 244.35,
+          "end": 244.57,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 244.57,
+          "end": 244.79,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 244.79,
+          "end": 244.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 245.15,
+      "end": 247.88,
+      "text": "Never told ya', told ya', told ya'",
+      "words": [
+        {
+          "text": "Never",
+          "start": 245.15,
+          "end": 245.64,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 245.64,
+          "end": 246.03,
+          "probability": 1
+        },
+        {
+          "text": "ya',",
+          "start": 246.03,
+          "end": 246.42,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 246.42,
+          "end": 246.81,
+          "probability": 1
+        },
+        {
+          "text": "ya',",
+          "start": 246.81,
+          "end": 247.2,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 247.2,
+          "end": 247.59,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 247.59,
+          "end": 247.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 248.13,
+      "end": 250.09,
+      "text": "Never told ya', told ya', told ya'",
+      "words": [
+        {
+          "text": "Never",
+          "start": 248.13,
+          "end": 248.48,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 248.48,
+          "end": 248.76,
+          "probability": 1
+        },
+        {
+          "text": "ya',",
+          "start": 248.76,
+          "end": 249.04,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 249.04,
+          "end": 249.32,
+          "probability": 1
+        },
+        {
+          "text": "ya',",
+          "start": 249.32,
+          "end": 249.6,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 249.6,
+          "end": 249.88,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 249.88,
+          "end": 250.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 250.32,
+      "end": 252.49,
+      "text": "Never told ya', told ya', told ya'",
+      "words": [
+        {
+          "text": "Never",
+          "start": 250.32,
+          "end": 250.71,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 250.71,
+          "end": 251.02,
+          "probability": 1
+        },
+        {
+          "text": "ya',",
+          "start": 251.02,
+          "end": 251.33,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 251.33,
+          "end": 251.64,
+          "probability": 1
+        },
+        {
+          "text": "ya',",
+          "start": 251.64,
+          "end": 251.95,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 251.95,
+          "end": 252.26,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 252.26,
+          "end": 252.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 252.74,
+      "end": 254.26,
+      "text": "Never told ya'",
+      "words": [
+        {
+          "text": "Never",
+          "start": 252.74,
+          "end": 253.37,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 253.37,
+          "end": 253.88,
+          "probability": 1
+        },
+        {
+          "text": "ya'",
+          "start": 253.88,
+          "end": 254.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 254.8,
+      "end": 260.88,
+      "text": "Never over, never over, never over, never over",
+      "words": [
+        {
+          "text": "Never",
+          "start": 254.8,
+          "end": 255.58,
+          "probability": 1
+        },
+        {
+          "text": "over,",
+          "start": 255.58,
+          "end": 256.36,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 256.36,
+          "end": 257.14,
+          "probability": 1
+        },
+        {
+          "text": "over,",
+          "start": 257.14,
+          "end": 257.92,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 257.92,
+          "end": 258.7,
+          "probability": 1
+        },
+        {
+          "text": "over,",
+          "start": 258.7,
+          "end": 259.48,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 259.48,
+          "end": 260.26,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 260.26,
+          "end": 260.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 264.1,
+      "end": 268.68,
+      "text": "Never over, never over, never over",
+      "words": [
+        {
+          "text": "Never",
+          "start": 264.1,
+          "end": 264.89,
+          "probability": 1
+        },
+        {
+          "text": "over,",
+          "start": 264.89,
+          "end": 265.68,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 265.68,
+          "end": 266.47,
+          "probability": 1
+        },
+        {
+          "text": "over,",
+          "start": 266.47,
+          "end": 267.26,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 267.26,
+          "end": 268.05,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 268.05,
+          "end": 268.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 269.91,
+      "end": 271.98,
+      "text": "Harder, better, faster, stronger",
+      "words": [
+        {
+          "text": "Harder,",
+          "start": 269.91,
+          "end": 270.41,
+          "probability": 1
+        },
+        {
+          "text": "better,",
+          "start": 270.41,
+          "end": 270.91,
+          "probability": 1
+        },
+        {
+          "text": "faster,",
+          "start": 270.91,
+          "end": 271.41,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 271.41,
+          "end": 271.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 272.22,
+      "end": 274.39,
+      "text": "Work it, harder make it better",
+      "words": [
+        {
+          "text": "Work",
+          "start": 272.22,
+          "end": 272.57,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 272.57,
+          "end": 272.83,
+          "probability": 1
+        },
+        {
+          "text": "harder",
+          "start": 272.83,
+          "end": 273.35,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 273.35,
+          "end": 273.7,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 273.7,
+          "end": 273.87,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 273.87,
+          "end": 274.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 274.63,
+      "end": 276.63,
+      "text": "Do it faster makes us stronger",
+      "words": [
+        {
+          "text": "Do",
+          "start": 274.63,
+          "end": 274.79,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 274.79,
+          "end": 274.95,
+          "probability": 1
+        },
+        {
+          "text": "faster",
+          "start": 274.95,
+          "end": 275.43,
+          "probability": 1
+        },
+        {
+          "text": "makes",
+          "start": 275.43,
+          "end": 275.83,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 275.83,
+          "end": 275.99,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 275.99,
+          "end": 276.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 276.89,
+      "end": 277.73,
+      "text": "More than ever",
+      "words": [
+        {
+          "text": "More",
+          "start": 276.89,
+          "end": 277.17,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 277.17,
+          "end": 277.45,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 277.45,
+          "end": 277.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 277.98,
+      "end": 281.33,
+      "text": "Hour after hour, work is never over",
+      "words": [
+        {
+          "text": "Hour",
+          "start": 277.98,
+          "end": 278.44,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 278.44,
+          "end": 279.02,
+          "probability": 1
+        },
+        {
+          "text": "hour,",
+          "start": 279.02,
+          "end": 279.6,
+          "probability": 1
+        },
+        {
+          "text": "work",
+          "start": 279.6,
+          "end": 280.06,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 280.06,
+          "end": 280.29,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 280.29,
+          "end": 280.87,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 280.87,
+          "end": 281.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 281.57,
+      "end": 283.7,
+      "text": "Work it, harder make it better",
+      "words": [
+        {
+          "text": "Work",
+          "start": 281.57,
+          "end": 281.91,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 281.91,
+          "end": 282.17,
+          "probability": 1
+        },
+        {
+          "text": "harder",
+          "start": 282.17,
+          "end": 282.68,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 282.68,
+          "end": 283.02,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 283.02,
+          "end": 283.19,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 283.19,
+          "end": 283.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 283.95,
+      "end": 285.85,
+      "text": "Do it faster makes us stronger",
+      "words": [
+        {
+          "text": "Do",
+          "start": 283.95,
+          "end": 284.1,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 284.1,
+          "end": 284.25,
+          "probability": 1
+        },
+        {
+          "text": "faster",
+          "start": 284.25,
+          "end": 284.71,
+          "probability": 1
+        },
+        {
+          "text": "makes",
+          "start": 284.71,
+          "end": 285.09,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 285.09,
+          "end": 285.24,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 285.24,
+          "end": 285.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 286.1,
+      "end": 286.97,
+      "text": "More than ever",
+      "words": [
+        {
+          "text": "More",
+          "start": 286.1,
+          "end": 286.39,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 286.39,
+          "end": 286.68,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 286.68,
+          "end": 286.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 287.23,
+      "end": 290.49,
+      "text": "Hour after hour, work is never over",
+      "words": [
+        {
+          "text": "Hour",
+          "start": 287.23,
+          "end": 287.68,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 287.68,
+          "end": 288.24,
+          "probability": 1
+        },
+        {
+          "text": "hour,",
+          "start": 288.24,
+          "end": 288.8,
+          "probability": 1
+        },
+        {
+          "text": "work",
+          "start": 288.8,
+          "end": 289.25,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 289.25,
+          "end": 289.48,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 289.48,
+          "end": 290.04,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 290.04,
+          "end": 290.49,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 290.75,
+      "end": 293,
+      "text": "Work it, harder make it better",
+      "words": [
+        {
+          "text": "Work",
+          "start": 290.75,
+          "end": 291.11,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 291.11,
+          "end": 291.38,
+          "probability": 1
+        },
+        {
+          "text": "harder",
+          "start": 291.38,
+          "end": 291.92,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 291.92,
+          "end": 292.28,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 292.28,
+          "end": 292.46,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 292.46,
+          "end": 293,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 293.26,
+      "end": 295.14,
+      "text": "Do it faster makes us stronger",
+      "words": [
+        {
+          "text": "Do",
+          "start": 293.26,
+          "end": 293.41,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 293.41,
+          "end": 293.56,
+          "probability": 1
+        },
+        {
+          "text": "faster",
+          "start": 293.56,
+          "end": 294.01,
+          "probability": 1
+        },
+        {
+          "text": "makes",
+          "start": 294.01,
+          "end": 294.39,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 294.39,
+          "end": 294.54,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 294.54,
+          "end": 295.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 295.39,
+      "end": 296.23,
+      "text": "More than ever",
+      "words": [
+        {
+          "text": "More",
+          "start": 295.39,
+          "end": 295.67,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 295.67,
+          "end": 295.95,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 295.95,
+          "end": 296.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 296.49,
+      "end": 299.75,
+      "text": "Hour after hour, work is never over",
+      "words": [
+        {
+          "text": "Hour",
+          "start": 296.49,
+          "end": 296.94,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 296.94,
+          "end": 297.5,
+          "probability": 1
+        },
+        {
+          "text": "hour,",
+          "start": 297.5,
+          "end": 298.06,
+          "probability": 1
+        },
+        {
+          "text": "work",
+          "start": 298.06,
+          "end": 298.51,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 298.51,
+          "end": 298.74,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 298.74,
+          "end": 299.3,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 299.3,
+          "end": 299.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 300.01,
+      "end": 302.14,
+      "text": "Work it, harder make it better",
+      "words": [
+        {
+          "text": "Work",
+          "start": 300.01,
+          "end": 300.35,
+          "probability": 1
+        },
+        {
+          "text": "it,",
+          "start": 300.35,
+          "end": 300.61,
+          "probability": 1
+        },
+        {
+          "text": "harder",
+          "start": 300.61,
+          "end": 301.12,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 301.12,
+          "end": 301.46,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 301.46,
+          "end": 301.63,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 301.63,
+          "end": 302.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 302.39,
+      "end": 304.4,
+      "text": "Do it faster makes us stronger",
+      "words": [
+        {
+          "text": "Do",
+          "start": 302.39,
+          "end": 302.55,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 302.55,
+          "end": 302.71,
+          "probability": 1
+        },
+        {
+          "text": "faster",
+          "start": 302.71,
+          "end": 303.19,
+          "probability": 1
+        },
+        {
+          "text": "makes",
+          "start": 303.19,
+          "end": 303.59,
+          "probability": 1
+        },
+        {
+          "text": "us",
+          "start": 303.59,
+          "end": 303.75,
+          "probability": 1
+        },
+        {
+          "text": "stronger",
+          "start": 303.75,
+          "end": 304.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 304.66,
+      "end": 305.5,
+      "text": "More than ever",
+      "words": [
+        {
+          "text": "More",
+          "start": 304.66,
+          "end": 304.94,
+          "probability": 1
+        },
+        {
+          "text": "than",
+          "start": 304.94,
+          "end": 305.22,
+          "probability": 1
+        },
+        {
+          "text": "ever",
+          "start": 305.22,
+          "end": 305.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 305.75,
+      "end": 309.52,
+      "text": "Hour after hour, work is never over",
+      "words": [
+        {
+          "text": "Hour",
+          "start": 305.75,
+          "end": 306.27,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 306.27,
+          "end": 306.92,
+          "probability": 1
+        },
+        {
+          "text": "hour,",
+          "start": 306.92,
+          "end": 307.57,
+          "probability": 1
+        },
+        {
+          "text": "work",
+          "start": 307.57,
+          "end": 308.09,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 308.09,
+          "end": 308.35,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 308.35,
+          "end": 309,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 309,
+          "end": 309.52,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Work it, make it, do it, makes us Harder, better, faster, stronger N-now-now that, that don't kill me Can only make me stronger I need you to hurry up now 'Cause I can't wait much longer I know I got to be right now 'Cause I can't get much wronger Man, I been waiting all night now That's how long I been on ya' Work it harder, make it better Do it faster, makes us stronger (I need you right now, right now!) More than ever Hour after hour work (I need you right now, right now!) Let's get lost tonight You could be my black Kate Moss tonight Play secretary, I'm the boss tonight And you 'on't give a fuck what they all say, right? Awesome, the Christian in Christian Dior Damn, they 'on't make 'em like this anymore I ask, 'cause I'm not sure Do anybody make real shit anymore? Bow in the presence of greatness 'Cause right now thou hast forsaken us You should be honored by my lateness That I would even show up to this fake shit So go ahead, go nuts, go apeshit 'Specially in my Pastellé, on my Bape shit Act like you can't tell who made this New Gospel, homie, take six And take this, haters! N-now-now that, that don't kill me Can only make me stronger I need you to hurry up now 'Cause I can't wait much longer I know I got to be right now 'Cause I can't get much wronger Man, I been waiting all night now That's how long I been on ya' Work it harder, make it better Do it faster, makes us stronger (I need you right now, now!) More than ever Hour after hour work (I need you right now, right now!) Me likey I don't know if you got a man or not If you made plans or not If God put me in your plans or not I'm trippin', this drink got me saying a lot But I know that God put you in front of me So how the hell could you front on me? There's a thousand you's, there's only one of me I'm trippin', I'm caught up in the moment, right? 'Cause it's Louis Vuitton Don night So we gon' do everything that Kan like Heard they'd do anything for a Klondike Well, I'd do anything for a blonde dyke And she'll do anything for the limelight And we'll do anything when the time's right Uh, baby, you're makin' it (Harder, better, faster, stronger) oh N-now-now that, that don't kill me (oh) Can only make me stronger (oh) I need you to hurry up now (oh) 'Cause I can't wait much longer (oh) I know I got to be right now (oh) 'Cause I can't get much wronger (oh) Man, I been waiting all night now That's how long I been on ya' Work it harder, make it better Do it faster, makes us stronger (I need you right now, now!) More than ever Hour after hour work is never over (I need you right now, right now!) You know how long I been on ya' Since Prince was on Apollonia Since O.J. had Isotoners Don't act like I never told ya' (Work it, work is never over) Don't act like I (never) told ya' (Harder, work is never over) Uh, don't act like I (never) told ya' Don't act like I (never) told ya' Don't act like I (never) told ya' Uh, baby, you're makin' it (Harder, better, faster, stronger) N-now-now that, that don't kill me Can only make me stronger I need you to hurry up now 'Cause I can't wait much longer I know I got to be right now 'Cause I can't get much wronger Man, I been waiting all night now That's how long I been on ya' Work it harder, make it better Do it faster, makes us stronger (I need you right now, now!) More than ever Hour after hour work is never over (I need you right now, right now!) Work it harder, make it better Do it faster, makes us stronger (I need you right now, now!) More than ever Hour after hour work is never over (I need you right now, right now!) You know how long I been on ya' Since Prince was on Apollonia Since O.J. had Isotoners Don't act like I never told ya' You know how long I been on ya' Since Prince was on Apollonia Since O.J. had Isotoners Don't act like I never told ya', told ya', told ya' Never told ya', told ya', told ya' Never told ya', told ya', told ya' Never told ya', told ya', told ya' Never told ya' Never over, never over, never over, never over Never over, never over, never over Harder, better, faster, stronger Work it, harder make it better Do it faster makes us stronger More than ever Hour after hour, work is never over Work it, harder make it better Do it faster makes us stronger More than ever Hour after hour, work is never over Work it, harder make it better Do it faster makes us stronger More than ever Hour after hour, work is never over Work it, harder make it better Do it faster makes us stronger More than ever Hour after hour, work is never over"
+}

@@ -1,0 +1,3146 @@
+{
+  "language": "en",
+  "duration": 251,
+  "source": "canonical_synced_lrc_calibrated",
+  "segments": [
+    {
+      "start": 0,
+      "end": 18.68,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 18.68,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 18.88,
+      "end": 20.68,
+      "text": "Just a small town girl",
+      "words": [
+        {
+          "text": "Just",
+          "start": 18.88,
+          "end": 19.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Just",
+              "start": 18.88,
+              "end": 19.08
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 19.08,
+          "end": 19.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 19.08,
+              "end": 19.48
+            }
+          ]
+        },
+        {
+          "text": "small",
+          "start": 19.48,
+          "end": 19.88,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "small",
+              "start": 19.48,
+              "end": 19.88
+            }
+          ]
+        },
+        {
+          "text": "town",
+          "start": 19.88,
+          "end": 20.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "town",
+              "start": 19.88,
+              "end": 20.28
+            }
+          ]
+        },
+        {
+          "text": "girl",
+          "start": 20.28,
+          "end": 20.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "girl",
+              "start": 20.28,
+              "end": 20.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 22.5,
+      "end": 25.39,
+      "text": "Livin' in a lonely world",
+      "words": [
+        {
+          "text": "Livin'",
+          "start": 22.5,
+          "end": 23.11,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Li",
+              "start": 22.5,
+              "end": 22.81
+            },
+            {
+              "text": "vin'",
+              "start": 22.81,
+              "end": 23.11
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 23.2,
+          "end": 23.49,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 23.2,
+              "end": 23.49
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 23.49,
+          "end": 23.87,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 23.49,
+              "end": 23.87
+            }
+          ]
+        },
+        {
+          "text": "lonely",
+          "start": 24.28,
+          "end": 25.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "lo",
+              "start": 24.28,
+              "end": 24.52
+            },
+            {
+              "text": "ne",
+              "start": 24.52,
+              "end": 24.77
+            },
+            {
+              "text": "ly",
+              "start": 24.77,
+              "end": 25.01
+            }
+          ]
+        },
+        {
+          "text": "world",
+          "start": 25.01,
+          "end": 25.39,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "world",
+              "start": 25.01,
+              "end": 25.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 27,
+      "end": 30.96,
+      "text": "She took the midnight train going anywhere",
+      "words": [
+        {
+          "text": "She",
+          "start": 27,
+          "end": 27.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "She",
+              "start": 27,
+              "end": 27.2
+            }
+          ]
+        },
+        {
+          "text": "took",
+          "start": 27.28,
+          "end": 27.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "took",
+              "start": 27.28,
+              "end": 27.54
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 27.54,
+          "end": 27.92,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 27.54,
+              "end": 27.92
+            }
+          ]
+        },
+        {
+          "text": "midnight",
+          "start": 27.92,
+          "end": 28.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "mid",
+              "start": 27.92,
+              "end": 28.3
+            },
+            {
+              "text": "night",
+              "start": 28.3,
+              "end": 28.68
+            }
+          ]
+        },
+        {
+          "text": "train",
+          "start": 28.84,
+          "end": 29.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "train",
+              "start": 28.84,
+              "end": 29.06
+            }
+          ]
+        },
+        {
+          "text": "going",
+          "start": 29.06,
+          "end": 29.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "going",
+              "start": 29.06,
+              "end": 29.44
+            }
+          ]
+        },
+        {
+          "text": "anywhere",
+          "start": 29.44,
+          "end": 30.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 29.44,
+              "end": 29.82
+            },
+            {
+              "text": "nyw",
+              "start": 29.82,
+              "end": 30.2
+            },
+            {
+              "text": "he",
+              "start": 30.2,
+              "end": 30.58
+            },
+            {
+              "text": "re",
+              "start": 30.58,
+              "end": 30.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 35.14,
+      "end": 37.06,
+      "text": "Just a city boy",
+      "words": [
+        {
+          "text": "Just",
+          "start": 35.14,
+          "end": 35.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Just",
+              "start": 35.14,
+              "end": 35.5
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 35.52,
+          "end": 35.88,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 35.52,
+              "end": 35.88
+            }
+          ]
+        },
+        {
+          "text": "city",
+          "start": 36.5,
+          "end": 36.64,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ci",
+              "start": 36.5,
+              "end": 36.7
+            },
+            {
+              "text": "ty",
+              "start": 36.7,
+              "end": 36.9
+            }
+          ]
+        },
+        {
+          "text": "boy",
+          "start": 36.68,
+          "end": 37.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "boy",
+              "start": 36.68,
+              "end": 37.06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 38.8,
+      "end": 41.82,
+      "text": "Born and raised in South Detroit",
+      "words": [
+        {
+          "text": "Born",
+          "start": 38.8,
+          "end": 39.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Born",
+              "start": 38.8,
+              "end": 39.16
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 39.16,
+          "end": 39.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 39.16,
+              "end": 39.54
+            }
+          ]
+        },
+        {
+          "text": "raised",
+          "start": 39.6,
+          "end": 40.3,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "rai",
+              "start": 39.6,
+              "end": 39.95
+            },
+            {
+              "text": "sed",
+              "start": 39.95,
+              "end": 40.3
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 40.3,
+          "end": 40.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 40.3,
+              "end": 40.68
+            }
+          ]
+        },
+        {
+          "text": "South",
+          "start": 40.68,
+          "end": 41.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "South",
+              "start": 40.68,
+              "end": 41.06
+            }
+          ]
+        },
+        {
+          "text": "Detroit",
+          "start": 41.06,
+          "end": 41.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Det",
+              "start": 41.06,
+              "end": 41.44
+            },
+            {
+              "text": "roit",
+              "start": 41.44,
+              "end": 41.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 43.34,
+      "end": 47.4,
+      "text": "He took the midnight train going anywhere",
+      "words": [
+        {
+          "text": "He",
+          "start": 43.34,
+          "end": 43.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "He",
+              "start": 43.34,
+              "end": 43.54
+            }
+          ]
+        },
+        {
+          "text": "took",
+          "start": 43.58,
+          "end": 43.88,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "took",
+              "start": 43.58,
+              "end": 43.88
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 44.02,
+          "end": 44.26,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 44.02,
+              "end": 44.26
+            }
+          ]
+        },
+        {
+          "text": "midnight",
+          "start": 44.26,
+          "end": 45.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "mid",
+              "start": 44.26,
+              "end": 44.64
+            },
+            {
+              "text": "night",
+              "start": 44.64,
+              "end": 45.02
+            }
+          ]
+        },
+        {
+          "text": "train",
+          "start": 45.16,
+          "end": 45.4,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "train",
+              "start": 45.16,
+              "end": 45.4
+            }
+          ]
+        },
+        {
+          "text": "going",
+          "start": 45.4,
+          "end": 45.78,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "going",
+              "start": 45.4,
+              "end": 45.78
+            }
+          ]
+        },
+        {
+          "text": "anywhere",
+          "start": 45.88,
+          "end": 47.4,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 45.88,
+              "end": 46.26
+            },
+            {
+              "text": "nyw",
+              "start": 46.26,
+              "end": 46.64
+            },
+            {
+              "text": "he",
+              "start": 46.64,
+              "end": 47.02
+            },
+            {
+              "text": "re",
+              "start": 47.02,
+              "end": 47.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 47.3,
+      "end": 67.1,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 47.3,
+          "end": 67.1,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 67.1,
+      "end": 70.14,
+      "text": "A singer in a smokey room",
+      "words": [
+        {
+          "text": "A",
+          "start": 67.1,
+          "end": 67.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "A",
+              "start": 67.1,
+              "end": 67.48
+            }
+          ]
+        },
+        {
+          "text": "singer",
+          "start": 67.48,
+          "end": 68.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sin",
+              "start": 67.48,
+              "end": 67.86
+            },
+            {
+              "text": "ger",
+              "start": 67.86,
+              "end": 68.24
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 68.52,
+          "end": 68.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 68.52,
+              "end": 68.72
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 68.62,
+          "end": 69,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 68.62,
+              "end": 69
+            }
+          ]
+        },
+        {
+          "text": "smokey",
+          "start": 69,
+          "end": 69.76,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "smo",
+              "start": 69,
+              "end": 69.38
+            },
+            {
+              "text": "key",
+              "start": 69.38,
+              "end": 69.76
+            }
+          ]
+        },
+        {
+          "text": "room",
+          "start": 69.76,
+          "end": 70.14,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "room",
+              "start": 69.76,
+              "end": 70.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 71.34,
+      "end": 74.58,
+      "text": "A smell of wine and cheap perfume",
+      "words": [
+        {
+          "text": "A",
+          "start": 71.34,
+          "end": 71.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "A",
+              "start": 71.34,
+              "end": 71.54
+            }
+          ]
+        },
+        {
+          "text": "smell",
+          "start": 71.62,
+          "end": 71.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "smell",
+              "start": 71.62,
+              "end": 71.84
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "start": 71.84,
+          "end": 72.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "of",
+              "start": 71.84,
+              "end": 72.22
+            }
+          ]
+        },
+        {
+          "text": "wine",
+          "start": 72.22,
+          "end": 72.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wine",
+              "start": 72.22,
+              "end": 72.6
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 72.88,
+          "end": 72.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 72.88,
+              "end": 73.08
+            }
+          ]
+        },
+        {
+          "text": "cheap",
+          "start": 73.14,
+          "end": 73.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "cheap",
+              "start": 73.14,
+              "end": 73.36
+            }
+          ]
+        },
+        {
+          "text": "perfume",
+          "start": 73.44,
+          "end": 74.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "per",
+              "start": 73.44,
+              "end": 73.82
+            },
+            {
+              "text": "fu",
+              "start": 73.82,
+              "end": 74.2
+            },
+            {
+              "text": "me",
+              "start": 74.2,
+              "end": 74.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 74.92,
+      "end": 77.99,
+      "text": "For a smile they can share the night",
+      "words": [
+        {
+          "text": "For",
+          "start": 74.92,
+          "end": 75.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "For",
+              "start": 74.92,
+              "end": 75.12
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 75.16,
+          "end": 75.37,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 75.16,
+              "end": 75.37
+            }
+          ]
+        },
+        {
+          "text": "smile",
+          "start": 75.4,
+          "end": 75.94,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "smi",
+              "start": 75.4,
+              "end": 75.67
+            },
+            {
+              "text": "le",
+              "start": 75.67,
+              "end": 75.94
+            }
+          ]
+        },
+        {
+          "text": "they",
+          "start": 75.94,
+          "end": 76.23,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "they",
+              "start": 75.94,
+              "end": 76.23
+            }
+          ]
+        },
+        {
+          "text": "can",
+          "start": 76.34,
+          "end": 76.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "can",
+              "start": 76.34,
+              "end": 76.54
+            }
+          ]
+        },
+        {
+          "text": "share",
+          "start": 76.52,
+          "end": 76.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "share",
+              "start": 76.52,
+              "end": 76.81
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 76.81,
+          "end": 77.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 76.81,
+              "end": 77.1
+            }
+          ]
+        },
+        {
+          "text": "night",
+          "start": 77.76,
+          "end": 77.99,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "night",
+              "start": 77.76,
+              "end": 77.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 77.99,
+      "end": 81.38,
+      "text": "It goes on and on and on and on",
+      "words": [
+        {
+          "text": "It",
+          "start": 77.99,
+          "end": 78.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "It",
+              "start": 77.99,
+              "end": 78.19
+            }
+          ]
+        },
+        {
+          "text": "goes",
+          "start": 78.08,
+          "end": 78.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "goes",
+              "start": 78.08,
+              "end": 78.41
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 78.42,
+          "end": 78.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 78.42,
+              "end": 78.81
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 79.02,
+          "end": 79.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 79.02,
+              "end": 79.22
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 79.26,
+          "end": 79.61,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 79.26,
+              "end": 79.61
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 79.64,
+          "end": 80.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 79.64,
+              "end": 80.01
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 80.26,
+          "end": 80.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 80.26,
+              "end": 80.46
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 80.58,
+          "end": 80.81,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 80.58,
+              "end": 80.81
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 80.98,
+          "end": 81.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 80.98,
+              "end": 81.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 82.48,
+      "end": 83.96,
+      "text": "Strangers waitin'",
+      "words": [
+        {
+          "text": "Strangers",
+          "start": 82.48,
+          "end": 83.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Stran",
+              "start": 82.48,
+              "end": 82.77
+            },
+            {
+              "text": "gers",
+              "start": 82.77,
+              "end": 83.06
+            }
+          ]
+        },
+        {
+          "text": "waitin'",
+          "start": 83.2,
+          "end": 83.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wai",
+              "start": 83.2,
+              "end": 83.58
+            },
+            {
+              "text": "tin'",
+              "start": 83.58,
+              "end": 83.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 87.5,
+      "end": 90.35,
+      "text": "Up and down the boulevard",
+      "words": [
+        {
+          "text": "Up",
+          "start": 87.5,
+          "end": 87.77,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Up",
+              "start": 87.5,
+              "end": 87.77
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 87.78,
+          "end": 88.12,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 87.78,
+              "end": 88.12
+            }
+          ]
+        },
+        {
+          "text": "down",
+          "start": 88.14,
+          "end": 88.47,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "down",
+              "start": 88.14,
+              "end": 88.47
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 88.52,
+          "end": 88.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 88.52,
+              "end": 88.82
+            }
+          ]
+        },
+        {
+          "text": "boulevard",
+          "start": 89.3,
+          "end": 90.35,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bou",
+              "start": 89.3,
+              "end": 89.65
+            },
+            {
+              "text": "le",
+              "start": 89.65,
+              "end": 90
+            },
+            {
+              "text": "vard",
+              "start": 90,
+              "end": 90.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 90.36,
+      "end": 92.8,
+      "text": "Their shadows searchin' in the night",
+      "words": [
+        {
+          "text": "Their",
+          "start": 90.36,
+          "end": 90.51,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Their",
+              "start": 90.36,
+              "end": 90.56
+            }
+          ]
+        },
+        {
+          "text": "shadows",
+          "start": 90.54,
+          "end": 91.27,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sha",
+              "start": 90.54,
+              "end": 90.91
+            },
+            {
+              "text": "dows",
+              "start": 90.91,
+              "end": 91.27
+            }
+          ]
+        },
+        {
+          "text": "searchin'",
+          "start": 91.3,
+          "end": 91.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "searchin'",
+              "start": 91.3,
+              "end": 91.65
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 91.65,
+          "end": 92.03,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 91.65,
+              "end": 92.03
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 92.36,
+          "end": 92.41,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 92.36,
+              "end": 92.56
+            }
+          ]
+        },
+        {
+          "text": "night",
+          "start": 92.42,
+          "end": 92.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "night",
+              "start": 92.42,
+              "end": 92.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 98.6,
+      "end": 99.96,
+      "text": "Streetlights, people",
+      "words": [
+        {
+          "text": "Streetlights,",
+          "start": 98.6,
+          "end": 99.16,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Street",
+              "start": 98.6,
+              "end": 98.88
+            },
+            {
+              "text": "lights,",
+              "start": 98.88,
+              "end": 99.16
+            }
+          ]
+        },
+        {
+          "text": "people",
+          "start": 99.2,
+          "end": 99.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "peop",
+              "start": 99.2,
+              "end": 99.58
+            },
+            {
+              "text": "le",
+              "start": 99.58,
+              "end": 99.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 103.58,
+      "end": 106.33,
+      "text": "Livin' just to find emotion",
+      "words": [
+        {
+          "text": "Livin'",
+          "start": 103.58,
+          "end": 104.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Li",
+              "start": 103.58,
+              "end": 103.84
+            },
+            {
+              "text": "vin'",
+              "start": 103.84,
+              "end": 104.1
+            }
+          ]
+        },
+        {
+          "text": "just",
+          "start": 104.14,
+          "end": 104.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "just",
+              "start": 104.14,
+              "end": 104.42
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 104.62,
+          "end": 104.74,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 104.62,
+              "end": 104.82
+            }
+          ]
+        },
+        {
+          "text": "find",
+          "start": 104.74,
+          "end": 105.06,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "find",
+              "start": 104.74,
+              "end": 105.06
+            }
+          ]
+        },
+        {
+          "text": "emotion",
+          "start": 105.38,
+          "end": 106.33,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "e",
+              "start": 105.38,
+              "end": 105.7
+            },
+            {
+              "text": "mo",
+              "start": 105.7,
+              "end": 106.01
+            },
+            {
+              "text": "tion",
+              "start": 106.01,
+              "end": 106.33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 106.64,
+      "end": 109.68,
+      "text": "Hidin', somewhere in the night",
+      "words": [
+        {
+          "text": "Hidin',",
+          "start": 106.64,
+          "end": 107.01,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Hi",
+              "start": 106.64,
+              "end": 106.84
+            },
+            {
+              "text": "din',",
+              "start": 106.84,
+              "end": 107.04
+            }
+          ]
+        },
+        {
+          "text": "somewhere",
+          "start": 107.02,
+          "end": 108.53,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "so",
+              "start": 107.02,
+              "end": 107.4
+            },
+            {
+              "text": "mew",
+              "start": 107.4,
+              "end": 107.78
+            },
+            {
+              "text": "he",
+              "start": 107.78,
+              "end": 108.15
+            },
+            {
+              "text": "re",
+              "start": 108.15,
+              "end": 108.53
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 108.62,
+          "end": 108.91,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 108.62,
+              "end": 108.91
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 108.91,
+          "end": 109.29,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 108.91,
+              "end": 109.29
+            }
+          ]
+        },
+        {
+          "text": "night",
+          "start": 109.3,
+          "end": 109.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "night",
+              "start": 109.3,
+              "end": 109.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 109.67,
+      "end": 123.06,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 109.67,
+          "end": 123.06,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 123.6,
+      "end": 125.72,
+      "text": "Workin' hard to get my fill",
+      "words": [
+        {
+          "text": "Workin'",
+          "start": 123.6,
+          "end": 123.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Wor",
+              "start": 123.6,
+              "end": 123.8
+            },
+            {
+              "text": "kin'",
+              "start": 123.8,
+              "end": 124
+            }
+          ]
+        },
+        {
+          "text": "hard",
+          "start": 123.82,
+          "end": 124.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "hard",
+              "start": 123.82,
+              "end": 124.2
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 124.2,
+          "end": 124.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 124.2,
+              "end": 124.58
+            }
+          ]
+        },
+        {
+          "text": "get",
+          "start": 124.8,
+          "end": 124.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "get",
+              "start": 124.8,
+              "end": 125
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start": 124.96,
+          "end": 125.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "my",
+              "start": 124.96,
+              "end": 125.34
+            }
+          ]
+        },
+        {
+          "text": "fill",
+          "start": 125.34,
+          "end": 125.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fill",
+              "start": 125.34,
+              "end": 125.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 127.68,
+      "end": 130.36,
+      "text": "Everybody wants a thrill",
+      "words": [
+        {
+          "text": "Everybody",
+          "start": 127.68,
+          "end": 129.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "E",
+              "start": 127.68,
+              "end": 127.99
+            },
+            {
+              "text": "ve",
+              "start": 127.99,
+              "end": 128.3
+            },
+            {
+              "text": "ry",
+              "start": 128.3,
+              "end": 128.6
+            },
+            {
+              "text": "bo",
+              "start": 128.6,
+              "end": 128.91
+            },
+            {
+              "text": "dy",
+              "start": 128.91,
+              "end": 129.22
+            }
+          ]
+        },
+        {
+          "text": "wants",
+          "start": 129.22,
+          "end": 129.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wants",
+              "start": 129.22,
+              "end": 129.6
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start": 129.62,
+          "end": 129.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 129.62,
+              "end": 129.98
+            }
+          ]
+        },
+        {
+          "text": "thrill",
+          "start": 129.98,
+          "end": 130.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "thrill",
+              "start": 129.98,
+              "end": 130.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 130.98,
+      "end": 134.6,
+      "text": "Payin' anything to roll the dice",
+      "words": [
+        {
+          "text": "Payin'",
+          "start": 130.98,
+          "end": 131.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Payin'",
+              "start": 130.98,
+              "end": 131.34
+            }
+          ]
+        },
+        {
+          "text": "anything",
+          "start": 131.94,
+          "end": 132.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 131.94,
+              "end": 132.14
+            },
+            {
+              "text": "nyt",
+              "start": 132.14,
+              "end": 132.34
+            },
+            {
+              "text": "hing",
+              "start": 132.34,
+              "end": 132.54
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 132.48,
+          "end": 132.86,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 132.48,
+              "end": 132.86
+            }
+          ]
+        },
+        {
+          "text": "roll",
+          "start": 133.16,
+          "end": 133.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "roll",
+              "start": 133.16,
+              "end": 133.36
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 133.24,
+          "end": 133.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 133.24,
+              "end": 133.62
+            }
+          ]
+        },
+        {
+          "text": "dice",
+          "start": 134.42,
+          "end": 134.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "dice",
+              "start": 134.42,
+              "end": 134.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 134.14,
+      "end": 136.32,
+      "text": "Just one more time",
+      "words": [
+        {
+          "text": "Just",
+          "start": 134.14,
+          "end": 134.54,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Just",
+              "start": 134.14,
+              "end": 134.54
+            }
+          ]
+        },
+        {
+          "text": "one",
+          "start": 134.54,
+          "end": 134.94,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "one",
+              "start": 134.54,
+              "end": 134.94
+            }
+          ]
+        },
+        {
+          "text": "more",
+          "start": 135.18,
+          "end": 135.34,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "more",
+              "start": 135.18,
+              "end": 135.38
+            }
+          ]
+        },
+        {
+          "text": "time",
+          "start": 135.92,
+          "end": 136.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "time",
+              "start": 135.92,
+              "end": 136.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 138.68,
+      "end": 140.98,
+      "text": "Some'll win, some will lose",
+      "words": [
+        {
+          "text": "Some'll",
+          "start": 138.68,
+          "end": 139.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "So",
+              "start": 138.68,
+              "end": 139.06
+            },
+            {
+              "text": "me'll",
+              "start": 139.06,
+              "end": 139.44
+            }
+          ]
+        },
+        {
+          "text": "win,",
+          "start": 139.44,
+          "end": 139.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "win,",
+              "start": 139.44,
+              "end": 139.82
+            }
+          ]
+        },
+        {
+          "text": "some",
+          "start": 139.84,
+          "end": 140.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "some",
+              "start": 139.84,
+              "end": 140.2
+            }
+          ]
+        },
+        {
+          "text": "will",
+          "start": 140.48,
+          "end": 140.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "will",
+              "start": 140.48,
+              "end": 140.68
+            }
+          ]
+        },
+        {
+          "text": "lose",
+          "start": 140.6,
+          "end": 140.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "lose",
+              "start": 140.6,
+              "end": 140.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 143.12,
+      "end": 146.08,
+      "text": "Some are born to sing the blues",
+      "words": [
+        {
+          "text": "Some",
+          "start": 143.12,
+          "end": 143.52,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Some",
+              "start": 143.12,
+              "end": 143.52
+            }
+          ]
+        },
+        {
+          "text": "are",
+          "start": 143.6,
+          "end": 144,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "are",
+              "start": 143.6,
+              "end": 144
+            }
+          ]
+        },
+        {
+          "text": "born",
+          "start": 144.32,
+          "end": 144.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "born",
+              "start": 144.32,
+              "end": 144.52
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 144.78,
+          "end": 144.88,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 144.78,
+              "end": 144.98
+            }
+          ]
+        },
+        {
+          "text": "sing",
+          "start": 144.88,
+          "end": 145.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sing",
+              "start": 144.88,
+              "end": 145.28
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 145.36,
+          "end": 145.68,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 145.36,
+              "end": 145.68
+            }
+          ]
+        },
+        {
+          "text": "blues",
+          "start": 145.68,
+          "end": 146.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "blues",
+              "start": 145.68,
+              "end": 146.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 146.1,
+      "end": 148.46,
+      "text": "Whoa, the movie never ends",
+      "words": [
+        {
+          "text": "Whoa,",
+          "start": 146.1,
+          "end": 146.48,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Whoa,",
+              "start": 146.1,
+              "end": 146.48
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 146.7,
+          "end": 146.94,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 146.7,
+              "end": 146.94
+            }
+          ]
+        },
+        {
+          "text": "movie",
+          "start": 147.02,
+          "end": 147.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "movie",
+              "start": 147.02,
+              "end": 147.32
+            }
+          ]
+        },
+        {
+          "text": "never",
+          "start": 147.62,
+          "end": 148.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ne",
+              "start": 147.62,
+              "end": 147.85
+            },
+            {
+              "text": "ver",
+              "start": 147.85,
+              "end": 148.08
+            }
+          ]
+        },
+        {
+          "text": "ends",
+          "start": 148.08,
+          "end": 148.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "ends",
+              "start": 148.08,
+              "end": 148.46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 149.22,
+      "end": 153.32,
+      "text": "It goes on and on and on and on",
+      "words": [
+        {
+          "text": "It",
+          "start": 149.22,
+          "end": 149.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "It",
+              "start": 149.22,
+              "end": 149.62
+            }
+          ]
+        },
+        {
+          "text": "goes",
+          "start": 149.86,
+          "end": 150.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "goes",
+              "start": 149.86,
+              "end": 150.17
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 150.18,
+          "end": 150.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 150.18,
+              "end": 150.57
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 150.57,
+          "end": 150.97,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 150.57,
+              "end": 150.97
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 150.98,
+          "end": 151.37,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 150.98,
+              "end": 151.37
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 151.38,
+          "end": 151.77,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 151.38,
+              "end": 151.77
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 151.98,
+          "end": 152.17,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 151.98,
+              "end": 152.18
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 152.32,
+          "end": 152.57,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 152.32,
+              "end": 152.57
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 152.92,
+          "end": 153.32,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 152.92,
+              "end": 153.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 154.14,
+      "end": 155.64,
+      "text": "Strangers waitin'",
+      "words": [
+        {
+          "text": "Strangers",
+          "start": 154.14,
+          "end": 154.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Stran",
+              "start": 154.14,
+              "end": 154.47
+            },
+            {
+              "text": "gers",
+              "start": 154.47,
+              "end": 154.8
+            }
+          ]
+        },
+        {
+          "text": "waitin'",
+          "start": 154.88,
+          "end": 155.64,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "wai",
+              "start": 154.88,
+              "end": 155.26
+            },
+            {
+              "text": "tin'",
+              "start": 155.26,
+              "end": 155.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 159.08,
+      "end": 161.65,
+      "text": "Up and down the boulevard",
+      "words": [
+        {
+          "text": "Up",
+          "start": 159.08,
+          "end": 159.35,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Up",
+              "start": 159.08,
+              "end": 159.35
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start": 159.44,
+          "end": 159.7,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "and",
+              "start": 159.44,
+              "end": 159.7
+            }
+          ]
+        },
+        {
+          "text": "down",
+          "start": 159.7,
+          "end": 159.97,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "down",
+              "start": 159.7,
+              "end": 159.97
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 159.98,
+          "end": 160.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 159.98,
+              "end": 160.24
+            }
+          ]
+        },
+        {
+          "text": "boulevard",
+          "start": 160.96,
+          "end": 161.65,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "bou",
+              "start": 160.96,
+              "end": 161.19
+            },
+            {
+              "text": "le",
+              "start": 161.19,
+              "end": 161.42
+            },
+            {
+              "text": "vard",
+              "start": 161.42,
+              "end": 161.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 161.66,
+      "end": 164.38,
+      "text": "Their shadows searchin' in the night",
+      "words": [
+        {
+          "text": "Their",
+          "start": 161.66,
+          "end": 161.69,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Their",
+              "start": 161.66,
+              "end": 161.86
+            }
+          ]
+        },
+        {
+          "text": "shadows",
+          "start": 162.06,
+          "end": 162.45,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "sha",
+              "start": 162.06,
+              "end": 162.26
+            },
+            {
+              "text": "dows",
+              "start": 162.26,
+              "end": 162.46
+            }
+          ]
+        },
+        {
+          "text": "searchin'",
+          "start": 162.48,
+          "end": 162.83,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "searchin'",
+              "start": 162.48,
+              "end": 162.83
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 162.94,
+          "end": 163.21,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 162.94,
+              "end": 163.21
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 163.28,
+          "end": 163.59,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 163.28,
+              "end": 163.59
+            }
+          ]
+        },
+        {
+          "text": "night",
+          "start": 164,
+          "end": 164.38,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "night",
+              "start": 164,
+              "end": 164.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 170.08,
+      "end": 171.6,
+      "text": "Streetlights, people",
+      "words": [
+        {
+          "text": "Streetlights,",
+          "start": 170.08,
+          "end": 170.7,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Street",
+              "start": 170.08,
+              "end": 170.39
+            },
+            {
+              "text": "lights,",
+              "start": 170.39,
+              "end": 170.7
+            }
+          ]
+        },
+        {
+          "text": "people",
+          "start": 170.84,
+          "end": 171.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "peop",
+              "start": 170.84,
+              "end": 171.22
+            },
+            {
+              "text": "le",
+              "start": 171.22,
+              "end": 171.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 175.14,
+      "end": 177.88,
+      "text": "Livin' just to find emotion",
+      "words": [
+        {
+          "text": "Livin'",
+          "start": 175.14,
+          "end": 175.64,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Li",
+              "start": 175.14,
+              "end": 175.39
+            },
+            {
+              "text": "vin'",
+              "start": 175.39,
+              "end": 175.64
+            }
+          ]
+        },
+        {
+          "text": "just",
+          "start": 175.68,
+          "end": 175.96,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "just",
+              "start": 175.68,
+              "end": 175.96
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 176.14,
+          "end": 176.28,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 176.14,
+              "end": 176.34
+            }
+          ]
+        },
+        {
+          "text": "find",
+          "start": 176.3,
+          "end": 176.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "find",
+              "start": 176.3,
+              "end": 176.6
+            }
+          ]
+        },
+        {
+          "text": "emotion",
+          "start": 176.92,
+          "end": 177.88,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "e",
+              "start": 176.92,
+              "end": 177.24
+            },
+            {
+              "text": "mo",
+              "start": 177.24,
+              "end": 177.56
+            },
+            {
+              "text": "tion",
+              "start": 177.56,
+              "end": 177.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 178.14,
+      "end": 181.24,
+      "text": "Hidin', somewhere in the night",
+      "words": [
+        {
+          "text": "Hidin',",
+          "start": 178.14,
+          "end": 178.56,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Hi",
+              "start": 178.14,
+              "end": 178.35
+            },
+            {
+              "text": "din',",
+              "start": 178.35,
+              "end": 178.56
+            }
+          ]
+        },
+        {
+          "text": "somewhere",
+          "start": 178.62,
+          "end": 180.08,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "so",
+              "start": 178.62,
+              "end": 178.99
+            },
+            {
+              "text": "mew",
+              "start": 178.99,
+              "end": 179.35
+            },
+            {
+              "text": "he",
+              "start": 179.35,
+              "end": 179.72
+            },
+            {
+              "text": "re",
+              "start": 179.72,
+              "end": 180.08
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start": 180.1,
+          "end": 180.46,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "in",
+              "start": 180.1,
+              "end": 180.46
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start": 180.52,
+          "end": 180.84,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "the",
+              "start": 180.52,
+              "end": 180.84
+            }
+          ]
+        },
+        {
+          "text": "night",
+          "start": 180.86,
+          "end": 181.24,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "night",
+              "start": 180.86,
+              "end": 181.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 181.22,
+      "end": 202.04,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 181.22,
+          "end": 202.04,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 202.1,
+      "end": 204.02,
+      "text": "Don't stop believin'",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 202.1,
+          "end": 202.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Don't",
+              "start": 202.1,
+              "end": 202.42
+            }
+          ]
+        },
+        {
+          "text": "stop",
+          "start": 202.46,
+          "end": 202.8,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "stop",
+              "start": 202.46,
+              "end": 202.8
+            }
+          ]
+        },
+        {
+          "text": "believin'",
+          "start": 202.88,
+          "end": 204.02,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 202.88,
+              "end": 203.26
+            },
+            {
+              "text": "lie",
+              "start": 203.26,
+              "end": 203.64
+            },
+            {
+              "text": "vin'",
+              "start": 203.64,
+              "end": 204.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 207.04,
+      "end": 209.36,
+      "text": "Hold on to that feelin'",
+      "words": [
+        {
+          "text": "Hold",
+          "start": 207.04,
+          "end": 207.22,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Hold",
+              "start": 207.04,
+              "end": 207.24
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 207.3,
+          "end": 207.6,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 207.3,
+              "end": 207.6
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 207.78,
+          "end": 207.98,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 207.78,
+              "end": 207.98
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 208.12,
+          "end": 208.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 208.12,
+              "end": 208.36
+            }
+          ]
+        },
+        {
+          "text": "feelin'",
+          "start": 208.6,
+          "end": 209.36,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fee",
+              "start": 208.6,
+              "end": 208.98
+            },
+            {
+              "text": "lin'",
+              "start": 208.98,
+              "end": 209.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 210.04,
+      "end": 211.44,
+      "text": "Streetlights, people",
+      "words": [
+        {
+          "text": "Streetlights,",
+          "start": 210.04,
+          "end": 210.67,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Street",
+              "start": 210.04,
+              "end": 210.36
+            },
+            {
+              "text": "lights,",
+              "start": 210.36,
+              "end": 210.67
+            }
+          ]
+        },
+        {
+          "text": "people",
+          "start": 210.68,
+          "end": 211.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "peop",
+              "start": 210.68,
+              "end": 211.06
+            },
+            {
+              "text": "le",
+              "start": 211.06,
+              "end": 211.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 211.43,
+      "end": 217.67,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 211.43,
+          "end": 217.67,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 218,
+      "end": 219.9,
+      "text": "Don't stop believin'",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 218,
+          "end": 218.05,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Don't",
+              "start": 218,
+              "end": 218.2
+            }
+          ]
+        },
+        {
+          "text": "stop",
+          "start": 218.05,
+          "end": 218.43,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "stop",
+              "start": 218.05,
+              "end": 218.43
+            }
+          ]
+        },
+        {
+          "text": "believin'",
+          "start": 218.76,
+          "end": 219.9,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 218.76,
+              "end": 219.14
+            },
+            {
+              "text": "lie",
+              "start": 219.14,
+              "end": 219.52
+            },
+            {
+              "text": "vin'",
+              "start": 219.52,
+              "end": 219.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 222.22,
+      "end": 223.1,
+      "text": "Hold on",
+      "words": [
+        {
+          "text": "Hold",
+          "start": 222.22,
+          "end": 222.62,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Hold",
+              "start": 222.22,
+              "end": 222.62
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 222.7,
+          "end": 223.1,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 222.7,
+              "end": 223.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 224.98,
+      "end": 226.7,
+      "text": "Streetlights, people",
+      "words": [
+        {
+          "text": "Streetlights,",
+          "start": 224.98,
+          "end": 225.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Street",
+              "start": 224.98,
+              "end": 225.35
+            },
+            {
+              "text": "lights,",
+              "start": 225.35,
+              "end": 225.72
+            }
+          ]
+        },
+        {
+          "text": "people",
+          "start": 225.94,
+          "end": 226.7,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "peop",
+              "start": 225.94,
+              "end": 226.32
+            },
+            {
+              "text": "le",
+              "start": 226.32,
+              "end": 226.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 226.48,
+      "end": 233.66,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 226.48,
+          "end": 233.66,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 233.8,
+      "end": 235.72,
+      "text": "Don't stop believin'",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 233.8,
+          "end": 234.04,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Don't",
+              "start": 233.8,
+              "end": 234.04
+            }
+          ]
+        },
+        {
+          "text": "stop",
+          "start": 234.04,
+          "end": 234.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "stop",
+              "start": 234.04,
+              "end": 234.42
+            }
+          ]
+        },
+        {
+          "text": "believin'",
+          "start": 234.58,
+          "end": 235.72,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "be",
+              "start": 234.58,
+              "end": 234.96
+            },
+            {
+              "text": "lie",
+              "start": 234.96,
+              "end": 235.34
+            },
+            {
+              "text": "vin'",
+              "start": 235.34,
+              "end": 235.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 238.06,
+      "end": 240.5,
+      "text": "Hold on to that feelin'",
+      "words": [
+        {
+          "text": "Hold",
+          "start": 238.06,
+          "end": 238.44,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Hold",
+              "start": 238.06,
+              "end": 238.44
+            }
+          ]
+        },
+        {
+          "text": "on",
+          "start": 238.5,
+          "end": 238.82,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "on",
+              "start": 238.5,
+              "end": 238.82
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start": 238.82,
+          "end": 239.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "to",
+              "start": 238.82,
+              "end": 239.2
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start": 239.26,
+          "end": 239.58,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "that",
+              "start": 239.26,
+              "end": 239.58
+            }
+          ]
+        },
+        {
+          "text": "feelin'",
+          "start": 239.74,
+          "end": 240.5,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "fee",
+              "start": 239.74,
+              "end": 240.12
+            },
+            {
+              "text": "lin'",
+              "start": 240.12,
+              "end": 240.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 241.68,
+      "end": 243.2,
+      "text": "Streetlights, people",
+      "words": [
+        {
+          "text": "Streetlights,",
+          "start": 241.68,
+          "end": 242.42,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "Street",
+              "start": 241.68,
+              "end": 242.05
+            },
+            {
+              "text": "lights,",
+              "start": 242.05,
+              "end": 242.42
+            }
+          ]
+        },
+        {
+          "text": "people",
+          "start": 242.44,
+          "end": 243.2,
+          "probability": 1,
+          "syllables": [
+            {
+              "text": "peop",
+              "start": 242.44,
+              "end": 242.82
+            },
+            {
+              "text": "le",
+              "start": 242.82,
+              "end": 243.2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "text": "Just a small town girl Livin' in a lonely world She took the midnight train going anywhere Just a city boy Born and raised in South Detroit He took the midnight train going anywhere A singer in a smokey room A smell of wine and cheap perfume For a smile they can share the night It goes on and on and on and on Strangers waitin' Up and down the boulevard Their shadows searchin' in the night Streetlights, people Livin' just to find emotion Hidin', somewhere in the night Workin' hard to get my fill Everybody wants a thrill Payin' anything to roll the dice Just one more time Some'll win, some will lose Some are born to sing the blues Whoa, the movie never ends It goes on and on and on and on Strangers waitin' Up and down the boulevard Their shadows searchin' in the night Streetlights, people Livin' just to find emotion Hidin', somewhere in the night Don't stop believin' Hold on to that feelin' Streetlights, people Don't stop believin' Hold on Streetlights, people Don't stop believin' Hold on to that feelin' Streetlights, people"
+}

@@ -1,0 +1,962 @@
+{
+  "language": "en",
+  "duration": 287,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 16.76,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 16.76,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 16.76,
+      "end": 22.08,
+      "text": "I look at you all see the love there that's sleeping",
+      "words": [
+        {
+          "text": "I",
+          "start": 16.76,
+          "end": 16.89,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 16.89,
+          "end": 17.4,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 17.4,
+          "end": 17.65,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 17.65,
+          "end": 18.03,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 18.03,
+          "end": 18.41,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 18.41,
+          "end": 18.79,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 18.79,
+          "end": 19.17,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 19.17,
+          "end": 19.68,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 19.68,
+          "end": 20.31,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 20.31,
+          "end": 21.07,
+          "probability": 1
+        },
+        {
+          "text": "sleeping",
+          "start": 21.07,
+          "end": 22.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 25.55,
+      "end": 28.58,
+      "text": "While my guitar gently weeps",
+      "words": [
+        {
+          "text": "While",
+          "start": 25.55,
+          "end": 26.18,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 26.18,
+          "end": 26.43,
+          "probability": 1
+        },
+        {
+          "text": "guitar",
+          "start": 26.43,
+          "end": 27.19,
+          "probability": 1
+        },
+        {
+          "text": "gently",
+          "start": 27.19,
+          "end": 27.95,
+          "probability": 1
+        },
+        {
+          "text": "weeps",
+          "start": 27.95,
+          "end": 28.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 33.33,
+      "end": 38.28,
+      "text": "I look at the floor and I see it needs sweeping",
+      "words": [
+        {
+          "text": "I",
+          "start": 33.33,
+          "end": 33.46,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 33.46,
+          "end": 34,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 34,
+          "end": 34.27,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 34.27,
+          "end": 34.67,
+          "probability": 1
+        },
+        {
+          "text": "floor",
+          "start": 34.67,
+          "end": 35.34,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 35.34,
+          "end": 35.74,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 35.74,
+          "end": 35.87,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 35.87,
+          "end": 36.27,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 36.27,
+          "end": 36.54,
+          "probability": 1
+        },
+        {
+          "text": "needs",
+          "start": 36.54,
+          "end": 37.21,
+          "probability": 1
+        },
+        {
+          "text": "sweeping",
+          "start": 37.21,
+          "end": 38.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.14,
+      "end": 44.8,
+      "text": "Still my guitar gently weeps",
+      "words": [
+        {
+          "text": "Still",
+          "start": 42.14,
+          "end": 42.69,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 42.69,
+          "end": 42.91,
+          "probability": 1
+        },
+        {
+          "text": "guitar",
+          "start": 42.91,
+          "end": 43.58,
+          "probability": 1
+        },
+        {
+          "text": "gently",
+          "start": 43.58,
+          "end": 44.25,
+          "probability": 1
+        },
+        {
+          "text": "weeps",
+          "start": 44.25,
+          "end": 44.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 51.3,
+      "end": 54.72,
+      "text": "I don't know why nobody told you",
+      "words": [
+        {
+          "text": "I",
+          "start": 51.3,
+          "end": 51.43,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 51.43,
+          "end": 52.09,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 52.09,
+          "end": 52.62,
+          "probability": 1
+        },
+        {
+          "text": "why",
+          "start": 52.62,
+          "end": 53.01,
+          "probability": 1
+        },
+        {
+          "text": "nobody",
+          "start": 53.01,
+          "end": 53.8,
+          "probability": 1
+        },
+        {
+          "text": "told",
+          "start": 53.8,
+          "end": 54.33,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 54.33,
+          "end": 54.72,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 59.58,
+      "end": 62.24,
+      "text": "How to unfold your love",
+      "words": [
+        {
+          "text": "How",
+          "start": 59.58,
+          "end": 60,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 60,
+          "end": 60.28,
+          "probability": 1
+        },
+        {
+          "text": "unfold",
+          "start": 60.28,
+          "end": 61.12,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 61.12,
+          "end": 61.68,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 61.68,
+          "end": 62.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 67.24,
+      "end": 71.43,
+      "text": "I don't know how someone controlled you",
+      "words": [
+        {
+          "text": "I",
+          "start": 67.24,
+          "end": 67.37,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 67.37,
+          "end": 68,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 68,
+          "end": 68.51,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 68.51,
+          "end": 68.89,
+          "probability": 1
+        },
+        {
+          "text": "someone",
+          "start": 68.89,
+          "end": 69.78,
+          "probability": 1
+        },
+        {
+          "text": "controlled",
+          "start": 69.78,
+          "end": 71.05,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 71.05,
+          "end": 71.43,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 77.09,
+      "end": 79.35,
+      "text": "They bought and sold you",
+      "words": [
+        {
+          "text": "They",
+          "start": 77.09,
+          "end": 77.54,
+          "probability": 1
+        },
+        {
+          "text": "bought",
+          "start": 77.54,
+          "end": 78.22,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 78.22,
+          "end": 78.56,
+          "probability": 1
+        },
+        {
+          "text": "sold",
+          "start": 78.56,
+          "end": 79.01,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 79.01,
+          "end": 79.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 83.53,
+      "end": 88.47,
+      "text": "I look at the world and I notice it's turning",
+      "words": [
+        {
+          "text": "I",
+          "start": 83.53,
+          "end": 83.67,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 83.67,
+          "end": 84.22,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 84.22,
+          "end": 84.49,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 84.49,
+          "end": 84.9,
+          "probability": 1
+        },
+        {
+          "text": "world",
+          "start": 84.9,
+          "end": 85.59,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 85.59,
+          "end": 86,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 86,
+          "end": 86.14,
+          "probability": 1
+        },
+        {
+          "text": "notice",
+          "start": 86.14,
+          "end": 86.96,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 86.96,
+          "end": 87.51,
+          "probability": 1
+        },
+        {
+          "text": "turning",
+          "start": 87.51,
+          "end": 88.47,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 93.38,
+      "end": 96.41,
+      "text": "While my guitar gently weeps",
+      "words": [
+        {
+          "text": "While",
+          "start": 93.38,
+          "end": 94.01,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 94.01,
+          "end": 94.26,
+          "probability": 1
+        },
+        {
+          "text": "guitar",
+          "start": 94.26,
+          "end": 95.02,
+          "probability": 1
+        },
+        {
+          "text": "gently",
+          "start": 95.02,
+          "end": 95.78,
+          "probability": 1
+        },
+        {
+          "text": "weeps",
+          "start": 95.78,
+          "end": 96.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 100.51,
+      "end": 106.21,
+      "text": "With every mistake we must surely be learning",
+      "words": [
+        {
+          "text": "With",
+          "start": 100.51,
+          "end": 101.11,
+          "probability": 1
+        },
+        {
+          "text": "every",
+          "start": 101.11,
+          "end": 101.86,
+          "probability": 1
+        },
+        {
+          "text": "mistake",
+          "start": 101.86,
+          "end": 102.91,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 102.91,
+          "end": 103.21,
+          "probability": 1
+        },
+        {
+          "text": "must",
+          "start": 103.21,
+          "end": 103.81,
+          "probability": 1
+        },
+        {
+          "text": "surely",
+          "start": 103.81,
+          "end": 104.71,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 104.71,
+          "end": 105.01,
+          "probability": 1
+        },
+        {
+          "text": "learning",
+          "start": 105.01,
+          "end": 106.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.66,
+      "end": 112.32,
+      "text": "Still my guitar gently weeps",
+      "words": [
+        {
+          "text": "Still",
+          "start": 109.66,
+          "end": 110.21,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 110.21,
+          "end": 110.43,
+          "probability": 1
+        },
+        {
+          "text": "guitar",
+          "start": 110.43,
+          "end": 111.1,
+          "probability": 1
+        },
+        {
+          "text": "gently",
+          "start": 111.1,
+          "end": 111.77,
+          "probability": 1
+        },
+        {
+          "text": "weeps",
+          "start": 111.77,
+          "end": 112.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 112.32,
+      "end": 151.65,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 112.32,
+          "end": 151.65,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 151.65,
+      "end": 155.46,
+      "text": "I don't know how you were diverted",
+      "words": [
+        {
+          "text": "I",
+          "start": 151.65,
+          "end": 151.79,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 151.79,
+          "end": 152.47,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 152.47,
+          "end": 153.01,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 153.01,
+          "end": 153.42,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 153.42,
+          "end": 153.83,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 153.83,
+          "end": 154.37,
+          "probability": 1
+        },
+        {
+          "text": "diverted",
+          "start": 154.37,
+          "end": 155.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 159.26,
+      "end": 161.92,
+      "text": "You were perverted too",
+      "words": [
+        {
+          "text": "You",
+          "start": 159.26,
+          "end": 159.68,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 159.68,
+          "end": 160.24,
+          "probability": 1
+        },
+        {
+          "text": "perverted",
+          "start": 160.24,
+          "end": 161.5,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 161.5,
+          "end": 161.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.92,
+      "end": 171.73,
+      "text": "I don't know how you were inverted",
+      "words": [
+        {
+          "text": "I",
+          "start": 167.92,
+          "end": 168.06,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 168.06,
+          "end": 168.74,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 168.74,
+          "end": 169.28,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 169.28,
+          "end": 169.69,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 169.69,
+          "end": 170.1,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 170.1,
+          "end": 170.64,
+          "probability": 1
+        },
+        {
+          "text": "inverted",
+          "start": 170.64,
+          "end": 171.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 176.35,
+      "end": 179,
+      "text": "No one alerted you",
+      "words": [
+        {
+          "text": "No",
+          "start": 176.35,
+          "end": 176.7,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 176.7,
+          "end": 177.23,
+          "probability": 1
+        },
+        {
+          "text": "alerted",
+          "start": 177.23,
+          "end": 178.47,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 178.47,
+          "end": 179,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 182.43,
+      "end": 187.73,
+      "text": "I look at you all, see the love there that's sleeping",
+      "words": [
+        {
+          "text": "I",
+          "start": 182.43,
+          "end": 182.55,
+          "probability": 1
+        },
+        {
+          "text": "look",
+          "start": 182.55,
+          "end": 183.04,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 183.04,
+          "end": 183.29,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 183.29,
+          "end": 183.66,
+          "probability": 1
+        },
+        {
+          "text": "all,",
+          "start": 183.66,
+          "end": 184.15,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 184.15,
+          "end": 184.52,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 184.52,
+          "end": 184.89,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 184.89,
+          "end": 185.38,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 185.38,
+          "end": 186,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 186,
+          "end": 186.74,
+          "probability": 1
+        },
+        {
+          "text": "sleeping",
+          "start": 186.74,
+          "end": 187.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 192.62,
+      "end": 195.65,
+      "text": "While my guitar gently weeps",
+      "words": [
+        {
+          "text": "While",
+          "start": 192.62,
+          "end": 193.25,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 193.25,
+          "end": 193.5,
+          "probability": 1
+        },
+        {
+          "text": "guitar",
+          "start": 193.5,
+          "end": 194.26,
+          "probability": 1
+        },
+        {
+          "text": "gently",
+          "start": 194.26,
+          "end": 195.02,
+          "probability": 1
+        },
+        {
+          "text": "weeps",
+          "start": 195.02,
+          "end": 195.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 199.94,
+      "end": 201.74,
+      "text": "Look at you all",
+      "words": [
+        {
+          "text": "Look",
+          "start": 199.94,
+          "end": 200.54,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 200.54,
+          "end": 200.84,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 200.84,
+          "end": 201.29,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 201.29,
+          "end": 201.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 208.6,
+      "end": 211.26,
+      "text": "Still my guitar gently weeps",
+      "words": [
+        {
+          "text": "Still",
+          "start": 208.6,
+          "end": 209.15,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 209.15,
+          "end": 209.37,
+          "probability": 1
+        },
+        {
+          "text": "guitar",
+          "start": 209.37,
+          "end": 210.04,
+          "probability": 1
+        },
+        {
+          "text": "gently",
+          "start": 210.04,
+          "end": 210.71,
+          "probability": 1
+        },
+        {
+          "text": "weeps",
+          "start": 210.71,
+          "end": 211.26,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "I look at you all see the love there that's sleeping While my guitar gently weeps I look at the floor and I see it needs sweeping Still my guitar gently weeps I don't know why nobody told you How to unfold your love I don't know how someone controlled you They bought and sold you I look at the world and I notice it's turning While my guitar gently weeps With every mistake we must surely be learning Still my guitar gently weeps I don't know how you were diverted You were perverted too I don't know how you were inverted No one alerted you I look at you all, see the love there that's sleeping While my guitar gently weeps Look at you all Still my guitar gently weeps"
+}

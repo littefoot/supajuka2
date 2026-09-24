@@ -1,0 +1,1600 @@
+{
+  "language": "en",
+  "duration": 210,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 6.03,
+      "end": 10.58,
+      "text": "Picture yourself in a boat on a river",
+      "words": [
+        {
+          "text": "Picture",
+          "start": 6.03,
+          "end": 7.09,
+          "probability": 1
+        },
+        {
+          "text": "yourself",
+          "start": 7.09,
+          "end": 8.31,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 8.31,
+          "end": 8.61,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 8.61,
+          "end": 8.76,
+          "probability": 1
+        },
+        {
+          "text": "boat",
+          "start": 8.76,
+          "end": 9.37,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 9.37,
+          "end": 9.67,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 9.67,
+          "end": 9.82,
+          "probability": 1
+        },
+        {
+          "text": "river",
+          "start": 9.82,
+          "end": 10.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 11.1,
+      "end": 15.65,
+      "text": "With tangerine trees and marmalade skies",
+      "words": [
+        {
+          "text": "With",
+          "start": 11.1,
+          "end": 11.62,
+          "probability": 1
+        },
+        {
+          "text": "tangerine",
+          "start": 11.62,
+          "end": 12.79,
+          "probability": 1
+        },
+        {
+          "text": "trees",
+          "start": 12.79,
+          "end": 13.44,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 13.44,
+          "end": 13.83,
+          "probability": 1
+        },
+        {
+          "text": "marmalade",
+          "start": 13.83,
+          "end": 15,
+          "probability": 1
+        },
+        {
+          "text": "skies",
+          "start": 15,
+          "end": 15.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 18.62,
+      "end": 23.56,
+      "text": "Somebody calls you, you answer quite slowly",
+      "words": [
+        {
+          "text": "Somebody",
+          "start": 18.62,
+          "end": 19.69,
+          "probability": 1
+        },
+        {
+          "text": "calls",
+          "start": 19.69,
+          "end": 20.36,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 20.36,
+          "end": 20.89,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 20.89,
+          "end": 21.29,
+          "probability": 1
+        },
+        {
+          "text": "answer",
+          "start": 21.29,
+          "end": 22.09,
+          "probability": 1
+        },
+        {
+          "text": "quite",
+          "start": 22.09,
+          "end": 22.76,
+          "probability": 1
+        },
+        {
+          "text": "slowly",
+          "start": 22.76,
+          "end": 23.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 24.13,
+      "end": 27.56,
+      "text": "A girl with kaleidoscope eyes",
+      "words": [
+        {
+          "text": "A",
+          "start": 24.13,
+          "end": 24.27,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 24.27,
+          "end": 24.82,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 24.82,
+          "end": 25.37,
+          "probability": 1
+        },
+        {
+          "text": "kaleidoscope",
+          "start": 25.37,
+          "end": 27.01,
+          "probability": 1
+        },
+        {
+          "text": "eyes",
+          "start": 27.01,
+          "end": 27.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 32.58,
+      "end": 36.76,
+      "text": "Cellophane flowers of yellow and green",
+      "words": [
+        {
+          "text": "Cellophane",
+          "start": 32.58,
+          "end": 33.85,
+          "probability": 1
+        },
+        {
+          "text": "flowers",
+          "start": 33.85,
+          "end": 34.74,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 34.74,
+          "end": 34.99,
+          "probability": 1
+        },
+        {
+          "text": "yellow",
+          "start": 34.99,
+          "end": 35.75,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 35.75,
+          "end": 36.13,
+          "probability": 1
+        },
+        {
+          "text": "green",
+          "start": 36.13,
+          "end": 36.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 37.97,
+      "end": 40.62,
+      "text": "Towering over your head",
+      "words": [
+        {
+          "text": "Towering",
+          "start": 37.97,
+          "end": 39.03,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 39.03,
+          "end": 39.56,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 39.56,
+          "end": 40.09,
+          "probability": 1
+        },
+        {
+          "text": "head",
+          "start": 40.09,
+          "end": 40.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 43.05,
+      "end": 47.57,
+      "text": "Look for the girl with the sun in her eyes",
+      "words": [
+        {
+          "text": "Look",
+          "start": 43.05,
+          "end": 43.6,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 43.6,
+          "end": 44.01,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 44.01,
+          "end": 44.42,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 44.42,
+          "end": 44.97,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 44.97,
+          "end": 45.52,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 45.52,
+          "end": 45.93,
+          "probability": 1
+        },
+        {
+          "text": "sun",
+          "start": 45.93,
+          "end": 46.34,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 46.34,
+          "end": 46.61,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 46.61,
+          "end": 47.02,
+          "probability": 1
+        },
+        {
+          "text": "eyes",
+          "start": 47.02,
+          "end": 47.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 48.09,
+      "end": 49.61,
+      "text": "And she's gone",
+      "words": [
+        {
+          "text": "And",
+          "start": 48.09,
+          "end": 48.47,
+          "probability": 1
+        },
+        {
+          "text": "she's",
+          "start": 48.47,
+          "end": 49.1,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 49.1,
+          "end": 49.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 50.73,
+      "end": 53.77,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 50.73,
+          "end": 51.24,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 51.24,
+          "end": 51.49,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 51.49,
+          "end": 51.87,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 51.87,
+          "end": 52.25,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 52.25,
+          "end": 52.76,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 52.76,
+          "end": 53.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 56.17,
+      "end": 59.21,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 56.17,
+          "end": 56.68,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 56.68,
+          "end": 56.93,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 56.93,
+          "end": 57.31,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 57.31,
+          "end": 57.69,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 57.69,
+          "end": 58.2,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 58.2,
+          "end": 59.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.36,
+      "end": 64.4,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 61.36,
+          "end": 61.87,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 61.87,
+          "end": 62.12,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 62.12,
+          "end": 62.5,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 62.5,
+          "end": 62.88,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 62.88,
+          "end": 63.39,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 63.39,
+          "end": 64.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 66.45,
+      "end": 67.35,
+      "text": "Ah, ah",
+      "words": [
+        {
+          "text": "Ah,",
+          "start": 66.45,
+          "end": 66.99,
+          "probability": 1
+        },
+        {
+          "text": "ah",
+          "start": 66.99,
+          "end": 67.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 69.83,
+      "end": 74.4,
+      "text": "Follow her down to a bridge by a fountain",
+      "words": [
+        {
+          "text": "Follow",
+          "start": 69.83,
+          "end": 70.66,
+          "probability": 1
+        },
+        {
+          "text": "her",
+          "start": 70.66,
+          "end": 71.07,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 71.07,
+          "end": 71.62,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 71.62,
+          "end": 71.9,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 71.9,
+          "end": 72.04,
+          "probability": 1
+        },
+        {
+          "text": "bridge",
+          "start": 72.04,
+          "end": 72.87,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 72.87,
+          "end": 73.15,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 73.15,
+          "end": 73.29,
+          "probability": 1
+        },
+        {
+          "text": "fountain",
+          "start": 73.29,
+          "end": 74.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 74.86,
+      "end": 79.79,
+      "text": "Where rocking horse people eat marshmallow pies",
+      "words": [
+        {
+          "text": "Where",
+          "start": 74.86,
+          "end": 75.46,
+          "probability": 1
+        },
+        {
+          "text": "rocking",
+          "start": 75.46,
+          "end": 76.3,
+          "probability": 1
+        },
+        {
+          "text": "horse",
+          "start": 76.3,
+          "end": 76.9,
+          "probability": 1
+        },
+        {
+          "text": "people",
+          "start": 76.9,
+          "end": 77.62,
+          "probability": 1
+        },
+        {
+          "text": "eat",
+          "start": 77.62,
+          "end": 77.98,
+          "probability": 1
+        },
+        {
+          "text": "marshmallow",
+          "start": 77.98,
+          "end": 79.31,
+          "probability": 1
+        },
+        {
+          "text": "pies",
+          "start": 79.31,
+          "end": 79.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.74,
+      "end": 86.66,
+      "text": "Everyone smiles as you drift past the flowers",
+      "words": [
+        {
+          "text": "Everyone",
+          "start": 81.74,
+          "end": 82.77,
+          "probability": 1
+        },
+        {
+          "text": "smiles",
+          "start": 82.77,
+          "end": 83.55,
+          "probability": 1
+        },
+        {
+          "text": "as",
+          "start": 83.55,
+          "end": 83.81,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 83.81,
+          "end": 84.2,
+          "probability": 1
+        },
+        {
+          "text": "drift",
+          "start": 84.2,
+          "end": 84.85,
+          "probability": 1
+        },
+        {
+          "text": "past",
+          "start": 84.85,
+          "end": 85.37,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 85.37,
+          "end": 85.76,
+          "probability": 1
+        },
+        {
+          "text": "flowers",
+          "start": 85.76,
+          "end": 86.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 86.9,
+      "end": 89.95,
+      "text": "That grow so incredibly high",
+      "words": [
+        {
+          "text": "That",
+          "start": 86.9,
+          "end": 87.41,
+          "probability": 1
+        },
+        {
+          "text": "grow",
+          "start": 87.41,
+          "end": 87.92,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 87.92,
+          "end": 88.17,
+          "probability": 1
+        },
+        {
+          "text": "incredibly",
+          "start": 88.17,
+          "end": 89.44,
+          "probability": 1
+        },
+        {
+          "text": "high",
+          "start": 89.44,
+          "end": 89.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.06,
+      "end": 99.25,
+      "text": "Newspaper taxis appear on the shore",
+      "words": [
+        {
+          "text": "Newspaper",
+          "start": 95.06,
+          "end": 96.31,
+          "probability": 1
+        },
+        {
+          "text": "taxis",
+          "start": 96.31,
+          "end": 97.01,
+          "probability": 1
+        },
+        {
+          "text": "appear",
+          "start": 97.01,
+          "end": 97.85,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 97.85,
+          "end": 98.13,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 98.13,
+          "end": 98.55,
+          "probability": 1
+        },
+        {
+          "text": "shore",
+          "start": 98.55,
+          "end": 99.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 100.37,
+      "end": 103.41,
+      "text": "Waiting to take you away",
+      "words": [
+        {
+          "text": "Waiting",
+          "start": 100.37,
+          "end": 101.43,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 101.43,
+          "end": 101.73,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 101.73,
+          "end": 102.34,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 102.34,
+          "end": 102.8,
+          "probability": 1
+        },
+        {
+          "text": "away",
+          "start": 102.8,
+          "end": 103.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.41,
+      "end": 109.42,
+      "text": "Climb in the back with your head in the clouds",
+      "words": [
+        {
+          "text": "Climb",
+          "start": 105.41,
+          "end": 105.95,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 105.95,
+          "end": 106.17,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 106.17,
+          "end": 106.5,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 106.5,
+          "end": 106.93,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 106.93,
+          "end": 107.36,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 107.36,
+          "end": 107.79,
+          "probability": 1
+        },
+        {
+          "text": "head",
+          "start": 107.79,
+          "end": 108.22,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 108.22,
+          "end": 108.44,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 108.44,
+          "end": 108.77,
+          "probability": 1
+        },
+        {
+          "text": "clouds",
+          "start": 108.77,
+          "end": 109.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.68,
+      "end": 111.58,
+      "text": "And you're gone",
+      "words": [
+        {
+          "text": "And",
+          "start": 109.68,
+          "end": 110.12,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 110.12,
+          "end": 111,
+          "probability": 1
+        },
+        {
+          "text": "gone",
+          "start": 111,
+          "end": 111.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 112.55,
+      "end": 115.59,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 112.55,
+          "end": 113.06,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 113.06,
+          "end": 113.31,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 113.31,
+          "end": 113.69,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 113.69,
+          "end": 114.07,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 114.07,
+          "end": 114.58,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 114.58,
+          "end": 115.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.91,
+      "end": 120.95,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 117.91,
+          "end": 118.42,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 118.42,
+          "end": 118.67,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 118.67,
+          "end": 119.05,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 119.05,
+          "end": 119.43,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 119.43,
+          "end": 119.94,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 119.94,
+          "end": 120.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 123.23,
+      "end": 126.27,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 123.23,
+          "end": 123.74,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 123.74,
+          "end": 123.99,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 123.99,
+          "end": 124.37,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 124.37,
+          "end": 124.75,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 124.75,
+          "end": 125.26,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 125.26,
+          "end": 126.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 128.11,
+      "end": 129.01,
+      "text": "Ah, ah",
+      "words": [
+        {
+          "text": "Ah,",
+          "start": 128.11,
+          "end": 128.65,
+          "probability": 1
+        },
+        {
+          "text": "ah",
+          "start": 128.65,
+          "end": 129.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 131.68,
+      "end": 136.26,
+      "text": "Picture yourself on a train in a station",
+      "words": [
+        {
+          "text": "Picture",
+          "start": 131.68,
+          "end": 132.65,
+          "probability": 1
+        },
+        {
+          "text": "yourself",
+          "start": 132.65,
+          "end": 133.76,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 133.76,
+          "end": 134.04,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 134.04,
+          "end": 134.18,
+          "probability": 1
+        },
+        {
+          "text": "train",
+          "start": 134.18,
+          "end": 134.87,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 134.87,
+          "end": 135.15,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 135.15,
+          "end": 135.29,
+          "probability": 1
+        },
+        {
+          "text": "station",
+          "start": 135.29,
+          "end": 136.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 136.59,
+      "end": 141.14,
+      "text": "With plasticine porters with looking glass ties",
+      "words": [
+        {
+          "text": "With",
+          "start": 136.59,
+          "end": 137.03,
+          "probability": 1
+        },
+        {
+          "text": "plasticine",
+          "start": 137.03,
+          "end": 138.14,
+          "probability": 1
+        },
+        {
+          "text": "porters",
+          "start": 138.14,
+          "end": 138.92,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 138.92,
+          "end": 139.36,
+          "probability": 1
+        },
+        {
+          "text": "looking",
+          "start": 139.36,
+          "end": 140.14,
+          "probability": 1
+        },
+        {
+          "text": "glass",
+          "start": 140.14,
+          "end": 140.7,
+          "probability": 1
+        },
+        {
+          "text": "ties",
+          "start": 140.7,
+          "end": 141.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 143.39,
+      "end": 148.71,
+      "text": "Suddenly someone is there at the turnstile",
+      "words": [
+        {
+          "text": "Suddenly",
+          "start": 143.39,
+          "end": 144.57,
+          "probability": 1
+        },
+        {
+          "text": "someone",
+          "start": 144.57,
+          "end": 145.6,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 145.6,
+          "end": 145.9,
+          "probability": 1
+        },
+        {
+          "text": "there",
+          "start": 145.9,
+          "end": 146.64,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 146.64,
+          "end": 146.94,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 146.94,
+          "end": 147.38,
+          "probability": 1
+        },
+        {
+          "text": "turnstile",
+          "start": 147.38,
+          "end": 148.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 148.99,
+      "end": 152.42,
+      "text": "The girl with kaleidoscope eyes",
+      "words": [
+        {
+          "text": "The",
+          "start": 148.99,
+          "end": 149.37,
+          "probability": 1
+        },
+        {
+          "text": "girl",
+          "start": 149.37,
+          "end": 149.88,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 149.88,
+          "end": 150.39,
+          "probability": 1
+        },
+        {
+          "text": "kaleidoscope",
+          "start": 150.39,
+          "end": 151.91,
+          "probability": 1
+        },
+        {
+          "text": "eyes",
+          "start": 151.91,
+          "end": 152.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.52,
+      "end": 159.56,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 156.52,
+          "end": 157.03,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 157.03,
+          "end": 157.28,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 157.28,
+          "end": 157.66,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 157.66,
+          "end": 158.04,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 158.04,
+          "end": 158.55,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 158.55,
+          "end": 159.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 161.73,
+      "end": 164.77,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 161.73,
+          "end": 162.24,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 162.24,
+          "end": 162.49,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 162.49,
+          "end": 162.87,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 162.87,
+          "end": 163.25,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 163.25,
+          "end": 163.76,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 163.76,
+          "end": 164.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 166.88,
+      "end": 169.92,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 166.88,
+          "end": 167.39,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 167.39,
+          "end": 167.64,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 167.64,
+          "end": 168.02,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 168.02,
+          "end": 168.4,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 168.4,
+          "end": 168.91,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 168.91,
+          "end": 169.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 171.85,
+      "end": 172.75,
+      "text": "Ah, ah",
+      "words": [
+        {
+          "text": "Ah,",
+          "start": 171.85,
+          "end": 172.39,
+          "probability": 1
+        },
+        {
+          "text": "ah",
+          "start": 172.39,
+          "end": 172.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 176.94,
+      "end": 179.98,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 176.94,
+          "end": 177.45,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 177.45,
+          "end": 177.7,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 177.7,
+          "end": 178.08,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 178.08,
+          "end": 178.46,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 178.46,
+          "end": 178.97,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 178.97,
+          "end": 179.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 181.8,
+      "end": 184.84,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 181.8,
+          "end": 182.31,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 182.31,
+          "end": 182.56,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 182.56,
+          "end": 182.94,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 182.94,
+          "end": 183.32,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 183.32,
+          "end": 183.83,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 183.83,
+          "end": 184.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 186.99,
+      "end": 190.03,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 186.99,
+          "end": 187.5,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 187.5,
+          "end": 187.75,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 187.75,
+          "end": 188.13,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 188.13,
+          "end": 188.51,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 188.51,
+          "end": 189.02,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 189.02,
+          "end": 190.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 192.02,
+      "end": 192.92,
+      "text": "Ah, ah",
+      "words": [
+        {
+          "text": "Ah,",
+          "start": 192.02,
+          "end": 192.56,
+          "probability": 1
+        },
+        {
+          "text": "ah",
+          "start": 192.56,
+          "end": 192.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 197.48,
+      "end": 200.52,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 197.48,
+          "end": 197.99,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 197.99,
+          "end": 198.24,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 198.24,
+          "end": 198.62,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 198.62,
+          "end": 199,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 199,
+          "end": 199.51,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 199.51,
+          "end": 200.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 202.05,
+      "end": 205.09,
+      "text": "Lucy in the sky with diamonds",
+      "words": [
+        {
+          "text": "Lucy",
+          "start": 202.05,
+          "end": 202.56,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 202.56,
+          "end": 202.81,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 202.81,
+          "end": 203.19,
+          "probability": 1
+        },
+        {
+          "text": "sky",
+          "start": 203.19,
+          "end": 203.57,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 203.57,
+          "end": 204.08,
+          "probability": 1
+        },
+        {
+          "text": "diamonds",
+          "start": 204.08,
+          "end": 205.09,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Picture yourself in a boat on a river With tangerine trees and marmalade skies Somebody calls you, you answer quite slowly A girl with kaleidoscope eyes Cellophane flowers of yellow and green Towering over your head Look for the girl with the sun in her eyes And she's gone Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky with diamonds Ah, ah Follow her down to a bridge by a fountain Where rocking horse people eat marshmallow pies Everyone smiles as you drift past the flowers That grow so incredibly high Newspaper taxis appear on the shore Waiting to take you away Climb in the back with your head in the clouds And you're gone Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky with diamonds Ah, ah Picture yourself on a train in a station With plasticine porters with looking glass ties Suddenly someone is there at the turnstile The girl with kaleidoscope eyes Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky with diamonds Ah, ah Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky with diamonds Ah, ah Lucy in the sky with diamonds Lucy in the sky with diamonds"
+}

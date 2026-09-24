@@ -1,0 +1,18 @@
+{
+  "id": "flac_c54c381f25ac",
+  "source": "local",
+  "title": "Flashing Lights feat. Dwele",
+  "artist": "Kanye West",
+  "album": "Graduation",
+  "duration": 238,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": false,
+  "cachedAt": 1790188178092,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_c54c381f25ac/original.flac",
+  "instrumentalUrl": "/audio/flac_c54c381f25ac/instrumental.flac",
+  "vocalsUrl": "/audio/flac_c54c381f25ac/vocals.flac"
+}

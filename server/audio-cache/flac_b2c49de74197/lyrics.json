@@ -1,0 +1,1023 @@
+{
+  "language": "en",
+  "duration": 334,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 5.69,
+      "end": 8.25,
+      "text": "And disciplinary remains mercifully",
+      "words": [
+        {
+          "text": "And",
+          "start": 5.69,
+          "end": 5.93,
+          "probability": 1
+        },
+        {
+          "text": "disciplinary",
+          "start": 5.93,
+          "end": 6.89,
+          "probability": 1
+        },
+        {
+          "text": "remains",
+          "start": 6.89,
+          "end": 7.45,
+          "probability": 1
+        },
+        {
+          "text": "mercifully",
+          "start": 7.45,
+          "end": 8.25,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 8.51,
+      "end": 11.99,
+      "text": "Yes and um, I’m with you, Derek, this star nonsense",
+      "words": [
+        {
+          "text": "Yes",
+          "start": 8.51,
+          "end": 8.76,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 8.76,
+          "end": 9.01,
+          "probability": 1
+        },
+        {
+          "text": "um,",
+          "start": 9.01,
+          "end": 9.26,
+          "probability": 1
+        },
+        {
+          "text": "I’m",
+          "start": 9.26,
+          "end": 9.51,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 9.51,
+          "end": 9.84,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 9.84,
+          "end": 10.17,
+          "probability": 1
+        },
+        {
+          "text": "Derek,",
+          "start": 10.17,
+          "end": 10.67,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 10.67,
+          "end": 11,
+          "probability": 1
+        },
+        {
+          "text": "star",
+          "start": 11,
+          "end": 11.33,
+          "probability": 1
+        },
+        {
+          "text": "nonsense",
+          "start": 11.33,
+          "end": 11.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 12.24,
+      "end": 13.14,
+      "text": "Yes, yes",
+      "words": [
+        {
+          "text": "Yes,",
+          "start": 12.24,
+          "end": 12.75,
+          "probability": 1
+        },
+        {
+          "text": "yes",
+          "start": 12.75,
+          "end": 13.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 13.52,
+      "end": 14.15,
+      "text": "Now which is it?",
+      "words": [
+        {
+          "text": "Now",
+          "start": 13.52,
+          "end": 13.66,
+          "probability": 1
+        },
+        {
+          "text": "which",
+          "start": 13.66,
+          "end": 13.89,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 13.89,
+          "end": 14.01,
+          "probability": 1
+        },
+        {
+          "text": "it?",
+          "start": 14.01,
+          "end": 14.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 14.1,
+      "end": 16.37,
+      "text": "I am sure of it",
+      "words": [
+        {
+          "text": "I",
+          "start": 14.1,
+          "end": 14.31,
+          "probability": 1
+        },
+        {
+          "text": "am",
+          "start": 14.31,
+          "end": 14.72,
+          "probability": 1
+        },
+        {
+          "text": "sure",
+          "start": 14.72,
+          "end": 15.55,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 15.55,
+          "end": 15.96,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 15.96,
+          "end": 16.37,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 16.37,
+      "end": 94.73,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 16.37,
+          "end": 94.73,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 94.73,
+      "end": 97.87,
+      "text": "So, so you think you can tell",
+      "words": [
+        {
+          "text": "So,",
+          "start": 94.73,
+          "end": 95.14,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 95.14,
+          "end": 95.41,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 95.41,
+          "end": 95.82,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 95.82,
+          "end": 96.5,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 96.5,
+          "end": 96.91,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 96.91,
+          "end": 97.32,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 97.32,
+          "end": 97.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 101.49,
+      "end": 103.02,
+      "text": "Heaven from Hell?",
+      "words": [
+        {
+          "text": "Heaven",
+          "start": 101.49,
+          "end": 102.1,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 102.1,
+          "end": 102.51,
+          "probability": 1
+        },
+        {
+          "text": "Hell?",
+          "start": 102.51,
+          "end": 103.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.21,
+      "end": 107.01,
+      "text": "Blue skies from pain?",
+      "words": [
+        {
+          "text": "Blue",
+          "start": 105.21,
+          "end": 105.61,
+          "probability": 1
+        },
+        {
+          "text": "skies",
+          "start": 105.61,
+          "end": 106.11,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 106.11,
+          "end": 106.51,
+          "probability": 1
+        },
+        {
+          "text": "pain?",
+          "start": 106.51,
+          "end": 107.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.48,
+      "end": 114.44,
+      "text": "Can you tell a green field from a cold steel rail?",
+      "words": [
+        {
+          "text": "Can",
+          "start": 109.48,
+          "end": 109.85,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 109.85,
+          "end": 110.22,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 110.22,
+          "end": 110.72,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 110.72,
+          "end": 110.84,
+          "probability": 1
+        },
+        {
+          "text": "green",
+          "start": 110.84,
+          "end": 111.46,
+          "probability": 1
+        },
+        {
+          "text": "field",
+          "start": 111.46,
+          "end": 112.08,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 112.08,
+          "end": 112.58,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 112.58,
+          "end": 112.7,
+          "probability": 1
+        },
+        {
+          "text": "cold",
+          "start": 112.7,
+          "end": 113.2,
+          "probability": 1
+        },
+        {
+          "text": "steel",
+          "start": 113.2,
+          "end": 113.82,
+          "probability": 1
+        },
+        {
+          "text": "rail?",
+          "start": 113.82,
+          "end": 114.44,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 118.01,
+      "end": 120.28,
+      "text": "A smile from a veil?",
+      "words": [
+        {
+          "text": "A",
+          "start": 118.01,
+          "end": 118.15,
+          "probability": 1
+        },
+        {
+          "text": "smile",
+          "start": 118.15,
+          "end": 118.86,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 118.86,
+          "end": 119.43,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 119.43,
+          "end": 119.57,
+          "probability": 1
+        },
+        {
+          "text": "veil?",
+          "start": 119.57,
+          "end": 120.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 122.29,
+      "end": 125,
+      "text": "Do you think you can tell?",
+      "words": [
+        {
+          "text": "Do",
+          "start": 122.29,
+          "end": 122.55,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 122.55,
+          "end": 122.94,
+          "probability": 1
+        },
+        {
+          "text": "think",
+          "start": 122.94,
+          "end": 123.58,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 123.58,
+          "end": 123.97,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 123.97,
+          "end": 124.36,
+          "probability": 1
+        },
+        {
+          "text": "tell?",
+          "start": 124.36,
+          "end": 125,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 126.41,
+      "end": 130.97,
+      "text": "Did they get you to trade your heroes for ghosts?",
+      "words": [
+        {
+          "text": "Did",
+          "start": 126.41,
+          "end": 126.75,
+          "probability": 1
+        },
+        {
+          "text": "they",
+          "start": 126.75,
+          "end": 127.21,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 127.21,
+          "end": 127.55,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 127.55,
+          "end": 127.89,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 127.89,
+          "end": 128.12,
+          "probability": 1
+        },
+        {
+          "text": "trade",
+          "start": 128.12,
+          "end": 128.69,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 128.69,
+          "end": 129.15,
+          "probability": 1
+        },
+        {
+          "text": "heroes",
+          "start": 129.15,
+          "end": 129.83,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 129.83,
+          "end": 130.17,
+          "probability": 1
+        },
+        {
+          "text": "ghosts?",
+          "start": 130.17,
+          "end": 130.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 134.28,
+      "end": 138.84,
+      "text": "Hot ashes for trees? Hot air for a cool breeze?",
+      "words": [
+        {
+          "text": "Hot",
+          "start": 134.28,
+          "end": 134.64,
+          "probability": 1
+        },
+        {
+          "text": "ashes",
+          "start": 134.64,
+          "end": 135.24,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 135.24,
+          "end": 135.6,
+          "probability": 1
+        },
+        {
+          "text": "trees?",
+          "start": 135.6,
+          "end": 136.32,
+          "probability": 1
+        },
+        {
+          "text": "Hot",
+          "start": 136.32,
+          "end": 136.68,
+          "probability": 1
+        },
+        {
+          "text": "air",
+          "start": 136.68,
+          "end": 137.04,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 137.04,
+          "end": 137.4,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 137.4,
+          "end": 137.52,
+          "probability": 1
+        },
+        {
+          "text": "cool",
+          "start": 137.52,
+          "end": 138,
+          "probability": 1
+        },
+        {
+          "text": "breeze?",
+          "start": 138,
+          "end": 138.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 142.52,
+      "end": 144.8,
+      "text": "Cold comfort for change?",
+      "words": [
+        {
+          "text": "Cold",
+          "start": 142.52,
+          "end": 142.95,
+          "probability": 1
+        },
+        {
+          "text": "comfort",
+          "start": 142.95,
+          "end": 143.71,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 143.71,
+          "end": 144.04,
+          "probability": 1
+        },
+        {
+          "text": "change?",
+          "start": 144.04,
+          "end": 144.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 146.6,
+      "end": 148.51,
+      "text": "Did you exchange",
+      "words": [
+        {
+          "text": "Did",
+          "start": 146.6,
+          "end": 147.01,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 147.01,
+          "end": 147.42,
+          "probability": 1
+        },
+        {
+          "text": "exchange",
+          "start": 147.42,
+          "end": 148.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 149.96,
+      "end": 156.04,
+      "text": "A walk-on part in the war for a lead role in a cage?",
+      "words": [
+        {
+          "text": "A",
+          "start": 149.96,
+          "end": 150.11,
+          "probability": 1
+        },
+        {
+          "text": "walk-on",
+          "start": 150.11,
+          "end": 151.17,
+          "probability": 1
+        },
+        {
+          "text": "part",
+          "start": 151.17,
+          "end": 151.78,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 151.78,
+          "end": 152.08,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 152.08,
+          "end": 152.54,
+          "probability": 1
+        },
+        {
+          "text": "war",
+          "start": 152.54,
+          "end": 153,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 153,
+          "end": 153.46,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 153.46,
+          "end": 153.61,
+          "probability": 1
+        },
+        {
+          "text": "lead",
+          "start": 153.61,
+          "end": 154.22,
+          "probability": 1
+        },
+        {
+          "text": "role",
+          "start": 154.22,
+          "end": 154.83,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 154.83,
+          "end": 155.13,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 155.13,
+          "end": 155.28,
+          "probability": 1
+        },
+        {
+          "text": "cage?",
+          "start": 155.28,
+          "end": 156.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.04,
+      "end": 196.03,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 156.04,
+          "end": 196.03,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 196.03,
+      "end": 200.23,
+      "text": "How I wish, how I wish you were here",
+      "words": [
+        {
+          "text": "How",
+          "start": 196.03,
+          "end": 196.48,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 196.48,
+          "end": 196.63,
+          "probability": 1
+        },
+        {
+          "text": "wish,",
+          "start": 196.63,
+          "end": 197.38,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 197.38,
+          "end": 197.83,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 197.83,
+          "end": 197.98,
+          "probability": 1
+        },
+        {
+          "text": "wish",
+          "start": 197.98,
+          "end": 198.58,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 198.58,
+          "end": 199.03,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 199.03,
+          "end": 199.63,
+          "probability": 1
+        },
+        {
+          "text": "here",
+          "start": 199.63,
+          "end": 200.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 202.49,
+      "end": 208.57,
+      "text": "We're just two lost souls swimming in a fishbowl, year after year",
+      "words": [
+        {
+          "text": "We're",
+          "start": 202.49,
+          "end": 203.05,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 203.05,
+          "end": 203.5,
+          "probability": 1
+        },
+        {
+          "text": "two",
+          "start": 203.5,
+          "end": 203.84,
+          "probability": 1
+        },
+        {
+          "text": "lost",
+          "start": 203.84,
+          "end": 204.29,
+          "probability": 1
+        },
+        {
+          "text": "souls",
+          "start": 204.29,
+          "end": 204.85,
+          "probability": 1
+        },
+        {
+          "text": "swimming",
+          "start": 204.85,
+          "end": 205.75,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 205.75,
+          "end": 205.98,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 205.98,
+          "end": 206.1,
+          "probability": 1
+        },
+        {
+          "text": "fishbowl,",
+          "start": 206.1,
+          "end": 207.11,
+          "probability": 1
+        },
+        {
+          "text": "year",
+          "start": 207.11,
+          "end": 207.56,
+          "probability": 1
+        },
+        {
+          "text": "after",
+          "start": 207.56,
+          "end": 208.12,
+          "probability": 1
+        },
+        {
+          "text": "year",
+          "start": 208.12,
+          "end": 208.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 211.85,
+      "end": 217.16,
+      "text": "Running over the same old ground, what have we found?",
+      "words": [
+        {
+          "text": "Running",
+          "start": 211.85,
+          "end": 212.7,
+          "probability": 1
+        },
+        {
+          "text": "over",
+          "start": 212.7,
+          "end": 213.18,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 213.18,
+          "end": 213.54,
+          "probability": 1
+        },
+        {
+          "text": "same",
+          "start": 213.54,
+          "end": 214.02,
+          "probability": 1
+        },
+        {
+          "text": "old",
+          "start": 214.02,
+          "end": 214.38,
+          "probability": 1
+        },
+        {
+          "text": "ground,",
+          "start": 214.38,
+          "end": 215.23,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 215.23,
+          "end": 215.71,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 215.71,
+          "end": 216.19,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 216.19,
+          "end": 216.43,
+          "probability": 1
+        },
+        {
+          "text": "found?",
+          "start": 216.43,
+          "end": 217.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 218.33,
+      "end": 220.23,
+      "text": "The same old fears",
+      "words": [
+        {
+          "text": "The",
+          "start": 218.33,
+          "end": 218.71,
+          "probability": 1
+        },
+        {
+          "text": "same",
+          "start": 218.71,
+          "end": 219.22,
+          "probability": 1
+        },
+        {
+          "text": "old",
+          "start": 219.22,
+          "end": 219.6,
+          "probability": 1
+        },
+        {
+          "text": "fears",
+          "start": 219.6,
+          "end": 220.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 221.53,
+      "end": 223.82,
+      "text": "Wish you were here",
+      "words": [
+        {
+          "text": "Wish",
+          "start": 221.53,
+          "end": 222.14,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 222.14,
+          "end": 222.6,
+          "probability": 1
+        },
+        {
+          "text": "were",
+          "start": 222.6,
+          "end": 223.21,
+          "probability": 1
+        },
+        {
+          "text": "here",
+          "start": 223.21,
+          "end": 223.82,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "And disciplinary remains mercifully Yes and um, I’m with you, Derek, this star nonsense Yes, yes Now which is it? I am sure of it So, so you think you can tell Heaven from Hell? Blue skies from pain? Can you tell a green field from a cold steel rail? A smile from a veil? Do you think you can tell? Did they get you to trade your heroes for ghosts? Hot ashes for trees? Hot air for a cool breeze? Cold comfort for change? Did you exchange A walk-on part in the war for a lead role in a cage? How I wish, how I wish you were here We're just two lost souls swimming in a fishbowl, year after year Running over the same old ground, what have we found? The same old fears Wish you were here"
+}

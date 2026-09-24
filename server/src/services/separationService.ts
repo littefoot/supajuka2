@@ -11,7 +11,31 @@ import { SeparationResult } from '../types.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const SCRIPT_PATH = path.join(__dirname, '..', '..', 'python', 'separator.py');
+const WAVEFORM_SCRIPT = path.join(__dirname, '..', '..', 'python', 'generate_waveform.py');
 const PYTHON_CMD = process.env.PYTHON_PATH || 'py';
+
+export function generateVocalsWaveform(songId: string): Promise<void> {
+  return new Promise((resolve) => {
+    const vocalsPath = getVocalsPath(songId);
+    const songDir = getSongDir(songId);
+    const waveformPath = path.join(songDir, 'waveform_vocals.json');
+    if (!fs.existsSync(vocalsPath)) {
+      resolve();
+      return;
+    }
+    const wfArgs = PYTHON_CMD.includes('python.exe')
+      ? [WAVEFORM_SCRIPT, vocalsPath, waveformPath, '50']
+      : ['-3.12', WAVEFORM_SCRIPT, vocalsPath, waveformPath, '50'];
+
+    const proc = spawn(PYTHON_CMD, wfArgs);
+    proc.on('close', () => {
+      resolve();
+    });
+    proc.on('error', () => {
+      resolve();
+    });
+  });
+}
 
 export async function separateSong(songId: string): Promise<SeparationResult> {
   return vramQueue.run(`Separating ${songId}`, async () => {
@@ -19,6 +43,11 @@ export async function separateSong(songId: string): Promise<SeparationResult> {
     const vocalsPath = getVocalsPath(songId);
 
     if (fs.existsSync(instPath) && fs.existsSync(vocalsPath)) {
+      const songDir = getSongDir(songId);
+      const waveformPath = path.join(songDir, 'waveform_vocals.json');
+      if (!fs.existsSync(waveformPath)) {
+        await generateVocalsWaveform(songId);
+      }
       console.log(`📦 Cache hit for stems: ${songId}`);
       appEvents.emitStatusUpdate(songId, 'separated', 100, 'Stems ready.');
       return {
@@ -56,10 +85,13 @@ export async function separateSong(songId: string): Promise<SeparationResult> {
         stderr += data.toString();
       });
 
-      proc.on('close', (code) => {
+      proc.on('close', async (code) => {
         if (code === 0) {
           const finalInst = getInstrumentalPath(songId);
           const finalVocals = getVocalsPath(songId);
+
+          // Immediately generate acapella waveform so downstream transcription & editor have peak data
+          await generateVocalsWaveform(songId);
 
           const meta = getMetadata(songId);
           if (meta) {

@@ -1,0 +1,19 @@
+{
+  "id": "flac_c8902fde4043",
+  "source": "local",
+  "title": "Have A Cigar",
+  "artist": "Pink Floyd",
+  "album": "Wish You Were Here (TOCP-53808)",
+  "duration": 309,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_c8902fde4043/cover.jpg",
+  "cachedAt": 1789626303782,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_c8902fde4043/original.flac",
+  "instrumentalUrl": "/audio/flac_c8902fde4043/instrumental.flac",
+  "vocalsUrl": "/audio/flac_c8902fde4043/vocals.flac"
+}

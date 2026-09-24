@@ -1,0 +1,1912 @@
+{
+  "language": "en",
+  "duration": 210,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 7.29,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 7.29,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 7.29,
+      "end": 8.05,
+      "text": "Woo-hoo",
+      "words": [
+        {
+          "text": "Woo-hoo",
+          "start": 7.29,
+          "end": 8.05,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 8.99,
+      "end": 9.75,
+      "text": "Uh-huh",
+      "words": [
+        {
+          "text": "Uh-huh",
+          "start": 8.99,
+          "end": 9.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 10.59,
+      "end": 11.95,
+      "text": "Mm, mm, mm",
+      "words": [
+        {
+          "text": "Mm,",
+          "start": 10.59,
+          "end": 11.1,
+          "probability": 1
+        },
+        {
+          "text": "mm,",
+          "start": 11.1,
+          "end": 11.61,
+          "probability": 1
+        },
+        {
+          "text": "mm",
+          "start": 11.61,
+          "end": 11.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 14.86,
+      "end": 18.1,
+      "text": "Anthony works in the grocery store",
+      "words": [
+        {
+          "text": "Anthony",
+          "start": 14.86,
+          "end": 15.64,
+          "probability": 1
+        },
+        {
+          "text": "works",
+          "start": 15.64,
+          "end": 16.2,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 16.2,
+          "end": 16.42,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 16.42,
+          "end": 16.76,
+          "probability": 1
+        },
+        {
+          "text": "grocery",
+          "start": 16.76,
+          "end": 17.54,
+          "probability": 1
+        },
+        {
+          "text": "store",
+          "start": 17.54,
+          "end": 18.1,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 18.36,
+      "end": 21.67,
+      "text": "Saving his pennies for someday",
+      "words": [
+        {
+          "text": "Saving",
+          "start": 18.36,
+          "end": 19.13,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 19.13,
+          "end": 19.51,
+          "probability": 1
+        },
+        {
+          "text": "pennies",
+          "start": 19.51,
+          "end": 20.4,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 20.4,
+          "end": 20.78,
+          "probability": 1
+        },
+        {
+          "text": "someday",
+          "start": 20.78,
+          "end": 21.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 21.93,
+      "end": 24.6,
+      "text": "Mama Leone left a note on the door",
+      "words": [
+        {
+          "text": "Mama",
+          "start": 21.93,
+          "end": 22.32,
+          "probability": 1
+        },
+        {
+          "text": "Leone",
+          "start": 22.32,
+          "end": 22.81,
+          "probability": 1
+        },
+        {
+          "text": "left",
+          "start": 22.81,
+          "end": 23.2,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 23.2,
+          "end": 23.32,
+          "probability": 1
+        },
+        {
+          "text": "note",
+          "start": 23.32,
+          "end": 23.71,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 23.71,
+          "end": 23.91,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 23.91,
+          "end": 24.21,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 24.21,
+          "end": 24.6,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 24.84,
+      "end": 28.09,
+      "text": "She said, \"Sonny, move out to the country\"",
+      "words": [
+        {
+          "text": "She",
+          "start": 24.84,
+          "end": 25.12,
+          "probability": 1
+        },
+        {
+          "text": "said,",
+          "start": 25.12,
+          "end": 25.58,
+          "probability": 1
+        },
+        {
+          "text": "\"Sonny,",
+          "start": 25.58,
+          "end": 26.23,
+          "probability": 1
+        },
+        {
+          "text": "move",
+          "start": 26.23,
+          "end": 26.6,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 26.6,
+          "end": 26.88,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 26.88,
+          "end": 27.07,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 27.07,
+          "end": 27.35,
+          "probability": 1
+        },
+        {
+          "text": "country\"",
+          "start": 27.35,
+          "end": 28.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 28.34,
+      "end": 32.39,
+      "text": "Oh, but working too hard can give you a heart attack-ack-ack-ack",
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 28.34,
+          "end": 28.56,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 28.56,
+          "end": 28.78,
+          "probability": 1
+        },
+        {
+          "text": "working",
+          "start": 28.78,
+          "end": 29.3,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 29.3,
+          "end": 29.52,
+          "probability": 1
+        },
+        {
+          "text": "hard",
+          "start": 29.52,
+          "end": 29.82,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 29.82,
+          "end": 30.04,
+          "probability": 1
+        },
+        {
+          "text": "give",
+          "start": 30.04,
+          "end": 30.34,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 30.34,
+          "end": 30.56,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 30.56,
+          "end": 30.68,
+          "probability": 1
+        },
+        {
+          "text": "heart",
+          "start": 30.68,
+          "end": 31.05,
+          "probability": 1
+        },
+        {
+          "text": "attack-ack-ack-ack",
+          "start": 31.05,
+          "end": 32.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 32.62,
+      "end": 36.12,
+      "text": "You oughta know by now (you oughta know by now)",
+      "words": [
+        {
+          "text": "You",
+          "start": 32.62,
+          "end": 32.9,
+          "probability": 1
+        },
+        {
+          "text": "oughta",
+          "start": 32.9,
+          "end": 33.45,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 33.45,
+          "end": 33.82,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 33.82,
+          "end": 34,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 34,
+          "end": 34.28,
+          "probability": 1
+        },
+        {
+          "text": "(you",
+          "start": 34.28,
+          "end": 34.65,
+          "probability": 1
+        },
+        {
+          "text": "oughta",
+          "start": 34.65,
+          "end": 35.2,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 35.2,
+          "end": 35.57,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 35.57,
+          "end": 35.75,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 35.75,
+          "end": 36.12,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 36.37,
+      "end": 39.45,
+      "text": "Who needs a house out in Hackensack?",
+      "words": [
+        {
+          "text": "Who",
+          "start": 36.37,
+          "end": 36.68,
+          "probability": 1
+        },
+        {
+          "text": "needs",
+          "start": 36.68,
+          "end": 37.19,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 37.19,
+          "end": 37.31,
+          "probability": 1
+        },
+        {
+          "text": "house",
+          "start": 37.31,
+          "end": 37.82,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 37.82,
+          "end": 38.13,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 38.13,
+          "end": 38.33,
+          "probability": 1
+        },
+        {
+          "text": "Hackensack?",
+          "start": 38.33,
+          "end": 39.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 39.68,
+      "end": 42.65,
+      "text": "Is that all you get for your money?",
+      "words": [
+        {
+          "text": "Is",
+          "start": 39.68,
+          "end": 39.89,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 39.89,
+          "end": 40.31,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 40.31,
+          "end": 40.63,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 40.63,
+          "end": 40.95,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 40.95,
+          "end": 41.27,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 41.27,
+          "end": 41.59,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 41.59,
+          "end": 42.01,
+          "probability": 1
+        },
+        {
+          "text": "money?",
+          "start": 42.01,
+          "end": 42.65,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 42.9,
+      "end": 46.59,
+      "text": "And it seems such a waste of time",
+      "words": [
+        {
+          "text": "And",
+          "start": 42.9,
+          "end": 43.33,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 43.33,
+          "end": 43.61,
+          "probability": 1
+        },
+        {
+          "text": "seems",
+          "start": 43.61,
+          "end": 44.32,
+          "probability": 1
+        },
+        {
+          "text": "such",
+          "start": 44.32,
+          "end": 44.89,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 44.89,
+          "end": 45.03,
+          "probability": 1
+        },
+        {
+          "text": "waste",
+          "start": 45.03,
+          "end": 45.74,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 45.74,
+          "end": 46.02,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 46.02,
+          "end": 46.59,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 46.84,
+      "end": 49.55,
+      "text": "If that's what it's all about",
+      "words": [
+        {
+          "text": "If",
+          "start": 46.84,
+          "end": 47.07,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 47.07,
+          "end": 47.75,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 47.75,
+          "end": 48.2,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 48.2,
+          "end": 48.65,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 48.65,
+          "end": 48.99,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 48.99,
+          "end": 49.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 49.8,
+      "end": 54.36,
+      "text": "Mama, if that's movin' up then I'm movin' out!",
+      "words": [
+        {
+          "text": "Mama,",
+          "start": 49.8,
+          "end": 50.4,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 50.4,
+          "end": 50.64,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 50.64,
+          "end": 51.36,
+          "probability": 1
+        },
+        {
+          "text": "movin'",
+          "start": 51.36,
+          "end": 52.08,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 52.08,
+          "end": 52.32,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 52.32,
+          "end": 52.8,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 52.8,
+          "end": 53.16,
+          "probability": 1
+        },
+        {
+          "text": "movin'",
+          "start": 53.16,
+          "end": 53.88,
+          "probability": 1
+        },
+        {
+          "text": "out!",
+          "start": 53.88,
+          "end": 54.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 57.87,
+      "end": 59.77,
+      "text": "Mmm I'm movin' out",
+      "words": [
+        {
+          "text": "Mmm",
+          "start": 57.87,
+          "end": 58.25,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 58.25,
+          "end": 58.63,
+          "probability": 1
+        },
+        {
+          "text": "movin'",
+          "start": 58.63,
+          "end": 59.39,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 59.39,
+          "end": 59.77,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.16,
+      "end": 62.06,
+      "text": "Mmm, mmm",
+      "words": [
+        {
+          "text": "Mmm,",
+          "start": 61.16,
+          "end": 61.67,
+          "probability": 1
+        },
+        {
+          "text": "mmm",
+          "start": 61.67,
+          "end": 62.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 63.37,
+      "end": 64.13,
+      "text": "Woo-hoo",
+      "words": [
+        {
+          "text": "Woo-hoo",
+          "start": 63.37,
+          "end": 64.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 64.87,
+      "end": 65.63,
+      "text": "Uh-huh",
+      "words": [
+        {
+          "text": "Uh-huh",
+          "start": 64.87,
+          "end": 65.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 70.73,
+      "end": 73.74,
+      "text": "Sergeant O'Leary is walking the beat",
+      "words": [
+        {
+          "text": "Sergeant",
+          "start": 70.73,
+          "end": 71.51,
+          "probability": 1
+        },
+        {
+          "text": "O'Leary",
+          "start": 71.51,
+          "end": 72.19,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 72.19,
+          "end": 72.38,
+          "probability": 1
+        },
+        {
+          "text": "walking",
+          "start": 72.38,
+          "end": 73.06,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 73.06,
+          "end": 73.35,
+          "probability": 1
+        },
+        {
+          "text": "beat",
+          "start": 73.35,
+          "end": 73.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 74,
+      "end": 76.98,
+      "text": "At night, he becomes a bartender",
+      "words": [
+        {
+          "text": "At",
+          "start": 74,
+          "end": 74.22,
+          "probability": 1
+        },
+        {
+          "text": "night,",
+          "start": 74.22,
+          "end": 74.88,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 74.88,
+          "end": 75.1,
+          "probability": 1
+        },
+        {
+          "text": "becomes",
+          "start": 75.1,
+          "end": 75.87,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 75.87,
+          "end": 75.99,
+          "probability": 1
+        },
+        {
+          "text": "bartender",
+          "start": 75.99,
+          "end": 76.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 77.23,
+      "end": 81.06,
+      "text": "He works at Mister Cacciatore's down on Sullivan Street",
+      "words": [
+        {
+          "text": "He",
+          "start": 77.23,
+          "end": 77.39,
+          "probability": 1
+        },
+        {
+          "text": "works",
+          "start": 77.39,
+          "end": 77.8,
+          "probability": 1
+        },
+        {
+          "text": "at",
+          "start": 77.8,
+          "end": 77.96,
+          "probability": 1
+        },
+        {
+          "text": "Mister",
+          "start": 77.96,
+          "end": 78.45,
+          "probability": 1
+        },
+        {
+          "text": "Cacciatore's",
+          "start": 78.45,
+          "end": 79.43,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 79.43,
+          "end": 79.76,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 79.76,
+          "end": 79.92,
+          "probability": 1
+        },
+        {
+          "text": "Sullivan",
+          "start": 79.92,
+          "end": 80.57,
+          "probability": 1
+        },
+        {
+          "text": "Street",
+          "start": 80.57,
+          "end": 81.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 81.3,
+      "end": 84.16,
+      "text": "Across from the medical center",
+      "words": [
+        {
+          "text": "Across",
+          "start": 81.3,
+          "end": 81.96,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 81.96,
+          "end": 82.4,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 82.4,
+          "end": 82.73,
+          "probability": 1
+        },
+        {
+          "text": "medical",
+          "start": 82.73,
+          "end": 83.5,
+          "probability": 1
+        },
+        {
+          "text": "center",
+          "start": 83.5,
+          "end": 84.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 84.42,
+      "end": 88.41,
+      "text": "Yeah, he's trading in his Chevy for a Cadillac-ac-ac-ac",
+      "words": [
+        {
+          "text": "Yeah,",
+          "start": 84.42,
+          "end": 84.84,
+          "probability": 1
+        },
+        {
+          "text": "he's",
+          "start": 84.84,
+          "end": 85.18,
+          "probability": 1
+        },
+        {
+          "text": "trading",
+          "start": 85.18,
+          "end": 85.77,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 85.77,
+          "end": 85.94,
+          "probability": 1
+        },
+        {
+          "text": "his",
+          "start": 85.94,
+          "end": 86.19,
+          "probability": 1
+        },
+        {
+          "text": "Chevy",
+          "start": 86.19,
+          "end": 86.61,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 86.61,
+          "end": 86.86,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 86.86,
+          "end": 86.98,
+          "probability": 1
+        },
+        {
+          "text": "Cadillac-ac-ac-ac",
+          "start": 86.98,
+          "end": 88.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 88.63,
+      "end": 91.79,
+      "text": "You oughta know by now (you oughta know by now)",
+      "words": [
+        {
+          "text": "You",
+          "start": 88.63,
+          "end": 88.88,
+          "probability": 1
+        },
+        {
+          "text": "oughta",
+          "start": 88.88,
+          "end": 89.38,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 89.38,
+          "end": 89.71,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 89.71,
+          "end": 89.88,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 89.88,
+          "end": 90.13,
+          "probability": 1
+        },
+        {
+          "text": "(you",
+          "start": 90.13,
+          "end": 90.46,
+          "probability": 1
+        },
+        {
+          "text": "oughta",
+          "start": 90.46,
+          "end": 90.96,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 90.96,
+          "end": 91.29,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 91.29,
+          "end": 91.46,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 91.46,
+          "end": 91.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 92.04,
+      "end": 95.31,
+      "text": "And if he can't drive with a broken back",
+      "words": [
+        {
+          "text": "And",
+          "start": 92.04,
+          "end": 92.34,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 92.34,
+          "end": 92.54,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 92.54,
+          "end": 92.74,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 92.74,
+          "end": 93.25,
+          "probability": 1
+        },
+        {
+          "text": "drive",
+          "start": 93.25,
+          "end": 93.76,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 93.76,
+          "end": 94.17,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 94.17,
+          "end": 94.29,
+          "probability": 1
+        },
+        {
+          "text": "broken",
+          "start": 94.29,
+          "end": 94.9,
+          "probability": 1
+        },
+        {
+          "text": "back",
+          "start": 94.9,
+          "end": 95.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.54,
+      "end": 98.57,
+      "text": "At least he can polish the fenders",
+      "words": [
+        {
+          "text": "At",
+          "start": 95.54,
+          "end": 95.76,
+          "probability": 1
+        },
+        {
+          "text": "least",
+          "start": 95.76,
+          "end": 96.3,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 96.3,
+          "end": 96.52,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 96.52,
+          "end": 96.84,
+          "probability": 1
+        },
+        {
+          "text": "polish",
+          "start": 96.84,
+          "end": 97.49,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 97.49,
+          "end": 97.81,
+          "probability": 1
+        },
+        {
+          "text": "fenders",
+          "start": 97.81,
+          "end": 98.57,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 98.81,
+      "end": 102.5,
+      "text": "And it seems such a waste of time",
+      "words": [
+        {
+          "text": "And",
+          "start": 98.81,
+          "end": 99.24,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 99.24,
+          "end": 99.52,
+          "probability": 1
+        },
+        {
+          "text": "seems",
+          "start": 99.52,
+          "end": 100.23,
+          "probability": 1
+        },
+        {
+          "text": "such",
+          "start": 100.23,
+          "end": 100.8,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 100.8,
+          "end": 100.94,
+          "probability": 1
+        },
+        {
+          "text": "waste",
+          "start": 100.94,
+          "end": 101.65,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 101.65,
+          "end": 101.93,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 101.93,
+          "end": 102.5,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 102.76,
+      "end": 105.43,
+      "text": "If that's what it's all about",
+      "words": [
+        {
+          "text": "If",
+          "start": 102.76,
+          "end": 102.98,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 102.98,
+          "end": 103.65,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 103.65,
+          "end": 104.1,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 104.1,
+          "end": 104.54,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 104.54,
+          "end": 104.87,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 104.87,
+          "end": 105.43,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.68,
+      "end": 110.24,
+      "text": "Mama, if that's movin' up then I'm movin' out!",
+      "words": [
+        {
+          "text": "Mama,",
+          "start": 105.68,
+          "end": 106.28,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 106.28,
+          "end": 106.52,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 106.52,
+          "end": 107.24,
+          "probability": 1
+        },
+        {
+          "text": "movin'",
+          "start": 107.24,
+          "end": 107.96,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 107.96,
+          "end": 108.2,
+          "probability": 1
+        },
+        {
+          "text": "then",
+          "start": 108.2,
+          "end": 108.68,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 108.68,
+          "end": 109.04,
+          "probability": 1
+        },
+        {
+          "text": "movin'",
+          "start": 109.04,
+          "end": 109.76,
+          "probability": 1
+        },
+        {
+          "text": "out!",
+          "start": 109.76,
+          "end": 110.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 113.96,
+      "end": 115.86,
+      "text": "Mmm I'm movin' out",
+      "words": [
+        {
+          "text": "Mmm",
+          "start": 113.96,
+          "end": 114.34,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 114.34,
+          "end": 114.72,
+          "probability": 1
+        },
+        {
+          "text": "movin'",
+          "start": 114.72,
+          "end": 115.48,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 115.48,
+          "end": 115.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.09,
+      "end": 117.85,
+      "text": "Oh-huh",
+      "words": [
+        {
+          "text": "Oh-huh",
+          "start": 117.09,
+          "end": 117.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 119.17,
+      "end": 119.93,
+      "text": "Woo-hoo",
+      "words": [
+        {
+          "text": "Woo-hoo",
+          "start": 119.17,
+          "end": 119.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 120.65,
+      "end": 121.41,
+      "text": "Uh-huh",
+      "words": [
+        {
+          "text": "Uh-huh",
+          "start": 120.65,
+          "end": 121.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 126.38,
+      "end": 130.2,
+      "text": "You should never argue with a crazy mi-mi-mi-mind",
+      "words": [
+        {
+          "text": "You",
+          "start": 126.38,
+          "end": 126.65,
+          "probability": 1
+        },
+        {
+          "text": "should",
+          "start": 126.65,
+          "end": 127.19,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 127.19,
+          "end": 127.64,
+          "probability": 1
+        },
+        {
+          "text": "argue",
+          "start": 127.64,
+          "end": 128.09,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 128.09,
+          "end": 128.45,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 128.45,
+          "end": 128.57,
+          "probability": 1
+        },
+        {
+          "text": "crazy",
+          "start": 128.57,
+          "end": 129.02,
+          "probability": 1
+        },
+        {
+          "text": "mi-mi-mi-mind",
+          "start": 129.02,
+          "end": 130.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 130.44,
+      "end": 132.9,
+      "text": "You oughta know by now (you oughta know by now)",
+      "words": [
+        {
+          "text": "You",
+          "start": 130.44,
+          "end": 130.63,
+          "probability": 1
+        },
+        {
+          "text": "oughta",
+          "start": 130.63,
+          "end": 131.02,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 131.02,
+          "end": 131.28,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 131.28,
+          "end": 131.41,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 131.41,
+          "end": 131.6,
+          "probability": 1
+        },
+        {
+          "text": "(you",
+          "start": 131.6,
+          "end": 131.86,
+          "probability": 1
+        },
+        {
+          "text": "oughta",
+          "start": 131.86,
+          "end": 132.25,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 132.25,
+          "end": 132.51,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 132.51,
+          "end": 132.64,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 132.64,
+          "end": 132.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.13,
+      "end": 136.87,
+      "text": "You can pay Uncle Sam with the overtime",
+      "words": [
+        {
+          "text": "You",
+          "start": 133.13,
+          "end": 133.48,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 133.48,
+          "end": 133.83,
+          "probability": 1
+        },
+        {
+          "text": "pay",
+          "start": 133.83,
+          "end": 134.18,
+          "probability": 1
+        },
+        {
+          "text": "Uncle",
+          "start": 134.18,
+          "end": 134.76,
+          "probability": 1
+        },
+        {
+          "text": "Sam",
+          "start": 134.76,
+          "end": 135.11,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 135.11,
+          "end": 135.58,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 135.58,
+          "end": 135.93,
+          "probability": 1
+        },
+        {
+          "text": "overtime",
+          "start": 135.93,
+          "end": 136.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 137.12,
+      "end": 140.32,
+      "text": "Is that all you get for your money?",
+      "words": [
+        {
+          "text": "Is",
+          "start": 137.12,
+          "end": 137.35,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 137.35,
+          "end": 137.81,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 137.81,
+          "end": 138.15,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 138.15,
+          "end": 138.49,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 138.49,
+          "end": 138.83,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 138.83,
+          "end": 139.17,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 139.17,
+          "end": 139.63,
+          "probability": 1
+        },
+        {
+          "text": "money?",
+          "start": 139.63,
+          "end": 140.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 140.58,
+      "end": 143.62,
+      "text": "And if that's what you have in mind",
+      "words": [
+        {
+          "text": "And",
+          "start": 140.58,
+          "end": 140.91,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 140.91,
+          "end": 141.13,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 141.13,
+          "end": 141.78,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 141.78,
+          "end": 142.21,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 142.21,
+          "end": 142.54,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 142.54,
+          "end": 142.97,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 142.97,
+          "end": 143.19,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 143.19,
+          "end": 143.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 143.87,
+      "end": 146.9,
+      "text": "Yeah, that's what you're all about",
+      "words": [
+        {
+          "text": "Yeah,",
+          "start": 143.87,
+          "end": 144.39,
+          "probability": 1
+        },
+        {
+          "text": "that's",
+          "start": 144.39,
+          "end": 145.02,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 145.02,
+          "end": 145.44,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 145.44,
+          "end": 146.07,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 146.07,
+          "end": 146.38,
+          "probability": 1
+        },
+        {
+          "text": "about",
+          "start": 146.38,
+          "end": 146.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 147.64,
+      "end": 151.82,
+      "text": "Good luck movin' up, 'cause I'm movin' out!",
+      "words": [
+        {
+          "text": "Good",
+          "start": 147.64,
+          "end": 148.1,
+          "probability": 1
+        },
+        {
+          "text": "luck",
+          "start": 148.1,
+          "end": 148.56,
+          "probability": 1
+        },
+        {
+          "text": "movin'",
+          "start": 148.56,
+          "end": 149.26,
+          "probability": 1
+        },
+        {
+          "text": "up,",
+          "start": 149.26,
+          "end": 149.61,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 149.61,
+          "end": 150.31,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 150.31,
+          "end": 150.66,
+          "probability": 1
+        },
+        {
+          "text": "movin'",
+          "start": 150.66,
+          "end": 151.36,
+          "probability": 1
+        },
+        {
+          "text": "out!",
+          "start": 151.36,
+          "end": 151.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.46,
+      "end": 157.36,
+      "text": "Mmm I'm movin' out",
+      "words": [
+        {
+          "text": "Mmm",
+          "start": 155.46,
+          "end": 155.84,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 155.84,
+          "end": 156.22,
+          "probability": 1
+        },
+        {
+          "text": "movin'",
+          "start": 156.22,
+          "end": 156.98,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 156.98,
+          "end": 157.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 158.65,
+      "end": 159.55,
+      "text": "Mmm, mmm",
+      "words": [
+        {
+          "text": "Mmm,",
+          "start": 158.65,
+          "end": 159.16,
+          "probability": 1
+        },
+        {
+          "text": "mmm",
+          "start": 159.16,
+          "end": 159.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 160.65,
+      "end": 161.41,
+      "text": "Woo-hoo",
+      "words": [
+        {
+          "text": "Woo-hoo",
+          "start": 160.65,
+          "end": 161.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 162.2,
+      "end": 162.96,
+      "text": "Uh-huh",
+      "words": [
+        {
+          "text": "Uh-huh",
+          "start": 162.2,
+          "end": 162.96,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 164.26,
+      "end": 165.16,
+      "text": "Mmm, mmm",
+      "words": [
+        {
+          "text": "Mmm,",
+          "start": 164.26,
+          "end": 164.77,
+          "probability": 1
+        },
+        {
+          "text": "mmm",
+          "start": 164.77,
+          "end": 165.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 165.16,
+      "end": 181.71,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 165.16,
+          "end": 181.71,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 181.71,
+      "end": 183.23,
+      "text": "I'm movin' out!",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 181.71,
+          "end": 182.06,
+          "probability": 1
+        },
+        {
+          "text": "movin'",
+          "start": 182.06,
+          "end": 182.76,
+          "probability": 1
+        },
+        {
+          "text": "out!",
+          "start": 182.76,
+          "end": 183.23,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Woo-hoo Uh-huh Mm, mm, mm Anthony works in the grocery store Saving his pennies for someday Mama Leone left a note on the door She said, \"Sonny, move out to the country\" Oh, but working too hard can give you a heart attack-ack-ack-ack You oughta know by now (you oughta know by now) Who needs a house out in Hackensack? Is that all you get for your money? And it seems such a waste of time If that's what it's all about Mama, if that's movin' up then I'm movin' out! Mmm I'm movin' out Mmm, mmm Woo-hoo Uh-huh Sergeant O'Leary is walking the beat At night, he becomes a bartender He works at Mister Cacciatore's down on Sullivan Street Across from the medical center Yeah, he's trading in his Chevy for a Cadillac-ac-ac-ac You oughta know by now (you oughta know by now) And if he can't drive with a broken back At least he can polish the fenders And it seems such a waste of time If that's what it's all about Mama, if that's movin' up then I'm movin' out! Mmm I'm movin' out Oh-huh Woo-hoo Uh-huh You should never argue with a crazy mi-mi-mi-mind You oughta know by now (you oughta know by now) You can pay Uncle Sam with the overtime Is that all you get for your money? And if that's what you have in mind Yeah, that's what you're all about Good luck movin' up, 'cause I'm movin' out! Mmm I'm movin' out Mmm, mmm Woo-hoo Uh-huh Mmm, mmm I'm movin' out!"
+}

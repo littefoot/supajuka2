@@ -1,0 +1,1682 @@
+{
+  "language": "en",
+  "duration": 335,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 6.95,
+      "end": 7.85,
+      "text": "Ooh, ooh...",
+      "words": [
+        {
+          "text": "Ooh,",
+          "start": 6.95,
+          "end": 7.31,
+          "probability": 1
+        },
+        {
+          "text": "ooh...",
+          "start": 7.31,
+          "end": 7.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 7.85,
+      "end": 24.94,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 7.85,
+          "end": 24.94,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 24.94,
+      "end": 25.54,
+      "text": "Hey",
+      "words": [
+        {
+          "text": "Hey",
+          "start": 24.94,
+          "end": 25.54,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 31.38,
+      "end": 34.79,
+      "text": "Mama, take this badge from me",
+      "words": [
+        {
+          "text": "Mama,",
+          "start": 31.38,
+          "end": 32.09,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 32.09,
+          "end": 32.66,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 32.66,
+          "end": 33.23,
+          "probability": 1
+        },
+        {
+          "text": "badge",
+          "start": 33.23,
+          "end": 33.94,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 33.94,
+          "end": 34.51,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 34.51,
+          "end": 34.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 38.53,
+      "end": 41.95,
+      "text": "I can't use it anymore",
+      "words": [
+        {
+          "text": "I",
+          "start": 38.53,
+          "end": 38.72,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 38.72,
+          "end": 39.67,
+          "probability": 1
+        },
+        {
+          "text": "use",
+          "start": 39.67,
+          "end": 40.24,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 40.24,
+          "end": 40.62,
+          "probability": 1
+        },
+        {
+          "text": "anymore",
+          "start": 40.62,
+          "end": 41.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.92,
+      "end": 49.08,
+      "text": "It's gettin' dark, too dark to see",
+      "words": [
+        {
+          "text": "It's",
+          "start": 45.92,
+          "end": 46.37,
+          "probability": 1
+        },
+        {
+          "text": "gettin'",
+          "start": 46.37,
+          "end": 47.16,
+          "probability": 1
+        },
+        {
+          "text": "dark,",
+          "start": 47.16,
+          "end": 47.72,
+          "probability": 1
+        },
+        {
+          "text": "too",
+          "start": 47.72,
+          "end": 48.06,
+          "probability": 1
+        },
+        {
+          "text": "dark",
+          "start": 48.06,
+          "end": 48.51,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 48.51,
+          "end": 48.74,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 48.74,
+          "end": 49.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 52.84,
+      "end": 56.64,
+      "text": "Feels like I'm knockin' on heaven's door",
+      "words": [
+        {
+          "text": "Feels",
+          "start": 52.84,
+          "end": 53.4,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 53.4,
+          "end": 53.85,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 53.85,
+          "end": 54.19,
+          "probability": 1
+        },
+        {
+          "text": "knockin'",
+          "start": 54.19,
+          "end": 55.08,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 55.08,
+          "end": 55.3,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 55.3,
+          "end": 56.19,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 56.19,
+          "end": 56.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 60.6,
+      "end": 65.55,
+      "text": "Knock-knock-knockin' on heaven's door, hey, hey, hey hey, yeah",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 60.6,
+          "end": 62.43,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 62.43,
+          "end": 62.61,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 62.61,
+          "end": 63.34,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 63.34,
+          "end": 63.8,
+          "probability": 1
+        },
+        {
+          "text": "hey,",
+          "start": 63.8,
+          "end": 64.17,
+          "probability": 1
+        },
+        {
+          "text": "hey,",
+          "start": 64.17,
+          "end": 64.54,
+          "probability": 1
+        },
+        {
+          "text": "hey",
+          "start": 64.54,
+          "end": 64.81,
+          "probability": 1
+        },
+        {
+          "text": "hey,",
+          "start": 64.81,
+          "end": 65.18,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 65.18,
+          "end": 65.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 67.89,
+      "end": 71.31,
+      "text": "Knock-knock-knockin' on heaven's door, ooh",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 67.89,
+          "end": 69.69,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 69.69,
+          "end": 69.87,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 69.87,
+          "end": 70.59,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 70.59,
+          "end": 71.04,
+          "probability": 1
+        },
+        {
+          "text": "ooh",
+          "start": 71.04,
+          "end": 71.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.17,
+      "end": 79.35,
+      "text": "Knock-knock-knockin' on heaven's door, ooh-oh, yeah",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 75.17,
+          "end": 76.99,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 76.99,
+          "end": 77.17,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 77.17,
+          "end": 77.9,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 77.9,
+          "end": 78.35,
+          "probability": 1
+        },
+        {
+          "text": "ooh-oh,",
+          "start": 78.35,
+          "end": 78.99,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 78.99,
+          "end": 79.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 82.22,
+      "end": 86.41,
+      "text": "Knock-knock-knockin' on heaven's door, ayy, hey, yeah",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 82.22,
+          "end": 84,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 84,
+          "end": 84.18,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 84.18,
+          "end": 84.89,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 84.89,
+          "end": 85.33,
+          "probability": 1
+        },
+        {
+          "text": "ayy,",
+          "start": 85.33,
+          "end": 85.69,
+          "probability": 1
+        },
+        {
+          "text": "hey,",
+          "start": 85.69,
+          "end": 86.05,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 86.05,
+          "end": 86.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 93.23,
+      "end": 95.52,
+      "text": "Ooh-oh, yeah, oh, yeah, aw",
+      "words": [
+        {
+          "text": "Ooh-oh,",
+          "start": 93.23,
+          "end": 93.96,
+          "probability": 1
+        },
+        {
+          "text": "yeah,",
+          "start": 93.96,
+          "end": 94.48,
+          "probability": 1
+        },
+        {
+          "text": "oh,",
+          "start": 94.48,
+          "end": 94.79,
+          "probability": 1
+        },
+        {
+          "text": "yeah,",
+          "start": 94.79,
+          "end": 95.31,
+          "probability": 1
+        },
+        {
+          "text": "aw",
+          "start": 95.31,
+          "end": 95.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.52,
+      "end": 118.82,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 95.52,
+          "end": 118.82,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 118.82,
+      "end": 122.42,
+      "text": "Mama, put my guns in the ground (ooh)",
+      "words": [
+        {
+          "text": "Mama,",
+          "start": 118.82,
+          "end": 119.42,
+          "probability": 1
+        },
+        {
+          "text": "put",
+          "start": 119.42,
+          "end": 119.78,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 119.78,
+          "end": 120.02,
+          "probability": 1
+        },
+        {
+          "text": "guns",
+          "start": 120.02,
+          "end": 120.5,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 120.5,
+          "end": 120.74,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 120.74,
+          "end": 121.1,
+          "probability": 1
+        },
+        {
+          "text": "ground",
+          "start": 121.1,
+          "end": 121.82,
+          "probability": 1
+        },
+        {
+          "text": "(ooh)",
+          "start": 121.82,
+          "end": 122.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.91,
+      "end": 129.33,
+      "text": "I can't shoot them anymore (ooh)",
+      "words": [
+        {
+          "text": "I",
+          "start": 125.91,
+          "end": 126.04,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 126.04,
+          "end": 126.67,
+          "probability": 1
+        },
+        {
+          "text": "shoot",
+          "start": 126.67,
+          "end": 127.3,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 127.3,
+          "end": 127.81,
+          "probability": 1
+        },
+        {
+          "text": "anymore",
+          "start": 127.81,
+          "end": 128.7,
+          "probability": 1
+        },
+        {
+          "text": "(ooh)",
+          "start": 128.7,
+          "end": 129.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.09,
+      "end": 136.68,
+      "text": "That cold black cloud is comin' down (ooh)",
+      "words": [
+        {
+          "text": "That",
+          "start": 133.09,
+          "end": 133.5,
+          "probability": 1
+        },
+        {
+          "text": "cold",
+          "start": 133.5,
+          "end": 133.91,
+          "probability": 1
+        },
+        {
+          "text": "black",
+          "start": 133.91,
+          "end": 134.42,
+          "probability": 1
+        },
+        {
+          "text": "cloud",
+          "start": 134.42,
+          "end": 134.93,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 134.93,
+          "end": 135.14,
+          "probability": 1
+        },
+        {
+          "text": "comin'",
+          "start": 135.14,
+          "end": 135.76,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 135.76,
+          "end": 136.17,
+          "probability": 1
+        },
+        {
+          "text": "(ooh)",
+          "start": 136.17,
+          "end": 136.68,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 140.51,
+      "end": 144.7,
+      "text": "Feels like I'm knockin' on heaven's door (ooh)",
+      "words": [
+        {
+          "text": "Feels",
+          "start": 140.51,
+          "end": 141.05,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 141.05,
+          "end": 141.48,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 141.48,
+          "end": 141.8,
+          "probability": 1
+        },
+        {
+          "text": "knockin'",
+          "start": 141.8,
+          "end": 142.66,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 142.66,
+          "end": 142.87,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 142.87,
+          "end": 143.73,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 143.73,
+          "end": 144.16,
+          "probability": 1
+        },
+        {
+          "text": "(ooh)",
+          "start": 144.16,
+          "end": 144.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 148.34,
+      "end": 153.29,
+      "text": "Knock-knock-knockin' on heaven's door, hey, hey, hey, hey, yeah",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 148.34,
+          "end": 150.14,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 150.14,
+          "end": 150.32,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 150.32,
+          "end": 151.04,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 151.04,
+          "end": 151.49,
+          "probability": 1
+        },
+        {
+          "text": "hey,",
+          "start": 151.49,
+          "end": 151.85,
+          "probability": 1
+        },
+        {
+          "text": "hey,",
+          "start": 151.85,
+          "end": 152.21,
+          "probability": 1
+        },
+        {
+          "text": "hey,",
+          "start": 152.21,
+          "end": 152.57,
+          "probability": 1
+        },
+        {
+          "text": "hey,",
+          "start": 152.57,
+          "end": 152.93,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 152.93,
+          "end": 153.29,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.57,
+      "end": 158.62,
+      "text": "Knock-knock-knockin' on heaven's door",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 155.57,
+          "end": 157.36,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 157.36,
+          "end": 157.54,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 157.54,
+          "end": 158.26,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 158.26,
+          "end": 158.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 162.65,
+      "end": 166.45,
+      "text": "Knock-knock-knockin' on heaven's door, ooh, yeah",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 162.65,
+          "end": 164.42,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 164.42,
+          "end": 164.6,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 164.6,
+          "end": 165.31,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 165.31,
+          "end": 165.75,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 165.75,
+          "end": 166.1,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 166.1,
+          "end": 166.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 170.02,
+      "end": 174.21,
+      "text": "Knock-knock-knockin' on heaven's door, ayy, hey, yeah",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 170.02,
+          "end": 171.8,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 171.8,
+          "end": 171.98,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 171.98,
+          "end": 172.69,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 172.69,
+          "end": 173.13,
+          "probability": 1
+        },
+        {
+          "text": "ayy,",
+          "start": 173.13,
+          "end": 173.49,
+          "probability": 1
+        },
+        {
+          "text": "hey,",
+          "start": 173.49,
+          "end": 173.85,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 173.85,
+          "end": 174.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 177.92,
+      "end": 178.52,
+      "text": "Ooh...",
+      "words": [
+        {
+          "text": "Ooh...",
+          "start": 177.92,
+          "end": 178.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 178.52,
+      "end": 226.48,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 178.52,
+          "end": 226.48,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 226.48,
+      "end": 228.84,
+      "text": "You just better start sniffin' your own rank subjugation, Jack",
+      "words": [
+        {
+          "text": "You",
+          "start": 226.48,
+          "end": 226.61,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 226.61,
+          "end": 226.79,
+          "probability": 1
+        },
+        {
+          "text": "better",
+          "start": 226.79,
+          "end": 227.06,
+          "probability": 1
+        },
+        {
+          "text": "start",
+          "start": 227.06,
+          "end": 227.28,
+          "probability": 1
+        },
+        {
+          "text": "sniffin'",
+          "start": 227.28,
+          "end": 227.64,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 227.64,
+          "end": 227.82,
+          "probability": 1
+        },
+        {
+          "text": "own",
+          "start": 227.82,
+          "end": 227.95,
+          "probability": 1
+        },
+        {
+          "text": "rank",
+          "start": 227.95,
+          "end": 228.13,
+          "probability": 1
+        },
+        {
+          "text": "subjugation,",
+          "start": 228.13,
+          "end": 228.66,
+          "probability": 1
+        },
+        {
+          "text": "Jack",
+          "start": 228.66,
+          "end": 228.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 229.09,
+      "end": 232.08,
+      "text": "Because it's just you against your tattered libido, the bank, and the mortician, forever, man",
+      "words": [
+        {
+          "text": "Because",
+          "start": 229.09,
+          "end": 229.35,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 229.35,
+          "end": 229.5,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 229.5,
+          "end": 229.65,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 229.65,
+          "end": 229.77,
+          "probability": 1
+        },
+        {
+          "text": "against",
+          "start": 229.77,
+          "end": 230.03,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 230.03,
+          "end": 230.18,
+          "probability": 1
+        },
+        {
+          "text": "tattered",
+          "start": 230.18,
+          "end": 230.48,
+          "probability": 1
+        },
+        {
+          "text": "libido,",
+          "start": 230.48,
+          "end": 230.74,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 230.74,
+          "end": 230.86,
+          "probability": 1
+        },
+        {
+          "text": "bank,",
+          "start": 230.86,
+          "end": 231.05,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 231.05,
+          "end": 231.17,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 231.17,
+          "end": 231.29,
+          "probability": 1
+        },
+        {
+          "text": "mortician,",
+          "start": 231.29,
+          "end": 231.66,
+          "probability": 1
+        },
+        {
+          "text": "forever,",
+          "start": 231.66,
+          "end": 231.96,
+          "probability": 1
+        },
+        {
+          "text": "man",
+          "start": 231.96,
+          "end": 232.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 232.3,
+      "end": 234.31,
+      "text": "And it wouldn't be luck if you could get out of life alive",
+      "words": [
+        {
+          "text": "And",
+          "start": 232.3,
+          "end": 232.42,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 232.42,
+          "end": 232.54,
+          "probability": 1
+        },
+        {
+          "text": "wouldn't",
+          "start": 232.54,
+          "end": 232.87,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 232.87,
+          "end": 232.99,
+          "probability": 1
+        },
+        {
+          "text": "luck",
+          "start": 232.99,
+          "end": 233.15,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 233.15,
+          "end": 233.27,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 233.27,
+          "end": 233.39,
+          "probability": 1
+        },
+        {
+          "text": "could",
+          "start": 233.39,
+          "end": 233.59,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 233.59,
+          "end": 233.71,
+          "probability": 1
+        },
+        {
+          "text": "out",
+          "start": 233.71,
+          "end": 233.83,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 233.83,
+          "end": 233.95,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 233.95,
+          "end": 234.11,
+          "probability": 1
+        },
+        {
+          "text": "alive",
+          "start": 234.11,
+          "end": 234.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 234.43,
+      "end": 239.38,
+      "text": "Knock-knock-knockin' on heaven's door, hey, hey, hey-hey, yeah",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 234.43,
+          "end": 236.23,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 236.23,
+          "end": 236.41,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 236.41,
+          "end": 237.13,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 237.13,
+          "end": 237.58,
+          "probability": 1
+        },
+        {
+          "text": "hey,",
+          "start": 237.58,
+          "end": 237.94,
+          "probability": 1
+        },
+        {
+          "text": "hey,",
+          "start": 237.94,
+          "end": 238.3,
+          "probability": 1
+        },
+        {
+          "text": "hey-hey,",
+          "start": 238.3,
+          "end": 239.02,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 239.02,
+          "end": 239.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 241.66,
+      "end": 244.71,
+      "text": "Knock-knock-knockin' on heaven's door",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 241.66,
+          "end": 243.45,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 243.45,
+          "end": 243.63,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 243.63,
+          "end": 244.35,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 244.35,
+          "end": 244.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 248.86,
+      "end": 252.66,
+      "text": "Knock-knock-knockin' on heaven's door, ooh, yeah",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 248.86,
+          "end": 250.63,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 250.63,
+          "end": 250.81,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 250.81,
+          "end": 251.52,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 251.52,
+          "end": 251.96,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 251.96,
+          "end": 252.31,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 252.31,
+          "end": 252.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 256.19,
+      "end": 259.24,
+      "text": "Knock-knock-knockin' on heaven's door",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 256.19,
+          "end": 257.98,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 257.98,
+          "end": 258.16,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 258.16,
+          "end": 258.88,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 258.88,
+          "end": 259.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 263.22,
+      "end": 268.53,
+      "text": "Knock-knock-knockin' on heaven's door, ooh, no, no, no, woah-oh",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 263.22,
+          "end": 265.15,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 265.15,
+          "end": 265.34,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 265.34,
+          "end": 266.11,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 266.11,
+          "end": 266.59,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 266.59,
+          "end": 266.98,
+          "probability": 1
+        },
+        {
+          "text": "no,",
+          "start": 266.98,
+          "end": 267.27,
+          "probability": 1
+        },
+        {
+          "text": "no,",
+          "start": 267.27,
+          "end": 267.56,
+          "probability": 1
+        },
+        {
+          "text": "no,",
+          "start": 267.56,
+          "end": 267.85,
+          "probability": 1
+        },
+        {
+          "text": "woah-oh",
+          "start": 267.85,
+          "end": 268.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 270.58,
+      "end": 273.63,
+      "text": "Knock-knock-knockin' on heaven's door",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 270.58,
+          "end": 272.37,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 272.37,
+          "end": 272.55,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 272.55,
+          "end": 273.27,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 273.27,
+          "end": 273.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 277.78,
+      "end": 282.7,
+      "text": "Knock-knock-knockin' on heaven's door, no, no, no, woah, no",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 277.78,
+          "end": 279.72,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 279.72,
+          "end": 279.91,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 279.91,
+          "end": 280.68,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 280.68,
+          "end": 281.16,
+          "probability": 1
+        },
+        {
+          "text": "no,",
+          "start": 281.16,
+          "end": 281.45,
+          "probability": 1
+        },
+        {
+          "text": "no,",
+          "start": 281.45,
+          "end": 281.74,
+          "probability": 1
+        },
+        {
+          "text": "no,",
+          "start": 281.74,
+          "end": 282.03,
+          "probability": 1
+        },
+        {
+          "text": "woah,",
+          "start": 282.03,
+          "end": 282.51,
+          "probability": 1
+        },
+        {
+          "text": "no",
+          "start": 282.51,
+          "end": 282.7,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 285.06,
+      "end": 289.62,
+      "text": "Knock-knock-knockin' on heaven's door, woah-woah, woah-yeah",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 285.06,
+          "end": 286.75,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 286.75,
+          "end": 286.92,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 286.92,
+          "end": 287.6,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 287.6,
+          "end": 288.02,
+          "probability": 1
+        },
+        {
+          "text": "woah-woah,",
+          "start": 288.02,
+          "end": 288.86,
+          "probability": 1
+        },
+        {
+          "text": "woah-yeah",
+          "start": 288.86,
+          "end": 289.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 292.34,
+      "end": 295.39,
+      "text": "Knock-knock-knockin' on heaven's door",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 292.34,
+          "end": 294.13,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 294.13,
+          "end": 294.31,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 294.31,
+          "end": 295.03,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 295.03,
+          "end": 295.39,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 299.43,
+      "end": 303.23,
+      "text": "Knock-knock-knockin' on heaven's door, ooh, yeah",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 299.43,
+          "end": 301.2,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 301.2,
+          "end": 301.38,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 301.38,
+          "end": 302.09,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 302.09,
+          "end": 302.53,
+          "probability": 1
+        },
+        {
+          "text": "ooh,",
+          "start": 302.53,
+          "end": 302.88,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 302.88,
+          "end": 303.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 306.64,
+      "end": 309.69,
+      "text": "Knock-knock-knockin' on heaven's door",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 306.64,
+          "end": 308.43,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 308.43,
+          "end": 308.61,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 308.61,
+          "end": 309.33,
+          "probability": 1
+        },
+        {
+          "text": "door",
+          "start": 309.33,
+          "end": 309.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 313.87,
+      "end": 318.06,
+      "text": "Knock-knock-knockin' on heaven's door, woah, woah, woah",
+      "words": [
+        {
+          "text": "Knock-knock-knockin'",
+          "start": 313.87,
+          "end": 315.58,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 315.58,
+          "end": 315.75,
+          "probability": 1
+        },
+        {
+          "text": "heaven's",
+          "start": 315.75,
+          "end": 316.43,
+          "probability": 1
+        },
+        {
+          "text": "door,",
+          "start": 316.43,
+          "end": 316.86,
+          "probability": 1
+        },
+        {
+          "text": "woah,",
+          "start": 316.86,
+          "end": 317.29,
+          "probability": 1
+        },
+        {
+          "text": "woah,",
+          "start": 317.29,
+          "end": 317.72,
+          "probability": 1
+        },
+        {
+          "text": "woah",
+          "start": 317.72,
+          "end": 318.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 322.35,
+      "end": 324.15,
+      "text": "Woah, woah, yeah, ow!",
+      "words": [
+        {
+          "text": "Woah,",
+          "start": 322.35,
+          "end": 322.85,
+          "probability": 1
+        },
+        {
+          "text": "woah,",
+          "start": 322.85,
+          "end": 323.35,
+          "probability": 1
+        },
+        {
+          "text": "yeah,",
+          "start": 323.35,
+          "end": 323.85,
+          "probability": 1
+        },
+        {
+          "text": "ow!",
+          "start": 323.85,
+          "end": 324.15,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Ooh, ooh... Hey Mama, take this badge from me I can't use it anymore It's gettin' dark, too dark to see Feels like I'm knockin' on heaven's door Knock-knock-knockin' on heaven's door, hey, hey, hey hey, yeah Knock-knock-knockin' on heaven's door, ooh Knock-knock-knockin' on heaven's door, ooh-oh, yeah Knock-knock-knockin' on heaven's door, ayy, hey, yeah Ooh-oh, yeah, oh, yeah, aw Mama, put my guns in the ground (ooh) I can't shoot them anymore (ooh) That cold black cloud is comin' down (ooh) Feels like I'm knockin' on heaven's door (ooh) Knock-knock-knockin' on heaven's door, hey, hey, hey, hey, yeah Knock-knock-knockin' on heaven's door Knock-knock-knockin' on heaven's door, ooh, yeah Knock-knock-knockin' on heaven's door, ayy, hey, yeah Ooh... You just better start sniffin' your own rank subjugation, Jack Because it's just you against your tattered libido, the bank, and the mortician, forever, man And it wouldn't be luck if you could get out of life alive Knock-knock-knockin' on heaven's door, hey, hey, hey-hey, yeah Knock-knock-knockin' on heaven's door Knock-knock-knockin' on heaven's door, ooh, yeah Knock-knock-knockin' on heaven's door Knock-knock-knockin' on heaven's door, ooh, no, no, no, woah-oh Knock-knock-knockin' on heaven's door Knock-knock-knockin' on heaven's door, no, no, no, woah, no Knock-knock-knockin' on heaven's door, woah-woah, woah-yeah Knock-knock-knockin' on heaven's door Knock-knock-knockin' on heaven's door, ooh, yeah Knock-knock-knockin' on heaven's door Knock-knock-knockin' on heaven's door, woah, woah, woah Woah, woah, yeah, ow!"
+}

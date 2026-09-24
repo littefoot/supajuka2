@@ -1,0 +1,19 @@
+{
+  "id": "flac_22580ba03c66",
+  "source": "local",
+  "title": "Revolution (2023 Mix)",
+  "artist": "The Beatles",
+  "album": "The Beatles 1967 – 1970 (2023 Edition)",
+  "duration": 202,
+  "format": "flac",
+  "bitDepth": 24,
+  "sampleRate": 96000,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_22580ba03c66/cover.jpg",
+  "cachedAt": 1789626496117,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_22580ba03c66/original.flac",
+  "instrumentalUrl": "/audio/flac_22580ba03c66/instrumental.flac",
+  "vocalsUrl": "/audio/flac_22580ba03c66/vocals.flac"
+}

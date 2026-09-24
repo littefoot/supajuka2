@@ -1,0 +1,2239 @@
+{
+  "language": "en",
+  "duration": 284,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 30.78,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 30.78,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 30.78,
+      "end": 36.61,
+      "text": "Got a call from an old friend, we used to be real close",
+      "words": [
+        {
+          "text": "Got",
+          "start": 30.78,
+          "end": 31.19,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 31.19,
+          "end": 31.33,
+          "probability": 1
+        },
+        {
+          "text": "call",
+          "start": 31.33,
+          "end": 31.87,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 31.87,
+          "end": 32.41,
+          "probability": 1
+        },
+        {
+          "text": "an",
+          "start": 32.41,
+          "end": 32.68,
+          "probability": 1
+        },
+        {
+          "text": "old",
+          "start": 32.68,
+          "end": 33.09,
+          "probability": 1
+        },
+        {
+          "text": "friend,",
+          "start": 33.09,
+          "end": 34.04,
+          "probability": 1
+        },
+        {
+          "text": "we",
+          "start": 34.04,
+          "end": 34.31,
+          "probability": 1
+        },
+        {
+          "text": "used",
+          "start": 34.31,
+          "end": 34.85,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 34.85,
+          "end": 35.12,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 35.12,
+          "end": 35.39,
+          "probability": 1
+        },
+        {
+          "text": "real",
+          "start": 35.39,
+          "end": 35.93,
+          "probability": 1
+        },
+        {
+          "text": "close",
+          "start": 35.93,
+          "end": 36.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 38.33,
+      "end": 42.51,
+      "text": "Said he couldn't go on the American way",
+      "words": [
+        {
+          "text": "Said",
+          "start": 38.33,
+          "end": 38.85,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 38.85,
+          "end": 39.11,
+          "probability": 1
+        },
+        {
+          "text": "couldn't",
+          "start": 39.11,
+          "end": 40.16,
+          "probability": 1
+        },
+        {
+          "text": "go",
+          "start": 40.16,
+          "end": 40.42,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 40.42,
+          "end": 40.68,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 40.68,
+          "end": 41.07,
+          "probability": 1
+        },
+        {
+          "text": "American",
+          "start": 41.07,
+          "end": 42.12,
+          "probability": 1
+        },
+        {
+          "text": "way",
+          "start": 42.12,
+          "end": 42.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 45.37,
+      "end": 51.48,
+      "text": "Closed the shop, sold the house, bought a ticket to the West Coast",
+      "words": [
+        {
+          "text": "Closed",
+          "start": 45.37,
+          "end": 46.05,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 46.05,
+          "end": 46.39,
+          "probability": 1
+        },
+        {
+          "text": "shop,",
+          "start": 46.39,
+          "end": 46.95,
+          "probability": 1
+        },
+        {
+          "text": "sold",
+          "start": 46.95,
+          "end": 47.4,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 47.4,
+          "end": 47.74,
+          "probability": 1
+        },
+        {
+          "text": "house,",
+          "start": 47.74,
+          "end": 48.42,
+          "probability": 1
+        },
+        {
+          "text": "bought",
+          "start": 48.42,
+          "end": 49.1,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 49.1,
+          "end": 49.22,
+          "probability": 1
+        },
+        {
+          "text": "ticket",
+          "start": 49.22,
+          "end": 49.9,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 49.9,
+          "end": 50.13,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 50.13,
+          "end": 50.47,
+          "probability": 1
+        },
+        {
+          "text": "West",
+          "start": 50.47,
+          "end": 50.92,
+          "probability": 1
+        },
+        {
+          "text": "Coast",
+          "start": 50.92,
+          "end": 51.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 52.71,
+      "end": 57.66,
+      "text": "Now he gives them a stand-up routine in LA",
+      "words": [
+        {
+          "text": "Now",
+          "start": 52.71,
+          "end": 53.15,
+          "probability": 1
+        },
+        {
+          "text": "he",
+          "start": 53.15,
+          "end": 53.44,
+          "probability": 1
+        },
+        {
+          "text": "gives",
+          "start": 53.44,
+          "end": 54.17,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 54.17,
+          "end": 54.75,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 54.75,
+          "end": 54.9,
+          "probability": 1
+        },
+        {
+          "text": "stand-up",
+          "start": 54.9,
+          "end": 56.06,
+          "probability": 1
+        },
+        {
+          "text": "routine",
+          "start": 56.06,
+          "end": 57.08,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 57.08,
+          "end": 57.37,
+          "probability": 1
+        },
+        {
+          "text": "LA",
+          "start": 57.37,
+          "end": 57.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 57.66,
+      "end": 71.19,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 57.66,
+          "end": 71.19,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 71.19,
+      "end": 76.51,
+      "text": "I don't need you to worry for me, 'cause I'm alright",
+      "words": [
+        {
+          "text": "I",
+          "start": 71.19,
+          "end": 71.32,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 71.32,
+          "end": 71.95,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 71.95,
+          "end": 72.46,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 72.46,
+          "end": 72.84,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 72.84,
+          "end": 73.09,
+          "probability": 1
+        },
+        {
+          "text": "worry",
+          "start": 73.09,
+          "end": 73.72,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 73.72,
+          "end": 74.1,
+          "probability": 1
+        },
+        {
+          "text": "me,",
+          "start": 74.1,
+          "end": 74.48,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 74.48,
+          "end": 75.24,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 75.24,
+          "end": 75.62,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 75.62,
+          "end": 76.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 78.57,
+      "end": 84.24,
+      "text": "I don't want you to tell me it's time to come home",
+      "words": [
+        {
+          "text": "I",
+          "start": 78.57,
+          "end": 78.72,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 78.72,
+          "end": 79.45,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 79.45,
+          "end": 80.03,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 80.03,
+          "end": 80.47,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 80.47,
+          "end": 80.76,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 80.76,
+          "end": 81.34,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 81.34,
+          "end": 81.63,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 81.63,
+          "end": 82.21,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 82.21,
+          "end": 82.79,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 82.79,
+          "end": 83.08,
+          "probability": 1
+        },
+        {
+          "text": "come",
+          "start": 83.08,
+          "end": 83.66,
+          "probability": 1
+        },
+        {
+          "text": "home",
+          "start": 83.66,
+          "end": 84.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 85.78,
+      "end": 91.87,
+      "text": "I don't care what you say anymore, this is my life",
+      "words": [
+        {
+          "text": "I",
+          "start": 85.78,
+          "end": 85.93,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 85.93,
+          "end": 86.69,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 86.69,
+          "end": 87.3,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 87.3,
+          "end": 87.91,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 87.91,
+          "end": 88.37,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 88.37,
+          "end": 88.83,
+          "probability": 1
+        },
+        {
+          "text": "anymore,",
+          "start": 88.83,
+          "end": 90.05,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 90.05,
+          "end": 90.66,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 90.66,
+          "end": 90.96,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 90.96,
+          "end": 91.26,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 91.26,
+          "end": 91.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 93.16,
+      "end": 97.51,
+      "text": "Go ahead with your own life, leave me alone",
+      "words": [
+        {
+          "text": "Go",
+          "start": 93.16,
+          "end": 93.41,
+          "probability": 1
+        },
+        {
+          "text": "ahead",
+          "start": 93.41,
+          "end": 94.03,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 94.03,
+          "end": 94.53,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 94.53,
+          "end": 95.03,
+          "probability": 1
+        },
+        {
+          "text": "own",
+          "start": 95.03,
+          "end": 95.4,
+          "probability": 1
+        },
+        {
+          "text": "life,",
+          "start": 95.4,
+          "end": 96.02,
+          "probability": 1
+        },
+        {
+          "text": "leave",
+          "start": 96.02,
+          "end": 96.64,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 96.64,
+          "end": 96.89,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 96.89,
+          "end": 97.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 97.77,
+      "end": 105.31,
+      "text": "I never said you had to offer me a second chance (I never said you had to)",
+      "words": [
+        {
+          "text": "I",
+          "start": 97.77,
+          "end": 97.9,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 97.9,
+          "end": 98.55,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 98.55,
+          "end": 99.07,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 99.07,
+          "end": 99.46,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 99.46,
+          "end": 99.85,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 99.85,
+          "end": 100.11,
+          "probability": 1
+        },
+        {
+          "text": "offer",
+          "start": 100.11,
+          "end": 100.76,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 100.76,
+          "end": 101.02,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 101.02,
+          "end": 101.15,
+          "probability": 1
+        },
+        {
+          "text": "second",
+          "start": 101.15,
+          "end": 101.93,
+          "probability": 1
+        },
+        {
+          "text": "chance",
+          "start": 101.93,
+          "end": 102.71,
+          "probability": 1
+        },
+        {
+          "text": "(I",
+          "start": 102.71,
+          "end": 102.97,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 102.97,
+          "end": 103.62,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 103.62,
+          "end": 104.14,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 104.14,
+          "end": 104.53,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 104.53,
+          "end": 104.92,
+          "probability": 1
+        },
+        {
+          "text": "to)",
+          "start": 104.92,
+          "end": 105.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.55,
+      "end": 111.46,
+      "text": "I never said I was a victim of circumstance (I never said)",
+      "words": [
+        {
+          "text": "I",
+          "start": 105.55,
+          "end": 105.68,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 105.68,
+          "end": 106.31,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 106.31,
+          "end": 106.81,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 106.81,
+          "end": 106.94,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 106.94,
+          "end": 107.32,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 107.32,
+          "end": 107.45,
+          "probability": 1
+        },
+        {
+          "text": "victim",
+          "start": 107.45,
+          "end": 108.2,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 108.2,
+          "end": 108.45,
+          "probability": 1
+        },
+        {
+          "text": "circumstance",
+          "start": 108.45,
+          "end": 109.95,
+          "probability": 1
+        },
+        {
+          "text": "(I",
+          "start": 109.95,
+          "end": 110.2,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 110.2,
+          "end": 110.83,
+          "probability": 1
+        },
+        {
+          "text": "said)",
+          "start": 110.83,
+          "end": 111.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 111.69,
+      "end": 114.36,
+      "text": "I still belong (still belong)",
+      "words": [
+        {
+          "text": "I",
+          "start": 111.69,
+          "end": 111.81,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 111.81,
+          "end": 112.34,
+          "probability": 1
+        },
+        {
+          "text": "belong",
+          "start": 112.34,
+          "end": 112.98,
+          "probability": 1
+        },
+        {
+          "text": "(still",
+          "start": 112.98,
+          "end": 113.62,
+          "probability": 1
+        },
+        {
+          "text": "belong)",
+          "start": 113.62,
+          "end": 114.36,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 115.49,
+      "end": 118.63,
+      "text": "Don't get me wrong (get me wrong)",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 115.49,
+          "end": 116.07,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 116.07,
+          "end": 116.42,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 116.42,
+          "end": 116.65,
+          "probability": 1
+        },
+        {
+          "text": "wrong",
+          "start": 116.65,
+          "end": 117.23,
+          "probability": 1
+        },
+        {
+          "text": "(get",
+          "start": 117.23,
+          "end": 117.7,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 117.7,
+          "end": 117.93,
+          "probability": 1
+        },
+        {
+          "text": "wrong)",
+          "start": 117.93,
+          "end": 118.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 119.33,
+      "end": 123.83,
+      "text": "You can speak your mind, but not on my time",
+      "words": [
+        {
+          "text": "You",
+          "start": 119.33,
+          "end": 119.73,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 119.73,
+          "end": 120.13,
+          "probability": 1
+        },
+        {
+          "text": "speak",
+          "start": 120.13,
+          "end": 120.79,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 120.79,
+          "end": 121.32,
+          "probability": 1
+        },
+        {
+          "text": "mind,",
+          "start": 121.32,
+          "end": 121.98,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 121.98,
+          "end": 122.38,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 122.38,
+          "end": 122.78,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 122.78,
+          "end": 123.04,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 123.04,
+          "end": 123.3,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 123.3,
+          "end": 123.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 126.2,
+      "end": 132.28,
+      "text": "They will tell you you can't sleep alone in a strange place",
+      "words": [
+        {
+          "text": "They",
+          "start": 126.2,
+          "end": 126.71,
+          "probability": 1
+        },
+        {
+          "text": "will",
+          "start": 126.71,
+          "end": 127.22,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 127.22,
+          "end": 127.73,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 127.73,
+          "end": 128.11,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 128.11,
+          "end": 128.49,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 128.49,
+          "end": 129.12,
+          "probability": 1
+        },
+        {
+          "text": "sleep",
+          "start": 129.12,
+          "end": 129.75,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 129.75,
+          "end": 130.38,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 130.38,
+          "end": 130.63,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 130.63,
+          "end": 130.76,
+          "probability": 1
+        },
+        {
+          "text": "strange",
+          "start": 130.76,
+          "end": 131.65,
+          "probability": 1
+        },
+        {
+          "text": "place",
+          "start": 131.65,
+          "end": 132.28,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 133.54,
+      "end": 138.86,
+      "text": "Then they'll tell you you can't sleep with somebody else",
+      "words": [
+        {
+          "text": "Then",
+          "start": 133.54,
+          "end": 133.99,
+          "probability": 1
+        },
+        {
+          "text": "they'll",
+          "start": 133.99,
+          "end": 134.78,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 134.78,
+          "end": 135.23,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 135.23,
+          "end": 135.57,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 135.57,
+          "end": 135.91,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 135.91,
+          "end": 136.48,
+          "probability": 1
+        },
+        {
+          "text": "sleep",
+          "start": 136.48,
+          "end": 137.05,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 137.05,
+          "end": 137.5,
+          "probability": 1
+        },
+        {
+          "text": "somebody",
+          "start": 137.5,
+          "end": 138.41,
+          "probability": 1
+        },
+        {
+          "text": "else",
+          "start": 138.41,
+          "end": 138.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 140.83,
+      "end": 146.16,
+      "text": "Ah, but sooner or later you sleep in your own space",
+      "words": [
+        {
+          "text": "Ah,",
+          "start": 140.83,
+          "end": 141.22,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 141.22,
+          "end": 141.61,
+          "probability": 1
+        },
+        {
+          "text": "sooner",
+          "start": 141.61,
+          "end": 142.39,
+          "probability": 1
+        },
+        {
+          "text": "or",
+          "start": 142.39,
+          "end": 142.65,
+          "probability": 1
+        },
+        {
+          "text": "later",
+          "start": 142.65,
+          "end": 143.3,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 143.3,
+          "end": 143.69,
+          "probability": 1
+        },
+        {
+          "text": "sleep",
+          "start": 143.69,
+          "end": 144.34,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 144.34,
+          "end": 144.6,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 144.6,
+          "end": 145.12,
+          "probability": 1
+        },
+        {
+          "text": "own",
+          "start": 145.12,
+          "end": 145.51,
+          "probability": 1
+        },
+        {
+          "text": "space",
+          "start": 145.51,
+          "end": 146.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 148.22,
+      "end": 153.15,
+      "text": "Either way, it's okay, you wake up with yourself",
+      "words": [
+        {
+          "text": "Either",
+          "start": 148.22,
+          "end": 148.96,
+          "probability": 1
+        },
+        {
+          "text": "way,",
+          "start": 148.96,
+          "end": 149.45,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 149.45,
+          "end": 149.94,
+          "probability": 1
+        },
+        {
+          "text": "okay,",
+          "start": 149.94,
+          "end": 150.56,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 150.56,
+          "end": 150.93,
+          "probability": 1
+        },
+        {
+          "text": "wake",
+          "start": 150.93,
+          "end": 151.42,
+          "probability": 1
+        },
+        {
+          "text": "up",
+          "start": 151.42,
+          "end": 151.67,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 151.67,
+          "end": 152.16,
+          "probability": 1
+        },
+        {
+          "text": "yourself",
+          "start": 152.16,
+          "end": 153.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 153.15,
+      "end": 166.56,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 153.15,
+          "end": 166.56,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 166.56,
+      "end": 171.88,
+      "text": "I don't need you to worry for me, 'cause I'm alright",
+      "words": [
+        {
+          "text": "I",
+          "start": 166.56,
+          "end": 166.69,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 166.69,
+          "end": 167.32,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 167.32,
+          "end": 167.83,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 167.83,
+          "end": 168.21,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 168.21,
+          "end": 168.46,
+          "probability": 1
+        },
+        {
+          "text": "worry",
+          "start": 168.46,
+          "end": 169.09,
+          "probability": 1
+        },
+        {
+          "text": "for",
+          "start": 169.09,
+          "end": 169.47,
+          "probability": 1
+        },
+        {
+          "text": "me,",
+          "start": 169.47,
+          "end": 169.85,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 169.85,
+          "end": 170.61,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 170.61,
+          "end": 170.99,
+          "probability": 1
+        },
+        {
+          "text": "alright",
+          "start": 170.99,
+          "end": 171.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 173.99,
+      "end": 179.66,
+      "text": "I don't want you to tell me it's time to come home",
+      "words": [
+        {
+          "text": "I",
+          "start": 173.99,
+          "end": 174.14,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 174.14,
+          "end": 174.87,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 174.87,
+          "end": 175.45,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 175.45,
+          "end": 175.89,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 175.89,
+          "end": 176.18,
+          "probability": 1
+        },
+        {
+          "text": "tell",
+          "start": 176.18,
+          "end": 176.76,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 176.76,
+          "end": 177.05,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 177.05,
+          "end": 177.63,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 177.63,
+          "end": 178.21,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 178.21,
+          "end": 178.5,
+          "probability": 1
+        },
+        {
+          "text": "come",
+          "start": 178.5,
+          "end": 179.08,
+          "probability": 1
+        },
+        {
+          "text": "home",
+          "start": 179.08,
+          "end": 179.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 181.24,
+      "end": 187.33,
+      "text": "I don't care what you say anymore, this is my life",
+      "words": [
+        {
+          "text": "I",
+          "start": 181.24,
+          "end": 181.39,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 181.39,
+          "end": 182.15,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 182.15,
+          "end": 182.76,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 182.76,
+          "end": 183.37,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 183.37,
+          "end": 183.83,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 183.83,
+          "end": 184.29,
+          "probability": 1
+        },
+        {
+          "text": "anymore,",
+          "start": 184.29,
+          "end": 185.51,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 185.51,
+          "end": 186.12,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 186.12,
+          "end": 186.42,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 186.42,
+          "end": 186.72,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 186.72,
+          "end": 187.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 188.58,
+      "end": 192.98,
+      "text": "Go ahead with your own life, leave me alone",
+      "words": [
+        {
+          "text": "Go",
+          "start": 188.58,
+          "end": 188.83,
+          "probability": 1
+        },
+        {
+          "text": "ahead",
+          "start": 188.83,
+          "end": 189.46,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 189.46,
+          "end": 189.96,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 189.96,
+          "end": 190.46,
+          "probability": 1
+        },
+        {
+          "text": "own",
+          "start": 190.46,
+          "end": 190.84,
+          "probability": 1
+        },
+        {
+          "text": "life,",
+          "start": 190.84,
+          "end": 191.47,
+          "probability": 1
+        },
+        {
+          "text": "leave",
+          "start": 191.47,
+          "end": 192.1,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 192.1,
+          "end": 192.35,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 192.35,
+          "end": 192.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 193.23,
+      "end": 200.53,
+      "text": "I never said you had to offer me a second chance (I never said you had to)",
+      "words": [
+        {
+          "text": "I",
+          "start": 193.23,
+          "end": 193.36,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 193.36,
+          "end": 193.99,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 193.99,
+          "end": 194.49,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 194.49,
+          "end": 194.87,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 194.87,
+          "end": 195.25,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 195.25,
+          "end": 195.5,
+          "probability": 1
+        },
+        {
+          "text": "offer",
+          "start": 195.5,
+          "end": 196.13,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 196.13,
+          "end": 196.38,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 196.38,
+          "end": 196.51,
+          "probability": 1
+        },
+        {
+          "text": "second",
+          "start": 196.51,
+          "end": 197.26,
+          "probability": 1
+        },
+        {
+          "text": "chance",
+          "start": 197.26,
+          "end": 198.01,
+          "probability": 1
+        },
+        {
+          "text": "(I",
+          "start": 198.01,
+          "end": 198.26,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 198.26,
+          "end": 198.89,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 198.89,
+          "end": 199.39,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 199.39,
+          "end": 199.77,
+          "probability": 1
+        },
+        {
+          "text": "had",
+          "start": 199.77,
+          "end": 200.15,
+          "probability": 1
+        },
+        {
+          "text": "to)",
+          "start": 200.15,
+          "end": 200.53,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 200.75,
+      "end": 206.87,
+      "text": "I never said I was a victim of circumstance (of circumstance)",
+      "words": [
+        {
+          "text": "I",
+          "start": 200.75,
+          "end": 200.87,
+          "probability": 1
+        },
+        {
+          "text": "never",
+          "start": 200.87,
+          "end": 201.47,
+          "probability": 1
+        },
+        {
+          "text": "said",
+          "start": 201.47,
+          "end": 201.95,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 201.95,
+          "end": 202.07,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 202.07,
+          "end": 202.43,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 202.43,
+          "end": 202.55,
+          "probability": 1
+        },
+        {
+          "text": "victim",
+          "start": 202.55,
+          "end": 203.27,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 203.27,
+          "end": 203.51,
+          "probability": 1
+        },
+        {
+          "text": "circumstance",
+          "start": 203.51,
+          "end": 204.95,
+          "probability": 1
+        },
+        {
+          "text": "(of",
+          "start": 204.95,
+          "end": 205.31,
+          "probability": 1
+        },
+        {
+          "text": "circumstance)",
+          "start": 205.31,
+          "end": 206.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 207.11,
+      "end": 209.78,
+      "text": "I still belong (still belong)",
+      "words": [
+        {
+          "text": "I",
+          "start": 207.11,
+          "end": 207.23,
+          "probability": 1
+        },
+        {
+          "text": "still",
+          "start": 207.23,
+          "end": 207.76,
+          "probability": 1
+        },
+        {
+          "text": "belong",
+          "start": 207.76,
+          "end": 208.4,
+          "probability": 1
+        },
+        {
+          "text": "(still",
+          "start": 208.4,
+          "end": 209.04,
+          "probability": 1
+        },
+        {
+          "text": "belong)",
+          "start": 209.04,
+          "end": 209.78,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 210.95,
+      "end": 214.09,
+      "text": "Don't get me wrong (get me wrong)",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 210.95,
+          "end": 211.53,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 211.53,
+          "end": 211.88,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 211.88,
+          "end": 212.11,
+          "probability": 1
+        },
+        {
+          "text": "wrong",
+          "start": 212.11,
+          "end": 212.69,
+          "probability": 1
+        },
+        {
+          "text": "(get",
+          "start": 212.69,
+          "end": 213.16,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 213.16,
+          "end": 213.39,
+          "probability": 1
+        },
+        {
+          "text": "wrong)",
+          "start": 213.39,
+          "end": 214.09,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 214.83,
+      "end": 219.33,
+      "text": "You can speak your mind, but not on my time",
+      "words": [
+        {
+          "text": "You",
+          "start": 214.83,
+          "end": 215.23,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 215.23,
+          "end": 215.63,
+          "probability": 1
+        },
+        {
+          "text": "speak",
+          "start": 215.63,
+          "end": 216.29,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 216.29,
+          "end": 216.82,
+          "probability": 1
+        },
+        {
+          "text": "mind,",
+          "start": 216.82,
+          "end": 217.48,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 217.48,
+          "end": 217.88,
+          "probability": 1
+        },
+        {
+          "text": "not",
+          "start": 217.88,
+          "end": 218.28,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 218.28,
+          "end": 218.54,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 218.54,
+          "end": 218.8,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 218.8,
+          "end": 219.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 219.33,
+      "end": 236.55,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 219.33,
+          "end": 236.55,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 236.55,
+      "end": 242.64,
+      "text": "I don't care what you say anymore, this is my life",
+      "words": [
+        {
+          "text": "I",
+          "start": 236.55,
+          "end": 236.7,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 236.7,
+          "end": 237.46,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 237.46,
+          "end": 238.07,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 238.07,
+          "end": 238.68,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 238.68,
+          "end": 239.14,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 239.14,
+          "end": 239.6,
+          "probability": 1
+        },
+        {
+          "text": "anymore,",
+          "start": 239.6,
+          "end": 240.82,
+          "probability": 1
+        },
+        {
+          "text": "this",
+          "start": 240.82,
+          "end": 241.43,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 241.43,
+          "end": 241.73,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 241.73,
+          "end": 242.03,
+          "probability": 1
+        },
+        {
+          "text": "life",
+          "start": 242.03,
+          "end": 242.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 243.56,
+      "end": 248.88,
+      "text": "Go ahead with your own life, leave me alone",
+      "words": [
+        {
+          "text": "Go",
+          "start": 243.56,
+          "end": 243.86,
+          "probability": 1
+        },
+        {
+          "text": "ahead",
+          "start": 243.86,
+          "end": 244.62,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 244.62,
+          "end": 245.23,
+          "probability": 1
+        },
+        {
+          "text": "your",
+          "start": 245.23,
+          "end": 245.84,
+          "probability": 1
+        },
+        {
+          "text": "own",
+          "start": 245.84,
+          "end": 246.3,
+          "probability": 1
+        },
+        {
+          "text": "life,",
+          "start": 246.3,
+          "end": 247.06,
+          "probability": 1
+        },
+        {
+          "text": "leave",
+          "start": 247.06,
+          "end": 247.82,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 247.82,
+          "end": 248.12,
+          "probability": 1
+        },
+        {
+          "text": "alone",
+          "start": 248.12,
+          "end": 248.88,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 250.73,
+      "end": 254.16,
+      "text": "(Keep it to yourself, it's my life)",
+      "words": [
+        {
+          "text": "(Keep",
+          "start": 250.73,
+          "end": 251.32,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 251.32,
+          "end": 251.56,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 251.56,
+          "end": 251.8,
+          "probability": 1
+        },
+        {
+          "text": "yourself,",
+          "start": 251.8,
+          "end": 252.86,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 252.86,
+          "end": 253.33,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 253.33,
+          "end": 253.57,
+          "probability": 1
+        },
+        {
+          "text": "life)",
+          "start": 253.57,
+          "end": 254.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 258.02,
+      "end": 261.45,
+      "text": "(Keep it to yourself, it's my life)",
+      "words": [
+        {
+          "text": "(Keep",
+          "start": 258.02,
+          "end": 258.61,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 258.61,
+          "end": 258.85,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 258.85,
+          "end": 259.09,
+          "probability": 1
+        },
+        {
+          "text": "yourself,",
+          "start": 259.09,
+          "end": 260.15,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 260.15,
+          "end": 260.62,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 260.62,
+          "end": 260.86,
+          "probability": 1
+        },
+        {
+          "text": "life)",
+          "start": 260.86,
+          "end": 261.45,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 265.23,
+      "end": 268.66,
+      "text": "(Keep it to yourself, it's my life)",
+      "words": [
+        {
+          "text": "(Keep",
+          "start": 265.23,
+          "end": 265.82,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 265.82,
+          "end": 266.06,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 266.06,
+          "end": 266.3,
+          "probability": 1
+        },
+        {
+          "text": "yourself,",
+          "start": 266.3,
+          "end": 267.36,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 267.36,
+          "end": 267.83,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 267.83,
+          "end": 268.07,
+          "probability": 1
+        },
+        {
+          "text": "life)",
+          "start": 268.07,
+          "end": 268.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 272.32,
+      "end": 275.75,
+      "text": "(Keep it to yourself, it's my life)",
+      "words": [
+        {
+          "text": "(Keep",
+          "start": 272.32,
+          "end": 272.91,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 272.91,
+          "end": 273.15,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 273.15,
+          "end": 273.39,
+          "probability": 1
+        },
+        {
+          "text": "yourself,",
+          "start": 273.39,
+          "end": 274.45,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 274.45,
+          "end": 274.92,
+          "probability": 1
+        },
+        {
+          "text": "my",
+          "start": 274.92,
+          "end": 275.16,
+          "probability": 1
+        },
+        {
+          "text": "life)",
+          "start": 275.16,
+          "end": 275.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 279.66,
+      "end": 281.56,
+      "text": "(Keep it to yourself)",
+      "words": [
+        {
+          "text": "(Keep",
+          "start": 279.66,
+          "end": 280.19,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 280.19,
+          "end": 280.4,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 280.4,
+          "end": 280.61,
+          "probability": 1
+        },
+        {
+          "text": "yourself)",
+          "start": 280.61,
+          "end": 281.56,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Got a call from an old friend, we used to be real close Said he couldn't go on the American way Closed the shop, sold the house, bought a ticket to the West Coast Now he gives them a stand-up routine in LA I don't need you to worry for me, 'cause I'm alright I don't want you to tell me it's time to come home I don't care what you say anymore, this is my life Go ahead with your own life, leave me alone I never said you had to offer me a second chance (I never said you had to) I never said I was a victim of circumstance (I never said) I still belong (still belong) Don't get me wrong (get me wrong) You can speak your mind, but not on my time They will tell you you can't sleep alone in a strange place Then they'll tell you you can't sleep with somebody else Ah, but sooner or later you sleep in your own space Either way, it's okay, you wake up with yourself I don't need you to worry for me, 'cause I'm alright I don't want you to tell me it's time to come home I don't care what you say anymore, this is my life Go ahead with your own life, leave me alone I never said you had to offer me a second chance (I never said you had to) I never said I was a victim of circumstance (of circumstance) I still belong (still belong) Don't get me wrong (get me wrong) You can speak your mind, but not on my time I don't care what you say anymore, this is my life Go ahead with your own life, leave me alone (Keep it to yourself, it's my life) (Keep it to yourself, it's my life) (Keep it to yourself, it's my life) (Keep it to yourself, it's my life) (Keep it to yourself)"
+}

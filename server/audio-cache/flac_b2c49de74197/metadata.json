@@ -1,0 +1,19 @@
+{
+  "id": "flac_b2c49de74197",
+  "source": "local",
+  "title": "Wish You Were Here",
+  "artist": "Pink Floyd",
+  "album": "Wish You Were Here (TOCP-53808)",
+  "duration": 334,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_b2c49de74197/cover.jpg",
+  "cachedAt": 1789625731049,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_b2c49de74197/original.flac",
+  "instrumentalUrl": "/audio/flac_b2c49de74197/instrumental.flac",
+  "vocalsUrl": "/audio/flac_b2c49de74197/vocals.flac"
+}

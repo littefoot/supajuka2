@@ -1,13 +1,13 @@
-﻿import { spawn } from 'child_process';
+import { spawn } from 'child_process';
 import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
 import { getSongDir, findOriginalAudio, getVocalsPath, getLyricsPath, getPlainLyricsPath } from './paths.js';
-import { separateSong } from './separationService.js';
+import { separateSong, generateVocalsWaveform } from './separationService.js';
 import { vramQueue } from './vramQueue.js';
 import { appEvents } from './events.js';
 import { getMetadata, saveMetadata } from './metadata.js';
-import { resolveGroundTruthLyrics } from './lyricsGroundTruth.js';
+import { resolveGroundTruthLyrics, calibrateAndSnapLrcToWaveform } from './lyricsGroundTruth.js';
 import { LyricResult } from '../types.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -16,8 +16,18 @@ const TRANSCRIBE_SCRIPT = path.join(__dirname, '..', '..', 'python', 'transcribe
 const WAVEFORM_SCRIPT = path.join(__dirname, '..', '..', 'python', 'generate_waveform.py');
 const PYTHON_CMD = process.env.PYTHON_PATH || 'py';
 
+const PROTECTED_SONG_IDS = ['flac_76362ddbe871', 'flac_a7e3cd88e60a'];
+
 export async function transcribeSong(songId: string, force = false): Promise<LyricResult> {
   const lyricsPath = getLyricsPath(songId);
+
+  // CRITICAL RULE: Never overwrite or re-align user-saved protected songs
+  if (PROTECTED_SONG_IDS.includes(songId)) {
+    console.log(`[Lyrics] Protected song detected: ${songId}. Returning saved timings without re-aligning.`);
+    if (fs.existsSync(lyricsPath)) {
+      return JSON.parse(fs.readFileSync(lyricsPath, 'utf-8'));
+    }
+  }
 
   // If already transcribed and not forced, return cached
   if (!force && fs.existsSync(lyricsPath)) {
@@ -43,17 +53,30 @@ export async function transcribeSong(songId: string, force = false): Promise<Lyr
     console.warn('[GroundTruth] Resolution failed:', e);
   }
 
-  // If canonical synced lyrics exist (e.g. from LRCLIB), immediately adopt them with 100% human sync
+  // If canonical synced lyrics exist (e.g. from LRCLIB), calibrate against waveform & adopt
   if (gtResult.isSynced && fs.existsSync(lyricsPath)) {
-    console.log(`[Lyrics] Canonical synced lyrics ready for ${songId}. Skipping Whisper transcription.`);
-    const result: LyricResult = JSON.parse(fs.readFileSync(lyricsPath, 'utf-8'));
-    const meta = getMetadata(songId);
-    if (meta) {
-      meta.hasLyrics = true;
-      saveMetadata(meta);
+    const songDir = getSongDir(songId);
+    const waveformPath = path.join(songDir, 'waveform_vocals.json');
+    if (!fs.existsSync(waveformPath)) {
+      await generateVocalsWaveform(songId);
     }
-    appEvents.emitStatusUpdate(songId, 'transcribed', 100, '🎉 Canonical synced lyrics loaded!');
-    return result;
+    let result: LyricResult = JSON.parse(fs.readFileSync(lyricsPath, 'utf-8'));
+
+    if (fs.existsSync(waveformPath)) {
+      result = calibrateAndSnapLrcToWaveform(result, waveformPath);
+      fs.writeFileSync(lyricsPath, JSON.stringify(result, null, 2), 'utf-8');
+    }
+
+    if (result.segments && result.segments.length > 0) {
+      console.log(`[Lyrics] Canonical synced lyrics ready and calibrated for ${songId} (${result.segments.length} lines). Skipping Whisper transcription.`);
+      const meta = getMetadata(songId);
+      if (meta) {
+        meta.hasLyrics = true;
+        saveMetadata(meta);
+      }
+      appEvents.emitStatusUpdate(songId, 'transcribed', 100, '🎉 Canonical synced lyrics loaded!');
+      return result;
+    }
   }
 
   // --- STAGE 2: MANDATORY ACAPELLA STEM SEPARATION & ACOUSTIC ALIGNMENT ---
@@ -130,12 +153,21 @@ export async function transcribeSong(songId: string, force = false): Promise<Lyr
         if (code === 0 && fs.existsSync(lyricsPath)) {
           const result: LyricResult = JSON.parse(fs.readFileSync(lyricsPath, 'utf-8'));
           const meta = getMetadata(songId);
-          if (meta) {
-            meta.hasLyrics = true;
-            saveMetadata(meta);
+          if (result.segments && result.segments.length > 0) {
+            if (meta) {
+              meta.hasLyrics = true;
+              saveMetadata(meta);
+            }
+            appEvents.emitStatusUpdate(songId, 'transcribed', 100, '🎉 Syllable alignment complete!');
+            resolve(result);
+          } else {
+            if (meta) {
+              meta.hasLyrics = false;
+              saveMetadata(meta);
+            }
+            appEvents.emitStatusUpdate(songId, 'error', 0, 'No vocal segments could be identified in acapella stem.');
+            resolve(result);
           }
-          appEvents.emitStatusUpdate(songId, 'transcribed', 100, '🎉 Syllable alignment complete!');
-          resolve(result);
         } else {
           reject(new Error(`Transcription failed: ${stderr || stdout}`));
         }

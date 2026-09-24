@@ -1,0 +1,2542 @@
+{
+  "language": "en",
+  "duration": 229,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 8.37,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 8.37,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 8.37,
+      "end": 10.64,
+      "text": "Love, love, love",
+      "words": [
+        {
+          "text": "Love,",
+          "start": 8.37,
+          "end": 9.18,
+          "probability": 1
+        },
+        {
+          "text": "love,",
+          "start": 9.18,
+          "end": 9.99,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 9.99,
+          "end": 10.64,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 12.52,
+      "end": 14.79,
+      "text": "Love, love, love",
+      "words": [
+        {
+          "text": "Love,",
+          "start": 12.52,
+          "end": 13.33,
+          "probability": 1
+        },
+        {
+          "text": "love,",
+          "start": 13.33,
+          "end": 14.14,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 14.14,
+          "end": 14.79,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 17.53,
+      "end": 19.8,
+      "text": "Love, love, love",
+      "words": [
+        {
+          "text": "Love,",
+          "start": 17.53,
+          "end": 18.34,
+          "probability": 1
+        },
+        {
+          "text": "love,",
+          "start": 18.34,
+          "end": 19.15,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 19.15,
+          "end": 19.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 26.32,
+      "end": 30.55,
+      "text": "There's nothing you can do that can't be done",
+      "words": [
+        {
+          "text": "There's",
+          "start": 26.32,
+          "end": 27.12,
+          "probability": 1
+        },
+        {
+          "text": "nothing",
+          "start": 27.12,
+          "end": 27.92,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 27.92,
+          "end": 28.26,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 28.26,
+          "end": 28.6,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 28.6,
+          "end": 28.83,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 28.83,
+          "end": 29.29,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 29.29,
+          "end": 29.86,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 29.86,
+          "end": 30.09,
+          "probability": 1
+        },
+        {
+          "text": "done",
+          "start": 30.09,
+          "end": 30.55,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 30.81,
+      "end": 34.42,
+      "text": "Nothing you can sing that can't be sung",
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 30.81,
+          "end": 31.6,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 31.6,
+          "end": 31.94,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 31.94,
+          "end": 32.28,
+          "probability": 1
+        },
+        {
+          "text": "sing",
+          "start": 32.28,
+          "end": 32.73,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 32.73,
+          "end": 33.18,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 33.18,
+          "end": 33.74,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 33.74,
+          "end": 33.97,
+          "probability": 1
+        },
+        {
+          "text": "sung",
+          "start": 33.97,
+          "end": 34.42,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 35.19,
+      "end": 38.74,
+      "text": "Nothing you can say but you can learn how to play the game",
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 35.19,
+          "end": 35.73,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 35.73,
+          "end": 35.96,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 35.96,
+          "end": 36.19,
+          "probability": 1
+        },
+        {
+          "text": "say",
+          "start": 36.19,
+          "end": 36.42,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 36.42,
+          "end": 36.65,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 36.65,
+          "end": 36.88,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 36.88,
+          "end": 37.11,
+          "probability": 1
+        },
+        {
+          "text": "learn",
+          "start": 37.11,
+          "end": 37.5,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 37.5,
+          "end": 37.73,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 37.73,
+          "end": 37.89,
+          "probability": 1
+        },
+        {
+          "text": "play",
+          "start": 37.89,
+          "end": 38.2,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 38.2,
+          "end": 38.43,
+          "probability": 1
+        },
+        {
+          "text": "game",
+          "start": 38.43,
+          "end": 38.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 39.02,
+      "end": 40.16,
+      "text": "It's easy",
+      "words": [
+        {
+          "text": "It's",
+          "start": 39.02,
+          "end": 39.59,
+          "probability": 1
+        },
+        {
+          "text": "easy",
+          "start": 39.59,
+          "end": 40.16,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 44.13,
+      "end": 48.02,
+      "text": "Nothing you can make that can't be made",
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 44.13,
+          "end": 44.98,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 44.98,
+          "end": 45.34,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 45.34,
+          "end": 45.7,
+          "probability": 1
+        },
+        {
+          "text": "make",
+          "start": 45.7,
+          "end": 46.19,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 46.19,
+          "end": 46.68,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 46.68,
+          "end": 47.29,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 47.29,
+          "end": 47.53,
+          "probability": 1
+        },
+        {
+          "text": "made",
+          "start": 47.53,
+          "end": 48.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 48.27,
+      "end": 52.41,
+      "text": "No one you can save that can't be saved",
+      "words": [
+        {
+          "text": "No",
+          "start": 48.27,
+          "end": 48.54,
+          "probability": 1
+        },
+        {
+          "text": "one",
+          "start": 48.54,
+          "end": 48.94,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 48.94,
+          "end": 49.34,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 49.34,
+          "end": 49.74,
+          "probability": 1
+        },
+        {
+          "text": "save",
+          "start": 49.74,
+          "end": 50.27,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 50.27,
+          "end": 50.8,
+          "probability": 1
+        },
+        {
+          "text": "can't",
+          "start": 50.8,
+          "end": 51.47,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 51.47,
+          "end": 51.74,
+          "probability": 1
+        },
+        {
+          "text": "saved",
+          "start": 51.74,
+          "end": 52.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 52.65,
+      "end": 56.4,
+      "text": "Nothing you can do but you can learn how to be you in time",
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 52.65,
+          "end": 53.23,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 53.23,
+          "end": 53.48,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 53.48,
+          "end": 53.73,
+          "probability": 1
+        },
+        {
+          "text": "do",
+          "start": 53.73,
+          "end": 53.9,
+          "probability": 1
+        },
+        {
+          "text": "but",
+          "start": 53.9,
+          "end": 54.15,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 54.15,
+          "end": 54.4,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 54.4,
+          "end": 54.65,
+          "probability": 1
+        },
+        {
+          "text": "learn",
+          "start": 54.65,
+          "end": 55.06,
+          "probability": 1
+        },
+        {
+          "text": "how",
+          "start": 55.06,
+          "end": 55.31,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 55.31,
+          "end": 55.48,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 55.48,
+          "end": 55.65,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 55.65,
+          "end": 55.9,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 55.9,
+          "end": 56.07,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 56.07,
+          "end": 56.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 56.62,
+      "end": 57.76,
+      "text": "It's easy",
+      "words": [
+        {
+          "text": "It's",
+          "start": 56.62,
+          "end": 57.19,
+          "probability": 1
+        },
+        {
+          "text": "easy",
+          "start": 57.19,
+          "end": 57.76,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 61.62,
+      "end": 63.9,
+      "text": "All you need is love",
+      "words": [
+        {
+          "text": "All",
+          "start": 61.62,
+          "end": 62.05,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 62.05,
+          "end": 62.48,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 62.48,
+          "end": 63.05,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 63.05,
+          "end": 63.33,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 63.33,
+          "end": 63.9,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 66.38,
+      "end": 68.67,
+      "text": "All you need is love",
+      "words": [
+        {
+          "text": "All",
+          "start": 66.38,
+          "end": 66.81,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 66.81,
+          "end": 67.24,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 67.24,
+          "end": 67.81,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 67.81,
+          "end": 68.1,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 68.1,
+          "end": 68.67,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 70.99,
+      "end": 74.02,
+      "text": "All you need is love, love",
+      "words": [
+        {
+          "text": "All",
+          "start": 70.99,
+          "end": 71.42,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 71.42,
+          "end": 71.85,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 71.85,
+          "end": 72.43,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 72.43,
+          "end": 72.72,
+          "probability": 1
+        },
+        {
+          "text": "love,",
+          "start": 72.72,
+          "end": 73.44,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 73.44,
+          "end": 74.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.4,
+      "end": 77.69,
+      "text": "Love is all you need",
+      "words": [
+        {
+          "text": "Love",
+          "start": 75.4,
+          "end": 75.97,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 75.97,
+          "end": 76.26,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 76.26,
+          "end": 76.69,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 76.69,
+          "end": 77.12,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 77.12,
+          "end": 77.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 79.24,
+      "end": 81.51,
+      "text": "Love, love, love",
+      "words": [
+        {
+          "text": "Love,",
+          "start": 79.24,
+          "end": 80.05,
+          "probability": 1
+        },
+        {
+          "text": "love,",
+          "start": 80.05,
+          "end": 80.86,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 80.86,
+          "end": 81.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 83.36,
+      "end": 85.63,
+      "text": "Love, love, love",
+      "words": [
+        {
+          "text": "Love,",
+          "start": 83.36,
+          "end": 84.17,
+          "probability": 1
+        },
+        {
+          "text": "love,",
+          "start": 84.17,
+          "end": 84.98,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 84.98,
+          "end": 85.63,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 86.86,
+      "end": 89.13,
+      "text": "Love, love, love",
+      "words": [
+        {
+          "text": "Love,",
+          "start": 86.86,
+          "end": 87.67,
+          "probability": 1
+        },
+        {
+          "text": "love,",
+          "start": 87.67,
+          "end": 88.48,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 88.48,
+          "end": 89.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 96.09,
+      "end": 98.38,
+      "text": "All you need is love",
+      "words": [
+        {
+          "text": "All",
+          "start": 96.09,
+          "end": 96.52,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 96.52,
+          "end": 96.95,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 96.95,
+          "end": 97.52,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 97.52,
+          "end": 97.81,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 97.81,
+          "end": 98.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 100.62,
+      "end": 102.91,
+      "text": "All you need is love",
+      "words": [
+        {
+          "text": "All",
+          "start": 100.62,
+          "end": 101.05,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 101.05,
+          "end": 101.48,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 101.48,
+          "end": 102.05,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 102.05,
+          "end": 102.34,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 102.34,
+          "end": 102.91,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 105.48,
+      "end": 108.51,
+      "text": "All you need is love, love",
+      "words": [
+        {
+          "text": "All",
+          "start": 105.48,
+          "end": 105.91,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 105.91,
+          "end": 106.34,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 106.34,
+          "end": 106.92,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 106.92,
+          "end": 107.21,
+          "probability": 1
+        },
+        {
+          "text": "love,",
+          "start": 107.21,
+          "end": 107.93,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 107.93,
+          "end": 108.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.88,
+      "end": 112.17,
+      "text": "Love is all you need",
+      "words": [
+        {
+          "text": "Love",
+          "start": 109.88,
+          "end": 110.45,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 110.45,
+          "end": 110.74,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 110.74,
+          "end": 111.17,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 111.17,
+          "end": 111.6,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 111.6,
+          "end": 112.17,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 112.86,
+      "end": 116.66,
+      "text": "There's nothing you can know that isn't known",
+      "words": [
+        {
+          "text": "There's",
+          "start": 112.86,
+          "end": 113.56,
+          "probability": 1
+        },
+        {
+          "text": "nothing",
+          "start": 113.56,
+          "end": 114.26,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 114.26,
+          "end": 114.56,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 114.56,
+          "end": 114.86,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 114.86,
+          "end": 115.26,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 115.26,
+          "end": 115.66,
+          "probability": 1
+        },
+        {
+          "text": "isn't",
+          "start": 115.66,
+          "end": 116.16,
+          "probability": 1
+        },
+        {
+          "text": "known",
+          "start": 116.16,
+          "end": 116.66,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.33,
+      "end": 120.51,
+      "text": "Nothing you can see that isn't shown",
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 117.33,
+          "end": 118.07,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 118.07,
+          "end": 118.39,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 118.39,
+          "end": 118.71,
+          "probability": 1
+        },
+        {
+          "text": "see",
+          "start": 118.71,
+          "end": 119.03,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 119.03,
+          "end": 119.45,
+          "probability": 1
+        },
+        {
+          "text": "isn't",
+          "start": 119.45,
+          "end": 119.98,
+          "probability": 1
+        },
+        {
+          "text": "shown",
+          "start": 119.98,
+          "end": 120.51,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 121.23,
+      "end": 125,
+      "text": "There's nowhere you can be that isn't where you're meant to be",
+      "words": [
+        {
+          "text": "There's",
+          "start": 121.23,
+          "end": 121.75,
+          "probability": 1
+        },
+        {
+          "text": "nowhere",
+          "start": 121.75,
+          "end": 122.27,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 122.27,
+          "end": 122.49,
+          "probability": 1
+        },
+        {
+          "text": "can",
+          "start": 122.49,
+          "end": 122.71,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 122.71,
+          "end": 122.86,
+          "probability": 1
+        },
+        {
+          "text": "that",
+          "start": 122.86,
+          "end": 123.15,
+          "probability": 1
+        },
+        {
+          "text": "isn't",
+          "start": 123.15,
+          "end": 123.52,
+          "probability": 1
+        },
+        {
+          "text": "where",
+          "start": 123.52,
+          "end": 123.89,
+          "probability": 1
+        },
+        {
+          "text": "you're",
+          "start": 123.89,
+          "end": 124.33,
+          "probability": 1
+        },
+        {
+          "text": "meant",
+          "start": 124.33,
+          "end": 124.7,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 124.7,
+          "end": 124.85,
+          "probability": 1
+        },
+        {
+          "text": "be",
+          "start": 124.85,
+          "end": 125,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 125.24,
+      "end": 126.38,
+      "text": "It's easy",
+      "words": [
+        {
+          "text": "It's",
+          "start": 125.24,
+          "end": 125.81,
+          "probability": 1
+        },
+        {
+          "text": "easy",
+          "start": 125.81,
+          "end": 126.38,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 130.57,
+      "end": 132.86,
+      "text": "All you need is love",
+      "words": [
+        {
+          "text": "All",
+          "start": 130.57,
+          "end": 131,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 131,
+          "end": 131.43,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 131.43,
+          "end": 132,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 132,
+          "end": 132.29,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 132.29,
+          "end": 132.86,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 134.55,
+      "end": 136.83,
+      "text": "All you need is love",
+      "words": [
+        {
+          "text": "All",
+          "start": 134.55,
+          "end": 134.98,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 134.98,
+          "end": 135.41,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 135.41,
+          "end": 135.98,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 135.98,
+          "end": 136.26,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 136.26,
+          "end": 136.83,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 138.99,
+      "end": 142.02,
+      "text": "All you need is love, love",
+      "words": [
+        {
+          "text": "All",
+          "start": 138.99,
+          "end": 139.42,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 139.42,
+          "end": 139.85,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 139.85,
+          "end": 140.43,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 140.43,
+          "end": 140.72,
+          "probability": 1
+        },
+        {
+          "text": "love,",
+          "start": 140.72,
+          "end": 141.44,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 141.44,
+          "end": 142.02,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 143.58,
+      "end": 145.87,
+      "text": "Love is all you need",
+      "words": [
+        {
+          "text": "Love",
+          "start": 143.58,
+          "end": 144.15,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 144.15,
+          "end": 144.44,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 144.44,
+          "end": 144.87,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 144.87,
+          "end": 145.3,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 145.3,
+          "end": 145.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 147.23,
+      "end": 151.4,
+      "text": "All you need is love (all together now)",
+      "words": [
+        {
+          "text": "All",
+          "start": 147.23,
+          "end": 147.62,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 147.62,
+          "end": 148.01,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 148.01,
+          "end": 148.53,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 148.53,
+          "end": 148.79,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 148.79,
+          "end": 149.31,
+          "probability": 1
+        },
+        {
+          "text": "(all",
+          "start": 149.31,
+          "end": 149.83,
+          "probability": 1
+        },
+        {
+          "text": "together",
+          "start": 149.83,
+          "end": 150.88,
+          "probability": 1
+        },
+        {
+          "text": "now)",
+          "start": 150.88,
+          "end": 151.4,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 151.97,
+      "end": 155.84,
+      "text": "All you need is love (everybody)",
+      "words": [
+        {
+          "text": "All",
+          "start": 151.97,
+          "end": 152.4,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 152.4,
+          "end": 152.83,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 152.83,
+          "end": 153.4,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 153.4,
+          "end": 153.69,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 153.69,
+          "end": 154.26,
+          "probability": 1
+        },
+        {
+          "text": "(everybody)",
+          "start": 154.26,
+          "end": 155.84,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 156.1,
+      "end": 159.13,
+      "text": "All you need is love, love",
+      "words": [
+        {
+          "text": "All",
+          "start": 156.1,
+          "end": 156.53,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 156.53,
+          "end": 156.96,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 156.96,
+          "end": 157.54,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 157.54,
+          "end": 157.83,
+          "probability": 1
+        },
+        {
+          "text": "love,",
+          "start": 157.83,
+          "end": 158.55,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 158.55,
+          "end": 159.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 160.87,
+      "end": 163.15,
+      "text": "Love is all you need",
+      "words": [
+        {
+          "text": "Love",
+          "start": 160.87,
+          "end": 161.44,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 161.44,
+          "end": 161.72,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 161.72,
+          "end": 162.15,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 162.15,
+          "end": 162.58,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 162.58,
+          "end": 163.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 163.39,
+      "end": 164.93,
+      "text": "Love is all you need (love is all you need)",
+      "words": [
+        {
+          "text": "Love",
+          "start": 163.39,
+          "end": 163.56,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 163.56,
+          "end": 163.68,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 163.68,
+          "end": 163.81,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 163.81,
+          "end": 163.94,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 163.94,
+          "end": 164.11,
+          "probability": 1
+        },
+        {
+          "text": "(love",
+          "start": 164.11,
+          "end": 164.33,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 164.33,
+          "end": 164.45,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 164.45,
+          "end": 164.58,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 164.58,
+          "end": 164.71,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 164.71,
+          "end": 164.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 165.11,
+      "end": 167.35,
+      "text": "Love is all you need (love is all you need)",
+      "words": [
+        {
+          "text": "Love",
+          "start": 165.11,
+          "end": 165.37,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 165.37,
+          "end": 165.5,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 165.5,
+          "end": 165.7,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 165.7,
+          "end": 165.9,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 165.9,
+          "end": 166.16,
+          "probability": 1
+        },
+        {
+          "text": "(love",
+          "start": 166.16,
+          "end": 166.49,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 166.49,
+          "end": 166.62,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 166.62,
+          "end": 166.82,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 166.82,
+          "end": 167.02,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 167.02,
+          "end": 167.35,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.57,
+      "end": 169.31,
+      "text": "Love is all you need (love is all you need)",
+      "words": [
+        {
+          "text": "Love",
+          "start": 167.57,
+          "end": 167.77,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 167.77,
+          "end": 167.89,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 167.89,
+          "end": 168.04,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 168.04,
+          "end": 168.19,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 168.19,
+          "end": 168.39,
+          "probability": 1
+        },
+        {
+          "text": "(love",
+          "start": 168.39,
+          "end": 168.64,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 168.64,
+          "end": 168.76,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 168.76,
+          "end": 168.91,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 168.91,
+          "end": 169.06,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 169.06,
+          "end": 169.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 169.5,
+      "end": 171.8,
+      "text": "Love is all you need (love is all you need)",
+      "words": [
+        {
+          "text": "Love",
+          "start": 169.5,
+          "end": 169.77,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 169.77,
+          "end": 169.91,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 169.91,
+          "end": 170.11,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 170.11,
+          "end": 170.31,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 170.31,
+          "end": 170.58,
+          "probability": 1
+        },
+        {
+          "text": "(love",
+          "start": 170.58,
+          "end": 170.92,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 170.92,
+          "end": 171.06,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 171.06,
+          "end": 171.26,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 171.26,
+          "end": 171.46,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 171.46,
+          "end": 171.8,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 172.05,
+      "end": 173.71,
+      "text": "Love is all you need (love is all you need)",
+      "words": [
+        {
+          "text": "Love",
+          "start": 172.05,
+          "end": 172.24,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 172.24,
+          "end": 172.36,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 172.36,
+          "end": 172.5,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 172.5,
+          "end": 172.64,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 172.64,
+          "end": 172.83,
+          "probability": 1
+        },
+        {
+          "text": "(love",
+          "start": 172.83,
+          "end": 173.07,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 173.07,
+          "end": 173.19,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 173.19,
+          "end": 173.33,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 173.33,
+          "end": 173.47,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 173.47,
+          "end": 173.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 173.94,
+      "end": 175.98,
+      "text": "Love is all you need (love is all you need)",
+      "words": [
+        {
+          "text": "Love",
+          "start": 173.94,
+          "end": 174.18,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 174.18,
+          "end": 174.3,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 174.3,
+          "end": 174.48,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 174.48,
+          "end": 174.66,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 174.66,
+          "end": 174.9,
+          "probability": 1
+        },
+        {
+          "text": "(love",
+          "start": 174.9,
+          "end": 175.2,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 175.2,
+          "end": 175.32,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 175.32,
+          "end": 175.5,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 175.5,
+          "end": 175.68,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 175.68,
+          "end": 175.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 176.25,
+      "end": 178.21,
+      "text": "Love is all you need (love is all you need)",
+      "words": [
+        {
+          "text": "Love",
+          "start": 176.25,
+          "end": 176.48,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 176.48,
+          "end": 176.6,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 176.6,
+          "end": 176.77,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 176.77,
+          "end": 176.94,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 176.94,
+          "end": 177.17,
+          "probability": 1
+        },
+        {
+          "text": "(love",
+          "start": 177.17,
+          "end": 177.46,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 177.46,
+          "end": 177.58,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 177.58,
+          "end": 177.75,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 177.75,
+          "end": 177.92,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 177.92,
+          "end": 178.21,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 178.47,
+      "end": 180.33,
+      "text": "Love is all you need (love is all you need)",
+      "words": [
+        {
+          "text": "Love",
+          "start": 178.47,
+          "end": 178.69,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 178.69,
+          "end": 178.81,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 178.81,
+          "end": 178.97,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 178.97,
+          "end": 179.13,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 179.13,
+          "end": 179.35,
+          "probability": 1
+        },
+        {
+          "text": "(love",
+          "start": 179.35,
+          "end": 179.62,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 179.62,
+          "end": 179.74,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 179.74,
+          "end": 179.9,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 179.9,
+          "end": 180.06,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 180.06,
+          "end": 180.33,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 180.57,
+      "end": 182.41,
+      "text": "Love is all you need (love is all you need)",
+      "words": [
+        {
+          "text": "Love",
+          "start": 180.57,
+          "end": 180.78,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 180.78,
+          "end": 180.9,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 180.9,
+          "end": 181.06,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 181.06,
+          "end": 181.22,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 181.22,
+          "end": 181.43,
+          "probability": 1
+        },
+        {
+          "text": "(love",
+          "start": 181.43,
+          "end": 181.7,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 181.7,
+          "end": 181.82,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 181.82,
+          "end": 181.98,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 181.98,
+          "end": 182.14,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 182.14,
+          "end": 182.41,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 182.64,
+      "end": 184.56,
+      "text": "Love is all you need (love is all you need)",
+      "words": [
+        {
+          "text": "Love",
+          "start": 182.64,
+          "end": 182.86,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 182.86,
+          "end": 182.98,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 182.98,
+          "end": 183.15,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 183.15,
+          "end": 183.32,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 183.32,
+          "end": 183.54,
+          "probability": 1
+        },
+        {
+          "text": "(love",
+          "start": 183.54,
+          "end": 183.82,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 183.82,
+          "end": 183.94,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 183.94,
+          "end": 184.11,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 184.11,
+          "end": 184.28,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 184.28,
+          "end": 184.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 184.77,
+      "end": 187.23,
+      "text": "Love is all you need (love is all you need)",
+      "words": [
+        {
+          "text": "Love",
+          "start": 184.77,
+          "end": 185.06,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 185.06,
+          "end": 185.2,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 185.2,
+          "end": 185.42,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 185.42,
+          "end": 185.64,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 185.64,
+          "end": 185.93,
+          "probability": 1
+        },
+        {
+          "text": "(love",
+          "start": 185.93,
+          "end": 186.29,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 186.29,
+          "end": 186.43,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 186.43,
+          "end": 186.65,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 186.65,
+          "end": 186.87,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 186.87,
+          "end": 187.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 187.47,
+      "end": 189.74,
+      "text": "(Love is all you need)",
+      "words": [
+        {
+          "text": "(Love",
+          "start": 187.47,
+          "end": 188.1,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 188.1,
+          "end": 188.35,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 188.35,
+          "end": 188.73,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 188.73,
+          "end": 189.11,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 189.11,
+          "end": 189.74,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 190.09,
+      "end": 191.69,
+      "text": "(Love is all you need)",
+      "words": [
+        {
+          "text": "(Love",
+          "start": 190.09,
+          "end": 190.53,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 190.53,
+          "end": 190.71,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 190.71,
+          "end": 190.98,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 190.98,
+          "end": 191.25,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 191.25,
+          "end": 191.69,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 191.94,
+      "end": 193.99,
+      "text": "(Love is all you need)",
+      "words": [
+        {
+          "text": "(Love",
+          "start": 191.94,
+          "end": 192.51,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 192.51,
+          "end": 192.74,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 192.74,
+          "end": 193.08,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 193.08,
+          "end": 193.42,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 193.42,
+          "end": 193.99,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 194.24,
+      "end": 196.15,
+      "text": "(Love is all you need)",
+      "words": [
+        {
+          "text": "(Love",
+          "start": 194.24,
+          "end": 194.77,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 194.77,
+          "end": 194.98,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 194.98,
+          "end": 195.3,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 195.3,
+          "end": 195.62,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 195.62,
+          "end": 196.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 196.38,
+      "end": 197.82,
+      "text": "(Love is all you need)",
+      "words": [
+        {
+          "text": "(Love",
+          "start": 196.38,
+          "end": 196.78,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 196.78,
+          "end": 196.94,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 196.94,
+          "end": 197.18,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 197.18,
+          "end": 197.42,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 197.42,
+          "end": 197.82,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 198.06,
+      "end": 200.08,
+      "text": "(Love is all you need)",
+      "words": [
+        {
+          "text": "(Love",
+          "start": 198.06,
+          "end": 198.62,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 198.62,
+          "end": 198.84,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 198.84,
+          "end": 199.18,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 199.18,
+          "end": 199.52,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 199.52,
+          "end": 200.08,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 200.33,
+      "end": 202.31,
+      "text": "(Love is all you need)",
+      "words": [
+        {
+          "text": "(Love",
+          "start": 200.33,
+          "end": 200.88,
+          "probability": 1
+        },
+        {
+          "text": "is",
+          "start": 200.88,
+          "end": 201.1,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 201.1,
+          "end": 201.43,
+          "probability": 1
+        },
+        {
+          "text": "you",
+          "start": 201.43,
+          "end": 201.76,
+          "probability": 1
+        },
+        {
+          "text": "need)",
+          "start": 201.76,
+          "end": 202.31,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 202.57,
+      "end": 205.27,
+      "text": "To love you, yeah, yeah, yeah",
+      "words": [
+        {
+          "text": "To",
+          "start": 202.57,
+          "end": 202.8,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 202.8,
+          "end": 203.25,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 203.25,
+          "end": 203.7,
+          "probability": 1
+        },
+        {
+          "text": "yeah,",
+          "start": 203.7,
+          "end": 204.26,
+          "probability": 1
+        },
+        {
+          "text": "yeah,",
+          "start": 204.26,
+          "end": 204.82,
+          "probability": 1
+        },
+        {
+          "text": "yeah",
+          "start": 204.82,
+          "end": 205.27,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 206.32,
+      "end": 209.02,
+      "text": "To love you, yeah, yeah, yeah...",
+      "words": [
+        {
+          "text": "To",
+          "start": 206.32,
+          "end": 206.52,
+          "probability": 1
+        },
+        {
+          "text": "love",
+          "start": 206.52,
+          "end": 206.92,
+          "probability": 1
+        },
+        {
+          "text": "you,",
+          "start": 206.92,
+          "end": 207.32,
+          "probability": 1
+        },
+        {
+          "text": "yeah,",
+          "start": 207.32,
+          "end": 207.82,
+          "probability": 1
+        },
+        {
+          "text": "yeah,",
+          "start": 207.82,
+          "end": 208.32,
+          "probability": 1
+        },
+        {
+          "text": "yeah...",
+          "start": 208.32,
+          "end": 209.02,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Love, love, love Love, love, love Love, love, love There's nothing you can do that can't be done Nothing you can sing that can't be sung Nothing you can say but you can learn how to play the game It's easy Nothing you can make that can't be made No one you can save that can't be saved Nothing you can do but you can learn how to be you in time It's easy All you need is love All you need is love All you need is love, love Love is all you need Love, love, love Love, love, love Love, love, love All you need is love All you need is love All you need is love, love Love is all you need There's nothing you can know that isn't known Nothing you can see that isn't shown There's nowhere you can be that isn't where you're meant to be It's easy All you need is love All you need is love All you need is love, love Love is all you need All you need is love (all together now) All you need is love (everybody) All you need is love, love Love is all you need Love is all you need (love is all you need) Love is all you need (love is all you need) Love is all you need (love is all you need) Love is all you need (love is all you need) Love is all you need (love is all you need) Love is all you need (love is all you need) Love is all you need (love is all you need) Love is all you need (love is all you need) Love is all you need (love is all you need) Love is all you need (love is all you need) Love is all you need (love is all you need) (Love is all you need) (Love is all you need) (Love is all you need) (Love is all you need) (Love is all you need) (Love is all you need) (Love is all you need) To love you, yeah, yeah, yeah To love you, yeah, yeah, yeah..."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "flac_50ab96e17430",
+  "source": "local",
+  "title": "Movin' Out (Anthony's Song)",
+  "artist": "Billy Joel",
+  "album": "50 Years of the Piano Man",
+  "duration": 210,
+  "format": "flac",
+  "bitDepth": 16,
+  "sampleRate": 44100,
+  "hasCoverArt": true,
+  "coverArtUrl": "/audio/flac_50ab96e17430/cover.jpg",
+  "cachedAt": 1790187062361,
+  "isSeparated": true,
+  "hasLyrics": true,
+  "originalUrl": "/audio/flac_50ab96e17430/original.flac",
+  "instrumentalUrl": "/audio/flac_50ab96e17430/instrumental.flac",
+  "vocalsUrl": "/audio/flac_50ab96e17430/vocals.flac"
+}

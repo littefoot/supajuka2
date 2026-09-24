@@ -1,0 +1,1847 @@
+{
+  "language": "en",
+  "duration": 362,
+  "source": "canonical_synced_lrc",
+  "segments": [
+    {
+      "start": 0,
+      "end": 56.59,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 0,
+          "end": 56.59,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 56.59,
+      "end": 59.52,
+      "text": "Some folks like to get away",
+      "words": [
+        {
+          "text": "Some",
+          "start": 56.59,
+          "end": 57.12,
+          "probability": 1
+        },
+        {
+          "text": "folks",
+          "start": 57.12,
+          "end": 57.79,
+          "probability": 1
+        },
+        {
+          "text": "like",
+          "start": 57.79,
+          "end": 58.32,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 58.32,
+          "end": 58.59,
+          "probability": 1
+        },
+        {
+          "text": "get",
+          "start": 58.59,
+          "end": 58.99,
+          "probability": 1
+        },
+        {
+          "text": "away",
+          "start": 58.99,
+          "end": 59.52,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 59.78,
+      "end": 63.95,
+      "text": "Take a holiday from the neighborhood",
+      "words": [
+        {
+          "text": "Take",
+          "start": 59.78,
+          "end": 60.32,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 60.32,
+          "end": 60.45,
+          "probability": 1
+        },
+        {
+          "text": "holiday",
+          "start": 60.45,
+          "end": 61.39,
+          "probability": 1
+        },
+        {
+          "text": "from",
+          "start": 61.39,
+          "end": 61.93,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 61.93,
+          "end": 62.33,
+          "probability": 1
+        },
+        {
+          "text": "neighborhood",
+          "start": 62.33,
+          "end": 63.95,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 64.43,
+      "end": 67.13,
+      "text": "Hop a flight to Miami Beach",
+      "words": [
+        {
+          "text": "Hop",
+          "start": 64.43,
+          "end": 64.8,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 64.8,
+          "end": 64.92,
+          "probability": 1
+        },
+        {
+          "text": "flight",
+          "start": 64.92,
+          "end": 65.66,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 65.66,
+          "end": 65.91,
+          "probability": 1
+        },
+        {
+          "text": "Miami",
+          "start": 65.91,
+          "end": 66.52,
+          "probability": 1
+        },
+        {
+          "text": "Beach",
+          "start": 66.52,
+          "end": 67.13,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 67.66,
+      "end": 69.56,
+      "text": "Or to Hollywood",
+      "words": [
+        {
+          "text": "Or",
+          "start": 67.66,
+          "end": 67.95,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 67.95,
+          "end": 68.24,
+          "probability": 1
+        },
+        {
+          "text": "Hollywood",
+          "start": 68.24,
+          "end": 69.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 72.4,
+      "end": 75.04,
+      "text": "But I'm taking a Greyhound",
+      "words": [
+        {
+          "text": "But",
+          "start": 72.4,
+          "end": 72.76,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 72.76,
+          "end": 73.12,
+          "probability": 1
+        },
+        {
+          "text": "taking",
+          "start": 73.12,
+          "end": 73.84,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 73.84,
+          "end": 73.96,
+          "probability": 1
+        },
+        {
+          "text": "Greyhound",
+          "start": 73.96,
+          "end": 75.04,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 75.28,
+      "end": 78.32,
+      "text": "On the Hudson River Line",
+      "words": [
+        {
+          "text": "On",
+          "start": 75.28,
+          "end": 75.58,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 75.58,
+          "end": 76.04,
+          "probability": 1
+        },
+        {
+          "text": "Hudson",
+          "start": 76.04,
+          "end": 76.95,
+          "probability": 1
+        },
+        {
+          "text": "River",
+          "start": 76.95,
+          "end": 77.71,
+          "probability": 1
+        },
+        {
+          "text": "Line",
+          "start": 77.71,
+          "end": 78.32,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 80.88,
+      "end": 84.48,
+      "text": "I'm in a New York state of mind",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 80.88,
+          "end": 81.33,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 81.33,
+          "end": 81.63,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 81.63,
+          "end": 81.78,
+          "probability": 1
+        },
+        {
+          "text": "New",
+          "start": 81.78,
+          "end": 82.23,
+          "probability": 1
+        },
+        {
+          "text": "York",
+          "start": 82.23,
+          "end": 82.83,
+          "probability": 1
+        },
+        {
+          "text": "state",
+          "start": 82.83,
+          "end": 83.58,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 83.58,
+          "end": 83.88,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 83.88,
+          "end": 84.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 84.48,
+      "end": 92.91,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 84.48,
+          "end": 92.91,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 92.91,
+      "end": 95.73,
+      "text": "I've seen all the movie stars",
+      "words": [
+        {
+          "text": "I've",
+          "start": 92.91,
+          "end": 93.38,
+          "probability": 1
+        },
+        {
+          "text": "seen",
+          "start": 93.38,
+          "end": 93.85,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 93.85,
+          "end": 94.2,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 94.2,
+          "end": 94.55,
+          "probability": 1
+        },
+        {
+          "text": "movie",
+          "start": 94.55,
+          "end": 95.14,
+          "probability": 1
+        },
+        {
+          "text": "stars",
+          "start": 95.14,
+          "end": 95.73,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 95.97,
+      "end": 100.14,
+      "text": "In their fancy cars and their limousines",
+      "words": [
+        {
+          "text": "In",
+          "start": 95.97,
+          "end": 96.22,
+          "probability": 1
+        },
+        {
+          "text": "their",
+          "start": 96.22,
+          "end": 96.83,
+          "probability": 1
+        },
+        {
+          "text": "fancy",
+          "start": 96.83,
+          "end": 97.44,
+          "probability": 1
+        },
+        {
+          "text": "cars",
+          "start": 97.44,
+          "end": 97.93,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 97.93,
+          "end": 98.3,
+          "probability": 1
+        },
+        {
+          "text": "their",
+          "start": 98.3,
+          "end": 98.91,
+          "probability": 1
+        },
+        {
+          "text": "limousines",
+          "start": 98.91,
+          "end": 100.14,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 100.9,
+      "end": 105.46,
+      "text": "Been high in the Rockies under the evergreens",
+      "words": [
+        {
+          "text": "Been",
+          "start": 100.9,
+          "end": 101.38,
+          "probability": 1
+        },
+        {
+          "text": "high",
+          "start": 101.38,
+          "end": 101.86,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 101.86,
+          "end": 102.1,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 102.1,
+          "end": 102.46,
+          "probability": 1
+        },
+        {
+          "text": "Rockies",
+          "start": 102.46,
+          "end": 103.3,
+          "probability": 1
+        },
+        {
+          "text": "under",
+          "start": 103.3,
+          "end": 103.9,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 103.9,
+          "end": 104.26,
+          "probability": 1
+        },
+        {
+          "text": "evergreens",
+          "start": 104.26,
+          "end": 105.46,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 109.05,
+      "end": 111.75,
+      "text": "But I know what I'm needing",
+      "words": [
+        {
+          "text": "But",
+          "start": 109.05,
+          "end": 109.42,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 109.42,
+          "end": 109.54,
+          "probability": 1
+        },
+        {
+          "text": "know",
+          "start": 109.54,
+          "end": 110.03,
+          "probability": 1
+        },
+        {
+          "text": "what",
+          "start": 110.03,
+          "end": 110.52,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 110.52,
+          "end": 110.89,
+          "probability": 1
+        },
+        {
+          "text": "needing",
+          "start": 110.89,
+          "end": 111.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 112.04,
+      "end": 116.24,
+      "text": "And I don't want to waste more time",
+      "words": [
+        {
+          "text": "And",
+          "start": 112.04,
+          "end": 112.49,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 112.49,
+          "end": 112.64,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 112.64,
+          "end": 113.39,
+          "probability": 1
+        },
+        {
+          "text": "want",
+          "start": 113.39,
+          "end": 113.99,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 113.99,
+          "end": 114.29,
+          "probability": 1
+        },
+        {
+          "text": "waste",
+          "start": 114.29,
+          "end": 115.04,
+          "probability": 1
+        },
+        {
+          "text": "more",
+          "start": 115.04,
+          "end": 115.64,
+          "probability": 1
+        },
+        {
+          "text": "time",
+          "start": 115.64,
+          "end": 116.24,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 117.55,
+      "end": 121.15,
+      "text": "I'm in a New York state of mind",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 117.55,
+          "end": 118,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 118,
+          "end": 118.3,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 118.3,
+          "end": 118.45,
+          "probability": 1
+        },
+        {
+          "text": "New",
+          "start": 118.45,
+          "end": 118.9,
+          "probability": 1
+        },
+        {
+          "text": "York",
+          "start": 118.9,
+          "end": 119.5,
+          "probability": 1
+        },
+        {
+          "text": "state",
+          "start": 119.5,
+          "end": 120.25,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 120.25,
+          "end": 120.55,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 120.55,
+          "end": 121.15,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 121.15,
+      "end": 129.78,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 121.15,
+          "end": 129.78,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 129.78,
+      "end": 133.58,
+      "text": "It was so easy living day by day",
+      "words": [
+        {
+          "text": "It",
+          "start": 129.78,
+          "end": 130.08,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 130.08,
+          "end": 130.54,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 130.54,
+          "end": 130.84,
+          "probability": 1
+        },
+        {
+          "text": "easy",
+          "start": 130.84,
+          "end": 131.45,
+          "probability": 1
+        },
+        {
+          "text": "living",
+          "start": 131.45,
+          "end": 132.36,
+          "probability": 1
+        },
+        {
+          "text": "day",
+          "start": 132.36,
+          "end": 132.82,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 132.82,
+          "end": 133.12,
+          "probability": 1
+        },
+        {
+          "text": "day",
+          "start": 133.12,
+          "end": 133.58,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 137.37,
+      "end": 140.97,
+      "text": "Out of touch with the rhythm and blues",
+      "words": [
+        {
+          "text": "Out",
+          "start": 137.37,
+          "end": 137.72,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 137.72,
+          "end": 137.95,
+          "probability": 1
+        },
+        {
+          "text": "touch",
+          "start": 137.95,
+          "end": 138.53,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 138.53,
+          "end": 138.99,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 138.99,
+          "end": 139.34,
+          "probability": 1
+        },
+        {
+          "text": "rhythm",
+          "start": 139.34,
+          "end": 140.04,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 140.04,
+          "end": 140.39,
+          "probability": 1
+        },
+        {
+          "text": "blues",
+          "start": 140.39,
+          "end": 140.97,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 144.74,
+      "end": 149.3,
+      "text": "But now I need a little give and take",
+      "words": [
+        {
+          "text": "But",
+          "start": 144.74,
+          "end": 145.21,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 145.21,
+          "end": 145.68,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 145.68,
+          "end": 145.84,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 145.84,
+          "end": 146.47,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 146.47,
+          "end": 146.63,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 146.63,
+          "end": 147.57,
+          "probability": 1
+        },
+        {
+          "text": "give",
+          "start": 147.57,
+          "end": 148.2,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 148.2,
+          "end": 148.67,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 148.67,
+          "end": 149.3,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 152.18,
+      "end": 155.61,
+      "text": "The New York Times, The Daily News",
+      "words": [
+        {
+          "text": "The",
+          "start": 152.18,
+          "end": 152.55,
+          "probability": 1
+        },
+        {
+          "text": "New",
+          "start": 152.55,
+          "end": 152.92,
+          "probability": 1
+        },
+        {
+          "text": "York",
+          "start": 152.92,
+          "end": 153.41,
+          "probability": 1
+        },
+        {
+          "text": "Times,",
+          "start": 153.41,
+          "end": 154.14,
+          "probability": 1
+        },
+        {
+          "text": "The",
+          "start": 154.14,
+          "end": 154.51,
+          "probability": 1
+        },
+        {
+          "text": "Daily",
+          "start": 154.51,
+          "end": 155.12,
+          "probability": 1
+        },
+        {
+          "text": "News",
+          "start": 155.12,
+          "end": 155.61,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 155.61,
+      "end": 164.37,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 155.61,
+          "end": 164.37,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 164.37,
+      "end": 167.03,
+      "text": "It comes down to reality",
+      "words": [
+        {
+          "text": "It",
+          "start": 164.37,
+          "end": 164.64,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 164.64,
+          "end": 165.3,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 165.3,
+          "end": 165.83,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 165.83,
+          "end": 166.1,
+          "probability": 1
+        },
+        {
+          "text": "reality",
+          "start": 166.1,
+          "end": 167.03,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 167.28,
+      "end": 171.98,
+      "text": "And it's fine with me 'cause I've let it slide",
+      "words": [
+        {
+          "text": "And",
+          "start": 167.28,
+          "end": 167.66,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 167.66,
+          "end": 168.17,
+          "probability": 1
+        },
+        {
+          "text": "fine",
+          "start": 168.17,
+          "end": 168.68,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 168.68,
+          "end": 169.19,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 169.19,
+          "end": 169.44,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 169.44,
+          "end": 170.2,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 170.2,
+          "end": 170.71,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 170.71,
+          "end": 171.09,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 171.09,
+          "end": 171.34,
+          "probability": 1
+        },
+        {
+          "text": "slide",
+          "start": 171.34,
+          "end": 171.98,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 172.23,
+      "end": 177.56,
+      "text": "Don't care if it's Chinatown or on Riverside",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 172.23,
+          "end": 172.95,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 172.95,
+          "end": 173.53,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 173.53,
+          "end": 173.82,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 173.82,
+          "end": 174.4,
+          "probability": 1
+        },
+        {
+          "text": "Chinatown",
+          "start": 174.4,
+          "end": 175.69,
+          "probability": 1
+        },
+        {
+          "text": "or",
+          "start": 175.69,
+          "end": 175.98,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 175.98,
+          "end": 176.27,
+          "probability": 1
+        },
+        {
+          "text": "Riverside",
+          "start": 176.27,
+          "end": 177.56,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 179.93,
+      "end": 182.85,
+      "text": "I don't have any reasons",
+      "words": [
+        {
+          "text": "I",
+          "start": 179.93,
+          "end": 180.08,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 180.08,
+          "end": 180.81,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 180.81,
+          "end": 181.39,
+          "probability": 1
+        },
+        {
+          "text": "any",
+          "start": 181.39,
+          "end": 181.83,
+          "probability": 1
+        },
+        {
+          "text": "reasons",
+          "start": 181.83,
+          "end": 182.85,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 183.08,
+      "end": 185.75,
+      "text": "I've left them all behind",
+      "words": [
+        {
+          "text": "I've",
+          "start": 183.08,
+          "end": 183.59,
+          "probability": 1
+        },
+        {
+          "text": "left",
+          "start": 183.59,
+          "end": 184.1,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 184.1,
+          "end": 184.61,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 184.61,
+          "end": 184.99,
+          "probability": 1
+        },
+        {
+          "text": "behind",
+          "start": 184.99,
+          "end": 185.75,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 188.66,
+      "end": 192.26,
+      "text": "I'm in a New York state of mind",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 188.66,
+          "end": 189.11,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 189.11,
+          "end": 189.41,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 189.41,
+          "end": 189.56,
+          "probability": 1
+        },
+        {
+          "text": "New",
+          "start": 189.56,
+          "end": 190.01,
+          "probability": 1
+        },
+        {
+          "text": "York",
+          "start": 190.01,
+          "end": 190.61,
+          "probability": 1
+        },
+        {
+          "text": "state",
+          "start": 190.61,
+          "end": 191.36,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 191.36,
+          "end": 191.66,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 191.66,
+          "end": 192.26,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 192.26,
+      "end": 235.82,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 192.26,
+          "end": 235.82,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 235.82,
+      "end": 239.62,
+      "text": "It was so easy living day by day",
+      "words": [
+        {
+          "text": "It",
+          "start": 235.82,
+          "end": 236.12,
+          "probability": 1
+        },
+        {
+          "text": "was",
+          "start": 236.12,
+          "end": 236.58,
+          "probability": 1
+        },
+        {
+          "text": "so",
+          "start": 236.58,
+          "end": 236.88,
+          "probability": 1
+        },
+        {
+          "text": "easy",
+          "start": 236.88,
+          "end": 237.49,
+          "probability": 1
+        },
+        {
+          "text": "living",
+          "start": 237.49,
+          "end": 238.4,
+          "probability": 1
+        },
+        {
+          "text": "day",
+          "start": 238.4,
+          "end": 238.86,
+          "probability": 1
+        },
+        {
+          "text": "by",
+          "start": 238.86,
+          "end": 239.16,
+          "probability": 1
+        },
+        {
+          "text": "day",
+          "start": 239.16,
+          "end": 239.62,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 242.27,
+      "end": 245.87,
+      "text": "Out of touch with the rhythm and blues",
+      "words": [
+        {
+          "text": "Out",
+          "start": 242.27,
+          "end": 242.62,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 242.62,
+          "end": 242.85,
+          "probability": 1
+        },
+        {
+          "text": "touch",
+          "start": 242.85,
+          "end": 243.43,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 243.43,
+          "end": 243.89,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 243.89,
+          "end": 244.24,
+          "probability": 1
+        },
+        {
+          "text": "rhythm",
+          "start": 244.24,
+          "end": 244.94,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 244.94,
+          "end": 245.29,
+          "probability": 1
+        },
+        {
+          "text": "blues",
+          "start": 245.29,
+          "end": 245.87,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 250.92,
+      "end": 255.48,
+      "text": "But now I need a little give and take",
+      "words": [
+        {
+          "text": "But",
+          "start": 250.92,
+          "end": 251.39,
+          "probability": 1
+        },
+        {
+          "text": "now",
+          "start": 251.39,
+          "end": 251.86,
+          "probability": 1
+        },
+        {
+          "text": "I",
+          "start": 251.86,
+          "end": 252.02,
+          "probability": 1
+        },
+        {
+          "text": "need",
+          "start": 252.02,
+          "end": 252.65,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 252.65,
+          "end": 252.81,
+          "probability": 1
+        },
+        {
+          "text": "little",
+          "start": 252.81,
+          "end": 253.75,
+          "probability": 1
+        },
+        {
+          "text": "give",
+          "start": 253.75,
+          "end": 254.38,
+          "probability": 1
+        },
+        {
+          "text": "and",
+          "start": 254.38,
+          "end": 254.85,
+          "probability": 1
+        },
+        {
+          "text": "take",
+          "start": 254.85,
+          "end": 255.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 257.77,
+      "end": 261.2,
+      "text": "The New York Times, The Daily News",
+      "words": [
+        {
+          "text": "The",
+          "start": 257.77,
+          "end": 258.14,
+          "probability": 1
+        },
+        {
+          "text": "New",
+          "start": 258.14,
+          "end": 258.51,
+          "probability": 1
+        },
+        {
+          "text": "York",
+          "start": 258.51,
+          "end": 259,
+          "probability": 1
+        },
+        {
+          "text": "Times,",
+          "start": 259,
+          "end": 259.73,
+          "probability": 1
+        },
+        {
+          "text": "The",
+          "start": 259.73,
+          "end": 260.1,
+          "probability": 1
+        },
+        {
+          "text": "Daily",
+          "start": 260.1,
+          "end": 260.71,
+          "probability": 1
+        },
+        {
+          "text": "News",
+          "start": 260.71,
+          "end": 261.2,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 261.2,
+      "end": 270.2,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 261.2,
+          "end": 270.2,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 270.2,
+      "end": 273.23,
+      "text": "It comes down to reality",
+      "words": [
+        {
+          "text": "It",
+          "start": 270.2,
+          "end": 270.5,
+          "probability": 1
+        },
+        {
+          "text": "comes",
+          "start": 270.5,
+          "end": 271.26,
+          "probability": 1
+        },
+        {
+          "text": "down",
+          "start": 271.26,
+          "end": 271.87,
+          "probability": 1
+        },
+        {
+          "text": "to",
+          "start": 271.87,
+          "end": 272.17,
+          "probability": 1
+        },
+        {
+          "text": "reality",
+          "start": 272.17,
+          "end": 273.23,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 273.67,
+      "end": 278.48,
+      "text": "And it's fine with me 'cause I've let it slide",
+      "words": [
+        {
+          "text": "And",
+          "start": 273.67,
+          "end": 274.06,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 274.06,
+          "end": 274.58,
+          "probability": 1
+        },
+        {
+          "text": "fine",
+          "start": 274.58,
+          "end": 275.1,
+          "probability": 1
+        },
+        {
+          "text": "with",
+          "start": 275.1,
+          "end": 275.62,
+          "probability": 1
+        },
+        {
+          "text": "me",
+          "start": 275.62,
+          "end": 275.88,
+          "probability": 1
+        },
+        {
+          "text": "'cause",
+          "start": 275.88,
+          "end": 276.66,
+          "probability": 1
+        },
+        {
+          "text": "I've",
+          "start": 276.66,
+          "end": 277.18,
+          "probability": 1
+        },
+        {
+          "text": "let",
+          "start": 277.18,
+          "end": 277.57,
+          "probability": 1
+        },
+        {
+          "text": "it",
+          "start": 277.57,
+          "end": 277.83,
+          "probability": 1
+        },
+        {
+          "text": "slide",
+          "start": 277.83,
+          "end": 278.48,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 278.73,
+      "end": 284.06,
+      "text": "Don't care if it's Chinatown or on Riverside",
+      "words": [
+        {
+          "text": "Don't",
+          "start": 278.73,
+          "end": 279.45,
+          "probability": 1
+        },
+        {
+          "text": "care",
+          "start": 279.45,
+          "end": 280.03,
+          "probability": 1
+        },
+        {
+          "text": "if",
+          "start": 280.03,
+          "end": 280.32,
+          "probability": 1
+        },
+        {
+          "text": "it's",
+          "start": 280.32,
+          "end": 280.9,
+          "probability": 1
+        },
+        {
+          "text": "Chinatown",
+          "start": 280.9,
+          "end": 282.19,
+          "probability": 1
+        },
+        {
+          "text": "or",
+          "start": 282.19,
+          "end": 282.48,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 282.48,
+          "end": 282.77,
+          "probability": 1
+        },
+        {
+          "text": "Riverside",
+          "start": 282.77,
+          "end": 284.06,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 286.66,
+      "end": 289.01,
+      "text": "I don't have any reasons",
+      "words": [
+        {
+          "text": "I",
+          "start": 286.66,
+          "end": 286.78,
+          "probability": 1
+        },
+        {
+          "text": "don't",
+          "start": 286.78,
+          "end": 287.37,
+          "probability": 1
+        },
+        {
+          "text": "have",
+          "start": 287.37,
+          "end": 287.84,
+          "probability": 1
+        },
+        {
+          "text": "any",
+          "start": 287.84,
+          "end": 288.19,
+          "probability": 1
+        },
+        {
+          "text": "reasons",
+          "start": 288.19,
+          "end": 289.01,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 289.26,
+      "end": 291.93,
+      "text": "I've left them all behind",
+      "words": [
+        {
+          "text": "I've",
+          "start": 289.26,
+          "end": 289.77,
+          "probability": 1
+        },
+        {
+          "text": "left",
+          "start": 289.77,
+          "end": 290.28,
+          "probability": 1
+        },
+        {
+          "text": "them",
+          "start": 290.28,
+          "end": 290.79,
+          "probability": 1
+        },
+        {
+          "text": "all",
+          "start": 290.79,
+          "end": 291.17,
+          "probability": 1
+        },
+        {
+          "text": "behind",
+          "start": 291.17,
+          "end": 291.93,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 295.32,
+      "end": 298.92,
+      "text": "I'm in a New York state of mind",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 295.32,
+          "end": 295.77,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 295.77,
+          "end": 296.07,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 296.07,
+          "end": 296.22,
+          "probability": 1
+        },
+        {
+          "text": "New",
+          "start": 296.22,
+          "end": 296.67,
+          "probability": 1
+        },
+        {
+          "text": "York",
+          "start": 296.67,
+          "end": 297.27,
+          "probability": 1
+        },
+        {
+          "text": "state",
+          "start": 297.27,
+          "end": 298.02,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 298.02,
+          "end": 298.32,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 298.32,
+          "end": 298.92,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 298.92,
+      "end": 306,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 298.92,
+          "end": 306,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 306,
+      "end": 311.71,
+      "text": "I'm just taking a Greyhound on the Hudson River Line",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 306,
+          "end": 306.4,
+          "probability": 1
+        },
+        {
+          "text": "just",
+          "start": 306.4,
+          "end": 306.93,
+          "probability": 1
+        },
+        {
+          "text": "taking",
+          "start": 306.93,
+          "end": 307.73,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 307.73,
+          "end": 307.86,
+          "probability": 1
+        },
+        {
+          "text": "Greyhound",
+          "start": 307.86,
+          "end": 309.05,
+          "probability": 1
+        },
+        {
+          "text": "on",
+          "start": 309.05,
+          "end": 309.32,
+          "probability": 1
+        },
+        {
+          "text": "the",
+          "start": 309.32,
+          "end": 309.72,
+          "probability": 1
+        },
+        {
+          "text": "Hudson",
+          "start": 309.72,
+          "end": 310.52,
+          "probability": 1
+        },
+        {
+          "text": "River",
+          "start": 310.52,
+          "end": 311.18,
+          "probability": 1
+        },
+        {
+          "text": "Line",
+          "start": 311.18,
+          "end": 311.71,
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "start": 311.71,
+      "end": 323.14,
+      "text": "[INSTRUMENTAL]",
+      "words": [
+        {
+          "text": "[INSTRUMENTAL]",
+          "start": 311.71,
+          "end": 323.14,
+          "probability": 1,
+          "isMarker": true
+        }
+      ]
+    },
+    {
+      "start": 323.14,
+      "end": 326.9,
+      "text": "'Cause I'm in a New York state of mind",
+      "words": [
+        {
+          "text": "'Cause",
+          "start": 323.14,
+          "end": 323.89,
+          "probability": 1
+        },
+        {
+          "text": "I'm",
+          "start": 323.89,
+          "end": 324.27,
+          "probability": 1
+        },
+        {
+          "text": "in",
+          "start": 324.27,
+          "end": 324.52,
+          "probability": 1
+        },
+        {
+          "text": "a",
+          "start": 324.52,
+          "end": 324.65,
+          "probability": 1
+        },
+        {
+          "text": "New",
+          "start": 324.65,
+          "end": 325.02,
+          "probability": 1
+        },
+        {
+          "text": "York",
+          "start": 325.02,
+          "end": 325.52,
+          "probability": 1
+        },
+        {
+          "text": "state",
+          "start": 325.52,
+          "end": 326.15,
+          "probability": 1
+        },
+        {
+          "text": "of",
+          "start": 326.15,
+          "end": 326.4,
+          "probability": 1
+        },
+        {
+          "text": "mind",
+          "start": 326.4,
+          "end": 326.9,
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "text": "Some folks like to get away Take a holiday from the neighborhood Hop a flight to Miami Beach Or to Hollywood But I'm taking a Greyhound On the Hudson River Line I'm in a New York state of mind I've seen all the movie stars In their fancy cars and their limousines Been high in the Rockies under the evergreens But I know what I'm needing And I don't want to waste more time I'm in a New York state of mind It was so easy living day by day Out of touch with the rhythm and blues But now I need a little give and take The New York Times, The Daily News It comes down to reality And it's fine with me 'cause I've let it slide Don't care if it's Chinatown or on Riverside I don't have any reasons I've left them all behind I'm in a New York state of mind It was so easy living day by day Out of touch with the rhythm and blues But now I need a little give and take The New York Times, The Daily News It comes down to reality And it's fine with me 'cause I've let it slide Don't care if it's Chinatown or on Riverside I don't have any reasons I've left them all behind I'm in a New York state of mind I'm just taking a Greyhound on the Hudson River Line 'Cause I'm in a New York state of mind"
+}
